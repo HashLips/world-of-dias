@@ -8,10 +8,14 @@ culture:
 related:
   - Nauw
   - Sky Drifters
+  - Valorian Operators
 themes:
   - capital
-  - medieval settlement
-  - sky mystery
+  - concentric city
+  - layered technology
+  - medieval outer ring
+  - hypertech core
+  - operators
 status: canonical
 ---
 
@@ -19,17 +23,29 @@ status: canonical
 
 ## Overview
 
-Veloria City is the capital city of the Nauw region within the F432 frequency realm.
+Veloria City is the capital of the Nauw region within the F432 frequency realm. It is laid out as a **massive circle** of **four concentric rings** around a **central core**. Technology and daily life change sharply from ring to ring: the outermost band is largely medieval in character, while each band inward grows more modern, then contemporary-industrial, then hyper-advanced at the center—where the city’s power is generated and sustained.
 
 ## Description
 
-The city resembles a large medieval settlement, with stone streets, marketplaces, guild houses, and residential districts spreading across its landscape. Veloria has grown into an important center of trade and exchange where merchants, travelers, and explorers from across the region gather.
+**Outer ring (first band)**  
+The outermost ring is where technology has advanced the least. Here you find **medieval-style** districts—stone streets, marketplaces, guild houses, older defensive or civic forms—but this is only **one section** of Veloria, not the whole city.
 
-Above the city, however, exists a phenomenon that sets Veloria apart from any other settlement in Nauw. Floating high in the skies above the city are the mysterious beings known as **Sky Drifters**. These entities appear vaguely humanoid in shape and drift endlessly through the air in groups or clusters. They move, gather, and separate as if interacting with one another, though their true nature and purpose remain unknown. They never descend to the ground, and no clear record exists of their origin. For as long as the inhabitants of Veloria can remember, the Sky Drifters have always been present above the city.
+**Second ring**  
+Moving inward, life becomes **more modern** in the sense of familiar contemporary housing, streets, and routines—closer to “normal” living as many know it—**without** heavy reliance on advanced technology. It reads as modern, but not tech-saturated.
 
-Some residents view them as silent watchers, while others believe they represent an unexplained overlap between frequencies within Dias. Regardless of their origin, the drifting figures have become a defining feature of Veloria’s sky and an enduring mystery within the region of Nauw.
+**Third ring**  
+The next band matches **present-day technological civilization**: robotics, AI, and the full spectrum of tools and infrastructure comparable to “everything we have today.”
+
+**Central core (fourth / innermost zone)**  
+At the heart of the circle lies a **small but extraordinarily powerful** zone of **hyper-advanced** technology—described by many as almost **alien** in sophistication. The devices and systems here draw on knowledge and materials from **other realms** within Dias, not only from F432. This core exists in large part to **generate and regulate power** for Veloria City and, more broadly, for the **current realm’s** energy and stability. The **Valorian Operators** live here; their sole vocation is to **keep the centerpiece running** through whatever daily work that demands.
+
+Veloria remains an important center of trade and exchange, with merchants, travelers, and explorers from across the region still gathering here—now understood against this **layered**, ring-by-ring geography rather than as a uniformly medieval place.
+
+Above the city, the phenomenon of the **Sky Drifters** still sets Veloria apart from other settlements in Nauw. Floating high in the sky are mysterious, vaguely humanoid shapes that drift in groups or clusters, never landing. Some residents see them as silent watchers; others suspect an overlap between frequencies in Dias. They remain a defining feature of Veloria’s sky.
 
 ## Lore
+
+The contrast between the medieval-feeling rim and the realm-powering core is central to how Veloria is experienced and governed.
 
 ## Stories or Depictions
 
