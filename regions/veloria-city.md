@@ -9,6 +9,7 @@ related:
   - Nauw
   - Sky Drifters
   - Valorian Operators
+  - Emergence
 themes:
   - capital
   - concentric city

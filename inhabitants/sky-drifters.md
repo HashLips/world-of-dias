@@ -5,6 +5,7 @@ region: Veloria City
 culture:
 related:
   - Veloria City
+  - Emergence
 themes:
   - watchers
   - frequency overlap (speculation)
@@ -22,6 +23,8 @@ Sky Drifters are humanoid-shaped entities that drift endlessly in the skies abov
 ## Description
 
 They appear vaguely humanoid in shape and move in groups or clusters, gathering and separating as if interacting with one another. Their true nature and purpose remain unknown, and no clear record exists of their origin. For as long as the inhabitants of Veloria can remember, the Sky Drifters have always been present above the city.
+
+In this repository, Daniel Eugene Botha’s painting *Emergence* is treated as the **primary visual reference** for how the Sky Drifters are portrayed: figures suspended in darkness, drifting without ground, alone and intertwined at once.
 
 ## Beliefs About Them
 
