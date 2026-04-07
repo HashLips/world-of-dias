@@ -8,6 +8,8 @@ culture:
 related:
   - Dias
   - Nauw
+  - Wabet
+  - Sorel
 themes:
   - stability
   - trade
@@ -29,7 +31,9 @@ While F432 is well explored compared to many other frequencies, little is known 
 
 ## Lore
 
-Documented regions within F432 include Nauw.
+Documented regions within F432 include Nauw, Wabet, and Sorel.
+
+Current geographic framing places Wabet along the full western side of the F432 map, Nauw in the north-east, and Sorel in the south-east (south of Nauw and east of Wabet).
 
 ## Stories or Depictions
 
