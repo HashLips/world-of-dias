@@ -10,6 +10,7 @@ related:
   - Sky Drifters
   - Valorian Operators
   - Emergence
+  - The Sketchy Gallery
 themes:
   - capital
   - concentric city
