@@ -9,6 +9,8 @@ related:
   - F432 (frequency realm)
   - Nauw
   - Sorel
+  - Nauw Fruit Reverence
+  - Hunger
 themes:
   - natural purity
   - serenity
@@ -35,7 +37,7 @@ Because of its untouched landscapes and peaceful atmosphere, travelers sometimes
 
 ## Lore
 
-Wabet defines the western edge of F432 and stands in contrast to the heavily populated routes of Nauw and the harsh frontier character of Sorel.
+Wabet defines the western edge of F432 and stands in contrast to the heavily populated routes of Nauw and the harsh frontier character of Sorel. It is also a major fruit source for Nauw, whose markets and food culture depend on produce routes moving eastward from Wabet.
 
 ## Stories or Depictions
 

@@ -11,6 +11,10 @@ related:
   - Valorian Operators
   - Emergence
   - The Sketchy Gallery
+  - DEB Gate of Veloria
+  - Singing Fishermen
+  - Harold
+  - Running
 themes:
   - capital
   - concentric city
