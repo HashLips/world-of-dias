@@ -9,6 +9,10 @@ related:
   - F432 (frequency realm)
   - Nauw
   - Sorel
+  - Aelwyn Canopy
+  - Lumira Sands
+  - Verdant Reach
+  - Isle of Calareth
   - Nauw Fruit Reverence
   - Hunger
 themes:
@@ -38,6 +42,8 @@ Because of its untouched landscapes and peaceful atmosphere, travelers sometimes
 ## Lore
 
 Wabet defines the western edge of F432 and stands in contrast to the heavily populated routes of Nauw and the harsh frontier character of Sorel. It is also a major fruit source for Nauw, whose markets and food culture depend on produce routes moving eastward from Wabet.
+
+Recognized subregions include Aelwyn Canopy across the north (with limited extension southward), Verdant Reach at the center, and Lumira Sands across the south. The major offshore island Isle of Calareth lies off Wabet's eastern side.
 
 ## Stories or Depictions
 

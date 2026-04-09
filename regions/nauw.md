@@ -9,7 +9,13 @@ related:
   - F432 (frequency realm)
   - Wabet
   - Sorel
+  - Hearthvale
   - Veloria City
+  - Velorian Basin
+  - Brindle March
+  - Glasswater Fields
+  - Averra Isle
+  - Old Masters of Averra Isle
   - Nauw Outer Rim Seas
   - Hunger
   - Nauw Fruit Reverence
@@ -40,7 +46,11 @@ A defining regional trait is intense fruit devotion. While many dishes are made 
 
 ## Lore
 
-The capital settlement Veloria City lies in Nauw. The top-western to northern outer waters are recognized as the Nauw Outer Rim Seas, where Singing Fishermen communities and human-eyed whale populations are concentrated. Despite this agricultural appetite, Nauw relies heavily on fruit imported from Wabet rather than large-scale local fruit production.
+Veloria City, the capital, sits in the north-west of Nauw; the Velorian Basin surrounds it and forms the busiest trade core. Brindle March runs through the middle of Nauw as the great road-and-bridge corridor, lying between the basin and Glasswater Fields. Glasswater Fields occupies eastern Nauw almost in full—open farmland and glass-bright rivers that feed Veloria and inland markets. A small isle, Averra Isle, lies off the south-west coast; what happens there now is largely unknown to mainland Nauw, though old stories still link it to Veloria's art trade. A common myth holds that most everyday magic practiced across the Velorian Basin, Brindle March, and Glasswater Fields traces to teaching by Old Masters on that isle (see Old Masters of Averra Isle).
+
+The top-western to northern outer waters are recognized as the Nauw Outer Rim Seas, where Singing Fishermen communities and human-eyed whale populations are concentrated. Despite this agricultural appetite, Nauw relies heavily on fruit imported from Wabet rather than large-scale local fruit production.
+
+On southern Nauw, a major bridge crosses the border into northern Sorel (Hearthvale), linking Nauw to the exile frontier at Sorel's northern reach. Many who later live in Sorel are counted as having left Nauw by that road or by wilder southern paths.
 
 ## Stories or Depictions
 

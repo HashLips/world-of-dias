@@ -2,7 +2,7 @@
 category: region
 name: Veloria City
 place_type: city
-parent_region: Nauw
+parent_region: Velorian Basin
 region: Nauw
 culture:
 related:
@@ -29,7 +29,7 @@ status: canonical
 
 ## Overview
 
-Veloria City is the capital of the Nauw region within the F432 frequency realm. It is laid out as a **massive circle** of **four concentric rings** around a **central core**. Technology and daily life change sharply from ring to ring: the outermost band is largely medieval in character, while each band inward grows more modern, then contemporary-industrial, then hyper-advanced at the center—where the city’s power is generated and sustained.
+Veloria City is the capital of the Nauw region within the F432 frequency realm. It lies in the north-west of Nauw, surrounded by the Velorian Basin. It is laid out as a **massive circle** of **four concentric rings** around a **central core**. Technology and daily life change sharply from ring to ring: the outermost band is largely medieval in character, while each band inward grows more modern, then contemporary-industrial, then hyper-advanced at the center—where the city’s power is generated and sustained.
 
 ## Description
 
