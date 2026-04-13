@@ -14,12 +14,14 @@ related:
   - Verdant Reach
   - Isle of Calareth
   - Nauw Fruit Reverence
+  - Two Ways
   - Hunger
 themes:
   - natural purity
   - serenity
   - wilderness
   - minimal human influence
+  - anomalous fruit forms
 status: canonical
 ---
 
@@ -42,6 +44,8 @@ Because of its untouched landscapes and peaceful atmosphere, travelers sometimes
 ## Lore
 
 Wabet defines the western edge of F432 and stands in contrast to the heavily populated routes of Nauw and the harsh frontier character of Sorel. It is also a major fruit source for Nauw, whose markets and food culture depend on produce routes moving eastward from Wabet.
+
+A recurring produce-side phenomenon is the appearance of near-perfect fruit forms among otherwise organic growth patterns. Traders and households often classify these as Lucky Fruits; while unproven in strict scientific terms, repeated anecdotal outcomes keep the belief active across F432.
 
 Recognized subregions include Aelwyn Canopy across the north (with limited extension southward), Verdant Reach at the center, and Lumira Sands across the south. The major offshore island Isle of Calareth lies off Wabet's eastern side.
 
