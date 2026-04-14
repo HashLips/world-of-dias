@@ -9,11 +9,14 @@ related:
   - Nauw
   - The Sketchy Gallery
   - Old Masters of Averra Isle
+  - The Seven of Averra Isle
+  - Seven in My Dreams Is
 themes:
   - small isle
   - maritime mystery
   - obscured present
   - rumored magic teachers
+  - hidden council rumor
 status: canonical
 ---
 
@@ -32,6 +35,8 @@ Travelers' tales mention smoke, lights, or silence where they expected harbors; 
 ## Lore
 
 Veloria hears rumors—smuggling coves, closed communes, old art colonies—but none are confirmed. A widespread myth claims the isle once held Old Masters who taught the root arts later seen across Glasswater Fields, Brindle March, and the Velorian Basin (see Old Masters of Averra Isle); no proof links today's silence on Averra to those tales. Some of the earliest works reputedly shown in The Sketchy Gallery are still attributed to artists said to have lived on Averra Isle when passage there was safer or better documented; whether anyone still works in that lineage on the island remains unclear.
+
+Another active myth names seven cloaked figures as an unseen council on Averra, allegedly tied to unexplained turns of fate in Nauw and, in stronger rumor variants, to Lucky Fruit appearances in Wabet (see The Seven of Averra Isle). No public record verifies these claims.
 
 ## Stories or Depictions
 

@@ -11,11 +11,14 @@ related:
   - Brindle March
   - Glasswater Fields
   - Old Masters of Averra Isle
+  - Andrew and Russell
+  - Boy and His Dog
 themes:
   - trade concentration
   - river routes
   - market exchange
   - folklore of magic
+  - outskirts everyday life
 status: canonical
 ---
 

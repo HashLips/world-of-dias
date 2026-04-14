@@ -8,10 +8,14 @@ culture:
 related:
   - Wabet
   - Nauw
+  - Verdant Farmers
+  - Farm
+  - Lucky Farmers
 themes:
   - fertile landscapes
   - orchard cultivation
   - food supply
+  - stewardship boundaries
 status: canonical
 ---
 
@@ -32,6 +36,8 @@ Geographically, Verdant Reach occupies the middle of Wabet between Aelwyn Canopy
 ## Lore
 
 The guiding law of Verdant Reach is: "Growth must remain in harmony with the land."
+
+Most large-cycle cultivation and supply stewardship is carried by Verdant Farmers. Local accounts also describe boundary tension with roaming Lucky Farmers from Aelwyn Canopy, who are often treated as outside opportunists and restricted from core managed plots.
 
 ## Stories or Depictions
 

@@ -7,10 +7,13 @@ region: F432 (frequency realm)
 culture:
 related:
   - Wabet
+  - Lucky Farmers
+  - Farmer One
 themes:
   - jungle forests
   - elevated living
   - ecological restraint
+  - roaming harvest culture
 status: canonical
 ---
 
@@ -31,6 +34,8 @@ Its footprint stretches across the northern edge of Wabet, with smaller reaches 
 ## Lore
 
 The guiding law of Aelwyn Canopy is: "Take only what is needed, and return what can be returned."
+
+Alongside resident tribal lifeways, the region is known for roaming Lucky Farmer camps that survey canopy routes for rare perfect-form Lucky Fruits and intermittently feed rumor-driven trade.
 
 ## Stories or Depictions
 

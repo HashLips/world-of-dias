@@ -9,7 +9,11 @@ related:
   - Nauw
   - Sky Drifters
   - Valorian Operators
+  - The Artist
+  - Artist One
   - Emergence
+  - Veloria Street Flower Pot
+  - Twelve Flowers
   - The Sketchy Gallery
   - DEB Gate of Veloria
   - Singing Fishermen
