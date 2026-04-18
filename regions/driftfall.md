@@ -15,6 +15,9 @@ themes:
   - wild frontier
   - rogues and outlaws
   - rebellion
+  - relaxed fatalism
+  - hanging-about culture
+  - baltic coastal influence
 status: canonical
 ---
 
@@ -33,6 +36,8 @@ Settlements in Driftfall are often provisional and frequently reconfigured as gr
 The territory attracts people who prioritize autonomy over institutional structure.
 
 Daily life leans wilder than in western Sorel. Mainlanders compare it to a Wild West in miniature: half outlaw country, half improvised nation, where sharp dealers, true believers, artists, and drifters cross paths in the same yards, stalls, and staging grounds. People here skew more rebellious and rogue in manner, quicker to risk reputation and safety on a whim—which is why some of the most interesting figures in F432 are said to turn up in Driftfall before anywhere else.
+
+Along the eastern shores, a Baltic-leaning coastal culture tempers that edge with a distinct laid-back rhythm. People gather, lounge, play, and "hang about" with no urgency to force a day into productivity, even while an underlying sense of danger never fully leaves the atmosphere.
 
 ## Lore
 
