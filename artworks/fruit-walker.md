@@ -32,7 +32,7 @@ based_on: Fruit Walker (inhabitant lore)
 
 The image presents an elderly traveler whose basketed cargo and unhurried posture frame him as both vendor and omen-bearing wanderer. The visual language emphasizes ambiguity: he reads as fully human, yet strangely untethered to normal route timing.
 
-Asset reference: `ref/apple-slice.jpg`.
+Asset reference: `assets/apple-slice.jpg`.
 
 ## Real-World Role
 
