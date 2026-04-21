@@ -13,6 +13,10 @@ related:
   - Wabet
   - Sorel
   - Hearthvale
+  - Green Garden Border Lanes
+  - Green Flower Keeper
+  - Green Garden Shift
+  - Green Garden
 themes:
   - overland travel
   - road networks
