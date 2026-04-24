@@ -37,6 +37,12 @@ The guiding law of Aelwyn Canopy is: "Take only what is needed, and return what 
 
 Alongside resident tribal lifeways, the region is known for roaming Lucky Farmer camps that survey canopy routes for rare perfect-form Lucky Fruits and intermittently feed rumor-driven trade.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Tribal | 3 | Canopy Kin | Oryn Pell, Canopy Elder of Aelwyn Canopy |
+
 ## Stories or Depictions
 
 ## Notes

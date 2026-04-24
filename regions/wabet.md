@@ -49,6 +49,12 @@ A recurring produce-side phenomenon is the appearance of near-perfect fruit form
 
 Recognized subregions include Aelwyn Canopy across the north (with limited extension southward), Verdant Reach at the center, and Lumira Sands across the south. The major offshore island Isle of Calareth lies off Wabet's eastern side.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Tribal + Stewardship | 2 | Wabet Keepers | Elyra Mossen, First Keeper of Wabet |
+
 ## Stories or Depictions
 
 ## Notes

@@ -36,6 +36,12 @@ Documented regions within F432 include Nauw, Wabet, and Sorel.
 
 Current geographic framing places Wabet along the full western side of the F432 map, Nauw in the north-east, and Sorel in the south-east (south of Nauw and east of Wabet).
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Structured | 1 | Resonant Houses | Vailor Quentin, High Resonant of F432 |
+
 ## Stories or Depictions
 
 The **Early F432 Survey Map** is treated as a canonical early-era depiction of the realm's broad layout (Wabet west, Nauw north-east, Sorel south-east), while remaining intentionally incomplete for future charting updates.

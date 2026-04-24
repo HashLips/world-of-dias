@@ -38,6 +38,12 @@ A recognizable feature is the Sketchy Ape Book Club collection, shown as illumin
 
 The Sketchy Gallery is often described as a cultural bridge between Veloria's physical art traditions and newer digital forms emerging in parts of F432.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Cultural | 4 | Gallery Custodians | Zephan Quell, Curator-Lord of The Sketchy Gallery |
+
 ## Stories or Depictions
 
 Public collection reference: [SABC collection on Etherscan](https://etherscan.io/address/0xadc28cac9c1d53cc7457b11cc9423903dc09dddc).

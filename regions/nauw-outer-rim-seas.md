@@ -34,6 +34,12 @@ The region is known for the presence of massive whales with human-like eyes and 
 
 The Nauw Outer Rim Seas are treated as a vital food source and a social boundary zone where necessity, reverence, and risk coexist.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Cultural + Maritime | 2 | Singing Nets Compact | Marek Solon, Tide Warden of Nauw Outer Rim Seas |
+
 ## Stories or Depictions
 
 ## Notes

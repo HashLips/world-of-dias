@@ -38,6 +38,12 @@ Veloria hears rumors—smuggling coves, closed communes, old art colonies—but 
 
 Another active myth names seven cloaked figures as an unseen council on Averra, allegedly tied to unexplained turns of fate in Nauw and, in stronger rumor variants, to Lucky Fruit appearances in Wabet (see The Seven of Averra Isle). No public record verifies these claims.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Cultural + Esoteric | 3 | Quiet Cloister | Sael Corvin, Veil Keeper of Averra Isle |
+
 ## Stories or Depictions
 
 ## Notes

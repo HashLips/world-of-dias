@@ -59,6 +59,12 @@ Above the city, the phenomenon of the **Sky Drifters** still sets Veloria apart 
 
 The contrast between the medieval-feeling rim and the realm-powering core is central to how Veloria is experienced and governed.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Structured | 1 | Ring Council | Oriven Tal, Ring Regent of Veloria City |
+
 ## Stories or Depictions
 
 ## Notes

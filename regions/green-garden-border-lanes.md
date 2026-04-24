@@ -38,6 +38,12 @@ The display is maintained year-round rather than wild-grown. This distinction is
 
 Visitors often describe walking between the rows as a mental reset before entering a new annual cycle, and families returning to Glasswater Fields commonly treat the stop as part of the journey ritual.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Cultural + Civic | 4 | Garden Lanes Circle | Neris Hale, Bloom Warden of Green Garden Border Lanes |
+
 ## Stories or Depictions
 
 Commonly associated with the artwork *Green Garden*.

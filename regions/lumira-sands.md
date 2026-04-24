@@ -32,6 +32,12 @@ Its domain covers the lower portion of Wabet, anchoring the south beneath Verdan
 
 The guiding law of Lumira Sands is: "The land provides for those who respect its silence."
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Tribal + Stewardship | 3 | Silent Dune Keep | Iskar Lüm, Dune Keeper of Lumira Sands |
+
 ## Stories or Depictions
 
 ## Notes

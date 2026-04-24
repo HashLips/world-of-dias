@@ -43,6 +43,12 @@ Along the eastern shores, a Baltic-leaning coastal culture tempers that edge wit
 
 The guiding law of Driftfall is: "Freedom belongs to those who claim it."
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Frontier | 3 | Drift Crews | Vexra Coil, Free-Captain of Driftfall |
+
 ## Stories or Depictions
 
 ## Notes

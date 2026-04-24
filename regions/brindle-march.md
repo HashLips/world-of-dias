@@ -45,6 +45,12 @@ The guiding law of Brindle March is: "Every traveler has a road."
 
 Travelers repeat a rumor that the resilient charms on certain old spans and toll-wards along the march trace back to students of the Old Masters on Averra Isle. The tale is widely told and weakly documented; see Old Masters of Averra Isle.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Structured + Transit | 2 | Marchbound Wardens | Bren Holloway, Road Marshal of Brindle March |
+
 ## Stories or Depictions
 
 ## Notes

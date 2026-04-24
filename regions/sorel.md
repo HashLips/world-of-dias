@@ -39,6 +39,12 @@ Sorel forms the southern counterpart to Nauw and the south-eastern counterpart t
 
 Within Sorel, two major territories divide the land: Hearthvale lies on the west, and Driftfall on the east, with a rough north–south partition through the middle of the region so the two territories face each other across Sorel's interior. A long bridge spans from southern Nauw into northern Sorel (Hearthvale), tying that northern gate to Nauw without requiring travelers to cross Driftfall first.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Frontier | 2 | Freebands of Sorel | Carrow Vale, First Exile of Sorel |
+
 ## Stories or Depictions
 
 ## Notes

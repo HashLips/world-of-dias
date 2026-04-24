@@ -49,6 +49,12 @@ Folk tradition—not treated as fact by scholars—holds that much of the useful
 
 A respected inhabitant role in the region is the Glasswater Field Drifters: night watchers who float on tubes across southern dams and maintain continuous sky observation through evening and deep night hours. Communities treat this as a protective public duty rooted in long memory.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Stewardship | 2 | Field Circles | Leora Finn, Harvest Warden of Glasswater Fields |
+
 ## Stories or Depictions
 
 ## Notes

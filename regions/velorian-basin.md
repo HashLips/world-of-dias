@@ -40,6 +40,12 @@ The guiding law of Velorian Basin is: "Exchange creates connection."
 
 Market lore and street parables sometimes claim that the first contract-magic and luck-cantrips used in basin trade were carried from Averra Isle by those who studied under the Old Masters. The story remains myth, not institutional history; see Old Masters of Averra Isle.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Structured | 2 | Basin Exchange Ward | Tamsin Vor, Market Steward of Velorian Basin |
+
 ## Stories or Depictions
 
 ## Notes

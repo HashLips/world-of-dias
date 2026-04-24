@@ -30,6 +30,12 @@ Some travelers report that Calareth carries a slightly different resonance signa
 
 Calareth functions as Wabet's major eastern offshore island and a recurring destination for those seeking isolation and reflective travel.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Stewardship | 3 | Calareth Watch | Coris Vale, Isle Warden of Calareth |
+
 ## Stories or Depictions
 
 ## Notes

@@ -39,6 +39,12 @@ The guiding law of Verdant Reach is: "Growth must remain in harmony with the lan
 
 Most large-cycle cultivation and supply stewardship is carried by Verdant Farmers. Local accounts also describe boundary tension with roaming Lucky Farmers from Aelwyn Canopy, who are often treated as outside opportunists and restricted from core managed plots.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Stewardship | 3 | Verdant Stewards | Maes Thorn, Orchard Warden of Verdant Reach |
+
 ## Stories or Depictions
 
 ## Notes

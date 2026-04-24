@@ -33,6 +33,12 @@ A major bridge runs from southern Nauw to Sorel's northern frontier within Heart
 
 The guiding law of Hearthvale is: "Every person deserves a second beginning."
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Stewardship | 3 | Hearth Compact | Alwen Rusk, Second-Beginning Keeper of Hearthvale |
+
 ## Stories or Depictions
 
 ## Notes

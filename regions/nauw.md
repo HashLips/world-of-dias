@@ -52,6 +52,12 @@ The top-western to northern outer waters are recognized as the Nauw Outer Rim Se
 
 On southern Nauw, a major bridge crosses the border into northern Sorel (Hearthvale), linking Nauw to the exile frontier at Sorel's northern reach. Many who later live in Sorel are counted as having left Nauw by that road or by wilder southern paths.
 
+### Leadership Structure
+
+| Governance Style | Influence Tier | Governing Group | Leadership Seat |
+|---|---:|---|---|
+| Structured | 2 | Nauw Concord | Serik Dovant, High Steward of Nauw |
+
 ## Stories or Depictions
 
 ## Notes
