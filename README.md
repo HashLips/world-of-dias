@@ -13,15 +13,15 @@ Names, places, events, cultures, and narratives in this repo are invented for st
 
 Most of the content in this repository is generated and based on the original works of the artist.
 
-## A Glimpse Into Diaz
+## A Glimpse Into Dias
 
-In the world of **Diaz**, reality is not a single surface but a layered resonance of frequencies, each holding its own lands, people, and memory scars.  
+In the world of **Dias**, reality is not a single surface but a layered resonance of frequencies, each holding its own lands, people, and memory scars.  
 Within the frequency realm **F432**, order and unrest coexist: ring-cities hum with engineered power, frontier territories forge law out of survival, and coastlines whisper myths older than maps.
 
 Some rulers are seen from towers and gates. Others are only known by rumor, symbol, or the stories told after dusk.  
 Across Nauw, Wabet, and Sorel, every road, orchard, bridge, and tide seems to remember a past fracture that never fully healed.
 
-If you follow the entries long enough, Diaz begins to read like a living archive: part myth, part witness, part warning.
+If you follow the entries long enough, Dias begins to read like a living archive: part myth, part witness, part warning.
 
 ## Sharing
 
