@@ -1,0 +1,764 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Story Graph</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b1020;
+      --panel: #111833;
+      --ink: #e7ecff;
+      --muted: #9da7cc;
+      --line: #3b4b85;
+      --accent: #86a8ff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      color: var(--ink);
+      background: radial-gradient(circle at 20% 10%, #1a2451 0%, var(--bg) 45%);
+      height: 100vh;
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      gap: 12px;
+      padding: 12px;
+      overflow: hidden;
+    }
+    aside, main {
+      background: color-mix(in srgb, var(--panel) 92%, black);
+      border: 1px solid color-mix(in srgb, var(--line) 55%, black);
+      border-radius: 12px;
+      min-height: 0;
+    }
+    aside {
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    h1 { margin: 0; font-size: 1.05rem; }
+    .muted { color: var(--muted); font-size: 0.88rem; margin-top: 4px; }
+    label { display: grid; gap: 6px; font-size: 0.85rem; color: var(--muted); }
+    label.tight { gap: 1px; }
+    input, select {
+      width: 100%;
+      border: 1px solid #3b4b85;
+      border-radius: 8px;
+      background: #0f1430;
+      color: var(--ink);
+      padding: 8px 10px;
+      outline: none;
+    }
+    input[type="range"] {
+      margin: 0;
+      padding: 0;
+      height: 22px;
+    }
+    .category-tools {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+    .category-actions {
+      display: flex;
+      gap: 6px;
+    }
+    .tiny-btn {
+      border: 1px solid #3b4b85;
+      border-radius: 7px;
+      background: #121a3f;
+      color: var(--ink);
+      padding: 4px 8px;
+      font-size: 0.75rem;
+      cursor: pointer;
+    }
+    .tiny-btn:hover {
+      background: #1a2755;
+    }
+    #category-list {
+      max-height: 160px;
+      overflow: auto;
+      border: 1px solid #384574;
+      border-radius: 8px;
+      background: #101735;
+      padding: 6px;
+      display: grid;
+      gap: 4px;
+    }
+    .cat-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: #d8e0ff;
+      font-size: 0.82rem;
+      justify-content: space-between;
+    }
+    .cat-item-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .cat-item input[type="checkbox"] {
+      width: auto;
+      padding: 0;
+      margin: 0;
+      accent-color: #86a8ff;
+    }
+    .cat-color-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(255, 255, 255, 0.45);
+      flex: 0 0 auto;
+    }
+    #selected {
+      border: 1px solid #384574;
+      border-radius: 10px;
+      padding: 10px;
+      font-size: 0.86rem;
+      background: #101735;
+      overflow: auto;
+      flex: 1;
+      min-height: 140px;
+    }
+    #artwork-preview {
+      border: 1px solid #384574;
+      border-radius: 10px;
+      background: #101735;
+      overflow: hidden;
+      display: none;
+    }
+    #artwork-preview.visible { display: block; }
+    #artwork-preview-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 8px 10px;
+      border-bottom: 1px solid #2b3a68;
+      color: #dbe4ff;
+      font-size: 0.8rem;
+    }
+    #artwork-preview-close {
+      border: 1px solid #4b5e9d;
+      background: #1a2755;
+      color: #fff;
+      border-radius: 6px;
+      width: 22px;
+      height: 22px;
+      line-height: 18px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      padding: 0;
+    }
+    #artwork-preview-media {
+      width: 100%;
+      max-height: 190px;
+      object-fit: contain;
+      display: block;
+      background: #0c1230;
+    }
+    .k { color: var(--muted); display: block; font-size: 0.75rem; }
+    .v { display: block; margin-bottom: 8px; }
+    #stats { color: var(--muted); font-size: 0.8rem; }
+    main { position: relative; overflow: hidden; }
+    #graph { width: 100%; height: 100%; display: block; }
+    #graph.panning { cursor: grabbing; }
+    #graph.pan-ready { cursor: grab; }
+    .node { cursor: pointer; stroke: #0a102b; stroke-width: 1.25px; }
+    .node.dim { opacity: 0.08; }
+    .node.selected { stroke: #f2f5ff; stroke-width: 2.2px; opacity: 1; }
+    .node.connected { opacity: 0.95; }
+    .edge { stroke: #425393; stroke-opacity: 0.65; stroke-width: 1.1; }
+    .edge.dim { opacity: 0.05; }
+    .edge.connected { stroke: #8fa9ff; stroke-opacity: 0.9; stroke-width: 1.45; }
+    .label {
+      font-size: 10px;
+      fill: #dbe4ff;
+      pointer-events: auto;
+      cursor: pointer;
+      text-shadow: 0 0 4px #000;
+    }
+    .label.dim { opacity: 0.06; }
+    .label.selected { opacity: 1; fill: #ffffff; }
+    .label.connected { opacity: 0.95; }
+    .sub-label {
+      font-size: 8px;
+      fill: #9da7cc;
+      pointer-events: auto;
+      cursor: pointer;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+    .sub-label.dim { opacity: 0.08; }
+    .sub-label.selected { opacity: 1; fill: #cfd8ff; }
+    .sub-label.connected { opacity: 0.9; }
+  </style>
+</head>
+<body>
+  <aside>
+    <div>
+      <h1>Story Graph</h1>
+      <div class="muted">Generated from lore markdown frontmatter.</div>
+    </div>
+    <label>
+      Search
+      <input id="search" placeholder="name, theme, path..." />
+    </label>
+    <div class="category-tools">
+      <span>Categories</span>
+      <div class="category-actions">
+        <button id="select-all-categories" class="tiny-btn" type="button">Select All</button>
+        <button id="deselect-all-categories" class="tiny-btn" type="button">Deselect All</button>
+      </div>
+    </div>
+    <div id="category-list"></div>
+    <label class="tight">
+      Node spacing
+      <input id="spacing" type="range" min="70" max="340" step="1" value="130" />
+    </label>
+    <div id="artwork-preview">
+      <div id="artwork-preview-header">
+        <span id="artwork-preview-title">Artwork Preview</span>
+        <button id="artwork-preview-close" type="button" aria-label="Close artwork preview">x</button>
+      </div>
+      <img id="artwork-preview-media" alt="Artwork preview" />
+    </div>
+    <div id="selected">Click a node to inspect details.</div>
+    <div id="stats"></div>
+  </aside>
+  <main>
+    <svg id="graph" viewBox="0 0 2200 1600" preserveAspectRatio="xMidYMid meet"></svg>
+  </main>
+  <script>
+    const graph = {"nodes": [{"id": "artifact:bronze-umbrella-seated-figure", "label": "Bronze Umbrella Seated Figure", "category": "artifact", "status": "canonical", "themes": ["pause", "contemplation", "threshold marker"], "path": "artifacts/bronze-umbrella-seated-figure.md", "asset_path": ""}, {"id": "artifact:early-f432-survey-map", "label": "Early F432 Survey Map", "category": "artifact", "status": "canonical", "themes": ["exploration", "cartography", "baseline geography", "partial knowledge"], "path": "artifacts/early-f432-survey-map.md", "asset_path": "assets/f432-map.png"}, {"id": "artifact:exile-mask-of-carrow-vale", "label": "Exile Mask of Carrow Vale", "category": "artifact", "status": "canonical", "themes": ["identity rupture", "exile authority", "frontier symbol"], "path": "artifacts/exile-mask-of-carrow-vale.md", "asset_path": ""}, {"id": "artifact:golden-tear-vials", "label": "Golden Tear Vials", "category": "artifact", "status": "canonical", "themes": ["preserved signal", "sacred custody", "memory warning"], "path": "artifacts/golden-tear-vials.md", "asset_path": ""}, {"id": "artifact:prime-relics", "label": "Prime Relics", "category": "artifact", "status": "canonical", "themes": ["transfrequency", "lost technology", "ruins", "mystery"], "path": "artifacts/prime-relics.md", "asset_path": ""}, {"id": "artifact:red-sail-crown-standard", "label": "Red Sail Crown-Standard", "category": "artifact", "status": "canonical", "themes": ["rulership symbol", "contested origin", "realm identity"], "path": "artifacts/red-sail-crown-standard.md", "asset_path": ""}, {"id": "artifact:sketchy-ape-book-club-collection", "label": "Sketchy Ape Book Club Collection", "category": "artifact", "status": "canonical", "themes": ["generative identity", "digital ownership", "physical-digital bridge"], "path": "artifacts/sketchy-ape-book-club-collection.md", "asset_path": ""}, {"id": "artifact:the-prime-bridge", "label": "The Prime Bridge", "category": "artifact", "status": "canonical", "themes": ["convergence", "resonance", "incomplete structure", "reconstruction", "existential risk"], "path": "artifacts/the-prime-bridge.md", "asset_path": ""}, {"id": "artifact:veloria-street-flower-pot", "label": "Veloria Street Flower Pot", "category": "artifact", "status": "canonical", "themes": ["urban beauty", "civic care", "street commerce", "ringwide continuity"], "path": "artifacts/veloria-street-flower-pot.md", "asset_path": ""}, {"id": "artwork:99-problems-elyra-mossen-portrait", "label": "99 Problems (Elyra Mossen Portrait)", "category": "artwork", "status": "canonical", "themes": ["keeper portrait", "burdened leadership", "environmental duty"], "path": "artworks/99-problems-elyra-mossen-portrait.md", "asset_path": "assets/99-problems.jpg"}, {"id": "artwork:a-rose-for-you", "label": "A Rose for You", "category": "artwork", "status": "canonical", "themes": ["moonlit calm", "rose field", "borderland serenity", "nocturnal stillness"], "path": "artworks/a-rose-for-you.md", "asset_path": "assets/a-rose-for-you.jpg"}, {"id": "artwork:artist-one", "label": "Artist One", "category": "artwork", "status": "canonical", "themes": ["solitary process", "reflection", "repetition", "unmarketed craft"], "path": "artworks/artist-one.md", "asset_path": "assets/artist-1.jpg"}, {"id": "artwork:at-sea", "label": "At Sea", "category": "artwork", "status": "canonical", "themes": ["night watch", "communal vigilance", "serenity with duty", "inherited calling"], "path": "artworks/at-sea.md", "asset_path": "assets/at-sea.jpg"}, {"id": "artwork:bait", "label": "Bait", "category": "artwork", "status": "canonical", "themes": ["coastal leisure", "danger at a distance", "shark-infested waters", "idle rebellion", "hanging-about ethos", "relaxed unease", "baltic coastal culture"], "path": "artworks/bait.md", "asset_path": "assets/bait-1.jpg"}, {"id": "artwork:ball-room-carrow-vale-portrait", "label": "Ball Room (Carrow Vale Portrait)", "category": "artwork", "status": "canonical", "themes": ["masked portrait", "exile power", "frontier myth"], "path": "artworks/ball-room-carrow-vale-portrait.md", "asset_path": "assets/ball-room.jpg"}, {"id": "artwork:between-two-places", "label": "Between Two Places", "category": "artwork", "status": "canonical", "themes": ["migration", "scale and awe", "beauty with danger", "crossing territories"], "path": "artworks/between-two-places.md", "asset_path": "assets/between-two-places.jpg"}, {"id": "artwork:big-moon-tamsin-vor-portrait", "label": "Big Moon (Tamsin Vor Portrait)", "category": "artwork", "status": "canonical", "themes": ["social warmth", "movement culture", "basin identity"], "path": "artworks/big-moon-tamsin-vor-portrait.md", "asset_path": "assets/big-moon.jpg"}, {"id": "artwork:boy-and-his-dog", "label": "Boy and His Dog", "category": "artwork", "status": "canonical", "themes": ["companionship", "play", "pastoral edge", "ordinary happiness"], "path": "artworks/boy-and-his-dog.md", "asset_path": "assets/boy-and-his-dog.jpg"}, {"id": "artwork:cube-face-bren-holloway-portrait", "label": "Cube Face (Bren Holloway Portrait)", "category": "artwork", "status": "canonical", "themes": ["altered visage", "road discipline", "crisis command"], "path": "artworks/cube-face-bren-holloway-portrait.md", "asset_path": "assets/cube-face.jpg"}, {"id": "artwork:emergence", "label": "Emergence", "category": "artwork", "status": "canonical", "themes": ["floating figures", "shared consciousness", "individuality and distance"], "path": "artworks/emergence.md", "asset_path": ""}, {"id": "artwork:f432-map-v1", "label": "F432 Map V1", "category": "artwork", "status": "canonical", "themes": ["cartography", "refinement", "worldbuilding continuity", "evolving knowledge"], "path": "artworks/f432-map-v1.md", "asset_path": "assets/f432-map-v1.png"}, {"id": "artwork:familiar-face-oriven-tal-portrait", "label": "Familiar Face (Oriven Tal Portrait)", "category": "artwork", "status": "canonical", "themes": ["anonymity", "controlled image", "secrecy"], "path": "artworks/familiar-face-oriven-tal-portrait.md", "asset_path": "assets/familiar-face.jpg"}, {"id": "artwork:farm", "label": "Farm", "category": "artwork", "status": "canonical", "themes": ["agricultural labor", "continuity", "family provision", "disciplined routine"], "path": "artworks/farm.md", "asset_path": "assets/farm.jpg"}, {"id": "artwork:farmer-one", "label": "Farmer One", "category": "artwork", "status": "canonical", "themes": ["roaming survey", "opportunistic farming", "lucky fruit pursuit", "frontier livelihood"], "path": "artworks/farmer-one.md", "asset_path": "assets/farmer-1.jpg"}, {"id": "artwork:fight-or-flight-zephan-quell-portrait", "label": "Fight or Flight (Zephan Quell Portrait)", "category": "artwork", "status": "canonical", "themes": ["artistic bravado", "performance intensity", "beauty and risk"], "path": "artworks/fight-or-flight-zephan-quell-portrait.md", "asset_path": "assets/fight-or-flight.jpg"}, {"id": "artwork:fisherman-sing", "label": "Fisherman Sing", "category": "artwork", "status": "canonical", "themes": ["human-whale bond", "hunt tension", "motion"], "path": "artworks/fisherman-sing.md", "asset_path": "assets/fisherman-sing.jpg"}, {"id": "artwork:flamingo-1-leora-finn-portrait", "label": "Flamingo 1 (Leora Finn Portrait)", "category": "artwork", "status": "canonical", "themes": ["serenity", "off-duty moment", "grounded authority"], "path": "artworks/flamingo-1-leora-finn-portrait.md", "asset_path": "assets/flamingo-1.png"}, {"id": "artwork:fruit-walker", "label": "Fruit Walker", "category": "artwork", "status": "canonical", "themes": ["elder wanderer", "burden of baskets", "lucky fruit folklore", "uncertain witness truth"], "path": "artworks/fruit-walker.md", "asset_path": "assets/apple-slice.jpg"}, {"id": "artwork:golden-teer-sael-corvin-portrait", "label": "Golden Teer (Sael Corvin Portrait)", "category": "artwork", "status": "canonical", "themes": ["sacred sorrow", "hidden memory", "esoteric signal"], "path": "artworks/golden-teer-sael-corvin-portrait.md", "asset_path": "assets/golden-teer.jpg"}, {"id": "artwork:green-1-serik-dovant-portrait", "label": "Green 1 (Serik Dovant Portrait)", "category": "artwork", "status": "canonical", "themes": ["stewardship", "composure", "civic duty"], "path": "artworks/green-1-serik-dovant-portrait.md", "asset_path": "assets/green-1.jpg"}, {"id": "artwork:green-garden", "label": "Green Garden", "category": "artwork", "status": "canonical", "themes": ["curated bloomscape", "light-led transformation", "therapeutic pause", "travel ritual"], "path": "artworks/green-garden.md", "asset_path": "assets/green-garden.jpg"}, {"id": "artwork:hunger", "label": "Hunger", "category": "artwork", "status": "canonical", "themes": ["desire", "fruit scarcity", "banana symbolism"], "path": "artworks/hunger.md", "asset_path": "assets/hunger.png"}, {"id": "artwork:loyalty-1-coris-vale-portrait", "label": "Loyalty 1 (Coris Vale Portrait)", "category": "artwork", "status": "canonical", "themes": ["uncompromising authority", "island defense", "command presence"], "path": "artworks/loyalty-1-coris-vale-portrait.md", "asset_path": "assets/loyalty-1.jpg"}, {"id": "artwork:magic-1-oryn-pell-portrait", "label": "Magic 1 (Oryn Pell Portrait)", "category": "artwork", "status": "canonical", "themes": ["elder mystery", "forest authority", "restraint"], "path": "artworks/magic-1-oryn-pell-portrait.md", "asset_path": "assets/magic-1.jpg"}, {"id": "artwork:man-with-whale", "label": "Man with Whale", "category": "artwork", "status": "canonical", "themes": ["intimacy", "unease", "shared presence"], "path": "artworks/man-with-whale.md", "asset_path": "assets/man-with-whale.png"}, {"id": "artwork:map-of-nauw", "label": "Map of Nauw", "category": "artwork", "status": "canonical", "themes": ["regional cartography", "close-up representation", "route clarity"], "path": "artworks/map-of-nauw.md", "asset_path": "assets/map-of-nauw.PNG"}, {"id": "artwork:map-of-sorel", "label": "Map of Sorel", "category": "artwork", "status": "canonical", "themes": ["regional cartography", "close-up representation", "frontier contrast"], "path": "artworks/map-of-sorel.md", "asset_path": "assets/map-of-sorel.PNG"}, {"id": "artwork:map-of-wabet", "label": "Map of Wabet", "category": "artwork", "status": "canonical", "themes": ["regional cartography", "close-up representation", "ecological zoning"], "path": "artworks/map-of-wabet.md", "asset_path": "assets/map-of-wabet.PNG"}, {"id": "artwork:miles-away-maes-thorn-portrait", "label": "Miles Away (Maes Thorn Portrait)", "category": "artwork", "status": "canonical", "themes": ["uncanny gaze", "quiet dominance", "ambiguous origin"], "path": "artworks/miles-away-maes-thorn-portrait.md", "asset_path": "assets/miles-away.jpg"}, {"id": "artwork:name-of-it-vexra-coil-portrait", "label": "Name of It (Vexra Coil Portrait)", "category": "artwork", "status": "canonical", "themes": ["pirate-like imagery", "rogue mobility", "frontier spectacle"], "path": "artworks/name-of-it-vexra-coil-portrait.md", "asset_path": "assets/name-of-it.jpg"}, {"id": "artwork:peck-1-marek-solon-portrait", "label": "Peck 1 (Marek Solon Portrait)", "category": "artwork", "status": "canonical", "themes": ["mirror-body depiction", "maritime anomaly", "fracture echo"], "path": "artworks/peck-1-marek-solon-portrait.md", "asset_path": "assets/peck-1.jpg"}, {"id": "artwork:poster-of-veloria-city", "label": "Poster of Veloria City", "category": "artwork", "status": "canonical", "themes": ["city poster", "arrival scene", "civic scale"], "path": "artworks/poster-of-veloria-city.md", "asset_path": "assets/poster-of-veloria-city.PNG"}, {"id": "artwork:red-light-alwen-rusk-portrait", "label": "Red Light (Alwen Rusk Portrait)", "category": "artwork", "status": "canonical", "themes": ["rebuilding", "warning light", "communal endurance"], "path": "artworks/red-light-alwen-rusk-portrait.md", "asset_path": "assets/red-light.jpg"}, {"id": "artwork:running", "label": "Running", "category": "artwork", "status": "canonical", "themes": ["momentum", "perseverance", "personal freedom"], "path": "artworks/running.md", "asset_path": "assets/running.gif"}, {"id": "artwork:senses-1-iskar-l-m-portrait", "label": "Senses 1 (Iskar L\u00fcm Portrait)", "category": "artwork", "status": "canonical", "themes": ["fragmented anatomy", "desert anomaly", "otherworldly form"], "path": "artworks/senses-1-iskar-lum-portrait.md", "asset_path": "assets/senses-1.jpg"}, {"id": "artwork:seven-in-my-dreams-is", "label": "Seven in My Dreams Is", "category": "artwork", "status": "canonical", "themes": ["cloaked figures", "dread", "council rumor", "uncertainty"], "path": "artworks/seven-in-my-dreams-is.md", "asset_path": "assets/7-in-my-dreams-is.jpg"}, {"id": "artwork:timer-never-rest-neris-hale-portrait", "label": "Timer Never Rest (Neris Hale Portrait)", "category": "artwork", "status": "canonical", "themes": ["temporal discipline", "sleepless vigilance", "civic rhythm"], "path": "artworks/timer-never-rest-neris-hale-portrait.md", "asset_path": "assets/timer-never-rest.jpg"}, {"id": "artwork:twelve-flowers", "label": "Twelve Flowers", "category": "artwork", "status": "canonical", "themes": ["yellow blooms", "street life", "civic tenderness", "everyday beauty"], "path": "artworks/twelve-flowers.md", "asset_path": "assets/12-flowers.jpg"}, {"id": "artwork:two-phase-vailor-quentin-portrait", "label": "Two Phase (Vailor Quentin Portrait)", "category": "artwork", "status": "canonical", "themes": ["authority portrait", "symbol", "order"], "path": "artworks/two-phase-vailor-quentin-portrait.md", "asset_path": "assets/2-face.jpg"}, {"id": "artwork:two-ways", "label": "Two Ways", "category": "artwork", "status": "canonical", "themes": ["fruit variation", "organic vs perfect form", "luck folklore", "frequency anomalies"], "path": "artworks/two-ways.md", "asset_path": "assets/2-ways.jpg"}, {"id": "artwork:without-shade-havren-pike-portrait", "label": "Without Shade (Havren Pike Portrait)", "category": "artwork", "status": "canonical", "themes": ["martial portrait", "gate vigilance", "defensive command"], "path": "artworks/without-shade-havren-pike-portrait.md", "asset_path": "assets/without-shade.jpg"}, {"id": "culture:nauw-fruit-reverence", "label": "Nauw Fruit Reverence", "category": "culture", "status": "canonical", "themes": ["fruit devotion", "banana primacy", "dependence and trade", "lucky fruit folklore"], "path": "cultures/nauw-fruit-reverence.md", "asset_path": ""}, {"id": "culture:sorel-exile-compact", "label": "Sorel Exile Compact", "category": "culture", "status": "canonical", "themes": ["exile solidarity", "earned legitimacy", "anti-institutional order"], "path": "cultures/sorel-exile-compact.md", "asset_path": ""}, {"id": "culture:tide-song-custodianship", "label": "Tide-Song Custodianship", "category": "culture", "status": "canonical", "themes": ["maritime stewardship", "ritual memory", "survival ethics"], "path": "cultures/tide-song-custodianship.md", "asset_path": ""}, {"id": "culture:velorian-ring-protocol", "label": "Velorian Ring Protocol", "category": "culture", "status": "canonical", "themes": ["layered authority", "operational discipline", "managed continuity"], "path": "cultures/velorian-ring-protocol.md", "asset_path": ""}, {"id": "inhabitant:alwen-rusk", "label": "Alwen Rusk", "category": "inhabitant", "status": "canonical", "themes": ["second chances", "cooperative rebuilding", "restorative leadership"], "path": "inhabitants/alwen-rusk.md", "asset_path": ""}, {"id": "inhabitant:andrew-and-russell", "label": "Andrew and Russell", "category": "inhabitant", "status": "canonical", "themes": ["companionship", "playful routine", "outskirts life", "everyday joy"], "path": "inhabitants/andrew-and-russell.md", "asset_path": ""}, {"id": "inhabitant:bren-holloway", "label": "Bren Holloway", "category": "inhabitant", "status": "canonical", "themes": ["route command", "hazard leadership", "altered body"], "path": "inhabitants/bren-holloway.md", "asset_path": ""}, {"id": "inhabitant:carrow-vale", "label": "Carrow Vale", "category": "inhabitant", "status": "canonical", "themes": ["exile rule", "fear and loyalty", "masked authority"], "path": "inhabitants/carrow-vale.md", "asset_path": ""}, {"id": "inhabitant:coris-vale", "label": "Coris Vale", "category": "inhabitant", "status": "canonical", "themes": ["island defense", "command presence", "threshold law"], "path": "inhabitants/coris-vale.md", "asset_path": ""}, {"id": "inhabitant:elyra-mossen", "label": "Elyra Mossen", "category": "inhabitant", "status": "canonical", "themes": ["keeper leadership", "ecological restraint", "tribal coalition"], "path": "inhabitants/elyra-mossen.md", "asset_path": ""}, {"id": "inhabitant:fruit-walker", "label": "Fruit Walker", "category": "inhabitant", "status": "rumor", "themes": ["wandering elder", "lucky fruit folklore", "uncertain witness accounts", "omen at the doorstep"], "path": "inhabitants/fruit-walker.md", "asset_path": ""}, {"id": "inhabitant:glasswater-field-drifters", "label": "Glasswater Field Drifters", "category": "inhabitant", "status": "canonical", "themes": ["night watch", "inherited duty", "sky vigilance", "communal protection"], "path": "inhabitants/glasswater-field-drifters.md", "asset_path": ""}, {"id": "inhabitant:green-flower-keeper", "label": "Green Flower Keeper", "category": "inhabitant", "status": "canonical", "themes": ["stewardship", "patient labor", "seasonal guidance", "living installation"], "path": "inhabitants/green-flower-keeper.md", "asset_path": ""}, {"id": "inhabitant:harold", "label": "Harold", "category": "inhabitant", "status": "canonical", "themes": ["loss", "endurance", "routine", "freedom through motion"], "path": "inhabitants/harold.md", "asset_path": ""}, {"id": "inhabitant:havren-pike", "label": "Havren Pike", "category": "inhabitant", "status": "canonical", "themes": ["gate defense", "martial discipline", "threshold authority"], "path": "inhabitants/havren-pike.md", "asset_path": ""}, {"id": "inhabitant:human-eyed-whales", "label": "Human-Eyed Whales", "category": "inhabitant", "status": "canonical", "themes": ["ocean symbiosis", "sustenance", "intelligence", "contested kinship"], "path": "inhabitants/human-eyed-whales.md", "asset_path": ""}, {"id": "inhabitant:iskar-l-m", "label": "Iskar L\u00fcm", "category": "inhabitant", "status": "canonical", "themes": ["desert custodianship", "otherworldly form", "hidden water ethics"], "path": "inhabitants/iskar-lum.md", "asset_path": ""}, {"id": "inhabitant:leora-finn", "label": "Leora Finn", "category": "inhabitant", "status": "canonical", "themes": ["harvest guardianship", "community care", "sky-watch discipline"], "path": "inhabitants/leora-finn.md", "asset_path": ""}, {"id": "inhabitant:lucky-farmers", "label": "Lucky Farmers", "category": "inhabitant", "status": "canonical", "themes": ["opportunistic harvest", "lucky fruit pursuit", "roaming camps", "regional rivalry"], "path": "inhabitants/lucky-farmers.md", "asset_path": ""}, {"id": "inhabitant:maes-thorn", "label": "Maes Thorn", "category": "inhabitant", "status": "canonical", "themes": ["orchard stewardship", "unsettling presence", "unknown origin"], "path": "inhabitants/maes-thorn.md", "asset_path": ""}, {"id": "inhabitant:marek-solon", "label": "Marek Solon", "category": "inhabitant", "status": "canonical", "themes": ["dual-form existence", "maritime rites", "fracture legacy"], "path": "inhabitants/marek-solon.md", "asset_path": ""}, {"id": "inhabitant:mega-butterfly", "label": "Mega Butterfly", "category": "inhabitant", "status": "canonical", "themes": ["annual migration", "giant winged creature", "cautionary encounters", "seasonal cycle"], "path": "inhabitants/mega-butterfly.md", "asset_path": ""}, {"id": "inhabitant:neris-hale", "label": "Neris Hale", "category": "inhabitant", "status": "canonical", "themes": ["precision", "ritual timing", "civic discipline"], "path": "inhabitants/neris-hale.md", "asset_path": ""}, {"id": "inhabitant:oriven-tal", "label": "Oriven Tal", "category": "inhabitant", "status": "canonical", "themes": ["secrecy", "operations", "hidden influence", "uncertain identity"], "path": "inhabitants/oriven-tal.md", "asset_path": ""}, {"id": "inhabitant:oryn-pell", "label": "Oryn Pell", "category": "inhabitant", "status": "canonical", "themes": ["elder mediation", "canopy law", "inter-tribe restraint"], "path": "inhabitants/oryn-pell.md", "asset_path": ""}, {"id": "inhabitant:sael-corvin", "label": "Sael Corvin", "category": "inhabitant", "status": "canonical", "themes": ["hidden curation", "memory fracture", "esoteric authority"], "path": "inhabitants/sael-corvin.md", "asset_path": ""}, {"id": "inhabitant:serik-dovant", "label": "Serik Dovant", "category": "inhabitant", "status": "canonical", "themes": ["civic balance", "route stewardship", "compromise", "negotiated order"], "path": "inhabitants/serik-dovant.md", "asset_path": ""}, {"id": "inhabitant:singing-fishermen", "label": "Singing Fishermen", "category": "inhabitant", "status": "canonical", "themes": ["songcraft", "seafaring", "kinship and hunt", "survival duty"], "path": "inhabitants/singing-fishermen.md", "asset_path": ""}, {"id": "inhabitant:sky-drifters", "label": "Sky Drifters", "category": "inhabitant", "status": "canonical", "themes": ["watchers", "frequency overlap (speculation)", "mystery"], "path": "inhabitants/sky-drifters.md", "asset_path": ""}, {"id": "inhabitant:tamsin-vor", "label": "Tamsin Vor", "category": "inhabitant", "status": "canonical", "themes": ["free-spirited leadership", "social connective tissue", "basin culture"], "path": "inhabitants/tamsin-vor.md", "asset_path": ""}, {"id": "inhabitant:the-artist", "label": "The Artist", "category": "inhabitant", "status": "canonical", "themes": ["spontaneous living", "impermanent creation", "quiet reputation", "public mystery"], "path": "inhabitants/the-artist.md", "asset_path": ""}, {"id": "inhabitant:vailor-quentin", "label": "Vailor Quentin", "category": "inhabitant", "status": "canonical", "themes": ["realm authority", "order", "symbolic leadership", "contested legitimacy"], "path": "inhabitants/vailor-quentin.md", "asset_path": ""}, {"id": "inhabitant:valorian-operators", "label": "Valorian Operators", "category": "inhabitant", "status": "canonical", "themes": ["stewardship", "hypertechnology", "realm power", "daily maintenance"], "path": "inhabitants/valorian-operators.md", "asset_path": ""}, {"id": "inhabitant:verdant-farmers", "label": "Verdant Farmers", "category": "inhabitant", "status": "canonical", "themes": ["stewardship", "discipline", "family duty", "food security"], "path": "inhabitants/verdant-farmers.md", "asset_path": ""}, {"id": "inhabitant:vexra-coil", "label": "Vexra Coil", "category": "inhabitant", "status": "canonical", "themes": ["rogue command", "frontier charisma", "volatile hierarchy"], "path": "inhabitants/vexra-coil.md", "asset_path": ""}, {"id": "inhabitant:zephan-quell", "label": "Zephan Quell", "category": "inhabitant", "status": "canonical", "themes": ["cultural magnetism", "artistic spectacle", "social charisma"], "path": "inhabitants/zephan-quell.md", "asset_path": ""}, {"id": "myth:old-masters-of-averra-isle", "label": "Old Masters of Averra Isle", "category": "myth", "status": "myth", "themes": ["hidden teachers", "diffusion of power", "island mystery"], "path": "myths/old-masters-of-averra-isle.md", "asset_path": ""}, {"id": "myth:the-artist-returned-from-sorel", "label": "The Artist Returned from Sorel", "category": "myth", "status": "myth", "themes": ["impossible return", "survival tale", "witness uncertainty"], "path": "myths/the-artist-returned-from-sorel.md", "asset_path": ""}, {"id": "myth:the-canopy-truce-of-seven-paths", "label": "The Canopy Truce of Seven Paths", "category": "myth", "status": "myth", "themes": ["mediation", "path law", "tribal balance"], "path": "myths/the-canopy-truce-of-seven-paths.md", "asset_path": ""}, {"id": "myth:the-carrying-wings-of-nauw", "label": "The Carrying Wings of Nauw", "category": "myth", "status": "rumor", "themes": ["forced passage", "sky-borne abduction", "seasonal fear", "rumor and warning"], "path": "myths/the-carrying-wings-of-nauw.md", "asset_path": ""}, {"id": "myth:the-curator-and-the-bull", "label": "The Curator and the Bull", "category": "myth", "status": "myth", "themes": ["performative courage", "beauty in danger", "crowd magnetism"], "path": "myths/the-curator-and-the-bull.md", "asset_path": ""}, {"id": "myth:the-drifting-face-of-the-dunes", "label": "The Drifting Face of the Dunes", "category": "myth", "status": "myth", "themes": ["shape-shifted form", "desert warning", "sacred secrecy"], "path": "myths/the-drifting-face-of-the-dunes.md", "asset_path": ""}, {"id": "myth:the-familiar-regent-who-may-not-be-one", "label": "The Familiar Regent Who May Not Be One", "category": "myth", "status": "myth", "themes": ["hidden governance", "uncertain identity", "public illusion"], "path": "myths/the-familiar-regent-who-may-not-be-one.md", "asset_path": ""}, {"id": "myth:the-flag-that-never-docked", "label": "The Flag That Never Docked", "category": "myth", "status": "myth", "themes": ["moving command", "anti-authority", "perpetual motion"], "path": "myths/the-flag-that-never-docked.md", "asset_path": ""}, {"id": "myth:the-fracture-was-betrayal", "label": "The Fracture Was Betrayal", "category": "myth", "status": "myth", "themes": ["war", "broken oath", "tragedy", "blame"], "path": "myths/the-fracture-was-betrayal.md", "asset_path": ""}, {"id": "myth:the-fracture-was-engineered", "label": "The Fracture Was Engineered", "category": "myth", "status": "myth", "themes": ["forbidden knowledge", "hubris", "lost civilization"], "path": "myths/the-fracture-was-engineered.md", "asset_path": ""}, {"id": "myth:the-fracture-was-natural", "label": "The Fracture Was Natural", "category": "myth", "status": "myth", "themes": ["cosmic cycles", "acceptance", "inevitability"], "path": "myths/the-fracture-was-natural.md", "asset_path": ""}, {"id": "myth:the-fracture-was-over-resonance", "label": "The Fracture Was Over-Resonance", "category": "myth", "status": "myth", "themes": ["resonance limit", "transformation", "thresholds"], "path": "myths/the-fracture-was-over-resonance.md", "asset_path": ""}, {"id": "myth:the-fruit-walker-at-your-door", "label": "The Fruit Walker at Your Door", "category": "myth", "status": "myth", "themes": ["doorstep omen", "gift with meaning", "uncertain reality", "wandering elder"], "path": "myths/the-fruit-walker-at-your-door.md", "asset_path": ""}, {"id": "myth:the-gel-helm-that-never-cracked", "label": "The Gel Helm That Never Cracked", "category": "myth", "status": "myth", "themes": ["survival mark", "flood season", "impossible resilience"], "path": "myths/the-gel-helm-that-never-cracked.md", "asset_path": ""}, {"id": "myth:the-golden-tears-of-averra", "label": "The Golden Tears of Averra", "category": "myth", "status": "myth", "themes": ["prophetic grief", "hidden truth", "memory fracture"], "path": "myths/the-golden-tears-of-averra.md", "asset_path": ""}, {"id": "myth:the-kiln-fires-of-second-beginning", "label": "The Kiln Fires of Second Beginning", "category": "myth", "status": "myth", "themes": ["rebirth", "labor oath", "communal restoration"], "path": "myths/the-kiln-fires-of-second-beginning.md", "asset_path": ""}, {"id": "myth:the-mask-kept-after-exile", "label": "The Mask Kept After Exile", "category": "myth", "status": "myth", "themes": ["identity erasure", "rebirth", "exile authority"], "path": "myths/the-mask-kept-after-exile.md", "asset_path": ""}, {"id": "myth:the-moon-market-walk", "label": "The Moon-Market Walk", "category": "myth", "status": "myth", "themes": ["night gathering", "social peace", "informal authority"], "path": "myths/the-moon-market-walk.md", "asset_path": ""}, {"id": "myth:the-oath-of-uncut-water", "label": "The Oath of Uncut Water", "category": "myth", "status": "myth", "themes": ["river vow", "restraint", "tribal law"], "path": "myths/the-oath-of-uncut-water.md", "asset_path": ""}, {"id": "myth:the-orchard-warden-who-sees-inside-thought", "label": "The Orchard Warden Who Sees Inside Thought", "category": "myth", "status": "myth", "themes": ["mind-reading rumor", "psychological authority", "uncanny governance"], "path": "myths/the-orchard-warden-who-sees-inside-thought.md", "asset_path": ""}, {"id": "myth:the-red-sail-crown-of-vailor", "label": "The Red Sail Crown of Vailor", "category": "myth", "status": "myth", "themes": ["contested origin", "authority symbol", "rise to power"], "path": "myths/the-red-sail-crown-of-vailor.md", "asset_path": ""}, {"id": "myth:the-ring-blades-of-the-gate-knight", "label": "The Ring Blades of the Gate Knight", "category": "myth", "status": "myth", "themes": ["martial legend", "knight lineage", "gate defense"], "path": "myths/the-ring-blades-of-the-gate-knight.md", "asset_path": ""}, {"id": "myth:the-seven-of-averra-isle", "label": "The Seven of Averra Isle", "category": "myth", "status": "myth", "themes": ["hidden council", "island mystery", "balance and judgment", "lucky fruit influence"], "path": "myths/the-seven-of-averra-isle.md", "asset_path": ""}, {"id": "myth:the-sky-raid-memory-of-glasswater-fields", "label": "The Sky-Raid Memory of Glasswater Fields", "category": "myth", "status": "myth", "themes": ["inherited vigilance", "sky-borne threat", "communal memory", "night protection"], "path": "myths/the-sky-raid-memory-of-glasswater-fields.md", "asset_path": ""}, {"id": "myth:the-split-tide-bloodline", "label": "The Split Tide Bloodline", "category": "myth", "status": "myth", "themes": ["inherited anomaly", "fracture remnant", "sea lineage"], "path": "myths/the-split-tide-bloodline.md", "asset_path": ""}, {"id": "myth:the-steward-at-the-crossing-tables", "label": "The Steward at the Crossing Tables", "category": "myth", "status": "myth", "themes": ["arbitration", "transit peace", "written oath"], "path": "myths/the-steward-at-the-crossing-tables.md", "asset_path": ""}, {"id": "myth:the-still-pool-vigil", "label": "The Still Pool Vigil", "category": "myth", "status": "myth", "themes": ["vigilance", "calm under threat", "ritual watch"], "path": "myths/the-still-pool-vigil.md", "asset_path": ""}, {"id": "myth:the-warden-who-closed-the-reefs", "label": "The Warden Who Closed the Reefs", "category": "myth", "status": "myth", "themes": ["environmental defense", "hard boundary law", "command deterrence"], "path": "myths/the-warden-who-closed-the-reefs.md", "asset_path": ""}, {"id": "myth:the-warden-of-the-unwasted-hour", "label": "The Warden of the Unwasted Hour", "category": "myth", "status": "myth", "themes": ["time ritual", "punctuality law", "border discipline"], "path": "myths/the-warden-of-the-unwasted-hour.md", "asset_path": ""}, {"id": "phenomenon:gate-ring-response-pattern", "label": "Gate Ring Response Pattern", "category": "phenomenon", "status": "canonical", "themes": ["threshold defense", "crowd dynamics", "reactive formation"], "path": "phenomena/gate-ring-response-pattern.md", "asset_path": ""}, {"id": "phenomenon:golden-tear-event", "label": "Golden Tear Event", "category": "phenomenon", "status": "canonical", "themes": ["omen event", "memory instability", "esoteric warning"], "path": "phenomena/golden-tear-event.md", "asset_path": ""}, {"id": "phenomenon:green-garden-shift", "label": "Green Garden Shift", "category": "phenomenon", "status": "canonical", "themes": ["light tracking", "petal color gradient", "synchronized motion", "restorative observation"], "path": "phenomena/green-garden-shift.md", "asset_path": ""}, {"id": "phenomenon:split-tide-double-presence", "label": "Split-Tide Double Presence", "category": "phenomenon", "status": "canonical", "themes": ["dual manifestation", "mirrored encounters", "fracture residue"], "path": "phenomena/split-tide-double-presence.md", "asset_path": ""}, {"id": "region:aelwyn-canopy", "label": "Aelwyn Canopy", "category": "region", "status": "canonical", "themes": ["jungle forests", "elevated living", "ecological restraint", "roaming harvest culture"], "path": "regions/aelwyn-canopy.md", "asset_path": ""}, {"id": "region:averra-isle", "label": "Averra Isle", "category": "region", "status": "canonical", "themes": ["small isle", "maritime mystery", "obscured present", "rumored magic teachers", "hidden council rumor"], "path": "regions/averra-isle.md", "asset_path": ""}, {"id": "region:brindle-march", "label": "Brindle March", "category": "region", "status": "canonical", "themes": ["overland travel", "road networks", "transit culture", "folklore of magic"], "path": "regions/brindle-march.md", "asset_path": ""}, {"id": "region:deb-gate-of-veloria", "label": "DEB Gate of Veloria", "category": "region", "status": "canonical", "themes": ["city threshold", "protection", "monumental architecture", "symbolic form"], "path": "regions/deb-gate-of-veloria.md", "asset_path": ""}, {"id": "region:driftfall", "label": "Driftfall", "category": "region", "status": "canonical", "themes": ["improvised settlements", "personal autonomy", "constant movement", "wild frontier", "rogues and outlaws", "rebellion", "relaxed fatalism", "hanging-about culture", "baltic coastal influence"], "path": "regions/driftfall.md", "asset_path": ""}, {"id": "region:f432-frequency-realm", "label": "F432 (frequency realm)", "category": "region", "status": "canonical", "themes": ["stability", "trade", "exploration"], "path": "regions/f432-frequency-realm.md", "asset_path": ""}, {"id": "region:glasswater-fields", "label": "Glasswater Fields", "category": "region", "status": "canonical", "themes": ["agriculture", "river-fed plains", "food stability", "folklore of magic", "sky vigilance", "communal duty"], "path": "regions/glasswater-fields.md", "asset_path": ""}, {"id": "region:green-garden-border-lanes", "label": "Green Garden Border Lanes", "category": "region", "status": "canonical", "themes": ["border landmark", "curated nature", "holiday pilgrimage", "therapeutic walking"], "path": "regions/green-garden-border-lanes.md", "asset_path": ""}, {"id": "region:hearthvale", "label": "Hearthvale", "category": "region", "status": "canonical", "themes": ["reconstruction", "cooperative survival", "second chances"], "path": "regions/hearthvale.md", "asset_path": ""}, {"id": "region:isle-of-calareth", "label": "Isle of Calareth", "category": "region", "status": "canonical", "themes": ["pristine coasts", "cliffs and forests", "uncertain resonance"], "path": "regions/isle-of-calareth.md", "asset_path": ""}, {"id": "region:lumira-sands", "label": "Lumira Sands", "category": "region", "status": "canonical", "themes": ["desert calm", "hidden water", "silence"], "path": "regions/lumira-sands.md", "asset_path": ""}, {"id": "region:nauw", "label": "Nauw", "category": "region", "status": "canonical", "themes": ["trade routes", "diversity of peoples", "stylized beings", "regional crossroads", "maritime lifeways", "fruit obsession", "banana primacy"], "path": "regions/nauw.md", "asset_path": ""}, {"id": "region:nauw-outer-rim-seas", "label": "Nauw Outer Rim Seas", "category": "region", "status": "canonical", "themes": ["coastal survival", "symbiosis", "hunting and friendship", "frontier waters"], "path": "regions/nauw-outer-rim-seas.md", "asset_path": ""}, {"id": "region:sorel", "label": "Sorel", "category": "region", "status": "canonical", "themes": ["exile", "frontier survival", "improvised settlements", "freedom outside authority"], "path": "regions/sorel.md", "asset_path": ""}, {"id": "region:the-sketchy-gallery", "label": "The Sketchy Gallery", "category": "region", "status": "canonical", "themes": ["evolving exhibition space", "kinetic displays", "physical and digital art bridge", "mystery"], "path": "regions/the-sketchy-gallery.md", "asset_path": ""}, {"id": "region:veloria-city", "label": "Veloria City", "category": "region", "status": "canonical", "themes": ["capital", "concentric city", "layered technology", "medieval outer ring", "hypertech core", "operators"], "path": "regions/veloria-city.md", "asset_path": ""}, {"id": "region:velorian-basin", "label": "Velorian Basin", "category": "region", "status": "canonical", "themes": ["trade concentration", "river routes", "market exchange", "folklore of magic", "outskirts everyday life"], "path": "regions/velorian-basin.md", "asset_path": ""}, {"id": "region:verdant-reach", "label": "Verdant Reach", "category": "region", "status": "canonical", "themes": ["fertile landscapes", "orchard cultivation", "food supply", "stewardship boundaries"], "path": "regions/verdant-reach.md", "asset_path": ""}, {"id": "region:wabet", "label": "Wabet", "category": "region", "status": "canonical", "themes": ["natural purity", "serenity", "wilderness", "minimal human influence", "anomalous fruit forms"], "path": "regions/wabet.md", "asset_path": ""}, {"id": "world:dias", "label": "Dias", "category": "world", "status": "canonical", "themes": ["frequency", "layered reality", "resonance", "origin", "lost history"], "path": "world/dias.md", "asset_path": ""}, {"id": "world:the-fracture", "label": "The Fracture", "category": "world", "status": "canonical", "themes": ["shattering", "resonance", "mystery", "layered reality"], "path": "world/the-fracture.md", "asset_path": ""}, {"id": "world:the-present-age", "label": "The Present Age", "category": "world", "status": "canonical", "themes": ["exploration", "unanswered questions", "frequency"], "path": "world/the-present-age.md", "asset_path": ""}, {"id": "world:the-prime-age", "label": "The Prime Age", "category": "world", "status": "canonical", "themes": ["lost history", "ruins", "transfrequency", "mystery"], "path": "world/the-prime-age.md", "asset_path": ""}, {"id": "world:the-prime-realm", "label": "The Prime Realm", "category": "world", "status": "canonical", "themes": ["origin", "unity", "layered reality", "resonance"], "path": "world/prime-realm.md", "asset_path": ""}], "edges": [{"source": "artifact:bronze-umbrella-seated-figure", "target": "region:the-sketchy-gallery"}, {"source": "artifact:early-f432-survey-map", "target": "region:f432-frequency-realm"}, {"source": "artifact:early-f432-survey-map", "target": "region:nauw"}, {"source": "artifact:early-f432-survey-map", "target": "region:wabet"}, {"source": "artifact:early-f432-survey-map", "target": "region:sorel"}, {"source": "artifact:exile-mask-of-carrow-vale", "target": "inhabitant:carrow-vale"}, {"source": "artifact:exile-mask-of-carrow-vale", "target": "region:sorel"}, {"source": "artifact:exile-mask-of-carrow-vale", "target": "myth:the-mask-kept-after-exile"}, {"source": "artifact:exile-mask-of-carrow-vale", "target": "artwork:ball-room-carrow-vale-portrait"}, {"source": "artifact:golden-tear-vials", "target": "inhabitant:sael-corvin"}, {"source": "artifact:golden-tear-vials", "target": "region:averra-isle"}, {"source": "artifact:golden-tear-vials", "target": "artwork:golden-teer-sael-corvin-portrait"}, {"source": "artifact:golden-tear-vials", "target": "myth:the-golden-tears-of-averra"}, {"source": "artifact:prime-relics", "target": "world:dias"}, {"source": "artifact:prime-relics", "target": "world:the-prime-age"}, {"source": "artifact:prime-relics", "target": "world:the-prime-realm"}, {"source": "artifact:prime-relics", "target": "world:the-fracture"}, {"source": "artifact:prime-relics", "target": "artifact:the-prime-bridge"}, {"source": "artifact:red-sail-crown-standard", "target": "inhabitant:vailor-quentin"}, {"source": "artifact:red-sail-crown-standard", "target": "region:f432-frequency-realm"}, {"source": "artifact:red-sail-crown-standard", "target": "myth:the-red-sail-crown-of-vailor"}, {"source": "artifact:red-sail-crown-standard", "target": "artwork:two-phase-vailor-quentin-portrait"}, {"source": "artifact:sketchy-ape-book-club-collection", "target": "region:the-sketchy-gallery"}, {"source": "artifact:the-prime-bridge", "target": "world:dias"}, {"source": "artifact:the-prime-bridge", "target": "world:the-prime-realm"}, {"source": "artifact:the-prime-bridge", "target": "world:the-prime-age"}, {"source": "artifact:the-prime-bridge", "target": "world:the-fracture"}, {"source": "artifact:veloria-street-flower-pot", "target": "region:veloria-city"}, {"source": "artifact:veloria-street-flower-pot", "target": "artwork:twelve-flowers"}, {"source": "artwork:99-problems-elyra-mossen-portrait", "target": "inhabitant:elyra-mossen"}, {"source": "artwork:99-problems-elyra-mossen-portrait", "target": "region:wabet"}, {"source": "artwork:99-problems-elyra-mossen-portrait", "target": "myth:the-oath-of-uncut-water"}, {"source": "artwork:a-rose-for-you", "target": "region:wabet"}, {"source": "artwork:a-rose-for-you", "target": "region:verdant-reach"}, {"source": "artwork:a-rose-for-you", "target": "region:lumira-sands"}, {"source": "artwork:artist-one", "target": "inhabitant:the-artist"}, {"source": "artwork:artist-one", "target": "region:veloria-city"}, {"source": "artwork:artist-one", "target": "region:nauw"}, {"source": "artwork:artist-one", "target": "myth:the-artist-returned-from-sorel"}, {"source": "artwork:at-sea", "target": "region:glasswater-fields"}, {"source": "artwork:at-sea", "target": "inhabitant:glasswater-field-drifters"}, {"source": "artwork:at-sea", "target": "myth:the-sky-raid-memory-of-glasswater-fields"}, {"source": "artwork:bait", "target": "region:driftfall"}, {"source": "artwork:bait", "target": "region:sorel"}, {"source": "artwork:ball-room-carrow-vale-portrait", "target": "inhabitant:carrow-vale"}, {"source": "artwork:ball-room-carrow-vale-portrait", "target": "region:sorel"}, {"source": "artwork:ball-room-carrow-vale-portrait", "target": "myth:the-mask-kept-after-exile"}, {"source": "artwork:between-two-places", "target": "inhabitant:mega-butterfly"}, {"source": "artwork:between-two-places", "target": "region:nauw"}, {"source": "artwork:between-two-places", "target": "region:averra-isle"}, {"source": "artwork:between-two-places", "target": "region:glasswater-fields"}, {"source": "artwork:big-moon-tamsin-vor-portrait", "target": "inhabitant:tamsin-vor"}, {"source": "artwork:big-moon-tamsin-vor-portrait", "target": "region:velorian-basin"}, {"source": "artwork:big-moon-tamsin-vor-portrait", "target": "myth:the-moon-market-walk"}, {"source": "artwork:boy-and-his-dog", "target": "inhabitant:andrew-and-russell"}, {"source": "artwork:boy-and-his-dog", "target": "region:velorian-basin"}, {"source": "artwork:boy-and-his-dog", "target": "region:nauw"}, {"source": "artwork:cube-face-bren-holloway-portrait", "target": "inhabitant:bren-holloway"}, {"source": "artwork:cube-face-bren-holloway-portrait", "target": "region:brindle-march"}, {"source": "artwork:cube-face-bren-holloway-portrait", "target": "myth:the-gel-helm-that-never-cracked"}, {"source": "artwork:emergence", "target": "inhabitant:sky-drifters"}, {"source": "artwork:emergence", "target": "region:veloria-city"}, {"source": "artwork:f432-map-v1", "target": "region:f432-frequency-realm"}, {"source": "artwork:f432-map-v1", "target": "artifact:early-f432-survey-map"}, {"source": "artwork:f432-map-v1", "target": "region:nauw"}, {"source": "artwork:f432-map-v1", "target": "region:wabet"}, {"source": "artwork:f432-map-v1", "target": "region:sorel"}, {"source": "artwork:familiar-face-oriven-tal-portrait", "target": "inhabitant:oriven-tal"}, {"source": "artwork:familiar-face-oriven-tal-portrait", "target": "region:veloria-city"}, {"source": "artwork:familiar-face-oriven-tal-portrait", "target": "myth:the-familiar-regent-who-may-not-be-one"}, {"source": "artwork:farm", "target": "region:verdant-reach"}, {"source": "artwork:farm", "target": "region:wabet"}, {"source": "artwork:farm", "target": "inhabitant:verdant-farmers"}, {"source": "artwork:farmer-one", "target": "region:aelwyn-canopy"}, {"source": "artwork:farmer-one", "target": "region:wabet"}, {"source": "artwork:farmer-one", "target": "inhabitant:lucky-farmers"}, {"source": "artwork:farmer-one", "target": "region:verdant-reach"}, {"source": "artwork:farmer-one", "target": "artwork:two-ways"}, {"source": "artwork:fight-or-flight-zephan-quell-portrait", "target": "inhabitant:zephan-quell"}, {"source": "artwork:fight-or-flight-zephan-quell-portrait", "target": "region:the-sketchy-gallery"}, {"source": "artwork:fight-or-flight-zephan-quell-portrait", "target": "myth:the-curator-and-the-bull"}, {"source": "artwork:fisherman-sing", "target": "inhabitant:singing-fishermen"}, {"source": "artwork:fisherman-sing", "target": "inhabitant:human-eyed-whales"}, {"source": "artwork:fisherman-sing", "target": "region:nauw-outer-rim-seas"}, {"source": "artwork:flamingo-1-leora-finn-portrait", "target": "inhabitant:leora-finn"}, {"source": "artwork:flamingo-1-leora-finn-portrait", "target": "region:glasswater-fields"}, {"source": "artwork:flamingo-1-leora-finn-portrait", "target": "myth:the-still-pool-vigil"}, {"source": "artwork:fruit-walker", "target": "inhabitant:fruit-walker"}, {"source": "artwork:fruit-walker", "target": "myth:the-fruit-walker-at-your-door"}, {"source": "artwork:fruit-walker", "target": "region:wabet"}, {"source": "artwork:fruit-walker", "target": "region:nauw"}, {"source": "artwork:fruit-walker", "target": "region:sorel"}, {"source": "artwork:fruit-walker", "target": "culture:nauw-fruit-reverence"}, {"source": "artwork:fruit-walker", "target": "region:f432-frequency-realm"}, {"source": "artwork:golden-teer-sael-corvin-portrait", "target": "inhabitant:sael-corvin"}, {"source": "artwork:golden-teer-sael-corvin-portrait", "target": "region:averra-isle"}, {"source": "artwork:golden-teer-sael-corvin-portrait", "target": "myth:the-golden-tears-of-averra"}, {"source": "artwork:green-1-serik-dovant-portrait", "target": "inhabitant:serik-dovant"}, {"source": "artwork:green-1-serik-dovant-portrait", "target": "region:nauw"}, {"source": "artwork:green-1-serik-dovant-portrait", "target": "myth:the-steward-at-the-crossing-tables"}, {"source": "artwork:green-garden", "target": "region:green-garden-border-lanes"}, {"source": "artwork:green-garden", "target": "inhabitant:green-flower-keeper"}, {"source": "artwork:green-garden", "target": "phenomenon:green-garden-shift"}, {"source": "artwork:green-garden", "target": "region:brindle-march"}, {"source": "artwork:green-garden", "target": "region:glasswater-fields"}, {"source": "artwork:green-garden", "target": "region:veloria-city"}, {"source": "artwork:hunger", "target": "region:nauw"}, {"source": "artwork:hunger", "target": "region:wabet"}, {"source": "artwork:hunger", "target": "culture:nauw-fruit-reverence"}, {"source": "artwork:loyalty-1-coris-vale-portrait", "target": "inhabitant:coris-vale"}, {"source": "artwork:loyalty-1-coris-vale-portrait", "target": "region:isle-of-calareth"}, {"source": "artwork:loyalty-1-coris-vale-portrait", "target": "myth:the-warden-who-closed-the-reefs"}, {"source": "artwork:magic-1-oryn-pell-portrait", "target": "inhabitant:oryn-pell"}, {"source": "artwork:magic-1-oryn-pell-portrait", "target": "region:aelwyn-canopy"}, {"source": "artwork:magic-1-oryn-pell-portrait", "target": "myth:the-canopy-truce-of-seven-paths"}, {"source": "artwork:man-with-whale", "target": "inhabitant:singing-fishermen"}, {"source": "artwork:man-with-whale", "target": "inhabitant:human-eyed-whales"}, {"source": "artwork:man-with-whale", "target": "region:nauw-outer-rim-seas"}, {"source": "artwork:map-of-nauw", "target": "region:nauw"}, {"source": "artwork:map-of-nauw", "target": "region:f432-frequency-realm"}, {"source": "artwork:map-of-nauw", "target": "artwork:f432-map-v1"}, {"source": "artwork:map-of-sorel", "target": "region:sorel"}, {"source": "artwork:map-of-sorel", "target": "region:hearthvale"}, {"source": "artwork:map-of-sorel", "target": "region:driftfall"}, {"source": "artwork:map-of-sorel", "target": "region:f432-frequency-realm"}, {"source": "artwork:map-of-sorel", "target": "artwork:f432-map-v1"}, {"source": "artwork:map-of-wabet", "target": "region:wabet"}, {"source": "artwork:map-of-wabet", "target": "region:f432-frequency-realm"}, {"source": "artwork:map-of-wabet", "target": "artwork:f432-map-v1"}, {"source": "artwork:miles-away-maes-thorn-portrait", "target": "inhabitant:maes-thorn"}, {"source": "artwork:miles-away-maes-thorn-portrait", "target": "region:verdant-reach"}, {"source": "artwork:miles-away-maes-thorn-portrait", "target": "myth:the-orchard-warden-who-sees-inside-thought"}, {"source": "artwork:name-of-it-vexra-coil-portrait", "target": "inhabitant:vexra-coil"}, {"source": "artwork:name-of-it-vexra-coil-portrait", "target": "region:driftfall"}, {"source": "artwork:name-of-it-vexra-coil-portrait", "target": "myth:the-flag-that-never-docked"}, {"source": "artwork:peck-1-marek-solon-portrait", "target": "inhabitant:marek-solon"}, {"source": "artwork:peck-1-marek-solon-portrait", "target": "region:nauw-outer-rim-seas"}, {"source": "artwork:peck-1-marek-solon-portrait", "target": "myth:the-split-tide-bloodline"}, {"source": "artwork:poster-of-veloria-city", "target": "region:veloria-city"}, {"source": "artwork:poster-of-veloria-city", "target": "region:nauw"}, {"source": "artwork:poster-of-veloria-city", "target": "region:deb-gate-of-veloria"}, {"source": "artwork:red-light-alwen-rusk-portrait", "target": "inhabitant:alwen-rusk"}, {"source": "artwork:red-light-alwen-rusk-portrait", "target": "region:hearthvale"}, {"source": "artwork:red-light-alwen-rusk-portrait", "target": "myth:the-kiln-fires-of-second-beginning"}, {"source": "artwork:running", "target": "inhabitant:harold"}, {"source": "artwork:running", "target": "region:veloria-city"}, {"source": "artwork:senses-1-iskar-l-m-portrait", "target": "inhabitant:iskar-l-m"}, {"source": "artwork:senses-1-iskar-l-m-portrait", "target": "region:lumira-sands"}, {"source": "artwork:senses-1-iskar-l-m-portrait", "target": "myth:the-drifting-face-of-the-dunes"}, {"source": "artwork:seven-in-my-dreams-is", "target": "region:averra-isle"}, {"source": "artwork:seven-in-my-dreams-is", "target": "region:nauw"}, {"source": "artwork:seven-in-my-dreams-is", "target": "myth:the-seven-of-averra-isle"}, {"source": "artwork:seven-in-my-dreams-is", "target": "myth:old-masters-of-averra-isle"}, {"source": "artwork:timer-never-rest-neris-hale-portrait", "target": "inhabitant:neris-hale"}, {"source": "artwork:timer-never-rest-neris-hale-portrait", "target": "region:green-garden-border-lanes"}, {"source": "artwork:timer-never-rest-neris-hale-portrait", "target": "myth:the-warden-of-the-unwasted-hour"}, {"source": "artwork:twelve-flowers", "target": "region:veloria-city"}, {"source": "artwork:two-phase-vailor-quentin-portrait", "target": "inhabitant:vailor-quentin"}, {"source": "artwork:two-phase-vailor-quentin-portrait", "target": "region:f432-frequency-realm"}, {"source": "artwork:two-phase-vailor-quentin-portrait", "target": "myth:the-red-sail-crown-of-vailor"}, {"source": "artwork:two-ways", "target": "region:wabet"}, {"source": "artwork:two-ways", "target": "region:verdant-reach"}, {"source": "artwork:two-ways", "target": "region:nauw"}, {"source": "artwork:two-ways", "target": "region:f432-frequency-realm"}, {"source": "artwork:two-ways", "target": "culture:nauw-fruit-reverence"}, {"source": "artwork:without-shade-havren-pike-portrait", "target": "inhabitant:havren-pike"}, {"source": "artwork:without-shade-havren-pike-portrait", "target": "region:deb-gate-of-veloria"}, {"source": "artwork:without-shade-havren-pike-portrait", "target": "myth:the-ring-blades-of-the-gate-knight"}, {"source": "culture:nauw-fruit-reverence", "target": "region:nauw"}, {"source": "culture:nauw-fruit-reverence", "target": "region:wabet"}, {"source": "culture:sorel-exile-compact", "target": "region:sorel"}, {"source": "culture:sorel-exile-compact", "target": "inhabitant:carrow-vale"}, {"source": "culture:sorel-exile-compact", "target": "region:hearthvale"}, {"source": "culture:sorel-exile-compact", "target": "region:driftfall"}, {"source": "culture:tide-song-custodianship", "target": "region:nauw-outer-rim-seas"}, {"source": "culture:tide-song-custodianship", "target": "inhabitant:marek-solon"}, {"source": "culture:tide-song-custodianship", "target": "inhabitant:singing-fishermen"}, {"source": "culture:tide-song-custodianship", "target": "inhabitant:human-eyed-whales"}, {"source": "culture:velorian-ring-protocol", "target": "region:veloria-city"}, {"source": "culture:velorian-ring-protocol", "target": "inhabitant:oriven-tal"}, {"source": "culture:velorian-ring-protocol", "target": "inhabitant:vailor-quentin"}, {"source": "culture:velorian-ring-protocol", "target": "region:deb-gate-of-veloria"}, {"source": "inhabitant:alwen-rusk", "target": "region:hearthvale"}, {"source": "inhabitant:alwen-rusk", "target": "region:sorel"}, {"source": "inhabitant:alwen-rusk", "target": "myth:the-kiln-fires-of-second-beginning"}, {"source": "inhabitant:andrew-and-russell", "target": "region:velorian-basin"}, {"source": "inhabitant:andrew-and-russell", "target": "region:nauw"}, {"source": "inhabitant:bren-holloway", "target": "region:brindle-march"}, {"source": "inhabitant:bren-holloway", "target": "region:nauw"}, {"source": "inhabitant:bren-holloway", "target": "myth:the-gel-helm-that-never-cracked"}, {"source": "inhabitant:carrow-vale", "target": "region:sorel"}, {"source": "inhabitant:carrow-vale", "target": "region:hearthvale"}, {"source": "inhabitant:carrow-vale", "target": "region:driftfall"}, {"source": "inhabitant:carrow-vale", "target": "myth:the-mask-kept-after-exile"}, {"source": "inhabitant:coris-vale", "target": "region:isle-of-calareth"}, {"source": "inhabitant:coris-vale", "target": "region:wabet"}, {"source": "inhabitant:coris-vale", "target": "myth:the-warden-who-closed-the-reefs"}, {"source": "inhabitant:elyra-mossen", "target": "region:wabet"}, {"source": "inhabitant:elyra-mossen", "target": "region:aelwyn-canopy"}, {"source": "inhabitant:elyra-mossen", "target": "region:verdant-reach"}, {"source": "inhabitant:elyra-mossen", "target": "myth:the-oath-of-uncut-water"}, {"source": "inhabitant:fruit-walker", "target": "region:f432-frequency-realm"}, {"source": "inhabitant:fruit-walker", "target": "region:wabet"}, {"source": "inhabitant:fruit-walker", "target": "region:nauw"}, {"source": "inhabitant:fruit-walker", "target": "region:sorel"}, {"source": "inhabitant:fruit-walker", "target": "culture:nauw-fruit-reverence"}, {"source": "inhabitant:fruit-walker", "target": "myth:the-fruit-walker-at-your-door"}, {"source": "inhabitant:glasswater-field-drifters", "target": "region:glasswater-fields"}, {"source": "inhabitant:glasswater-field-drifters", "target": "myth:the-sky-raid-memory-of-glasswater-fields"}, {"source": "inhabitant:green-flower-keeper", "target": "region:green-garden-border-lanes"}, {"source": "inhabitant:green-flower-keeper", "target": "phenomenon:green-garden-shift"}, {"source": "inhabitant:green-flower-keeper", "target": "region:brindle-march"}, {"source": "inhabitant:green-flower-keeper", "target": "region:glasswater-fields"}, {"source": "inhabitant:harold", "target": "region:veloria-city"}, {"source": "inhabitant:havren-pike", "target": "region:deb-gate-of-veloria"}, {"source": "inhabitant:havren-pike", "target": "region:veloria-city"}, {"source": "inhabitant:havren-pike", "target": "myth:the-ring-blades-of-the-gate-knight"}, {"source": "inhabitant:human-eyed-whales", "target": "region:nauw-outer-rim-seas"}, {"source": "inhabitant:human-eyed-whales", "target": "inhabitant:singing-fishermen"}, {"source": "inhabitant:human-eyed-whales", "target": "region:nauw"}, {"source": "inhabitant:iskar-l-m", "target": "region:lumira-sands"}, {"source": "inhabitant:iskar-l-m", "target": "region:wabet"}, {"source": "inhabitant:iskar-l-m", "target": "myth:the-drifting-face-of-the-dunes"}, {"source": "inhabitant:leora-finn", "target": "region:glasswater-fields"}, {"source": "inhabitant:leora-finn", "target": "region:nauw"}, {"source": "inhabitant:leora-finn", "target": "myth:the-still-pool-vigil"}, {"source": "inhabitant:lucky-farmers", "target": "region:aelwyn-canopy"}, {"source": "inhabitant:lucky-farmers", "target": "region:wabet"}, {"source": "inhabitant:lucky-farmers", "target": "region:verdant-reach"}, {"source": "inhabitant:lucky-farmers", "target": "inhabitant:verdant-farmers"}, {"source": "inhabitant:lucky-farmers", "target": "artwork:two-ways"}, {"source": "inhabitant:maes-thorn", "target": "region:verdant-reach"}, {"source": "inhabitant:maes-thorn", "target": "region:wabet"}, {"source": "inhabitant:maes-thorn", "target": "myth:the-orchard-warden-who-sees-inside-thought"}, {"source": "inhabitant:marek-solon", "target": "region:nauw-outer-rim-seas"}, {"source": "inhabitant:marek-solon", "target": "inhabitant:singing-fishermen"}, {"source": "inhabitant:marek-solon", "target": "myth:the-split-tide-bloodline"}, {"source": "inhabitant:mega-butterfly", "target": "region:nauw"}, {"source": "inhabitant:mega-butterfly", "target": "region:averra-isle"}, {"source": "inhabitant:mega-butterfly", "target": "region:glasswater-fields"}, {"source": "inhabitant:neris-hale", "target": "region:green-garden-border-lanes"}, {"source": "inhabitant:neris-hale", "target": "region:brindle-march"}, {"source": "inhabitant:neris-hale", "target": "myth:the-warden-of-the-unwasted-hour"}, {"source": "inhabitant:oriven-tal", "target": "region:veloria-city"}, {"source": "inhabitant:oriven-tal", "target": "inhabitant:vailor-quentin"}, {"source": "inhabitant:oriven-tal", "target": "myth:the-familiar-regent-who-may-not-be-one"}, {"source": "inhabitant:oryn-pell", "target": "region:aelwyn-canopy"}, {"source": "inhabitant:oryn-pell", "target": "region:wabet"}, {"source": "inhabitant:oryn-pell", "target": "myth:the-canopy-truce-of-seven-paths"}, {"source": "inhabitant:sael-corvin", "target": "region:averra-isle"}, {"source": "inhabitant:sael-corvin", "target": "myth:the-golden-tears-of-averra"}, {"source": "inhabitant:serik-dovant", "target": "region:nauw"}, {"source": "inhabitant:serik-dovant", "target": "region:brindle-march"}, {"source": "inhabitant:serik-dovant", "target": "myth:the-steward-at-the-crossing-tables"}, {"source": "inhabitant:singing-fishermen", "target": "region:nauw-outer-rim-seas"}, {"source": "inhabitant:singing-fishermen", "target": "region:veloria-city"}, {"source": "inhabitant:sky-drifters", "target": "region:veloria-city"}, {"source": "inhabitant:tamsin-vor", "target": "region:velorian-basin"}, {"source": "inhabitant:tamsin-vor", "target": "region:nauw"}, {"source": "inhabitant:tamsin-vor", "target": "myth:the-moon-market-walk"}, {"source": "inhabitant:the-artist", "target": "region:veloria-city"}, {"source": "inhabitant:the-artist", "target": "region:nauw"}, {"source": "inhabitant:the-artist", "target": "region:sorel"}, {"source": "inhabitant:the-artist", "target": "myth:the-artist-returned-from-sorel"}, {"source": "inhabitant:vailor-quentin", "target": "region:f432-frequency-realm"}, {"source": "inhabitant:vailor-quentin", "target": "myth:the-red-sail-crown-of-vailor"}, {"source": "inhabitant:valorian-operators", "target": "region:veloria-city"}, {"source": "inhabitant:verdant-farmers", "target": "region:verdant-reach"}, {"source": "inhabitant:verdant-farmers", "target": "region:wabet"}, {"source": "inhabitant:verdant-farmers", "target": "region:nauw"}, {"source": "inhabitant:vexra-coil", "target": "region:driftfall"}, {"source": "inhabitant:vexra-coil", "target": "region:sorel"}, {"source": "inhabitant:vexra-coil", "target": "myth:the-flag-that-never-docked"}, {"source": "inhabitant:zephan-quell", "target": "region:the-sketchy-gallery"}, {"source": "inhabitant:zephan-quell", "target": "region:veloria-city"}, {"source": "inhabitant:zephan-quell", "target": "myth:the-curator-and-the-bull"}, {"source": "myth:old-masters-of-averra-isle", "target": "region:averra-isle"}, {"source": "myth:old-masters-of-averra-isle", "target": "region:glasswater-fields"}, {"source": "myth:old-masters-of-averra-isle", "target": "region:brindle-march"}, {"source": "myth:old-masters-of-averra-isle", "target": "region:velorian-basin"}, {"source": "myth:old-masters-of-averra-isle", "target": "region:nauw"}, {"source": "myth:the-artist-returned-from-sorel", "target": "region:sorel"}, {"source": "myth:the-artist-returned-from-sorel", "target": "region:veloria-city"}, {"source": "myth:the-artist-returned-from-sorel", "target": "region:nauw"}, {"source": "myth:the-canopy-truce-of-seven-paths", "target": "region:aelwyn-canopy"}, {"source": "myth:the-carrying-wings-of-nauw", "target": "inhabitant:mega-butterfly"}, {"source": "myth:the-carrying-wings-of-nauw", "target": "region:nauw"}, {"source": "myth:the-carrying-wings-of-nauw", "target": "region:averra-isle"}, {"source": "myth:the-carrying-wings-of-nauw", "target": "region:glasswater-fields"}, {"source": "myth:the-carrying-wings-of-nauw", "target": "artwork:between-two-places"}, {"source": "myth:the-curator-and-the-bull", "target": "region:the-sketchy-gallery"}, {"source": "myth:the-drifting-face-of-the-dunes", "target": "region:lumira-sands"}, {"source": "myth:the-familiar-regent-who-may-not-be-one", "target": "inhabitant:vailor-quentin"}, {"source": "myth:the-familiar-regent-who-may-not-be-one", "target": "region:veloria-city"}, {"source": "myth:the-flag-that-never-docked", "target": "region:driftfall"}, {"source": "myth:the-fracture-was-betrayal", "target": "world:dias"}, {"source": "myth:the-fracture-was-betrayal", "target": "world:the-fracture"}, {"source": "myth:the-fracture-was-betrayal", "target": "world:the-prime-realm"}, {"source": "myth:the-fracture-was-betrayal", "target": "artifact:the-prime-bridge"}, {"source": "myth:the-fracture-was-engineered", "target": "world:dias"}, {"source": "myth:the-fracture-was-engineered", "target": "world:the-fracture"}, {"source": "myth:the-fracture-was-engineered", "target": "world:the-prime-age"}, {"source": "myth:the-fracture-was-engineered", "target": "artifact:prime-relics"}, {"source": "myth:the-fracture-was-engineered", "target": "artifact:the-prime-bridge"}, {"source": "myth:the-fracture-was-natural", "target": "world:dias"}, {"source": "myth:the-fracture-was-natural", "target": "world:the-fracture"}, {"source": "myth:the-fracture-was-natural", "target": "world:the-prime-realm"}, {"source": "myth:the-fracture-was-over-resonance", "target": "world:dias"}, {"source": "myth:the-fracture-was-over-resonance", "target": "world:the-fracture"}, {"source": "myth:the-fracture-was-over-resonance", "target": "world:the-prime-realm"}, {"source": "myth:the-fruit-walker-at-your-door", "target": "region:wabet"}, {"source": "myth:the-fruit-walker-at-your-door", "target": "region:nauw"}, {"source": "myth:the-fruit-walker-at-your-door", "target": "region:sorel"}, {"source": "myth:the-fruit-walker-at-your-door", "target": "culture:nauw-fruit-reverence"}, {"source": "myth:the-fruit-walker-at-your-door", "target": "region:f432-frequency-realm"}, {"source": "myth:the-gel-helm-that-never-cracked", "target": "region:brindle-march"}, {"source": "myth:the-golden-tears-of-averra", "target": "region:averra-isle"}, {"source": "myth:the-kiln-fires-of-second-beginning", "target": "region:hearthvale"}, {"source": "myth:the-mask-kept-after-exile", "target": "region:sorel"}, {"source": "myth:the-moon-market-walk", "target": "region:velorian-basin"}, {"source": "myth:the-oath-of-uncut-water", "target": "region:wabet"}, {"source": "myth:the-orchard-warden-who-sees-inside-thought", "target": "region:verdant-reach"}, {"source": "myth:the-red-sail-crown-of-vailor", "target": "inhabitant:singing-fishermen"}, {"source": "myth:the-red-sail-crown-of-vailor", "target": "region:f432-frequency-realm"}, {"source": "myth:the-ring-blades-of-the-gate-knight", "target": "region:deb-gate-of-veloria"}, {"source": "myth:the-seven-of-averra-isle", "target": "region:averra-isle"}, {"source": "myth:the-seven-of-averra-isle", "target": "region:nauw"}, {"source": "myth:the-seven-of-averra-isle", "target": "myth:old-masters-of-averra-isle"}, {"source": "myth:the-seven-of-averra-isle", "target": "artwork:two-ways"}, {"source": "myth:the-seven-of-averra-isle", "target": "region:verdant-reach"}, {"source": "myth:the-sky-raid-memory-of-glasswater-fields", "target": "region:glasswater-fields"}, {"source": "myth:the-split-tide-bloodline", "target": "region:nauw-outer-rim-seas"}, {"source": "myth:the-steward-at-the-crossing-tables", "target": "region:brindle-march"}, {"source": "myth:the-steward-at-the-crossing-tables", "target": "region:nauw"}, {"source": "myth:the-still-pool-vigil", "target": "region:glasswater-fields"}, {"source": "myth:the-warden-who-closed-the-reefs", "target": "region:isle-of-calareth"}, {"source": "myth:the-warden-of-the-unwasted-hour", "target": "region:green-garden-border-lanes"}, {"source": "phenomenon:gate-ring-response-pattern", "target": "inhabitant:havren-pike"}, {"source": "phenomenon:gate-ring-response-pattern", "target": "region:deb-gate-of-veloria"}, {"source": "phenomenon:gate-ring-response-pattern", "target": "myth:the-ring-blades-of-the-gate-knight"}, {"source": "phenomenon:golden-tear-event", "target": "inhabitant:sael-corvin"}, {"source": "phenomenon:golden-tear-event", "target": "region:averra-isle"}, {"source": "phenomenon:golden-tear-event", "target": "myth:the-golden-tears-of-averra"}, {"source": "phenomenon:golden-tear-event", "target": "artwork:golden-teer-sael-corvin-portrait"}, {"source": "phenomenon:green-garden-shift", "target": "region:green-garden-border-lanes"}, {"source": "phenomenon:green-garden-shift", "target": "region:brindle-march"}, {"source": "phenomenon:green-garden-shift", "target": "region:glasswater-fields"}, {"source": "phenomenon:split-tide-double-presence", "target": "inhabitant:marek-solon"}, {"source": "phenomenon:split-tide-double-presence", "target": "region:nauw-outer-rim-seas"}, {"source": "phenomenon:split-tide-double-presence", "target": "myth:the-split-tide-bloodline"}, {"source": "phenomenon:split-tide-double-presence", "target": "artwork:peck-1-marek-solon-portrait"}, {"source": "region:aelwyn-canopy", "target": "region:wabet"}, {"source": "region:aelwyn-canopy", "target": "region:f432-frequency-realm"}, {"source": "region:averra-isle", "target": "region:nauw"}, {"source": "region:averra-isle", "target": "region:the-sketchy-gallery"}, {"source": "region:averra-isle", "target": "region:f432-frequency-realm"}, {"source": "region:brindle-march", "target": "region:nauw"}, {"source": "region:brindle-march", "target": "region:velorian-basin"}, {"source": "region:brindle-march", "target": "region:glasswater-fields"}, {"source": "region:brindle-march", "target": "region:wabet"}, {"source": "region:brindle-march", "target": "region:sorel"}, {"source": "region:brindle-march", "target": "region:hearthvale"}, {"source": "region:brindle-march", "target": "region:green-garden-border-lanes"}, {"source": "region:brindle-march", "target": "region:f432-frequency-realm"}, {"source": "region:deb-gate-of-veloria", "target": "region:veloria-city"}, {"source": "region:deb-gate-of-veloria", "target": "inhabitant:sky-drifters"}, {"source": "region:deb-gate-of-veloria", "target": "inhabitant:valorian-operators"}, {"source": "region:deb-gate-of-veloria", "target": "region:nauw"}, {"source": "region:driftfall", "target": "region:sorel"}, {"source": "region:driftfall", "target": "region:hearthvale"}, {"source": "region:driftfall", "target": "region:f432-frequency-realm"}, {"source": "region:f432-frequency-realm", "target": "world:dias"}, {"source": "region:f432-frequency-realm", "target": "region:nauw"}, {"source": "region:f432-frequency-realm", "target": "region:wabet"}, {"source": "region:f432-frequency-realm", "target": "region:sorel"}, {"source": "region:glasswater-fields", "target": "region:nauw"}, {"source": "region:glasswater-fields", "target": "region:veloria-city"}, {"source": "region:glasswater-fields", "target": "region:velorian-basin"}, {"source": "region:glasswater-fields", "target": "region:green-garden-border-lanes"}, {"source": "region:glasswater-fields", "target": "region:f432-frequency-realm"}, {"source": "region:green-garden-border-lanes", "target": "region:veloria-city"}, {"source": "region:green-garden-border-lanes", "target": "region:nauw"}, {"source": "region:hearthvale", "target": "region:sorel"}, {"source": "region:hearthvale", "target": "region:nauw"}, {"source": "region:hearthvale", "target": "region:f432-frequency-realm"}, {"source": "region:isle-of-calareth", "target": "region:wabet"}, {"source": "region:isle-of-calareth", "target": "region:f432-frequency-realm"}, {"source": "region:lumira-sands", "target": "region:wabet"}, {"source": "region:lumira-sands", "target": "region:f432-frequency-realm"}, {"source": "region:nauw", "target": "region:wabet"}, {"source": "region:nauw", "target": "region:sorel"}, {"source": "region:nauw", "target": "region:veloria-city"}, {"source": "region:nauw", "target": "region:velorian-basin"}, {"source": "region:nauw", "target": "region:nauw-outer-rim-seas"}, {"source": "region:nauw-outer-rim-seas", "target": "region:veloria-city"}, {"source": "region:nauw-outer-rim-seas", "target": "region:f432-frequency-realm"}, {"source": "region:sorel", "target": "region:wabet"}, {"source": "region:the-sketchy-gallery", "target": "region:veloria-city"}, {"source": "region:the-sketchy-gallery", "target": "region:nauw"}, {"source": "region:veloria-city", "target": "region:velorian-basin"}, {"source": "region:velorian-basin", "target": "region:f432-frequency-realm"}, {"source": "region:verdant-reach", "target": "region:wabet"}, {"source": "region:verdant-reach", "target": "region:nauw"}, {"source": "region:verdant-reach", "target": "region:f432-frequency-realm"}, {"source": "world:dias", "target": "world:the-prime-realm"}, {"source": "world:dias", "target": "world:the-fracture"}, {"source": "world:dias", "target": "world:the-prime-age"}, {"source": "world:dias", "target": "world:the-present-age"}, {"source": "world:the-fracture", "target": "world:the-prime-realm"}, {"source": "world:the-fracture", "target": "world:the-prime-age"}, {"source": "world:the-fracture", "target": "world:the-present-age"}, {"source": "world:the-present-age", "target": "world:the-prime-realm"}, {"source": "world:the-present-age", "target": "world:the-prime-age"}, {"source": "world:the-present-age", "target": "artifact:prime-relics"}, {"source": "world:the-present-age", "target": "artifact:the-prime-bridge"}, {"source": "world:the-prime-age", "target": "world:the-prime-realm"}]};
+    const svg = document.getElementById('graph');
+    const searchInput = document.getElementById('search');
+    const categoryList = document.getElementById('category-list');
+    const selectAllCategoriesBtn = document.getElementById('select-all-categories');
+    const deselectAllCategoriesBtn = document.getElementById('deselect-all-categories');
+    const selectedEl = document.getElementById('selected');
+    const statsEl = document.getElementById('stats');
+    const spacingInput = document.getElementById('spacing');
+    const artworkPreviewEl = document.getElementById('artwork-preview');
+    const artworkPreviewTitleEl = document.getElementById('artwork-preview-title');
+    const artworkPreviewMediaEl = document.getElementById('artwork-preview-media');
+    const artworkPreviewCloseEl = document.getElementById('artwork-preview-close');
+
+    // Canonical Story Architect categories + defaults.
+    const canonicalColors = {
+      world: '#6ea8ff',
+      region: '#f48fb1',
+      rule: '#8dd3c7',
+      culture: '#80cbc4',
+      inhabitant: '#ffd180',
+      artifact: '#ce93d8',
+      symbol: '#ffcc80',
+      myth: '#b0bec5',
+      story: '#90caf9',
+      artwork: '#ffab91',
+      phenomenon: '#a5d6a7',
+      unknown: '#90a4ae',
+    };
+
+    function fallbackColorForCategory(category) {
+      // Deterministic HSL so unknown/new categories always get a stable color.
+      let hash = 0;
+      for (let i = 0; i < category.length; i += 1) {
+        hash = (hash * 31 + category.charCodeAt(i)) | 0;
+      }
+      const hue = Math.abs(hash) % 360;
+      return `hsl(${hue} 70% 70%)`;
+    }
+
+    function colorForCategory(category) {
+      return canonicalColors[category] || fallbackColorForCategory(category || 'unknown');
+    }
+
+    const categories = [...new Set(graph.nodes.map(n => n.category))].sort();
+    const selectedCategories = new Set(categories);
+    for (const c of categories) {
+      const row = document.createElement('label');
+      row.className = 'cat-item';
+      const left = document.createElement('span');
+      left.className = 'cat-item-left';
+      const box = document.createElement('input');
+      box.type = 'checkbox';
+      box.value = c;
+      box.checked = true;
+      box.addEventListener('change', () => {
+        if (box.checked) selectedCategories.add(c);
+        else selectedCategories.delete(c);
+        applyFilters();
+      });
+      const text = document.createElement('span');
+      text.textContent = c;
+      const dot = document.createElement('span');
+      dot.className = 'cat-color-dot';
+      dot.style.background = colorForCategory(c);
+      left.append(box, text);
+      row.append(left, dot);
+      categoryList.appendChild(row);
+    }
+
+    const width = 2200;
+    const height = 1600;
+    const radiusByCategory = (c) => (c === 'world' ? 9 : c === 'region' ? 7.5 : 6);
+    const nodeById = new Map(graph.nodes.map(n => [n.id, n]));
+    const graphRoot = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+
+    const startRadius = Math.max(500, Math.min(820, graph.nodes.length * 5.1));
+    graph.nodes.forEach((n, i) => {
+      const angle = (i / graph.nodes.length) * Math.PI * 2;
+      n.x = width / 2 + Math.cos(angle) * startRadius + (Math.random() - 0.5) * 70;
+      n.y = height / 2 + Math.sin(angle) * startRadius + (Math.random() - 0.5) * 70;
+      n.vx = 0;
+      n.vy = 0;
+      n.r = radiusByCategory(n.category);
+      n.color = colorForCategory(n.category);
+    });
+
+    const edgeGroup = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+    const nodeGroup = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+    const labelGroup = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+    graphRoot.append(edgeGroup, nodeGroup, labelGroup);
+    svg.append(graphRoot);
+
+    const edgeEls = [];
+    for (const e of graph.edges) {
+      const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+      line.setAttribute('class', 'edge');
+      edgeGroup.appendChild(line);
+      edgeEls.push([e, line]);
+    }
+
+    const nodeEls = [];
+    const labelEls = [];
+    const subLabelEls = [];
+    for (const n of graph.nodes) {
+      const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      circle.setAttribute('class', 'node');
+      circle.setAttribute('r', String(n.r));
+      circle.setAttribute('fill', n.color);
+      circle.setAttribute('data-node-id', n.id);
+      nodeGroup.appendChild(circle);
+      nodeEls.push([n, circle]);
+
+      const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      text.setAttribute('class', 'label');
+      text.textContent = n.label;
+      text.setAttribute('data-node-id', n.id);
+      labelGroup.appendChild(text);
+      labelEls.push([n, text]);
+
+      const sub = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      sub.setAttribute('class', 'sub-label');
+      sub.textContent = n.category;
+      sub.setAttribute('data-node-id', n.id);
+      labelGroup.appendChild(sub);
+      subLabelEls.push([n, sub]);
+    }
+
+    let selectedNodeId = null;
+    let dragPan = null;
+    let isSpacePressed = false;
+    let suppressBackgroundClickOnce = false;
+    let hiddenArtworkForNodeId = null;
+    let filterText = '';
+    let spacingStrength = Number(spacingInput.value);
+    let scale = 1;
+    let offsetX = 0;
+    let offsetY = 0;
+    const MIN_SCALE = 0.34;
+    const MAX_SCALE = 2.8;
+    let simulationEnergy = 1.0;
+    const MIN_SIM_ENERGY = 0.012;
+    let settledFrames = 0;
+    const SETTLE_FRAMES_REQUIRED = 20;
+
+    function clamp(v, min, max) {
+      return Math.max(min, Math.min(max, v));
+    }
+
+    function neighbors(id) {
+      const ids = new Set([id]);
+      for (const e of graph.edges) {
+        if (e.source === id) ids.add(e.target);
+        if (e.target === id) ids.add(e.source);
+      }
+      return ids;
+    }
+
+    function setSelected(id) {
+      selectedNodeId = id;
+      const n = nodeById.get(id);
+      if (hiddenArtworkForNodeId !== id) {
+        renderArtworkPreview(n);
+      }
+      const themeText = n.themes.length ? n.themes.join(', ') : 'none';
+      selectedEl.innerHTML = `
+        <span class="k">Name</span><span class="v">${n.label}</span>
+        <span class="k">Category</span><span class="v">${n.category}</span>
+        <span class="k">Status</span><span class="v">${n.status}</span>
+        <span class="k">Themes</span><span class="v">${themeText}</span>
+        <span class="k">File</span><span class="v"><code>${n.path}</code></span>
+      `;
+      applyFilters();
+    }
+
+    function clearSelection() {
+      selectedNodeId = null;
+      selectedEl.innerHTML = 'Click a node to inspect details.';
+      hideArtworkPreview();
+      applyFilters();
+    }
+
+    function assetUrlFromPath(assetPath) {
+      if (!assetPath) return '';
+      return `../${assetPath}`;
+    }
+
+    function hideArtworkPreview() {
+      artworkPreviewEl.classList.remove('visible');
+      artworkPreviewMediaEl.removeAttribute('src');
+    }
+
+    function renderArtworkPreview(node) {
+      if (!node || node.category !== 'artwork' || !node.asset_path) {
+        hideArtworkPreview();
+        return;
+      }
+      artworkPreviewTitleEl.textContent = node.label;
+      artworkPreviewMediaEl.src = assetUrlFromPath(node.asset_path);
+      artworkPreviewEl.classList.add('visible');
+    }
+
+    function matchNode(n) {
+      if (!selectedCategories.has(n.category)) return false;
+      if (!filterText) return true;
+      const hay = `${n.label} ${n.category} ${n.path} ${n.themes.join(' ')}`.toLowerCase();
+      return hay.includes(filterText);
+    }
+
+    function applyFilters() {
+      const visibleNodeIds = new Set(graph.nodes.filter(matchNode).map(n => n.id));
+      const neighborIds = selectedNodeId ? neighbors(selectedNodeId) : null;
+
+      for (const [n, el] of nodeEls) {
+        const isVisible = visibleNodeIds.has(n.id);
+        const shouldDim = !isVisible || (neighborIds && !neighborIds.has(n.id));
+        const isSelected = selectedNodeId === n.id;
+        const isConnected = !!(neighborIds && !isSelected && neighborIds.has(n.id));
+        el.classList.toggle('dim', shouldDim);
+        el.classList.toggle('selected', isSelected && isVisible);
+        el.classList.toggle('connected', isConnected && isVisible);
+        el.style.display = isVisible ? 'block' : 'none';
+      }
+
+      for (const [n, el] of labelEls) {
+        const isVisible = visibleNodeIds.has(n.id);
+        const shouldDim = !isVisible || (neighborIds && !neighborIds.has(n.id));
+        const isSelected = selectedNodeId === n.id;
+        const isConnected = !!(neighborIds && !isSelected && neighborIds.has(n.id));
+        el.classList.toggle('dim', shouldDim);
+        el.classList.toggle('selected', isSelected && isVisible);
+        el.classList.toggle('connected', isConnected && isVisible);
+        el.style.display = isVisible ? 'block' : 'none';
+      }
+      for (const [n, el] of subLabelEls) {
+        const isVisible = visibleNodeIds.has(n.id);
+        const shouldDim = !isVisible || (neighborIds && !neighborIds.has(n.id));
+        const isSelected = selectedNodeId === n.id;
+        const isConnected = !!(neighborIds && !isSelected && neighborIds.has(n.id));
+        el.classList.toggle('dim', shouldDim);
+        el.classList.toggle('selected', isSelected && isVisible);
+        el.classList.toggle('connected', isConnected && isVisible);
+        el.style.display = isVisible ? 'block' : 'none';
+      }
+
+      let visibleEdges = 0;
+      for (const [e, el] of edgeEls) {
+        const sourceVisible = visibleNodeIds.has(e.source);
+        const targetVisible = visibleNodeIds.has(e.target);
+        const visible = sourceVisible && targetVisible;
+        if (visible) visibleEdges += 1;
+        const isConnected = !!(selectedNodeId && visible && (e.source === selectedNodeId || e.target === selectedNodeId));
+        const shouldDim = !visible || (selectedNodeId && !isConnected);
+        el.classList.toggle('dim', shouldDim);
+        el.classList.toggle('connected', isConnected);
+        el.style.display = visible ? 'block' : 'none';
+      }
+
+      statsEl.textContent = `${visibleNodeIds.size} visible nodes, ${visibleEdges} visible links`;
+    }
+
+    function applyTransform() {
+      graphRoot.setAttribute('transform', `translate(${offsetX} ${offsetY}) scale(${scale})`);
+    }
+
+    function toWorld(screenX, screenY) {
+      return {
+        x: (screenX - offsetX) / scale,
+        y: (screenY - offsetY) / scale,
+      };
+    }
+
+    function zoomAt(factor, sx, sy) {
+      const nextScale = clamp(scale * factor, MIN_SCALE, MAX_SCALE);
+      if (nextScale === scale) return;
+      const wx = (sx - offsetX) / scale;
+      const wy = (sy - offsetY) / scale;
+      scale = nextScale;
+      offsetX = sx - wx * scale;
+      offsetY = sy - wy * scale;
+      applyTransform();
+    }
+
+    function tick() {
+      if (simulationEnergy <= MIN_SIM_ENERGY) return;
+      let totalMotion = 0;
+
+      for (const e of graph.edges) {
+        const a = nodeById.get(e.source);
+        const b = nodeById.get(e.target);
+        const dx = b.x - a.x;
+        const dy = b.y - a.y;
+        const dist = Math.max(1, Math.hypot(dx, dy));
+        const ideal = spacingStrength;
+        const force = (dist - ideal) * (0.0028 * simulationEnergy);
+        const fx = (dx / dist) * force;
+        const fy = (dy / dist) * force;
+        a.vx += fx; a.vy += fy;
+        b.vx -= fx; b.vy -= fy;
+      }
+
+      for (let i = 0; i < graph.nodes.length; i++) {
+        for (let j = i + 1; j < graph.nodes.length; j++) {
+          const a = graph.nodes[i];
+          const b = graph.nodes[j];
+          const dx = b.x - a.x;
+          const dy = b.y - a.y;
+          const dist = Math.max(1, Math.hypot(dx, dy));
+          const minDist = a.r + b.r + (spacingStrength * 0.5);
+          if (dist < minDist) {
+            const push = (minDist - dist) * (0.06 * simulationEnergy);
+            const px = (dx / dist) * push;
+            const py = (dy / dist) * push;
+            a.vx -= px; a.vy -= py;
+            b.vx += px; b.vy += py;
+          }
+        }
+      }
+
+      for (const n of graph.nodes) {
+        const dx = width / 2 - n.x;
+        const dy = height / 2 - n.y;
+        n.vx += dx * (0.00013 * simulationEnergy);
+        n.vy += dy * (0.00013 * simulationEnergy);
+        n.vx *= 0.82;
+        n.vy *= 0.82;
+        if (Math.abs(n.vx) < 0.003) n.vx = 0;
+        if (Math.abs(n.vy) < 0.003) n.vy = 0;
+        n.x += n.vx;
+        n.y += n.vy;
+        n.x = clamp(n.x, n.r + 16, width - n.r - 16);
+        n.y = clamp(n.y, n.r + 16, height - n.r - 16);
+        totalMotion += Math.abs(n.vx) + Math.abs(n.vy);
+      }
+
+      // Cool the simulation so nodes settle and stop jiggling.
+      simulationEnergy *= 0.992;
+      if (simulationEnergy < MIN_SIM_ENERGY) simulationEnergy = MIN_SIM_ENERGY;
+
+      if (totalMotion < graph.nodes.length * 0.01) {
+        settledFrames += 1;
+      } else {
+        settledFrames = 0;
+      }
+
+      // Hard-stop micro motion once layout is stable.
+      if (settledFrames >= SETTLE_FRAMES_REQUIRED) {
+        simulationEnergy = MIN_SIM_ENERGY;
+        for (const n of graph.nodes) {
+          n.vx = 0;
+          n.vy = 0;
+        }
+      }
+    }
+
+    function render() {
+      for (const [e, line] of edgeEls) {
+        const a = nodeById.get(e.source);
+        const b = nodeById.get(e.target);
+        line.setAttribute('x1', a.x);
+        line.setAttribute('y1', a.y);
+        line.setAttribute('x2', b.x);
+        line.setAttribute('y2', b.y);
+      }
+      for (const [n, circle] of nodeEls) {
+        circle.setAttribute('cx', n.x);
+        circle.setAttribute('cy', n.y);
+      }
+      for (const [n, text] of labelEls) {
+        text.setAttribute('x', n.x + n.r + 2);
+        text.setAttribute('y', n.y + 3);
+      }
+      for (const [n, text] of subLabelEls) {
+        text.setAttribute('x', n.x + n.r + 2);
+        text.setAttribute('y', n.y + 12);
+      }
+    }
+
+    function frame() {
+      tick();
+      render();
+      requestAnimationFrame(frame);
+    }
+
+    function pickNodeFromPoint(x, y) {
+      for (const n of graph.nodes) {
+        const dx = n.x - x;
+        const dy = n.y - y;
+        if (Math.hypot(dx, dy) <= n.r + 9) return n;
+      }
+      return null;
+    }
+
+    const toLocal = (evt) => {
+      const rect = svg.getBoundingClientRect();
+      const sx = width / rect.width;
+      const sy = height / rect.height;
+      const screenX = (evt.clientX - rect.left) * sx;
+      const screenY = (evt.clientY - rect.top) * sy;
+      return toWorld(screenX, screenY);
+    };
+
+    svg.addEventListener('pointerdown', (evt) => {
+      simulationEnergy = 1.0;
+      settledFrames = 0;
+      const wantsPan = evt.button === 1 || (evt.button === 0 && isSpacePressed);
+      if (!wantsPan) return;
+      const clickedNodeId = evt.target && evt.target.getAttribute ? evt.target.getAttribute('data-node-id') : null;
+      if (!clickedNodeId) {
+        evt.preventDefault();
+        dragPan = { x: evt.clientX, y: evt.clientY };
+        svg.classList.add('panning');
+        svg.setPointerCapture(evt.pointerId);
+      }
+    });
+
+    svg.addEventListener('pointermove', (evt) => {
+      if (dragPan) {
+        const rect = svg.getBoundingClientRect();
+        const sx = width / rect.width;
+        const sy = height / rect.height;
+        offsetX += (evt.clientX - dragPan.x) * sx;
+        offsetY += (evt.clientY - dragPan.y) * sy;
+        dragPan = { x: evt.clientX, y: evt.clientY };
+        suppressBackgroundClickOnce = true;
+        applyTransform();
+      }
+    });
+
+    svg.addEventListener('pointerup', (evt) => {
+      dragPan = null;
+      svg.classList.remove('panning');
+      try { svg.releasePointerCapture(evt.pointerId); } catch (_err) {}
+    });
+
+    svg.addEventListener('pointercancel', () => {
+      dragPan = null;
+      svg.classList.remove('panning');
+    });
+
+    svg.addEventListener('wheel', (evt) => {
+      evt.preventDefault();
+      const rect = svg.getBoundingClientRect();
+      const sx = width / rect.width;
+      const sy = height / rect.height;
+      const cx = (evt.clientX - rect.left) * sx;
+      const cy = (evt.clientY - rect.top) * sy;
+      const factor = evt.deltaY < 0 ? 1.1 : 0.9;
+      zoomAt(factor, cx, cy);
+    }, { passive: false });
+
+    function centerView() {
+      // Start with the graph centered in the viewport.
+      scale = 1;
+      offsetX = 0;
+      offsetY = 0;
+      applyTransform();
+    }
+
+    spacingInput.addEventListener('input', (evt) => {
+      spacingStrength = Number(evt.target.value);
+      simulationEnergy = 1.0;
+      settledFrames = 0;
+    });
+
+    svg.addEventListener('click', (evt) => {
+      const clickedNodeId = evt.target && evt.target.getAttribute ? evt.target.getAttribute('data-node-id') : null;
+      if (clickedNodeId) {
+        hiddenArtworkForNodeId = null;
+        setSelected(clickedNodeId);
+        return;
+      }
+      if (suppressBackgroundClickOnce) {
+        suppressBackgroundClickOnce = false;
+        return;
+      }
+      clearSelection();
+    });
+
+    window.addEventListener('keydown', (evt) => {
+      if (evt.code === 'Space') {
+        isSpacePressed = true;
+        svg.classList.add('pan-ready');
+        evt.preventDefault();
+      }
+    });
+
+    window.addEventListener('keyup', (evt) => {
+      if (evt.code === 'Space') {
+        isSpacePressed = false;
+        svg.classList.remove('pan-ready');
+      }
+    });
+
+    artworkPreviewCloseEl.addEventListener('click', () => {
+      hideArtworkPreview();
+      hiddenArtworkForNodeId = selectedNodeId;
+    });
+
+    selectAllCategoriesBtn.addEventListener('click', () => {
+      selectedCategories.clear();
+      for (const c of categories) selectedCategories.add(c);
+      for (const box of categoryList.querySelectorAll('input[type="checkbox"]')) {
+        box.checked = true;
+      }
+      applyFilters();
+    });
+
+    deselectAllCategoriesBtn.addEventListener('click', () => {
+      selectedCategories.clear();
+      for (const box of categoryList.querySelectorAll('input[type="checkbox"]')) {
+        box.checked = false;
+      }
+      applyFilters();
+    });
+
+    searchInput.addEventListener('input', (evt) => {
+      filterText = evt.target.value.trim().toLowerCase();
+      applyFilters();
+    });
+
+    centerView();
+    applyFilters();
+    frame();
+  </script>
+</body>
+</html>
