@@ -21,6 +21,7 @@ related:
   - Running
   - Green Garden Border Lanes
   - Green Garden
+  - Poster of Veloria City
 themes:
   - capital
   - concentric city
@@ -66,6 +67,8 @@ The contrast between the medieval-feeling rim and the realm-powering core is cen
 | Structured | 1 | Ring Council | Oriven Tal, Ring Regent of Veloria City |
 
 ## Stories or Depictions
+
+*Poster of Veloria City* is treated as a canonical city-arrival depiction showing inhabitants entering Veloria by cart.
 
 ## Notes
 

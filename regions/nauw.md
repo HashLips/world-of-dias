@@ -19,6 +19,7 @@ related:
   - Nauw Outer Rim Seas
   - Hunger
   - Nauw Fruit Reverence
+  - Map of Nauw
 themes:
   - trade routes
   - diversity of peoples
@@ -59,6 +60,8 @@ On southern Nauw, a major bridge crosses the border into northern Sorel (Hearthv
 | Structured | 2 | Nauw Concord | Serik Dovant, High Steward of Nauw |
 
 ## Stories or Depictions
+
+*Map of Nauw* is treated as a canonical close-up representation of Nauw's established geography within F432.
 
 ## Notes
 

@@ -16,6 +16,7 @@ related:
   - Nauw Fruit Reverence
   - Two Ways
   - Hunger
+  - Map of Wabet
 themes:
   - natural purity
   - serenity
@@ -56,6 +57,8 @@ Recognized subregions include Aelwyn Canopy across the north (with limited exten
 | Tribal + Stewardship | 2 | Wabet Keepers | Elyra Mossen, First Keeper of Wabet |
 
 ## Stories or Depictions
+
+*Map of Wabet* is treated as a canonical close-up representation of Wabet's established regional layout.
 
 ## Notes
 

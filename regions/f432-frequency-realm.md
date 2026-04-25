@@ -11,6 +11,10 @@ related:
   - Wabet
   - Sorel
   - Early F432 Survey Map
+  - F432 Map V1
+  - Map of Nauw
+  - Map of Wabet
+  - Map of Sorel
 themes:
   - stability
   - trade
@@ -45,6 +49,8 @@ Current geographic framing places Wabet along the full western side of the F432 
 ## Stories or Depictions
 
 The **Early F432 Survey Map** is treated as a canonical early-era depiction of the realm's broad layout (Wabet west, Nauw north-east, Sorel south-east), while remaining intentionally incomplete for future charting updates.
+
+*Map of Nauw*, *Map of Wabet*, and *Map of Sorel* are treated as close-up regional representations derived from established F432 geography.
 
 ## Notes
 

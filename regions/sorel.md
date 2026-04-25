@@ -11,6 +11,7 @@ related:
   - Wabet
   - Hearthvale
   - Driftfall
+  - Map of Sorel
 themes:
   - exile
   - frontier survival
@@ -46,6 +47,8 @@ Within Sorel, two major territories divide the land: Hearthvale lies on the west
 | Frontier | 2 | Freebands of Sorel | Carrow Vale, First Exile of Sorel |
 
 ## Stories or Depictions
+
+*Map of Sorel* is treated as a canonical close-up representation of Sorel, with clear emphasis on the Hearthvale-Driftfall split.
 
 ## Notes
 
