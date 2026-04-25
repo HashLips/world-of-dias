@@ -221,19 +221,19 @@ def render_html(payload: Dict[str, object]) -> str:
   <style>
     :root {{
       color-scheme: dark;
-      --bg: #0b1020;
-      --panel: #111833;
-      --ink: #e7ecff;
-      --muted: #9da7cc;
-      --line: #3b4b85;
-      --accent: #86a8ff;
+      --bg: #0b0b0c;
+      --panel: #151516;
+      --ink: #ebebee;
+      --muted: #a1a1a8;
+      --line: #3b3b40;
+      --accent: #c8c8cc;
     }}
     * {{ box-sizing: border-box; }}
     body {{
       margin: 0;
       font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
       color: var(--ink);
-      background: radial-gradient(circle at 20% 10%, #1a2451 0%, var(--bg) 45%);
+      background: radial-gradient(circle at 20% 10%, #1b1b1e 0%, var(--bg) 48%);
       height: 100vh;
       display: grid;
       grid-template-columns: 320px 1fr;
@@ -259,9 +259,9 @@ def render_html(payload: Dict[str, object]) -> str:
     label.tight {{ gap: 1px; }}
     input, select {{
       width: 100%;
-      border: 1px solid #3b4b85;
+      border: 1px solid #3e3e44;
       border-radius: 8px;
-      background: #0f1430;
+      background: #101012;
       color: var(--ink);
       padding: 8px 10px;
       outline: none;
@@ -283,23 +283,23 @@ def render_html(payload: Dict[str, object]) -> str:
       gap: 6px;
     }}
     .tiny-btn {{
-      border: 1px solid #3b4b85;
+      border: 1px solid #43434a;
       border-radius: 7px;
-      background: #121a3f;
+      background: #1a1a1d;
       color: var(--ink);
       padding: 4px 8px;
       font-size: 0.75rem;
       cursor: pointer;
     }}
     .tiny-btn:hover {{
-      background: #1a2755;
+      background: #242428;
     }}
     #category-list {{
       max-height: 160px;
       overflow: auto;
-      border: 1px solid #384574;
+      border: 1px solid #3b3b41;
       border-radius: 8px;
-      background: #101735;
+      background: #131316;
       padding: 6px;
       display: grid;
       gap: 4px;
@@ -331,19 +331,19 @@ def render_html(payload: Dict[str, object]) -> str:
       flex: 0 0 auto;
     }}
     #selected {{
-      border: 1px solid #384574;
+      border: 1px solid #3b3b41;
       border-radius: 10px;
       padding: 10px;
       font-size: 0.86rem;
-      background: #101735;
+      background: #131316;
       overflow: auto;
       flex: 1;
       min-height: 140px;
     }}
     #artwork-preview {{
-      border: 1px solid #384574;
+      border: 1px solid #3b3b41;
       border-radius: 10px;
-      background: #101735;
+      background: #131316;
       overflow: hidden;
       display: none;
     }}
@@ -353,13 +353,13 @@ def render_html(payload: Dict[str, object]) -> str:
       justify-content: space-between;
       align-items: center;
       padding: 8px 10px;
-      border-bottom: 1px solid #2b3a68;
-      color: #dbe4ff;
+      border-bottom: 1px solid #333339;
+      color: #e2e2e7;
       font-size: 0.8rem;
     }}
     #artwork-preview-close {{
-      border: 1px solid #4b5e9d;
-      background: #1a2755;
+      border: 1px solid #4a4a52;
+      background: #222227;
       color: #fff;
       border-radius: 6px;
       width: 22px;
@@ -374,12 +374,70 @@ def render_html(payload: Dict[str, object]) -> str:
       max-height: 190px;
       object-fit: contain;
       display: block;
-      background: #0c1230;
+      background: #0f0f11;
     }}
     .k {{ color: var(--muted); display: block; font-size: 0.75rem; }}
     .v {{ display: block; margin-bottom: 8px; }}
     #stats {{ color: var(--muted); font-size: 0.8rem; }}
     main {{ position: relative; overflow: hidden; }}
+    #mix-card {{
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      right: 10px;
+      z-index: 8;
+      border: 1px solid #3b3b41;
+      background: rgba(16, 16, 18, 0.9);
+      border-radius: 10px;
+      padding: 8px 10px;
+      backdrop-filter: blur(4px);
+    }}
+    #mix-title {{
+      font-size: 0.76rem;
+      color: #d5d5db;
+      margin-bottom: 6px;
+    }}
+    #mix-track {{
+      height: 10px;
+      border-radius: 999px;
+      overflow: hidden;
+      background: #17171a;
+      border: 1px solid #3a3a40;
+      display: flex;
+    }}
+    .mix-segment {{
+      height: 100%;
+      min-width: 1px;
+    }}
+    #mix-legend {{
+      margin-top: 7px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }}
+    .mix-item {{
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.72rem;
+      color: #dfdfe4;
+      white-space: nowrap;
+    }}
+    .mix-item.zero {{
+      color: #f2a7a7;
+      opacity: 0.72;
+    }}
+    .mix-item.zero .mix-dot {{
+      border-color: rgba(242, 167, 167, 0.7);
+      opacity: 0.75;
+    }}
+    .mix-dot {{
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      border: 1px solid rgba(255, 255, 255, 0.42);
+      flex: 0 0 auto;
+    }}
     #graph {{ width: 100%; height: 100%; display: block; }}
     #graph.panning {{ cursor: grabbing; }}
     #graph.pan-ready {{ cursor: grab; }}
@@ -446,6 +504,11 @@ def render_html(payload: Dict[str, object]) -> str:
     <div id="stats"></div>
   </aside>
   <main>
+    <div id="mix-card">
+      <div id="mix-title">Connection mix</div>
+      <div id="mix-track"></div>
+      <div id="mix-legend"></div>
+    </div>
     <svg id="graph" viewBox="0 0 2200 1600" preserveAspectRatio="xMidYMid meet"></svg>
   </main>
   <script>
@@ -458,6 +521,9 @@ def render_html(payload: Dict[str, object]) -> str:
     const selectedEl = document.getElementById('selected');
     const statsEl = document.getElementById('stats');
     const spacingInput = document.getElementById('spacing');
+    const mixTitleEl = document.getElementById('mix-title');
+    const mixTrackEl = document.getElementById('mix-track');
+    const mixLegendEl = document.getElementById('mix-legend');
     const artworkPreviewEl = document.getElementById('artwork-preview');
     const artworkPreviewTitleEl = document.getElementById('artwork-preview-title');
     const artworkPreviewMediaEl = document.getElementById('artwork-preview-media');
@@ -708,6 +774,94 @@ def render_html(payload: Dict[str, object]) -> str:
       }}
 
       statsEl.textContent = `${{visibleNodeIds.size}} visible nodes, ${{visibleEdges}} visible links`;
+      renderConnectionMix(visibleNodeIds, neighborIds);
+    }}
+
+    function collectMixFromVisible(visibleNodeIds) {{
+      const counts = new Map();
+      for (const id of visibleNodeIds) {{
+        const n = nodeById.get(id);
+        if (!n) continue;
+        const key = n.category || 'unknown';
+        counts.set(key, (counts.get(key) || 0) + 1);
+      }}
+      return counts;
+    }}
+
+    function collectMixFromNode(nodeId) {{
+      const counts = new Map();
+      if (!nodeId) return counts;
+      const origin = nodeById.get(nodeId);
+      if (origin) {{
+        counts.set(origin.category || 'unknown', 1);
+      }}
+      for (const e of graph.edges) {{
+        let neighborId = null;
+        if (e.source === nodeId) neighborId = e.target;
+        if (e.target === nodeId) neighborId = e.source;
+        if (!neighborId) continue;
+        const n = nodeById.get(neighborId);
+        if (!n) continue;
+        const key = n.category || 'unknown';
+        counts.set(key, (counts.get(key) || 0) + 1);
+      }}
+      return counts;
+    }}
+
+    function sortMixEntries(counts) {{
+      const allCategories = new Set([...categories, ...counts.keys()]);
+      const fullEntries = [...allCategories].map((category) => [category, counts.get(category) || 0]);
+      return fullEntries.sort((a, b) => {{
+        if (b[1] !== a[1]) return b[1] - a[1];
+        return a[0].localeCompare(b[0]);
+      }});
+    }}
+
+    function renderConnectionMix(visibleNodeIds, neighborIds) {{
+      const counts = selectedNodeId
+        ? collectMixFromNode(selectedNodeId)
+        : collectMixFromVisible(visibleNodeIds);
+      const entries = sortMixEntries(counts);
+      const total = entries.reduce((acc, [, count]) => acc + count, 0);
+
+      mixTrackEl.innerHTML = '';
+      mixLegendEl.innerHTML = '';
+
+      if (total <= 0) {{
+        mixTitleEl.textContent = selectedNodeId ? 'Connection mix (selected)' : 'Connection mix (visible graph)';
+        const empty = document.createElement('span');
+        empty.className = 'mix-item';
+        empty.textContent = 'No data';
+        mixLegendEl.appendChild(empty);
+        return;
+      }}
+
+      mixTitleEl.textContent = selectedNodeId
+        ? 'Connection mix (selected node + direct links)'
+        : 'Connection mix (visible graph)';
+
+      for (const [category, count] of entries) {{
+        const pct = (count / total) * 100;
+
+        if (count > 0) {{
+          const seg = document.createElement('span');
+          seg.className = 'mix-segment';
+          seg.style.width = `${{pct}}%`;
+          seg.style.background = colorForCategory(category);
+          mixTrackEl.appendChild(seg);
+        }}
+
+        const item = document.createElement('span');
+        item.className = 'mix-item';
+        const dot = document.createElement('span');
+        dot.className = 'mix-dot';
+        dot.style.background = colorForCategory(category);
+        const text = document.createElement('span');
+        text.textContent = `${{category}} ${{count > 0 ? Math.round(pct) : 0}}%`;
+        item.append(dot, text);
+        if (count === 0) item.classList.add('zero');
+        mixLegendEl.appendChild(item);
+      }}
     }}
 
     function applyTransform() {{
