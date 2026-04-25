@@ -675,6 +675,13 @@ def render_html(payload: Dict[str, object]) -> str:
 
     function setSelected(id) {{
       selectedNodeId = id;
+      // Keep selection static; do not animate after click.
+      simulationEnergy = MIN_SIM_ENERGY;
+      settleTicksRemaining = 0;
+      for (const node of graph.nodes) {{
+        node.vx = 0;
+        node.vy = 0;
+      }}
       const n = nodeById.get(id);
       if (hiddenArtworkForNodeId !== id) {{
         renderArtworkPreview(n);
@@ -1006,10 +1013,11 @@ def render_html(payload: Dict[str, object]) -> str:
     }};
 
     svg.addEventListener('pointerdown', (evt) => {{
-      simulationEnergy = 1.0;
-      settledFrames = 0;
       const wantsPan = evt.button === 1 || (evt.button === 0 && isSpacePressed);
       if (!wantsPan) return;
+      simulationEnergy = 0.45;
+      settledFrames = 0;
+      settleTicksRemaining = 10;
       const clickedNodeId = evt.target && evt.target.getAttribute ? evt.target.getAttribute('data-node-id') : null;
       if (!clickedNodeId) {{
         evt.preventDefault();
@@ -1056,9 +1064,9 @@ def render_html(payload: Dict[str, object]) -> str:
 
     function centerView() {{
       // Start with the graph centered in the viewport.
-      scale = 1;
-      offsetX = 0;
-      offsetY = 0;
+      scale = 1.2;
+      offsetX = (width * (1 - scale)) / 2;
+      offsetY = (height * (1 - scale)) / 2;
       applyTransform();
     }}
 
