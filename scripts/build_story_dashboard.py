@@ -34,6 +34,8 @@ class Entry:
     related: List[str]
     raw_links: List[str]
     asset_path: str
+    region: str
+    parent_region: str
 
 
 def slugify(text: str) -> str:
@@ -154,6 +156,8 @@ def extract_entry(path: Path) -> Optional[Entry]:
         related=related_values,
         raw_links=raw_links,
         asset_path=extract_asset_path(text),
+        region=str(frontmatter.get("region") or "").strip(),
+        parent_region=str(frontmatter.get("parent_region") or "").strip(),
     )
 
 
@@ -186,6 +190,8 @@ def build_graph_payload(entries: List[Entry]) -> Dict[str, object]:
                 "themes": e.themes,
                 "path": e.path,
                 "asset_path": e.asset_path,
+                "region": e.region,
+                "parent_region": e.parent_region,
             }
         )
 
@@ -257,6 +263,7 @@ def render_html(payload: Dict[str, object]) -> str:
     .muted {{ color: var(--muted); font-size: 0.88rem; margin-top: 4px; }}
     label {{ display: grid; gap: 6px; font-size: 0.85rem; color: var(--muted); }}
     label.tight {{ gap: 1px; }}
+    .hidden {{ display: none !important; }}
     input, select {{
       width: 100%;
       border: 1px solid #3e3e44;
@@ -469,6 +476,82 @@ def render_html(payload: Dict[str, object]) -> str:
     .sub-label.dim {{ opacity: 0.08; }}
     .sub-label.selected {{ opacity: 1; fill: #cfd8ff; }}
     .sub-label.connected {{ opacity: 0.9; }}
+    .mode-row {{ display: flex; gap: 8px; align-items: end; }}
+    .mode-row label {{ flex: 1 1 auto; }}
+    #viz-wrap {{
+      position: relative;
+      width: 100%;
+      height: 100%;
+      min-height: 0;
+    }}
+    #hierarchy {{
+      position: absolute;
+      inset: 0;
+      overflow: auto;
+      padding: 120px 12px 14px;
+      display: none;
+      background: color-mix(in srgb, #0f1118 90%, black);
+      border-top: 1px solid color-mix(in srgb, var(--line) 55%, black);
+    }}
+    #hierarchy.visible {{ display: block; }}
+    .hier-root {{ list-style: none; margin: 0; padding: 0; }}
+    .hier-node {{ margin: 2px 0; }}
+    .hier-row {{
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      min-height: 22px;
+      padding: 2px 6px;
+      border-radius: 7px;
+      cursor: pointer;
+      user-select: none;
+      color: #d8ddf5;
+    }}
+    .hier-row:hover {{ background: rgba(143, 169, 255, 0.12); }}
+    .hier-row.selected {{
+      background: rgba(143, 169, 255, 0.24);
+      outline: 1px solid rgba(184, 203, 255, 0.55);
+    }}
+    .hier-toggle {{
+      width: 16px;
+      height: 16px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 4px;
+      background: rgba(255, 255, 255, 0.06);
+      color: #d7defc;
+      line-height: 14px;
+      font-size: 11px;
+      text-align: center;
+      padding: 0;
+      cursor: pointer;
+      flex: 0 0 auto;
+    }}
+    .hier-toggle.spacer {{
+      border-color: transparent;
+      background: transparent;
+      cursor: default;
+    }}
+    .hier-dot {{
+      width: 8px;
+      height: 8px;
+      border-radius: 99px;
+      flex: 0 0 auto;
+      border: 1px solid rgba(255, 255, 255, 0.28);
+    }}
+    .hier-label {{ font-size: 0.9rem; }}
+    .hier-meta {{
+      margin-left: auto;
+      font-size: 0.68rem;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: #9aa6d3;
+    }}
+    .hier-children {{
+      list-style: none;
+      margin: 0;
+      padding: 0 0 0 16px;
+      border-left: 1px dashed rgba(120, 138, 198, 0.3);
+    }}
   </style>
 </head>
 <body>
@@ -481,6 +564,15 @@ def render_html(payload: Dict[str, object]) -> str:
       Search
       <input id="search" placeholder="name, theme, path..." />
     </label>
+    <div class="mode-row">
+      <label>
+        View mode
+        <select id="view-mode">
+          <option value="graph">Graph</option>
+          <option value="hierarchy">Hierarchy</option>
+        </select>
+      </label>
+    </div>
     <div class="category-tools">
       <span>Categories</span>
       <div class="category-actions">
@@ -489,7 +581,7 @@ def render_html(payload: Dict[str, object]) -> str:
       </div>
     </div>
     <div id="category-list"></div>
-    <label class="tight">
+    <label id="spacing-control" class="tight">
       Node spacing
       <input id="spacing" type="range" min="70" max="340" step="1" value="130" />
     </label>
@@ -509,7 +601,10 @@ def render_html(payload: Dict[str, object]) -> str:
       <div id="mix-track"></div>
       <div id="mix-legend"></div>
     </div>
-    <svg id="graph" viewBox="0 0 2200 1600" preserveAspectRatio="xMidYMid meet"></svg>
+    <div id="viz-wrap">
+      <svg id="graph" viewBox="0 0 2200 1600" preserveAspectRatio="xMidYMid meet"></svg>
+      <div id="hierarchy" aria-live="polite"></div>
+    </div>
   </main>
   <script>
     const graph = {data_json};
@@ -521,9 +616,12 @@ def render_html(payload: Dict[str, object]) -> str:
     const selectedEl = document.getElementById('selected');
     const statsEl = document.getElementById('stats');
     const spacingInput = document.getElementById('spacing');
+    const spacingControlEl = document.getElementById('spacing-control');
     const mixTitleEl = document.getElementById('mix-title');
     const mixTrackEl = document.getElementById('mix-track');
     const mixLegendEl = document.getElementById('mix-legend');
+    const modeSelect = document.getElementById('view-mode');
+    const hierarchyEl = document.getElementById('hierarchy');
     const artworkPreviewEl = document.getElementById('artwork-preview');
     const artworkPreviewTitleEl = document.getElementById('artwork-preview-title');
     const artworkPreviewMediaEl = document.getElementById('artwork-preview-media');
@@ -659,9 +757,192 @@ def render_html(payload: Dict[str, object]) -> str:
     const MIN_SIM_ENERGY = 0.012;
     let settledFrames = 0;
     const SETTLE_FRAMES_REQUIRED = 20;
+    let currentMode = modeSelect.value || 'graph';
+    const hierarchyRootId = '__root__';
+    const parentByNodeId = new Map();
+    const childrenByNodeId = new Map();
+    const collapsedHierarchyIds = new Set();
+    const nodeSlugById = new Map();
+    const nodeIdByLabel = new Map();
+    const nodeIdBySlug = new Map();
 
     function clamp(v, min, max) {{
       return Math.max(min, Math.min(max, v));
+    }}
+
+    function slugifyJs(text) {{
+      return (text || '')
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+    }}
+
+    for (const n of graph.nodes) {{
+      const slug = (n.id && n.id.includes(':')) ? n.id.split(':', 2)[1] : slugifyJs(n.label);
+      nodeSlugById.set(n.id, slug);
+      nodeIdByLabel.set((n.label || '').toLowerCase().trim(), n.id);
+      if (slug) nodeIdBySlug.set(slug, n.id);
+    }}
+
+    function resolveRefToNodeId(ref) {{
+      const raw = (ref || '').trim();
+      if (!raw) return null;
+      const byLabel = nodeIdByLabel.get(raw.toLowerCase());
+      if (byLabel) return byLabel;
+      return nodeIdBySlug.get(slugifyJs(raw)) || null;
+    }}
+
+    function pushChild(parentId, childId) {{
+      if (!childrenByNodeId.has(parentId)) childrenByNodeId.set(parentId, []);
+      childrenByNodeId.get(parentId).push(childId);
+    }}
+
+    function buildHierarchyMap() {{
+      const worldIds = graph.nodes.filter((n) => n.category === 'world').map((n) => n.id);
+      for (const n of graph.nodes) {{
+        let parentId = null;
+        if (n.category === 'world') {{
+          parentId = hierarchyRootId;
+        }} else {{
+          const fromParentRegion = resolveRefToNodeId(n.parent_region);
+          const fromRegion = resolveRefToNodeId(n.region);
+          if (fromParentRegion && fromParentRegion !== n.id) parentId = fromParentRegion;
+          else if (fromRegion && fromRegion !== n.id) parentId = fromRegion;
+          else if (n.category === 'region' && worldIds.length) parentId = worldIds[0];
+          else if (worldIds.length) parentId = worldIds[0];
+          else parentId = hierarchyRootId;
+        }}
+        parentByNodeId.set(n.id, parentId);
+        pushChild(parentId, n.id);
+      }}
+
+      for (const [parentId, children] of childrenByNodeId.entries()) {{
+        children.sort((a, b) => {{
+          const na = nodeById.get(a);
+          const nb = nodeById.get(b);
+          if (!na || !nb) return a.localeCompare(b);
+          if (na.category !== nb.category) return na.category.localeCompare(nb.category);
+          return na.label.localeCompare(nb.label);
+        }});
+      }}
+
+      for (const [parentId, children] of childrenByNodeId.entries()) {{
+        if (parentId !== hierarchyRootId && children.length > 0) {{
+          collapsedHierarchyIds.add(parentId);
+        }}
+      }}
+      for (const worldId of worldIds) {{
+        collapsedHierarchyIds.delete(worldId);
+      }}
+    }}
+
+    function ancestorsFor(id) {{
+      const acc = new Set();
+      let current = id;
+      while (current && current !== hierarchyRootId) {{
+        const parent = parentByNodeId.get(current);
+        if (!parent || parent === hierarchyRootId) break;
+        acc.add(parent);
+        current = parent;
+      }}
+      return acc;
+    }}
+
+    function renderHierarchy(visibleNodeIds) {{
+      const includeIds = new Set();
+      for (const id of visibleNodeIds) {{
+        includeIds.add(id);
+        for (const anc of ancestorsFor(id)) includeIds.add(anc);
+      }}
+
+      hierarchyEl.innerHTML = '';
+      const rootList = document.createElement('ul');
+      rootList.className = 'hier-root';
+      hierarchyEl.appendChild(rootList);
+
+      function renderNode(nodeId, parentList) {{
+        if (nodeId !== hierarchyRootId && !includeIds.has(nodeId)) return;
+        const node = nodeById.get(nodeId);
+        const children = (childrenByNodeId.get(nodeId) || []).filter((childId) => includeIds.has(childId));
+        const hasChildren = children.length > 0;
+
+        const li = document.createElement('li');
+        li.className = 'hier-node';
+        parentList.appendChild(li);
+
+        const row = document.createElement('div');
+        row.className = 'hier-row';
+        if (selectedNodeId && nodeId === selectedNodeId) row.classList.add('selected');
+        li.appendChild(row);
+
+        const toggle = document.createElement('button');
+        toggle.type = 'button';
+        if (hasChildren) {{
+          toggle.className = 'hier-toggle';
+          toggle.textContent = collapsedHierarchyIds.has(nodeId) ? '+' : '-';
+          toggle.addEventListener('click', (evt) => {{
+            evt.stopPropagation();
+            if (collapsedHierarchyIds.has(nodeId)) collapsedHierarchyIds.delete(nodeId);
+            else collapsedHierarchyIds.add(nodeId);
+            renderHierarchy(visibleNodeIds);
+          }});
+        }} else {{
+          toggle.className = 'hier-toggle spacer';
+          toggle.textContent = '';
+          toggle.disabled = true;
+        }}
+        row.appendChild(toggle);
+
+        if (node) {{
+          const dot = document.createElement('span');
+          dot.className = 'hier-dot';
+          dot.style.background = colorForCategory(node.category);
+          row.appendChild(dot);
+
+          const label = document.createElement('span');
+          label.className = 'hier-label';
+          label.textContent = node.label;
+          row.appendChild(label);
+
+          const meta = document.createElement('span');
+          meta.className = 'hier-meta';
+          meta.textContent = node.category;
+          row.appendChild(meta);
+
+          row.addEventListener('click', () => {{
+            hiddenArtworkForNodeId = null;
+            setSelected(node.id);
+          }});
+        }} else {{
+          const label = document.createElement('span');
+          label.className = 'hier-label';
+          label.textContent = 'Universe';
+          row.appendChild(label);
+        }}
+
+        if (hasChildren && !collapsedHierarchyIds.has(nodeId)) {{
+          const nested = document.createElement('ul');
+          nested.className = 'hier-children';
+          li.appendChild(nested);
+          for (const childId of children) {{
+            renderNode(childId, nested);
+          }}
+        }}
+      }}
+
+      for (const childId of childrenByNodeId.get(hierarchyRootId) || []) {{
+        renderNode(childId, rootList);
+      }}
+    }}
+
+    function setViewMode(mode) {{
+      currentMode = mode === 'hierarchy' ? 'hierarchy' : 'graph';
+      const showHierarchy = currentMode === 'hierarchy';
+      svg.style.display = showHierarchy ? 'none' : 'block';
+      hierarchyEl.classList.toggle('visible', showHierarchy);
+      spacingControlEl.classList.toggle('hidden', showHierarchy);
+      applyFilters();
     }}
 
     function neighbors(id) {{
@@ -779,8 +1060,11 @@ def render_html(payload: Dict[str, object]) -> str:
         el.classList.toggle('connected', isConnected);
         el.style.display = visible ? 'block' : 'none';
       }}
-
-      statsEl.textContent = `${{visibleNodeIds.size}} visible nodes, ${{visibleEdges}} visible links`;
+      if (currentMode === 'hierarchy') {{
+        renderHierarchy(visibleNodeIds);
+      }}
+      const modeText = currentMode === 'hierarchy' ? 'hierarchy' : 'graph';
+      statsEl.textContent = `${{visibleNodeIds.size}} visible nodes, ${{visibleEdges}} visible links (${{modeText}} mode)`;
       renderConnectionMix(visibleNodeIds, neighborIds);
     }}
 
@@ -1132,7 +1416,13 @@ def render_html(payload: Dict[str, object]) -> str:
       applyFilters();
     }});
 
+    modeSelect.addEventListener('change', (evt) => {{
+      setViewMode(evt.target.value);
+    }});
+
+    buildHierarchyMap();
     centerView();
+    setViewMode(currentMode);
     applyFilters();
     frame();
   </script>
