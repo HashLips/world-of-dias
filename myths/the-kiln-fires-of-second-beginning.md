@@ -7,6 +7,7 @@ related:
   - Alwen Rusk
   - Hearthvale
   - Red Light (Alwen Rusk Portrait)
+  - Second-Beginning Slate fragment
 themes:
   - rebirth
   - labor oath

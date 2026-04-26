@@ -8,6 +8,8 @@ related:
   - Nauw
   - Cube Face (Bren Holloway Portrait)
   - The Gel Helm That Never Cracked
+  - Brindle March stillness
+  - Ledger of the still march
 themes:
   - route command
   - hazard leadership

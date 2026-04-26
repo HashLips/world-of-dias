@@ -12,6 +12,8 @@ related:
   - Hearthvale
   - Driftfall
   - Map of Sorel
+  - The Long Gate Argument
+  - The Drift Hour with No Captain
 themes:
   - exile
   - frontier survival
@@ -48,7 +50,7 @@ Within Sorel, two major territories divide the land: Hearthvale lies on the west
 
 ## Stories or Depictions
 
-*Map of Sorel* is treated as a canonical close-up representation of Sorel, with clear emphasis on the Hearthvale-Driftfall split.
+*Map of Sorel* is treated as a canonical close-up representation of Sorel, with clear emphasis on the Hearthvale-Driftfall split. Broad-scale storytelling often invokes **The Long Gate Argument** (the mythic history of the great Nauw crossing into Hearthvale) and **The Drift Hour with No Captain** (Driftfall’s void-hour founding tale).
 
 ## Notes
 

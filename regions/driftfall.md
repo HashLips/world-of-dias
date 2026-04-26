@@ -8,6 +8,7 @@ culture:
 related:
   - Sorel
   - Hearthvale
+  - The Drift Hour with No Captain
 themes:
   - improvised settlements
   - personal autonomy
@@ -50,6 +51,8 @@ The guiding law of Driftfall is: "Freedom belongs to those who claim it."
 | Frontier | 3 | Drift Crews | Vexra Coil, Free-Captain of Driftfall |
 
 ## Stories or Depictions
+
+**The Drift Hour with No Captain** is the common mythic account of the territory’s *first* law emerging from a captainless hour—motion as constitution.
 
 ## Notes
 

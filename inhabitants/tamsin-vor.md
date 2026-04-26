@@ -8,6 +8,9 @@ related:
   - Nauw
   - Big Moon (Tamsin Vor Portrait)
   - The Moon-Market Walk
+  - The Sun-Sweet Afternoon
+  - Velorian Basin gilding hour
+  - The afternoon the ball kept going
 themes:
   - free-spirited leadership
   - social connective tissue

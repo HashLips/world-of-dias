@@ -8,6 +8,8 @@ related:
   - Sorel
   - Red Light (Alwen Rusk Portrait)
   - The Kiln Fires of Second Beginning
+  - Second-Beginning Slate fragment
+  - The Long Gate Argument
 themes:
   - second chances
   - cooperative rebuilding

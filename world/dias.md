@@ -3,12 +3,22 @@ category: world
 name: Dias
 related:
   - F432 (frequency realm)
+  - F200 (frequency realm)
+  - F500 (frequency realm)
+  - Distant lumen-abyss bleed
   - The Prime Realm
   - The Fracture
   - The Prime Age
   - The Present Age
   - Prime Relics
   - The Prime Bridge
+  - F200 Map
+  - F500 Map
+  - F432 Map V1
+  - The Census Echoes of the Prime Mark
+  - Brindle March stillness
+  - The light after shared laughter
+  - The Sun-Sweet Afternoon
 themes:
   - frequency
   - layered reality
@@ -40,11 +50,13 @@ The time before the Fracture is referred to as **The Prime Age**. The era after 
 
 ## Global Lore
 
-Known frequency realms documented so far include F432; many others may exist uncharted.
+Known frequency realms documented so far include **F432** (material-like stability), **F200** (high-luminosity harmonic light), and **F500** (the abyssal null band); many others may exist uncharted. Awareness of **F200** and **F500** within F432 is **uneven and incomplete**: names and omens can travel on **leaked resonance, rumor, and partial records** long before any frequency becomes **fully legible** to another.
 
 Across the Frequencies, scattered ruins and **Prime Relics** hint that parts of reality once belonged to a single world. One of the most discussed remnants is **The Prime Bridge**, a fragmented structure believed to persist as partial echoes across multiple Frequencies.
 
-Across different cultures and realms, many myths attempt to explain the Fracture. Some claim it was a natural cosmic event; others blame a forgotten civilization, betrayal, war, or a resonance threshold the Prime Realm could not contain.
+Alongside weightier tales, F432 in particular also carries **small, happy patterns**—shared sunlight myths, market laughter, and road gratitude—treated as part of the **same** Dias, not a separate “soft AU.”
+
+Across different cultures and realms, many myths attempt to explain the Fracture. Some claim it was a natural cosmic event; others blame a forgotten civilization, betrayal, war, or a resonance threshold the Prime Realm could not contain. Other tales widen the frame further—**The Census Echoes of the Prime Mark** imagines a pre-Fracture **tally of resonance and category** (in those tellings, about **reality’s harmonics**, not the counting of people as chattel), and even stable, trade-heavy F432 sometimes records strange **road-scale pauses** (see **Brindle March stillness**) that feel, to some, like an echo of that older order reasserting a rhythm.
 
 ## Notes
 

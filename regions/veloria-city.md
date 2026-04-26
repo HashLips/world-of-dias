@@ -22,6 +22,9 @@ related:
   - Green Garden Border Lanes
   - Green Garden
   - Poster of Veloria City
+  - Veloria ring-fair token
+  - Velorian Basin gilding hour
+  - The Sun-Sweet Afternoon
 themes:
   - capital
   - concentric city

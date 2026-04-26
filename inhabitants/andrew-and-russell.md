@@ -7,6 +7,8 @@ related:
   - Velorian Basin
   - Nauw
   - Boy and His Dog
+  - The afternoon the ball kept going
+  - The Sun-Sweet Afternoon
 themes:
   - companionship
   - playful routine

@@ -5,8 +5,8 @@ region: Averra Isle
 culture:
 related:
   - Averra Isle
-  - Quiet Cloister
   - Golden Teer (Sael Corvin Portrait)
+  - Quiet Cloister
   - The Golden Tears of Averra
 themes:
   - hidden curation

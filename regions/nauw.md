@@ -20,6 +20,17 @@ related:
   - Hunger
   - Nauw Fruit Reverence
   - Map of Nauw
+  - The Long Gate Argument
+  - The Glasswater Mirror Lull
+  - Brindle March stillness
+  - Ledger of the still march
+  - The Census Echoes of the Prime Mark
+  - The Sun-Sweet Afternoon
+  - The Three Thank-Yous of Brindle
+  - The light after shared laughter
+  - Veloria ring-fair token
+  - Lucky Fruit sharing-knife
+  - Velorian Basin gilding hour
 themes:
   - trade routes
   - diversity of peoples
@@ -61,7 +72,7 @@ On southern Nauw, a major bridge crosses the border into northern Sorel (Hearthv
 
 ## Stories or Depictions
 
-*Map of Nauw* is treated as a canonical close-up representation of Nauw's established geography within F432.
+*Map of Nauw* is treated as a canonical close-up representation of Nauw's established geography within F432. Recent expansive lore often clusters around **The Long Gate Argument** (the bridge to Hearthvale as moral infrastructure), **The Glasswater Mirror Lull** (eastern stillness and food-heart ritual), the observed macro-rhythm of **Brindle March stillness**, and, at Dias scale, **The Census Echoes of the Prime Mark** (a folktale linking numbered frequency bands to a mythic **Prime roll-call of resonances**—not of persons as property).
 
 ## Notes
 

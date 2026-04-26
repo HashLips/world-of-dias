@@ -17,6 +17,9 @@ related:
   - Two Ways
   - Hunger
   - Map of Wabet
+  - The West That Chose Calm
+  - Wabet's Unclaimed Breakfast
+  - Lucky Fruit sharing-knife
 themes:
   - natural purity
   - serenity
@@ -58,7 +61,7 @@ Recognized subregions include Aelwyn Canopy across the north (with limited exten
 
 ## Stories or Depictions
 
-*Map of Wabet* is treated as a canonical close-up representation of Wabet's established regional layout.
+*Map of Wabet* is treated as a canonical close-up representation of Wabet's established regional layout. Cosmology-flavored **The West That Chose Calm** offers a mythic *why* for the region’s persistent serenity without replacing ecological description.
 
 ## Notes
 

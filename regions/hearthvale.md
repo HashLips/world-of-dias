@@ -8,6 +8,10 @@ culture:
 related:
   - Sorel
   - Nauw
+  - The Long Gate Argument
+  - Second-Beginning Slate fragment
+  - The Kiln Fires of Second Beginning
+  - Hearth Laughter Week
 themes:
   - reconstruction
   - cooperative survival
@@ -40,6 +44,8 @@ The guiding law of Hearthvale is: "Every person deserves a second beginning."
 | Stewardship | 3 | Hearth Compact | Alwen Rusk, Second-Beginning Keeper of Hearthvale |
 
 ## Stories or Depictions
+
+**The Long Gate Argument** (shared with Nauw and Sorel lore) frames the main bridge to Hearthvale as a negotiated gate for exile and return. **Second-Beginning Slate fragment** and **The Kiln Fires of Second Beginning** anchor the territory’s *second chance* identity in object and oral tradition.
 
 ## Notes
 

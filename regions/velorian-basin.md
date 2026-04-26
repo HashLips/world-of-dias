@@ -13,6 +13,12 @@ related:
   - Old Masters of Averra Isle
   - Andrew and Russell
   - Boy and His Dog
+  - The Sun-Sweet Afternoon
+  - Velorian Basin gilding hour
+  - The afternoon the ball kept going
+  - The light after shared laughter
+  - Tamsin Vor
+  - The Moon-Market Walk
 themes:
   - trade concentration
   - river routes
@@ -47,6 +53,8 @@ Market lore and street parables sometimes claim that the first contract-magic an
 | Structured | 2 | Basin Exchange Ward | Tamsin Vor, Market Steward of Velorian Basin |
 
 ## Stories or Depictions
+
+Lore in this file often leans to **commerce**; a parallel strand celebrates **joy without transaction**: **The Sun-Sweet Afternoon**, the optical **Velorian Basin gilding hour**, the crowd tale **The afternoon the ball kept going**, and the gentle folk pattern **The light after shared laughter**. **The Moon-Market Walk** remains a calmer, night-time peace-myth in the same emotional family.
 
 ## Notes
 

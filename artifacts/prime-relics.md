@@ -10,6 +10,7 @@ related:
   - The Prime Realm
   - The Fracture
   - The Prime Bridge
+  - The Census Echoes of the Prime Mark
 themes:
   - transfrequency
   - lost technology

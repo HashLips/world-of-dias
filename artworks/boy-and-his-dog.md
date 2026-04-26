@@ -7,6 +7,8 @@ related:
   - Andrew and Russell
   - Velorian Basin
   - Nauw
+  - The afternoon the ball kept going
+  - The Sun-Sweet Afternoon
 themes:
   - companionship
   - play

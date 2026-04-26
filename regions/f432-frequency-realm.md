@@ -7,6 +7,8 @@ region: Dias
 culture:
 related:
   - Dias
+  - F200 (frequency realm)
+  - F500 (frequency realm)
   - Nauw
   - Wabet
   - Sorel
@@ -15,6 +17,18 @@ related:
   - Map of Nauw
   - Map of Wabet
   - Map of Sorel
+  - The Distant Companies
+  - Distant lumen-abyss bleed
+  - Partial Harmonic Index fragment
+  - Ledger mention of F200 and F500
+  - F200 Map
+  - F500 Map
+  - The Census Echoes of the Prime Mark
+  - The Long Gate Argument
+  - Brindle March stillness
+  - The light after shared laughter
+  - Wabet's Unclaimed Breakfast
+  - Hearth Laughter Week
 themes:
   - stability
   - trade
@@ -32,7 +46,7 @@ F432 is one of the known frequency realms within Dias.
 
 Like all frequencies, it represents a layer of reality defined by its unique resonance. The landscapes and inhabitants of F432 appear relatively stable compared to some other recorded frequencies, allowing settlements, travel routes, and trade networks to develop across its regions. Many different forms of life can be found here, including humans, animals, and other beings whose origins may lie in distant parts of Dias.
 
-While F432 is well explored compared to many other frequencies, little is known about how it relates to neighboring frequencies or how the resonance boundaries between them behave.
+While F432 is well explored compared to many other frequencies, **its everyday institutions only partly understand** how it sits beside other bands. **F200** and **F500** are now **named** in some archives and harbor talk—often via **disputed document scraps** and **ledger gossip**—but **not mapped as lived geography** the way Wabet, Nauw, and Sorel are. When coast and sky show **distant lumen-abyss bleed** signs, people feel **evidence of neighboring powers** more than they receive clear intelligence. Rumors of **“distant companies”** clashing beyond the chart are treated as **optional belief**, not as strategic fact for regents and merchants.
 
 ## Lore
 
