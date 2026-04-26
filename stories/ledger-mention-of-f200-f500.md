@@ -8,6 +8,9 @@ related:
   - F500 (frequency realm)
   - Distant lumen-abyss bleed
   - Partial Harmonic Index fragment
+  - Supplemental Harmonic Ledger Leaf
+  - Ledger addendum of F120 F380 F610 and F840
+  - F960 (frequency realm)
   - The Distant Companies
   - Veloria City
   - Nauw
@@ -44,4 +47,4 @@ Whichever version you believe, the outcome is the same: **F200 and F500 exist in
 
 ## Notes
 
-**Status: unknown** preserves competing discovery paths; a future definitive witness scene can **elevate** one strand without erasing the rumor ecology.
+**Status: unknown** preserves competing discovery paths; a future definitive witness scene can **elevate** one strand without erasing the rumor ecology. Later archive talk treats this entry as **precursor** to the quieter **four-band addendum** (F120, F380, F610, F840) and, in some transcriptions, a **fifth, sparser** wave naming **F960** (often absent or struck through—see the **Supplemental Harmonic Ledger Leaf** in-world **catalog sequence**).

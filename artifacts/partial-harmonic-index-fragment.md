@@ -8,7 +8,10 @@ related:
   - F200 (frequency realm)
   - F500 (frequency realm)
   - Distant lumen-abyss bleed
+  - F960 (frequency realm)
   - Ledger mention of F200 and F500
+  - Supplemental Harmonic Ledger Leaf
+  - Ledger addendum of F120 F380 F610 and F840
   - The Distant Companies
   - The Census Echoes of the Prime Mark
 themes:
@@ -27,7 +30,7 @@ The **Partial Harmonic Index fragment** is a **scrap of notation** (paper, vellu
 
 ## Description
 
-When reproduced from memory, the fragment is said to show **column-like rows**: one line associating **F200** with **“high harmonic / lumen field”** language, and another associating **F500** with **“null / abyssal inversion.”** The edges are torn; there is no signature page, no official seal, and no consistent chain of custody. Several copies in Veloria and Nauw **do not perfectly match**—suggesting **copying error**, **deliberate fabrication**, or **unstable text** if the object ever sat near a bleed event.
+When reproduced from memory, the fragment is said to show **column-like rows**: one line associating **F200** with **“high harmonic / lumen field”** language, and another associating **F500** with **“null / abyssal inversion.”** Later rumor cycles claim a linked **Supplemental Harmonic Ledger Leaf** expanded the set with **F120, F380, F610, and F840** notes, and a **smaller, disputed** set of transcriptions add an **F960** line (or margin gloss), though provenance for each step remains **disputed** and the copies do not all **agree**. The edges are torn; there is no signature page, no official seal, and no consistent chain of custody. Several copies in Veloria and Nauw **do not perfectly match**—suggesting **copying error**, **deliberate fabrication**, or **unstable text** if the object ever sat near a bleed event.
 
 **Material evidence in F432’s favor:** the fragment (or its story) is **plausible** next to other Prime-era notation habits: humans love **catalogs** even when the cosmos refuses to be complete.
 

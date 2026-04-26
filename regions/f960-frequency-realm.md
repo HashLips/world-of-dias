@@ -17,6 +17,9 @@ related:
   - Unfinished edge drift
   - The Half-Made Atlas
   - F960 Map
+  - Partial Harmonic Index fragment
+  - Supplemental Harmonic Ledger Leaf
+  - Ledger addendum of F120 F380 F610 and F840
 themes:
   - becoming
   - incompletion

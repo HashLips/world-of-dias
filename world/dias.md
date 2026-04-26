@@ -6,8 +6,13 @@ related:
   - F200 (frequency realm)
   - F500 (frequency realm)
   - F960 (frequency realm)
+  - F120 (frequency realm)
+  - F380 (frequency realm)
+  - F610 (frequency realm)
+  - F840 (frequency realm)
   - The Unfinished
   - The Half-Made Atlas
+  - Supplemental Harmonic Ledger Leaf
   - Distant lumen-abyss bleed
   - The Prime Realm
   - The Fracture
@@ -17,6 +22,10 @@ related:
   - The Prime Bridge
   - F200 Map
   - F500 Map
+  - F120 Map
+  - F380 Map
+  - F610 Map
+  - F840 Map
   - F960 Map
   - F432 Map V1
   - The Census Echoes of the Prime Mark
@@ -54,7 +63,7 @@ The time before the Fracture is referred to as **The Prime Age**. The era after 
 
 ## Global Lore
 
-Known frequency realms documented so far include **F432** (material-like stability), **F200** (high-luminosity harmonic light), **F500** (the abyssal null band), and **F960** (iterative emergence and nonfinal form); many others may exist uncharted. Awareness of neighboring bands within F432 remains **uneven and incomplete**: names and omens can travel on leaked resonance, rumor, and partial records long before any frequency becomes fully legible to another.
+Known frequency realms documented so far include **F432** (material-like stability), **F200** (high-luminosity harmonic light), **F500** (the abyssal null band), and **F960** (iterative emergence and nonfinal form). Additional partially indexed bands now circulating in records include **F120** (echo), **F380** (hearttide), **F610** (reveal intervals), and **F840** (ember recovery); many others may exist uncharted. Awareness of neighboring bands within F432 remains **uneven and incomplete**: names and omens can travel on leaked resonance, rumor, and partial records long before any frequency becomes fully legible to another.
 
 Across the Frequencies, scattered ruins and **Prime Relics** hint that parts of reality once belonged to a single world. One of the most discussed remnants is **The Prime Bridge**, a fragmented structure believed to persist as partial echoes across multiple Frequencies.
 
