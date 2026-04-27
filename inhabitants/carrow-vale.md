@@ -25,6 +25,8 @@ Carrow Vale is the First Exile of Sorel.
 
 ## Description
 
+F432 race record: **Human**.
+
 Carrow rose from dispossession into cross-territory command by forging protection pacts among camps that had no shared law.
 
 On the day of exile, Carrow adopted a mask and never removed it, turning anonymity into a permanent instrument of rule.

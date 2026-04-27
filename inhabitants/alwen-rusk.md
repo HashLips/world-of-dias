@@ -26,6 +26,8 @@ Alwen Rusk is the Second-Beginning Keeper of Hearthvale.
 
 ## Description
 
+F432 race record: **Human**.
+
 Once denied shelter by several settlements, Alwen became a builder of durable reintegration systems across west Sorel.
 
 Her leadership model centers on shared tools, mutual labor, and social re-entry for those marked as failures elsewhere.

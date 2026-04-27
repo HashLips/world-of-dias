@@ -17,6 +17,14 @@ related:
   - Nauw
   - Wabet
   - Sorel
+  - F432 Major Races Compact
+  - Humans
+  - Axiomorphs
+  - Veyrin
+  - Lineborn
+  - Kharad
+  - Choirglass
+  - Palewind Swarms
   - Early F432 Survey Map
   - F432 Map V1
   - Map of Nauw
@@ -68,6 +76,20 @@ While F432 is well explored compared to many other frequencies, **its everyday i
 Documented regions within F432 include Nauw, Wabet, and Sorel.
 
 Current geographic framing places Wabet along the full western side of the F432 map, Nauw in the north-east, and Sorel in the south-east (south of Nauw and east of Wabet).
+
+### Major Races in F432
+
+F432 is a high-contact realm with many visiting and minority races, but seven are currently documented as the most widely present across civic and frontier records:
+
+- **Humans** (broadly distributed social baseline across cities and routes)
+- **Axiomorphs** (non-humanoid geometric and field-structured persons)
+- **Veyrin** (humanoid people with one innate signature trait per individual)
+- **Lineborn** (near-2D planar-bodied persons with stable civic participation)
+- **Kharad** (dense-bodied material specialists with strong infrastructure traditions)
+- **Choirglass** (resonant faceted people using sound-light communication modes)
+- **Palewind Swarms** (distributed colony-intelligence persons with coherent identity)
+
+Other frequencies are known or suspected to host additional races not yet fully indexed in this repository.
 
 ### Leadership Structure
 

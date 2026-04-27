@@ -24,6 +24,8 @@ Vexra Coil is the Free-Captain of Driftfall.
 
 ## Description
 
+F432 race record: **Axiomorph**.
+
 Vexra built influence by surviving hostile takeovers, then absorbing rivals into moving alliances and paid crew structures.
 
 Her authority is kinetic: command by momentum, risk, and spectacle.

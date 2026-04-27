@@ -25,6 +25,8 @@ Serik Dovant is the High Steward of Nauw.
 
 ## Description
 
+F432 race record: **Human**.
+
 He rose through route arbitration in Brindle March and became known for keeping movement, food flow, and settlement pressure in workable balance.
 
 Serik's method is procedural rather than theatrical: hearing all parties, forcing terms into writing, and treating continuity as the first duty of leadership.

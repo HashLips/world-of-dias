@@ -24,6 +24,8 @@ Marek Solon is the Tide Warden of the Nauw Outer Rim Seas.
 
 ## Description
 
+F432 race record: **Palewind Swarm** lineage.
+
 Marek manifests in dual-form, with two near-identical presences perceived in separate positions at once. Encounters are often reported as mirror-like and disorienting.
 
 Their leadership combines sea-route memory, ritual timing, and practical fisher survival law.

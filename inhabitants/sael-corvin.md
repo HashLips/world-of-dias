@@ -24,6 +24,8 @@ Sael Corvin is the Veil Keeper of Averra Isle.
 
 ## Description
 
+F432 race record: **Veyrin**.
+
 Sael governs through selective revelation, deciding which messages and artifacts leave Averra and which remain sealed in cloister archives.
 
 He is often described as distant, bearded, and partially obscured, with rare appearances marked by reported golden tears.

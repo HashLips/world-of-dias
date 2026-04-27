@@ -25,6 +25,8 @@ Elyra Mossen is the First Keeper of Wabet.
 
 ## Description
 
+F432 race record: **Human**.
+
 Formerly a river-path guide, Elyra gained trust by refusing high-yield extraction terms that would have damaged soil and water continuity.
 
 She leads as a coalition keeper rather than a central ruler, binding tribe elders to shared limits instead of a strict command chain.

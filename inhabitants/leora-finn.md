@@ -24,6 +24,8 @@ Leora Finn is the Harvest Warden of Glasswater Fields.
 
 ## Description
 
+F432 race record: **Human**.
+
 Raised in dam-watch culture, Leora built her authority by organizing harvest protection and night vigilance during sky-panic periods.
 
 Her leadership style is calm, practical, and care-centered, with emphasis on shared continuity over rapid expansion.

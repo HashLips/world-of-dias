@@ -24,6 +24,8 @@ Iskar Lüm is the Dune Keeper of Lumira Sands.
 
 ## Description
 
+F432 race record: **Axiomorph**.
+
 Iskar appears as a drifting, unstable figure rather than a conventional human body, with facial and limb-like forms shifting in relation and scale.
 
 His authority comes from survival knowledge: mapping hidden water, enforcing oasis protocols, and protecting silence-law practice.

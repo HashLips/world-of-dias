@@ -24,6 +24,8 @@ Coris Vale is the Isle Warden of Calareth.
 
 ## Description
 
+F432 race record: **Human**.
+
 Coris rose from shore-watch lineages and consolidated control by clearing smuggler anchor routes that destabilized reefs and cliffs.
 
 She governs Calareth as a protected threshold where entry is permitted but alteration is tightly constrained.

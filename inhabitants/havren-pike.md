@@ -24,6 +24,8 @@ Havren Pike is the Gate Lord of the DEB Gate of Veloria.
 
 ## Description
 
+F432 race record: **Kharad**.
+
 Though simple in apparent stature, Havren is regarded as a high-threat defensive commander with a strict threshold doctrine.
 
 He is known for circular blade weapons and for enforcing legitimacy at Veloria's main gate corridor.

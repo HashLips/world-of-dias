@@ -7,6 +7,8 @@ culture:
 related:
   - Veloria City
   - Twelve Flowers
+  - Attention Please
+  - The Table Vase Warning
 themes:
   - urban beauty
   - civic care
@@ -38,3 +40,5 @@ Sold and maintained through street vendors and flower shops distributed across t
 ## Notes
 
 Forms and materials vary by district, but the yellow bloom arrangement is treated as the classic Veloria street style.
+
+Later interior depictions (notably **Attention Please**) and Basin rumor cycles (**The Table Vase Warning**) reinterpret the same vessel type as a household care signal rather than only a street-facing ornament.

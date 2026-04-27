@@ -24,6 +24,8 @@ Zephan Quell is the Curator-Lord of The Sketchy Gallery.
 
 ## Description
 
+F432 race record: **Choirglass**.
+
 Zephan is an extraordinary and socially magnetic figure known for curating immersive art spaces and carrying multiple performative talents.
 
 One recurring depiction presents him in active struggle with a bull, reinforcing his reputation for theatrical courage.

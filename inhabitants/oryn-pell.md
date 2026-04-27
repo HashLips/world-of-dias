@@ -24,6 +24,8 @@ Oryn Pell is the Canopy Elder of Aelwyn Canopy.
 
 ## Description
 
+F432 race record: **Human**.
+
 Trained in elevated walk settlements, Oryn rose through conflict mediation over upper-canopy harvest corridors.
 
 He governs by slowing escalation, preserving route boundaries, and sustaining long-cycle canopy balance.

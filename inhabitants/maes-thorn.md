@@ -24,6 +24,8 @@ Maes Thorn is the Orchard Warden of Verdant Reach.
 
 ## Description
 
+F432 race record: **Human**.
+
 Maes rebuilt failing orchard systems through careful land rotation while enforcing firm boundaries against opportunistic overharvest.
 
 Her distant stare and unclear origin made her one of Wabet's most discussed leadership figures.

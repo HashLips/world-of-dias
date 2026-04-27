@@ -25,6 +25,8 @@ Oriven Tal is the Ring Regent of Veloria City and a Tier 1 influence figure in F
 
 ## Description
 
+F432 race record: **Lineborn**.
+
 He is rarely seen in public and is known for tightly controlling operational systems from behind closed channels.
 
 Oriven is said to interface directly with Vailor Quentin while avoiding wider court visibility. City continuity, gate cycles, and core administrative timing are commonly attributed to his operating model.

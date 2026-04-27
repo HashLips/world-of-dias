@@ -24,6 +24,8 @@ Neris Hale is the Bloom Warden of Green Garden Border Lanes.
 
 ## Description
 
+F432 race record: **Human**.
+
 Neris is known for a clock-bound leadership style in which movement, rites, and visitor flow are timed with strict precision.
 
 She is commonly described as sleepless and constantly attentive to schedule drift.

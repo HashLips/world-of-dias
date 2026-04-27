@@ -25,6 +25,8 @@ Vailor Quentin is the High Resonant of F432 and a defining authority figure acro
 
 ## Description
 
+F432 race record: **Human**.
+
 He is recognized for projecting absolute control and a public image of disciplined stability. His red-sail crown-standard is treated as a visual mark of realm command throughout F432.
 
 In formal assemblies he speaks in short declarative lines, preferring enforceable direction over debate. Even communities that resist him still measure their own political stance against his declared position.

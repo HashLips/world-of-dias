@@ -15,6 +15,10 @@ related:
   - The Half-Made Atlas
   - Veloria City
   - Nauw
+  - F432 Major Races Compact
+  - Veyrin
+  - Kharad
+  - Palewind Swarms
 themes:
   - incremental discovery
   - archival conflict
@@ -37,6 +41,8 @@ The "tower copy" version says a clerk in Veloria found a folded leaf tucked behi
 The "quay copy" version says a navigator from Nauw Outer routes brought in a water-stiff page whose ink separated into four color families when dried by hearth heat, each line matching one of the four band descriptors.
 
 A third version insists the addendum was intentionally downplayed by officials because it added complexity without immediate policy utility: useful for scholars and storytellers, inconvenient for budget committees.
+
+Some city archive notes claim the addendum survived because different race guilds found different value in it: **Veyrin** pattern-readers used it for trait comparison logs, **Kharad** route planners used it for resilience planning, and **Palewind Swarms** used it to tag coordination risks across changing conditions.
 
 Whatever the source, the effect in F432 was durable: those four bands entered language as **background truths with partial evidence**—enough to shape metaphor, ritual, and long-form story architecture without demanding full expedition programs.
 

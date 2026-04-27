@@ -27,6 +27,8 @@ Tamsin Vor is the Market Steward of Velorian Basin.
 
 ## Description
 
+F432 race record: **Human**.
+
 Tamsin is known for a free-spirited leadership style shaped by road camps, river markets, and festival docks.
 
 She governs by relationship networks, presence, and trust circles rather than strict bureaucratic form.
