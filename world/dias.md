@@ -28,6 +28,8 @@ related:
   - F840 Map
   - F960 Map
   - F432 Map V1
+  - World of Dias Infographic
+  - World of Dias Poster
   - The Census Echoes of the Prime Mark
   - Brindle March stillness
   - The light after shared laughter
