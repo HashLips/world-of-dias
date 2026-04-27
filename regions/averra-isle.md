@@ -14,6 +14,10 @@ related:
   - Seven in My Dreams Is
   - Sael Corvin
   - Golden Teer (Sael Corvin Portrait)
+  - Ascension Day
+  - The Two Pillars Witness
+  - Blind Eyes
+  - The Blind Eyes Vigil
 themes:
   - small isle
   - maritime mystery
@@ -70,7 +74,7 @@ Another active myth names seven cloaked figures as an unseen council on Averra, 
 
 ## Stories or Depictions
 
-**Sael Corvin** and **The Seven of Averra** threads supply character-scale entry points; the **Offshore Pass** supplies a **recurring, shared calendar event** for novels that never need to set foot onshore.
+**Sael Corvin** and **The Seven of Averra** threads supply character-scale entry points; the **Offshore Pass** supplies a **recurring, shared calendar event** for novels that never need to set foot onshore. **Ascension Day** and **The Two Pillars Witness** add a public-ritual lens where authority is staged, witnessed, and argued over rather than cleanly explained. **Blind Eyes** and **The Blind Eyes Vigil** add a parallel witness-discipline strand focused on verification under rumor pressure.
 
 ## Notes
 

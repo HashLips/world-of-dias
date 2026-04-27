@@ -20,6 +20,8 @@ related:
   - Brindle March stillness
   - Ledger of the still march
   - The Long Gate Argument
+  - Balance 1
+  - The Load-Balance Trial
   - The Census Echoes of the Prime Mark
   - The Three Thank-Yous of Brindle
   - The light after shared laughter
@@ -59,7 +61,7 @@ Travelers repeat a rumor that the resilient charms on certain old spans and toll
 
 ## Stories or Depictions
 
-**Brindle March stillness** and **Ledger of the still march** name a rare, route-wide hush and the disputed archive of its episodes. **The Long Gate Argument** and **The Census Echoes of the Prime Mark** appear in travel sermon and scholar tavern talk as *big* explanations for why a road can feel like more than wood and stone.
+**Brindle March stillness** and **Ledger of the still march** name a rare, route-wide hush and the disputed archive of its episodes. **The Long Gate Argument** and **The Census Echoes of the Prime Mark** appear in travel sermon and scholar tavern talk as *big* explanations for why a road can feel like more than wood and stone. In civic halls, **Balance 1** and **The Load-Balance Trial** are often paired as visual-and-legal shorthand for burden-sharing disputes.
 
 ## Notes
 

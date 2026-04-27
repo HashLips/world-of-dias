@@ -11,6 +11,8 @@ related:
   - Verdant Farmers
   - Farm
   - Lucky Farmers
+  - Breakfast 1
+  - The Third-Chair Breakfast
 themes:
   - fertile landscapes
   - orchard cultivation
@@ -46,6 +48,8 @@ Most large-cycle cultivation and supply stewardship is carried by Verdant Farmer
 | Stewardship | 3 | Verdant Stewards | Maes Thorn, Orchard Warden of Verdant Reach |
 
 ## Stories or Depictions
+
+Domestic lore in Verdant Reach often appears through meal-table rituals rather than grand ceremony. **Breakfast 1** and **The Third-Chair Breakfast** are commonly used to frame reconciliation through routine hospitality.
 
 ## Notes
 

@@ -12,6 +12,8 @@ related:
   - The Returning Span
   - Refrain Walkers
   - The Bell That Rings Twice Differently
+  - Time Splits
+  - Quartermark Drift
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
   - F120 Map
@@ -49,6 +51,8 @@ In F432, F120 is usually discussed in story circles and road folklore: "the same
 F120 often appears as ring motifs with slight breaks, doubled landmarks, and paired notes in ledgers.
 
 The **F120 Map** artwork is the current visual reference for **The Returning Span** and lane-based echo geography; see `assets/f120-map.png`.
+
+Later motif work such as **Time Splits** is often used with **Quartermark Drift** briefings to explain why matching clock reads can still produce diverging outcomes in recurring passes.
 
 ## Notes
 

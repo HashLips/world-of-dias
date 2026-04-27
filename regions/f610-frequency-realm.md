@@ -12,6 +12,8 @@ related:
   - The Glassfold Ledge
   - Veil Scribes
   - The Minute of True Faces
+  - Awake 1
+  - Mirror-Wake Inversion
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
   - F610 Map
@@ -49,6 +51,8 @@ In F432, F610 is mostly referenced in investigative circles and cautionary myths
 Art and diagrams represent F610 with layered panes, split reflections, and brief alignment notches rather than broad territorial borders.
 
 The **F610 Map** artwork is the current visual reference for **The Glassfold Ledge** and foldline / window-shelf navigation; see `assets/f610-map.png`.
+
+Additional motif work includes **Awake 1** and the reported **Mirror-Wake Inversion** event, both used by investigators to discuss self-reflection anomalies under reveal strain.
 
 ## Notes
 

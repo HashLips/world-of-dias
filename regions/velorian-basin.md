@@ -19,6 +19,8 @@ related:
   - The light after shared laughter
   - Tamsin Vor
   - The Moon-Market Walk
+  - As One
+  - The Circle Step Accord
 themes:
   - trade concentration
   - river routes
@@ -54,7 +56,7 @@ Market lore and street parables sometimes claim that the first contract-magic an
 
 ## Stories or Depictions
 
-Lore in this file often leans to **commerce**; a parallel strand celebrates **joy without transaction**: **The Sun-Sweet Afternoon**, the optical **Velorian Basin gilding hour**, the crowd tale **The afternoon the ball kept going**, and the gentle folk pattern **The light after shared laughter**. **The Moon-Market Walk** remains a calmer, night-time peace-myth in the same emotional family.
+Lore in this file often leans to **commerce**; a parallel strand celebrates **joy without transaction**: **The Sun-Sweet Afternoon**, the optical **Velorian Basin gilding hour**, the crowd tale **The afternoon the ball kept going**, and the gentle folk pattern **The light after shared laughter**. **The Moon-Market Walk** remains a calmer, night-time peace-myth in the same emotional family. Newer social-coordination lore in **As One** and **The Circle Step Accord** frames basin diplomacy as rhythm practiced in public, not only policy filed in offices.
 
 ## Notes
 

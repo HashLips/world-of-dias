@@ -17,6 +17,8 @@ related:
   - Unfinished edge drift
   - The Half-Made Atlas
   - F960 Map
+  - And This Is
+  - The Witness-Line Panel
   - Partial Harmonic Index fragment
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
@@ -59,6 +61,8 @@ F432 does not treat F960 as a practical trade neighbor. Awareness arrives throug
 Frontier and artist circles in Nauw and Veloria describe F960 with workshop metaphors: "a world with wet paint that never fully dries." Scholars caution that this is a useful image, not a full model.
 
 The **F960 Map** artwork is the current visual reference for realm-scale representation of iterative form and for the internal map logic of **The Unfinished**; see `assets/f960-map.png`.
+
+Additional F960 visual doctrine appears in **And This Is** and the training artifact **The Witness-Line Panel**, both emphasizing line-accurate witness over narrative embellishment.
 
 ## Notes
 

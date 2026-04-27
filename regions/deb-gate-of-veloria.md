@@ -9,6 +9,9 @@ related:
   - Veloria City
   - Sky Drifters
   - Valorian Operators
+  - Havren Pike
+  - Before I Kneel
+  - The Before-I-Kneel Oath
 themes:
   - city threshold
   - protection
@@ -44,6 +47,8 @@ In local interpretation, the gate serves both as a defense mechanism and as a st
 ## Stories or Depictions
 
 Design reference for canonical silhouette: `assets/deb-logo.svg`.
+
+Gate-culture depictions include **Before I Kneel** and the training myth **The Before-I-Kneel Oath**, both emphasizing lawful restraint over brute display.
 
 ## Notes
 
