@@ -23,6 +23,10 @@ related:
   - Green Garden
   - Poster of Veloria City
   - Veloria ring-fair token
+  - VEL Mark Trade Standard
+  - 1 VEL Mark
+  - 5 VEL Mark
+  - 10 VEL Mark
   - Velorian Basin gilding hour
   - The Sun-Sweet Afternoon
 themes:

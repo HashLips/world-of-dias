@@ -52,6 +52,14 @@ related:
   - The light after shared laughter
   - Wabet's Unclaimed Breakfast
   - Hearth Laughter Week
+  - VEL Mark Trade Standard
+  - 1 VEL Mark
+  - 5 VEL Mark
+  - 10 VEL Mark
+  - 50 VEL Mark
+  - 100 VEL Mark
+  - 200 VEL Mark
+  - 1000 VEL Mark
 themes:
   - stability
   - trade
@@ -76,6 +84,10 @@ While F432 is well explored compared to many other frequencies, **its everyday i
 Documented regions within F432 include Nauw, Wabet, and Sorel.
 
 Current geographic framing places Wabet along the full western side of the F432 map, Nauw in the north-east, and Sorel in the south-east (south of Nauw and east of Wabet).
+
+Most F432 trade uses the **VEL Mark** standard for practical inter-regional pricing and settlement. Local tender forms still exist, but VEL is the dominant shared physical currency across Nauw, Wabet, and Sorel.
+
+This does **not** mean Dias has a single currency model. Other frequencies may use non-note exchange systems, including value anchored to strategic minerals, rare resources, or non-physical settlement methods.
 
 ### Major Races in F432
 
