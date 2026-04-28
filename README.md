@@ -2,6 +2,13 @@
 
 This repository is the evolving canon archive for **The World of Dias**, created to support the storytelling and artistic expression of Daniel Eugene Botha.
 
+## Start Here
+
+New to Dias and short on time?
+
+- Start with [`START-HERE.md`](START-HERE.md)
+- Continue with [`GUIDED-PATH.md`](GUIDED-PATH.md)
+
 It serves as both:
 - a worldbuilding source of truth (`Universe`)
 - and a guidance layer for interpreting the world with deeper meaning, coherence, and emotional truth.
