@@ -9,6 +9,8 @@ related:
   - Sorel
   - Hearthvale
   - The Drift Hour with No Captain
+  - Sprout Vent
+  - Vent-sprout spread
 themes:
   - improvised settlements
   - personal autonomy
@@ -19,6 +21,7 @@ themes:
   - relaxed fatalism
   - hanging-about culture
   - baltic coastal influence
+  - volcanic omen geology
 status: canonical
 ---
 
@@ -40,6 +43,8 @@ Daily life leans wilder than in western Sorel. Mainlanders compare it to a Wild 
 
 Along the eastern shores, a Baltic-leaning coastal culture tempers that edge with a distinct laid-back rhythm. People gather, lounge, play, and "hang about" with no urgency to force a day into productivity, even while an underlying sense of danger never fully leaves the atmosphere.
 
+On the southeastern flank, inland from those beaches, **Sprout Vent** rises: a modest active volcano that still dominates local ground. Its cluster of sprouting points and rare **vent-sprout spread** (daughter vents where magma lands) make the southeastern approach one of Driftfall's most watched—and most argued-about—landmarks.
+
 ## Lore
 
 The guiding law of Driftfall is: "Freedom belongs to those who claim it."
@@ -53,6 +58,8 @@ The guiding law of Driftfall is: "Freedom belongs to those who claim it."
 ## Stories or Depictions
 
 **The Drift Hour with No Captain** is the common mythic account of the territory’s *first* law emerging from a captainless hour—motion as constitution.
+
+**Sprout Vent** and **vent-sprout spread** supply Driftfall's main geological omen thread: infrequent parent eruptions, contagious ground sprouting, and the scattered mini-vents that reshape how crews read southeastern routes.
 
 ## Notes
 

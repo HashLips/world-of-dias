@@ -11,9 +11,13 @@ related:
   - Wabet
   - Hearthvale
   - Driftfall
+  - Sprout Vent
+  - Vent-sprout spread
   - Map of Sorel
   - The Long Gate Argument
   - The Drift Hour with No Captain
+  - The Three Opinions
+  - 3 Opinions (The Three Opinions Portrait)
 themes:
   - exile
   - frontier survival
@@ -51,6 +55,8 @@ Within Sorel, two major territories divide the land: Hearthvale lies on the west
 ## Stories or Depictions
 
 *Map of Sorel* is treated as a canonical close-up representation of Sorel, with clear emphasis on the Hearthvale-Driftfall split. Broad-scale storytelling often invokes **The Long Gate Argument** (the mythic history of the great Nauw crossing into Hearthvale) and **The Drift Hour with No Captain** (Driftfall’s void-hour founding tale).
+
+*3 Opinions* and the traveling trio **The Three Opinions** are recurring social depictions: unaligned gossip-bearers who unsettle towns without openly joining Hearthvale or Driftfall camps.
 
 ## Notes
 
