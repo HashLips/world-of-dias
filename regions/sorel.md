@@ -18,6 +18,9 @@ related:
   - The Drift Hour with No Captain
   - The Three Opinions
   - 3 Opinions (The Three Opinions Portrait)
+  - The Salt Ledger
+  - Solven Wetch
+  - Workday
 themes:
   - exile
   - frontier survival

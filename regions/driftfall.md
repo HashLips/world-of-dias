@@ -11,6 +11,9 @@ related:
   - The Drift Hour with No Captain
   - Sprout Vent
   - Vent-sprout spread
+  - The Salt Ledger
+  - Solven Wetch
+  - Workday
 themes:
   - improvised settlements
   - personal autonomy
