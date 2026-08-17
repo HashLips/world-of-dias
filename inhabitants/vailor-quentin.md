@@ -8,6 +8,11 @@ related:
   - Resonant Houses
   - Two Phase (Vailor Quentin Portrait)
   - The Red Sail Crown of Vailor
+  - The Harmonic Saga
+  - Calen Brink
+  - Red-Sail Crown
+  - Crown Session
+  - House Schism
 themes:
   - realm authority
   - order

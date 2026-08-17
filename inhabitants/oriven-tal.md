@@ -8,6 +8,9 @@ related:
   - Vailor Quentin
   - Familiar Face (Oriven Tal Portrait)
   - The Familiar Regent Who May Not Be One
+  - Resonant Houses
+  - The Harmonic Saga
+  - Calen Brink
 themes:
   - secrecy
   - operations
@@ -44,3 +47,5 @@ Oriven represents invisible governance and the fear that power can be strongest 
 ## Notes
 
 Rumors describe Vailor Quentin as cautious around Oriven's shadow influence.
+
+Saga canon: private audience with Calen Brink—[`stories/familiar-face.md`](../stories/familiar-face.md). Echo-read returns static; identity unresolved. Calen's original notebook **archived**, not destroyed.

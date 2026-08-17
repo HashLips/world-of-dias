@@ -36,4 +36,4 @@ Diva One serves as a character anchor for F200 lived sociality, translating abst
 
 ## Notes
 
-Portrait references generally derive from the artwork *Diva 1*.
+Portrait references generally derive from the artwork *Diva 1*. Brief cross-band contact during **L-band lumen bleed** is saga canon in [`stories/luminance-line.md`](../stories/luminance-line.md)—interpretation (true body vs meridian projection) remains open.

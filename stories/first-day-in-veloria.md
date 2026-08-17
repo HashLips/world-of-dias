@@ -13,6 +13,9 @@ related:
   - Sky Drifters
   - VEL Mark Trade Standard
   - DEB Gate of Veloria
+  - The Echo at the Gate
+  - Calen Brink
+  - The Harmonic Saga
 themes:
   - first contact
   - civic awe

@@ -9,6 +9,11 @@ related:
   - Driftfall
   - Ball Room (Carrow Vale Portrait)
   - The Mask Kept After Exile
+  - Ball Room (Carrow Vale Portrait)
+  - Carrow's Mask
+  - The Long Gate South
+  - Calen Brink
+  - The Harmonic Saga — Movement Two
 themes:
   - exile rule
   - fear and loyalty

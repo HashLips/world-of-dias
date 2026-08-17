@@ -34,6 +34,11 @@ related:
   - Brindle March stillness
   - The light after shared laughter
   - The Sun-Sweet Afternoon
+  - The Harmonic Saga
+  - The Harmonic Saga — Movement Two
+  - The Harmonic Saga — Movement Three
+  - The Harmonic Saga — Film Treatment
+  - Harmonic Echo-Rise
 themes:
   - frequency
   - layered reality

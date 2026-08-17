@@ -10,6 +10,9 @@ related:
   - Workday
   - The Week He Handed It Back
   - Between Repetitions
+  - The Grid the Echo Built
+  - Calen Brink
+  - Grid Handoff
 themes:
   - compulsive observation
   - grid composition
@@ -49,3 +52,5 @@ Solven Wetch embodies Driftfall's witness culture made physical: freedom claimed
 ## Notes
 
 Not to be confused with **The Artist** of Veloria City—a different tradition of making and erasure. Wetch's work is additive, sequential, and meant to leave the grid with someone else.
+
+Saga canon: completes a listening-week grid for Calen Brink—[`stories/the-grid-the-echo-built.md`](../stories/the-grid-the-echo-built.md).

@@ -6,6 +6,10 @@ culture:
 related:
   - Veloria City
   - Emergence
+  - The Harmonic Saga
+  - Sun-Sweet and Sky
+  - Calen Brink
+  - Harmonic Echo-Rise
 themes:
   - watchers
   - frequency overlap (speculation)
@@ -36,3 +40,4 @@ They are a defining visual and cultural feature of Veloria’s sky and an enduri
 
 ## Notes
 
+During echo-rise season, basin witnesses in saga canon report a **fractional lowering** of one cluster edge—still without landing, still without explanation. See [`stories/sun-sweet-and-sky.md`](../stories/sun-sweet-and-sky.md).

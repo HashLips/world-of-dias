@@ -41,3 +41,5 @@ Sael represents controlled memory and the moral tension between preservation and
 ## Notes
 
 Golden tears are frequently interpreted as signs of memory-fracture events.
+
+Saga canon: releases one harmonic census leaf to Calen Brink while withholding bulk archives—[`stories/veil-of-averra.md`](../stories/veil-of-averra.md). Moral stance remains ambiguous.

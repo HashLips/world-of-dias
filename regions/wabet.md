@@ -20,6 +20,10 @@ related:
   - The West That Chose Calm
   - Wabet's Unclaimed Breakfast
   - Lucky Fruit sharing-knife
+  - Calen Brink
+  - The Harmonic Saga
+  - The Open Hand and the Rose
+  - A Rose for You
 themes:
   - natural purity
   - serenity

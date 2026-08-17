@@ -6,6 +6,11 @@ culture:
 related:
   - Veloria City
   - Running
+  - Calen Brink
+  - The Harmonic Saga
+  - The Echo at the Gate
+  - The Load the Core Carries
+  - Sun-Sweet and Sky
 themes:
   - loss
   - endurance
@@ -37,3 +42,4 @@ Harold grounds Veloria's vast scale in a human rhythm, showing how a single pers
 
 ## Notes
 
+Harold and **Calen Brink** pass each other on basin-edge mornings in saga chronology before speaking—two mappers of Veloria, one by motion, one by echo.

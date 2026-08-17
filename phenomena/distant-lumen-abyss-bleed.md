@@ -10,6 +10,10 @@ related:
   - The Distant Companies
   - Partial Harmonic Index fragment
   - Ledger mention of F200 and F500
+  - Null on the Horizon
+  - Calen Brink
+  - Marek Solon
+  - The Unraveled
 themes:
   - leaked resonance
   - imperfect awareness
@@ -52,3 +56,5 @@ More often reported in **open horizon contexts** (sea, long plains, high observa
 ## Notes
 
 Treat bleed events as **story hooks and atmospheric canon**, not as direct invasion mechanics. F432 remains **largely insulated**; the phenomenon keeps **F200 and F500 present in world-feel** without requiring immediate plot impact on Veloria, Wabet, or Sorel.
+
+Saga dramatization: Marek Solon witnesses horizon notch with Calen Brink—[`stories/null-on-the-horizon.md`](../stories/null-on-the-horizon.md).

@@ -8,6 +8,9 @@ related:
   - F200 (frequency realm)
   - Diva One
   - Aurel-kind
+  - The Harmonic Saga
+  - Luminance Line
+  - Calen Brink
 themes:
   - focused presence
   - luminous identity

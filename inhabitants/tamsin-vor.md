@@ -11,6 +11,20 @@ related:
   - The Sun-Sweet Afternoon
   - Velorian Basin gilding hour
   - The afternoon the ball kept going
+  - Calen Brink
+  - The Harmonic Saga
+  - The Echo at the Gate
+  - The Load the Core Carries
+  - Sun-Sweet and Sky
+  - The Open Hand and the Rose
+  - Luminance Line
+  - The Atlas That Rewrites
+  - What the Bridge Remembers
+  - The Long Gate South
+  - The Grid the Echo Built
+  - Familiar Face
+  - Underground Thrum
+  - The Harmonic Saga — Movement Two
 themes:
   - free-spirited leadership
   - social connective tissue
@@ -44,3 +58,5 @@ Tamsin represents social cohesion as infrastructure: keeping a region functionin
 ## Notes
 
 Her influence expands during seasonal gathering cycles.
+
+During echo-rise season she is among the first basin stewards to offer road-worn echo-readers practical shelter without demanding proof—an attitude that becomes central to her connection with **Calen Brink** in early saga canon.

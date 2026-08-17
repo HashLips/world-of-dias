@@ -53,6 +53,9 @@ related:
   - Wabet's Unclaimed Breakfast
   - Hearth Laughter Week
   - VEL Mark Trade Standard
+  - The Harmonic Saga
+  - Calen Brink
+  - Harmonic Echo-Rise
   - 1 VEL Mark
   - 5 VEL Mark
   - 10 VEL Mark

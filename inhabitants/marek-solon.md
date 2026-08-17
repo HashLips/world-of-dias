@@ -8,6 +8,11 @@ related:
   - Singing Fishermen
   - Peck 1 (Marek Solon Portrait)
   - The Split Tide Bloodline
+  - The Harmonic Saga
+  - Calen Brink
+  - Harmonic Echo-Rise
+  - The Atlas That Rewrites
+  - The Half-Made Atlas
 themes:
   - dual-form existence
   - maritime rites
@@ -41,3 +46,5 @@ Marek represents living continuity between maritime governance and unresolved fr
 ## Notes
 
 Marek is also associated with efforts to document pre-fracture remnants as an active side mission.
+
+Saga canon: dual-form encounter with Calen Brink at outer rim seas—[`stories/the-atlas-that-rewrites.md`](../stories/the-atlas-that-rewrites.md). Fracture echo felt as **paired grief**, not explained.

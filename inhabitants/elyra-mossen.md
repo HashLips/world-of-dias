@@ -9,6 +9,9 @@ related:
   - Verdant Reach
   - 99 Problems (Elyra Mossen Portrait)
   - The Oath of Uncut Water
+  - Calen Brink
+  - The Harmonic Saga
+  - The Open Hand and the Rose
 themes:
   - keeper leadership
   - ecological restraint

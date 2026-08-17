@@ -5,6 +5,9 @@ region: Veloria City
 culture:
 related:
   - Veloria City
+  - The Harmonic Saga
+  - Harmonic Thrum
+  - Calen Brink
 themes:
   - stewardship
   - hypertechnology
@@ -33,4 +36,6 @@ Residents of the outer rings often regard Operators with a mixture of dependence
 They embody the link between Veloria’s ancient-feeling periphery and the realm-scale machinery that keeps the city and F432’s present stability possible.
 
 ## Notes
+
+Saga canon honors Operator labor in [`stories/the-load-the-core-carries.md`](../stories/the-load-the-core-carries.md). N-band echo classification is policy, not denial—see [`rules/core-harmonic-classification-rule.md`](../rules/core-harmonic-classification-rule.md).
 
