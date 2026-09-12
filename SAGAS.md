@@ -6,6 +6,8 @@ They follow inhabitants (or linked story threads) across places and choices so r
 
 You do not need a saga to understand the repo. Use them when you want a guided story path with emotional payoff.
 
+World identity behind all sagas: [`CORE-PILLARS.md`](CORE-PILLARS.md)
+
 ---
 
 ## Available sagas

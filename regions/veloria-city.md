@@ -79,3 +79,4 @@ The contrast between the medieval-feeling rim and the realm-powering core is cen
 
 ## Notes
 
+**Pillar exemplar (Iconic locations):** ring-layered city where frequency-adjacent tech and medieval rim share one circle—place identity from how resonance is *lived*, not from a single skyline trick. Doctrine: [`CORE-PILLARS.md`](../CORE-PILLARS.md).

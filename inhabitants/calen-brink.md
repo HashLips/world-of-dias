@@ -46,6 +46,12 @@ related:
   - Signing the Passage
   - The Passage Round
   - Delci handshare dream rule
+  - Everything resonates echo principle
+  - Resonant Artifacts
+  - Resonant Shards
+  - Looking Into
+  - Gates
+  - Basin Rail Shard
 themes:
   - echo-reading
   - belonging
@@ -97,6 +103,8 @@ Oriven Tal's channels are rumored to have flagged Calen's name after the first D
 
 Calen is the audience surrogate: someone relatable who gains access to Dias's deeper layers and chooses to use that access **for good**, even when power would prefer silence.
 
+**Pillar exemplar (Central characters):** Calen proves a protagonist can open the world without shrinking it—echo-reading as entry, not destiny. Ordinary companions (Harold, basin stewards, Delci as side-path) keep the archive larger than one gift.
+
 ## Notes
 
-Portrait artwork **pending creator link**. Do not describe Calen's face in fixed visual detail until a portrait entry exists. Thematic companions in early canon: [`stories/the-echo-at-the-gate.md`](../stories/the-echo-at-the-gate.md), [`stories/first-day-in-veloria.md`](../stories/first-day-in-veloria.md).
+Portrait artwork **pending creator link**. Do not describe Calen's face in fixed visual detail until a portrait entry exists. Thematic companions in early canon: [`stories/the-echo-at-the-gate.md`](../stories/the-echo-at-the-gate.md), [`stories/first-day-in-veloria.md`](../stories/first-day-in-veloria.md). Early shard lesson: [`artifacts/basin-rail-shard.md`](../artifacts/basin-rail-shard.md). Doctrine: [`CORE-PILLARS.md`](../CORE-PILLARS.md).

@@ -10,6 +10,10 @@ related:
   - The Prime Age
   - The Fracture
   - Prime Relics
+  - Resonant Artifacts
+  - The Harmonic Saga
+  - Calen Brink
+  - What the Bridge Remembers
 themes:
   - convergence
   - resonance
@@ -50,3 +54,5 @@ Modern civilizations do not use the Prime Bridge for inter-frequency travel. Ins
 ## Notes
 
 The Bridge’s builders and purpose remain unknown, as does the consequence of any potential restoration.
+
+**Pillar exemplar (Resonant Artifacts / Prime Relics):** importance from what it *was* and what fragments still remember—not from usable travel power in the Present Age. Sits under [`artifacts/resonant-artifacts.md`](resonant-artifacts.md).

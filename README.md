@@ -13,6 +13,8 @@ It serves as both:
 - a worldbuilding source of truth (`Universe`)
 - and a guidance layer for interpreting the world with deeper meaning, coherence, and emotional truth.
 
+Core identity (pillars and foundational law): [`CORE-PILLARS.md`](CORE-PILLARS.md)
+
 ## Fiction and AI Notice
 
 Everything in this repository is fictional worldbuilding and storytelling.  

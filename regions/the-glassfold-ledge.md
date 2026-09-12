@@ -10,6 +10,10 @@ related:
   - Veil Scribes
   - The Minute of True Faces
   - F610 Map
+  - Wall of Eyes
+  - Floating On
+  - Glass Mirror
+  - Eye in the Sky
 themes:
   - reveal intervals
   - reflective terrain
@@ -45,3 +49,5 @@ Cartographers often print dual overlays: base-terrain and reveal-phase in separa
 ## Notes
 
 Do not map as a puzzle gimmick. The ledge is functional terrain with timed information advantages.
+
+**Pillar exemplar (Iconic locations):** place identity from reveal-interval frequency behavior—what you can see depends on when you stand there.

@@ -60,4 +60,6 @@ The **F200 Map** artwork is the current **visual reference** for that large-scal
 
 ## Notes
 
+**Pillar exemplar (Frequencies as fundamental law):** F200 = luminosity / coherence expectations when the designation is named. Contrast F432 material stability and F500 null pressure under [`rules/frequency-as-fundamental-law.md`](../rules/frequency-as-fundamental-law.md).
+
 F200 and F432 are both frequency realms, but F200’s **physics-of-appearance** is less material and more **luminous-harmonic**; do not assume F432 cartographic conventions (forests, seas, frontiers) transfer without translation.

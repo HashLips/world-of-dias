@@ -15,6 +15,9 @@ related:
   - The Passage Round
   - Delci handshare dream rule
   - My Path
+  - Dream Land
+  - Storm at the Mountain
+  - Figure Mountain
   - Calen Brink
 themes:
   - calm height
@@ -63,3 +66,5 @@ The full name is older than Delci's routine. Shore memory holds that crews once 
 ## Notes
 
 Treat as Driftfall's "good side" landmark: still Driftfall, but paced like hang-about culture rather than crew-yard volatility.
+
+**Pillar exemplar (Iconic locations):** a height whose name, fair-deal memory, and Delci still hours make it feel like a place the moment it is spoken.

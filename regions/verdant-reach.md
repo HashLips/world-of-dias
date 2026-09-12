@@ -13,6 +13,9 @@ related:
   - Lucky Farmers
   - Breakfast 1
   - The Third-Chair Breakfast
+  - When Trees Sing
+  - That Forest
+  - Blue Litter Underwood
 themes:
   - fertile landscapes
   - orchard cultivation

@@ -13,11 +13,13 @@ For the core premise, read:
 
 ## 5 Key Ideas To Hold First
 
-1. **Reality is layered by frequency.**
-2. **The Fracture split one older reality into many realms.**
-3. **F432 is broad, lived, and unevenly understood from within itself.**
-4. **Different regions and cultures solve survival differently, so law, trade, and daily life can feel very different from place to place.**
+1. **Everything resonates; everything leaves an echo.**
+2. **Reality is layered by frequency.**
+3. **The Fracture split one older reality into many realms.**
+4. **F432 is broad, lived, and unevenly understood from within itself.**
 5. **Stories and myths preserve what people believe happened, while rules and records show what institutions enforce in the present. You need both to understand Dias.**
+
+World identity (pillars, taxonomy, open mysteries such as Frequency Zero): [`CORE-PILLARS.md`](CORE-PILLARS.md)
 
 ## Fast Orientation (10-15 minutes)
 
@@ -30,4 +32,5 @@ For the core premise, read:
 
 The onboarding steps stay stable even as this repo grows.  
 When new lore is added, keep this entry flow unchanged and only expand the lore collections inside their main folders (`stories`, `rules`, `cultures`, `regions`, and others).  
-When a new saga journey is ready, list it in [`SAGAS.md`](SAGAS.md).
+When a new saga journey is ready, list it in [`SAGAS.md`](SAGAS.md).  
+When deepening world identity, extend [`CORE-PILLARS.md`](CORE-PILLARS.md) and its linked rules/taxonomies—prefer categorization over rewriting established entries.

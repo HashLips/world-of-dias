@@ -12,6 +12,13 @@ related:
   - Oriven Tal
   - House Schism
   - Resonant House echo classification codes
+  - Echo interpretation stances
+  - Everything resonates echo principle
+  - Revelation
+  - Masked
+  - Music House
+  - Song of the Passage Flute
+  - Behind the Masked
 themes:
   - realm governance
   - structured power
@@ -59,3 +66,5 @@ The Resonant Houses embody **grand, structured power** in the saga: the weight o
 ## Notes
 
 Not every house is named in current canon. Future entries may add individual houses when artworks or stories require them.
+
+**Pillar exemplar (Factions):** file-and-stabilize worldview—echoes as something to classify before the realm panics. Stance map: [`cultures/echo-interpretation-stances.md`](../cultures/echo-interpretation-stances.md).

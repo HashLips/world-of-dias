@@ -10,6 +10,8 @@ related:
   - Sun-Sweet and Sky
   - Calen Brink
   - Harmonic Echo-Rise
+  - Calmness of Floating
+  - Eye in the Sky
 themes:
   - watchers
   - frequency overlap (speculation)

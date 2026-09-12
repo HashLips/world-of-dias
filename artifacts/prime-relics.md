@@ -11,6 +11,9 @@ related:
   - The Fracture
   - The Prime Bridge
   - The Census Echoes of the Prime Mark
+  - Resonant Artifacts
+  - Resonant Shards
+  - Everything resonates echo principle
 themes:
   - transfrequency
   - lost technology
@@ -46,4 +49,4 @@ Most Prime Relics cannot be reliably activated or controlled. They are typically
 
 ## Notes
 
-“Prime Relic” is a classification applied after the Fracture; provenance is rarely certain.
+“Prime Relic” is a classification applied after the Fracture; provenance is rarely certain. Under present taxonomy, Prime Relics sit within the umbrella class **Resonant Artifacts**—see [`artifacts/resonant-artifacts.md`](resonant-artifacts.md)—without losing their Prime Age specificity.

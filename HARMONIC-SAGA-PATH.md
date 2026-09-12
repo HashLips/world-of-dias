@@ -55,6 +55,7 @@ Driftfall branch—best after Movement One chapter 6 or during Movement Two's Dr
 - [`stories/why-they-call-it-good-trade.md`](stories/why-they-call-it-good-trade.md) — how the mountain got its name
 - [`stories/the-still-hours-on-good-trade.md`](stories/the-still-hours-on-good-trade.md) — Calen meets Delci Beta on the rock
 - [`stories/signing-the-passage.md`](stories/signing-the-passage.md) — handshare into the Passage Round; first logbook opening
+- [`stories/song-of-the-passage-flute.md`](stories/song-of-the-passage-flute.md) — House antechamber tuned before classification (Veloria)
 
 Related lore: [`inhabitants/delci-beta.md`](inhabitants/delci-beta.md), [`regions/mountain-of-majestic-good-trade.md`](regions/mountain-of-majestic-good-trade.md), [`regions/the-passage-round.md`](regions/the-passage-round.md), [`regions/the-sealed-beta-chamber.md`](regions/the-sealed-beta-chamber.md), [`artifacts/delci-passage-logbook.md`](artifacts/delci-passage-logbook.md), [`rules/delci-handshare-dream-rule.md`](rules/delci-handshare-dream-rule.md), [`artworks/my-path.md`](artworks/my-path.md)
 

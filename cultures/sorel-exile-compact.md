@@ -7,6 +7,8 @@ related:
   - Carrow Vale
   - Hearthvale
   - Driftfall
+  - Masked
+  - Behind the Masked
 themes:
   - exile solidarity
   - earned legitimacy

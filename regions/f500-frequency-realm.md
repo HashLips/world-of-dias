@@ -63,4 +63,6 @@ The **F500 Map** artwork is the current **visual reference** for void-field pres
 
 ## Notes
 
+**Pillar exemplar (Frequencies as fundamental law):** F500 = null / absence expectations when the designation is named—proof that frequency labels carry implications without needing full maps. See [`rules/frequency-as-fundamental-law.md`](../rules/frequency-as-fundamental-law.md).
+
 For image generation, prefer **void-forward** compositions: **negative space, subtle grain, edge-darkening, lens-like distortion at the boundary, no friendly focal objects**. F500 should never read as a cozy gothic night; it should read as **erasure with teeth**.

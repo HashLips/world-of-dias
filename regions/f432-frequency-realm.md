@@ -120,3 +120,4 @@ The **Early F432 Survey Map** is treated as a canonical early-era depiction of t
 
 ## Notes
 
+**Pillar exemplar (Frequencies as fundamental law):** F432 is the lived baseline—stable enough for cities, trade, and sagas; incomplete enough that neighboring bands remain partial intelligence. See [`rules/frequency-as-fundamental-law.md`](../rules/frequency-as-fundamental-law.md) and contrast exemplars [`regions/f200-frequency-realm.md`](f200-frequency-realm.md) / [`regions/f500-frequency-realm.md`](f500-frequency-realm.md).

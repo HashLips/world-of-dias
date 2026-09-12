@@ -39,6 +39,13 @@ related:
   - The Harmonic Saga — Movement Three
   - The Harmonic Saga — Film Treatment
   - Harmonic Echo-Rise
+  - Everything resonates echo principle
+  - Frequency as fundamental law
+  - Frequency Zero
+  - Resonant Artifacts
+  - Resonant Shards
+  - Echoforms
+  - Echo interpretation stances
 themes:
   - frequency
   - layered reality
@@ -75,6 +82,8 @@ Known frequency realms documented so far include **F432** (material-like stabili
 Across the Frequencies, scattered ruins and **Prime Relics** hint that parts of reality once belonged to a single world. One of the most discussed remnants is **The Prime Bridge**, a fragmented structure believed to persist as partial echoes across multiple Frequencies.
 
 Alongside weightier tales, F432 in particular also carries **small, happy patterns**—shared sunlight myths, market laughter, and road gratitude—treated as part of the **same** Dias, not a separate “soft AU.”
+
+**World identity:** Dias is governed by a simple foundational principle—**everything resonates; everything leaves an echo**—developed in [`CORE-PILLARS.md`](../CORE-PILLARS.md) and the linked rules. New lore should extend and categorize under that principle rather than invent a separate metaphysics.
 
 Across different cultures and realms, many myths attempt to explain the Fracture. Some claim it was a natural cosmic event; others blame a forgotten civilization, betrayal, war, or a resonance threshold the Prime Realm could not contain. Other tales widen the frame further—**The Census Echoes of the Prime Mark** imagines a pre-Fracture **tally of resonance and category** (in those tellings, about **reality’s harmonics**, not the counting of people as chattel), and even stable, trade-heavy F432 sometimes records strange **road-scale pauses** (see **Brindle March stillness**) that feel, to some, like an echo of that older order reasserting a rhythm.
 

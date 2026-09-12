@@ -8,6 +8,9 @@ related:
   - The Harmonic Saga
   - Harmonic Thrum
   - Calen Brink
+  - Echo interpretation stances
+  - Core harmonic classification rule
+  - Revelation
 themes:
   - stewardship
   - hypertechnology
@@ -39,3 +42,4 @@ They embody the link between Veloria’s ancient-feeling periphery and the realm
 
 Saga canon honors Operator labor in [`stories/the-load-the-core-carries.md`](../stories/the-load-the-core-carries.md). N-band echo classification is policy, not denial—see [`rules/core-harmonic-classification-rule.md`](../rules/core-harmonic-classification-rule.md).
 
+**Pillar exemplar (Factions):** load-discipline worldview—keep systems legible; some truths stay filed so the core stays alive. Stance map: [`cultures/echo-interpretation-stances.md`](../cultures/echo-interpretation-stances.md).

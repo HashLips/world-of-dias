@@ -19,6 +19,7 @@ related:
   - The Harmonic Saga — Movement Three
   - The Line That Draws Itself
   - Second Bridge
+  - Resonant Artifacts
 themes:
   - living map
   - memory
@@ -50,3 +51,5 @@ Used as a baseline reference for travel planning, apprenticeship exercises, and 
 ## Notes
 
 Do not frame it as omniscient. The atlas is an aid to judgment, not a perfect oracle.
+
+**Pillar exemplar (Resonant Artifacts):** mutable cartographic echo—importance from revision history and unfinished truth, under [`artifacts/resonant-artifacts.md`](resonant-artifacts.md).

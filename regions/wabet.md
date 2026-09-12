@@ -24,6 +24,9 @@ related:
   - The Harmonic Saga
   - The Open Hand and the Rose
   - A Rose for You
+  - That Forest
+  - When Trees Sing
+  - Blue Litter Underwood
 themes:
   - natural purity
   - serenity
@@ -69,3 +72,4 @@ Recognized subregions include Aelwyn Canopy across the north (with limited exten
 
 ## Notes
 
+**Pillar exemplar (Iconic locations):** the west that chose calm—frequency-tinged serenity as culture and landscape together. Companion stress-test: Blue Litter Underwood / That Forest.

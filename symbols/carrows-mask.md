@@ -10,6 +10,8 @@ related:
   - Ball Room (Carrow Vale Portrait)
   - The Long Gate South
   - Calen Brink
+  - Masked
+  - Behind the Masked
 themes:
   - exile identity
   - anonymity as rule
@@ -37,4 +39,4 @@ Central to [`inhabitants/carrow-vale.md`](../inhabitants/carrow-vale.md) and [`s
 
 ## Notes
 
-Visual anchor: [`artworks/ball-room-carrow-vale-portrait.md`](../artworks/ball-room-carrow-vale-portrait.md).
+Visual anchor: [`artworks/ball-room-carrow-vale-portrait.md`](../artworks/ball-room-carrow-vale-portrait.md). Collective mask practice: [`artworks/masked.md`](../artworks/masked.md).

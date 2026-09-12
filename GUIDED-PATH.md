@@ -13,6 +13,11 @@ Read:
 
 Goal: understand what Dias is and why frequencies matter.
 
+Optional identity layer (pillars and foundational law):
+
+- [`CORE-PILLARS.md`](CORE-PILLARS.md)
+- [`rules/everything-resonates-echo-principle.md`](rules/everything-resonates-echo-principle.md)
+
 ## Step 2 - Main Grounding Realm (F432)
 
 Read:
@@ -69,8 +74,17 @@ Current highlight:
 
 - [`HARMONIC-SAGA-PATH.md`](HARMONIC-SAGA-PATH.md) — **The Harmonic Saga** (Calen Brink; main story path, with optional side journeys)
 
+## Optional - World pillars
+
+To see how Dias stays recognizable while expanding, read:
+
+- [`CORE-PILLARS.md`](CORE-PILLARS.md)
+
+That page links rules (resonance and frequency law), taxonomies (Resonant Artifacts, Resonant Shards, Echoforms), faction stance patterns, and the open mystery of Frequency Zero.
+
 ## Maintenance Rule
 
 Do not rewrite steps 1–5 when adding lore.  
 Keep this sequence stable, and add new canon entries to their category folders.  
-When a new saga journey is ready, add it to [`SAGAS.md`](SAGAS.md)—do not expand this page into a full saga index.
+When a new saga journey is ready, add it to [`SAGAS.md`](SAGAS.md)—do not expand this page into a full saga index.  
+When extending world identity, update [`CORE-PILLARS.md`](CORE-PILLARS.md) and linked taxonomy/rule entries; do not rewrite established stories to force new labels.

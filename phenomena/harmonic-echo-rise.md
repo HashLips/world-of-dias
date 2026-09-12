@@ -13,6 +13,9 @@ related:
   - What the Bridge Remembers
   - Veloria City
   - Known Eras and Markers
+  - Everything resonates echo principle
+  - Resonant Artifacts
+  - Echo interpretation stances
 themes:
   - residual memory
   - rising resonance

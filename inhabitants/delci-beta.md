@@ -18,6 +18,9 @@ related:
   - Calen Brink
   - Solven Wetch
   - My Path
+  - Dream Land
+  - Storm at the Mountain
+  - Figure Mountain
 themes:
   - inward life
   - daily ritual
@@ -61,6 +64,8 @@ At **The Salt Ledger**, talk sometimes hardens into a name for the habit—"the 
 
 Delci Beta is a side-path figure in Dias: a living invitation into inward travel for anyone curious enough to find him—most notably **Calen Brink**, who hears the rumor, sits the rock, and later walks the Passage under handshare.
 
+**Pillar exemplar (Central characters — secondary):** proves the world supports protagonists and quiet recurrers who are not "chosen." His power is routine and place, not crown destiny.
+
 ## Notes
 
-Saga-adjacent path: [`stories/the-still-hours-on-good-trade.md`](../stories/the-still-hours-on-good-trade.md), then [`stories/signing-the-passage.md`](../stories/signing-the-passage.md). Naming lore for his rock: [`stories/why-they-call-it-good-trade.md`](../stories/why-they-call-it-good-trade.md). Visual path: [`artworks/my-path.md`](../artworks/my-path.md) (`assets/my-path.jpg`). Sealed Beta Chamber interior remains unknown.
+Saga-adjacent path: [`stories/the-still-hours-on-good-trade.md`](../stories/the-still-hours-on-good-trade.md), then [`stories/signing-the-passage.md`](../stories/signing-the-passage.md). Naming lore for his rock: [`stories/why-they-call-it-good-trade.md`](../stories/why-they-call-it-good-trade.md). Visual path: [`artworks/my-path.md`](../artworks/my-path.md) (`assets/my-path.jpg`). Dream posture: [`artworks/dream-land.md`](../artworks/dream-land.md). Mountain resonance weather: [`artworks/storm-at-the-mountain.md`](../artworks/storm-at-the-mountain.md). Sealed Beta Chamber interior remains unknown.

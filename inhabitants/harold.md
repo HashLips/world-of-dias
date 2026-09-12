@@ -43,3 +43,5 @@ Harold grounds Veloria's vast scale in a human rhythm, showing how a single pers
 ## Notes
 
 Harold and **Calen Brink** pass each other on basin-edge mornings in saga chronology before speaking—two mappers of Veloria, one by motion, one by echo.
+
+**Pillar exemplar (Central characters — ordinary life):** no unique power, still essential. Dias stays large because people like Harold already belong in it.

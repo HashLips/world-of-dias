@@ -8,6 +8,9 @@ related:
   - Draftkin
   - The Last Line Never Drawn
   - The Half-Made Atlas
+  - Echo interpretation stances
+  - Everything resonates echo principle
+  - Resonant Artifacts
 themes:
   - revision ethics
   - humility
@@ -43,3 +46,5 @@ The culture is often summarized with a phrase repeated across F960 workshops and
 ## Notes
 
 In Dias comparisons, this culture is frequently contrasted with F500's null pressure and F200's coherence ideals.
+
+**Pillar exemplar (Factions):** make-and-leave-open worldview—revision over final sealing. Stance map: [`cultures/echo-interpretation-stances.md`](../cultures/echo-interpretation-stances.md).

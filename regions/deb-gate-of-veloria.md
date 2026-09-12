@@ -12,6 +12,8 @@ related:
   - Havren Pike
   - Before I Kneel
   - The Before-I-Kneel Oath
+  - Gates
+  - The Echo at the Gate
 themes:
   - city threshold
   - protection
