@@ -40,6 +40,12 @@ related:
   - DEB Gate of Veloria
   - The Load-Balance Trial
   - Balance 1
+  - Delci Beta
+  - Mountain of Majestic Good Trade
+  - The Still Hours on Good Trade
+  - Signing the Passage
+  - The Passage Round
+  - Delci handshare dream rule
 themes:
   - echo-reading
   - belonging

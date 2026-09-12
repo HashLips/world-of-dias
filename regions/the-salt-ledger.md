@@ -11,6 +11,9 @@ related:
   - Solven Wetch
   - Workday
   - The Week He Handed It Back
+  - Delci Beta
+  - Mountain of Majestic Good Trade
+  - The Still Hours on Good Trade
 themes:
   - hanging-about culture
   - coastal ease

@@ -13,6 +13,9 @@ related:
   - The Grid the Echo Built
   - Calen Brink
   - Grid Handoff
+  - Delci Beta
+  - Mountain of Majestic Good Trade
+  - The Still Hours on Good Trade
 themes:
   - compulsive observation
   - grid composition

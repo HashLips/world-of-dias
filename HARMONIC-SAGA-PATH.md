@@ -48,10 +48,22 @@ Spine: [`world/the-harmonic-saga-movement-three.md`](world/the-harmonic-saga-mov
 
 **Saga status:** 19 chapters complete across three movements. Cosmic mysteries open.
 
+## Side journeys (optional)
+
+Driftfall branch—best after Movement One chapter 6 or during Movement Two's Driftfall return:
+
+- [`stories/why-they-call-it-good-trade.md`](stories/why-they-call-it-good-trade.md) — how the mountain got its name
+- [`stories/the-still-hours-on-good-trade.md`](stories/the-still-hours-on-good-trade.md) — Calen meets Delci Beta on the rock
+- [`stories/signing-the-passage.md`](stories/signing-the-passage.md) — handshare into the Passage Round; first logbook opening
+
+Related lore: [`inhabitants/delci-beta.md`](inhabitants/delci-beta.md), [`regions/mountain-of-majestic-good-trade.md`](regions/mountain-of-majestic-good-trade.md), [`regions/the-passage-round.md`](regions/the-passage-round.md), [`regions/the-sealed-beta-chamber.md`](regions/the-sealed-beta-chamber.md), [`artifacts/delci-passage-logbook.md`](artifacts/delci-passage-logbook.md), [`rules/delci-handshare-dream-rule.md`](rules/delci-handshare-dream-rule.md), [`artworks/my-path.md`](artworks/my-path.md)
+
 ## After the saga
 
 Branch using [`GUIDED-PATH.md`](GUIDED-PATH.md). Return to myths, regions, and artworks the saga names but does not explain.
 
+This saga is also listed on [`SAGAS.md`](SAGAS.md) for readers coming from the Guided Path.
+
 ## Maintenance
 
-Do not rewrite [`GUIDED-PATH.md`](GUIDED-PATH.md) when adding saga chapters. Update this file only.
+Do not rewrite [`GUIDED-PATH.md`](GUIDED-PATH.md) steps 1–5 when adding saga chapters. Update this file for Harmonic Saga structure; list new *separate* sagas on [`SAGAS.md`](SAGAS.md).

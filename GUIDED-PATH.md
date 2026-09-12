@@ -57,7 +57,20 @@ Pick one interest and continue directly:
 
 Goal: go deeper without losing orientation.
 
+## Optional - Sagas
+
+After the steps above, you can optionally follow a **saga**: a narrative journey that walks with an inhabitant (or linked thread) through Dias. Sagas explain the world through story—wonder, pressure, and choice—without replacing free browsing of the archive.
+
+Full list (grows as new journeys are added):
+
+- [`SAGAS.md`](SAGAS.md)
+
+Current highlight:
+
+- [`HARMONIC-SAGA-PATH.md`](HARMONIC-SAGA-PATH.md) — **The Harmonic Saga** (Calen Brink; main story path, with optional side journeys)
+
 ## Maintenance Rule
 
-Do not rewrite this page when adding lore.  
-Keep this sequence stable, and add new canon entries to their category folders.
+Do not rewrite steps 1–5 when adding lore.  
+Keep this sequence stable, and add new canon entries to their category folders.  
+When a new saga journey is ready, add it to [`SAGAS.md`](SAGAS.md)—do not expand this page into a full saga index.

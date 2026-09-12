@@ -14,6 +14,12 @@ related:
   - The Salt Ledger
   - Solven Wetch
   - Workday
+  - Delci Beta
+  - Mountain of Majestic Good Trade
+  - Why They Call It Good Trade
+  - The Still Hours on Good Trade
+  - Signing the Passage
+  - The Passage Round
 themes:
   - improvised settlements
   - personal autonomy
@@ -63,6 +69,8 @@ The guiding law of Driftfall is: "Freedom belongs to those who claim it."
 **The Drift Hour with No Captain** is the common mythic account of the territory’s *first* law emerging from a captainless hour—motion as constitution.
 
 **Sprout Vent** and **vent-sprout spread** supply Driftfall's main geological omen thread: infrequent parent eruptions, contagious ground sprouting, and the scattered mini-vents that reshape how crews read southeastern routes.
+
+Inland of the hang-about beaches, **Mountain of Majestic Good Trade** marks Driftfall's quieter height—known for old fair-deal custom and for **Delci Beta**'s daily still hours on its sitting rock.
 
 ## Notes
 

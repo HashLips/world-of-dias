@@ -24,8 +24,10 @@ For the core premise, read:
 1. Read [`GUIDED-PATH.md`](GUIDED-PATH.md)
 2. Read the intro story: [`stories/first-day-in-veloria.md`](stories/first-day-in-veloria.md)
 3. Use the branch interests listed at the end of [`GUIDED-PATH.md`](GUIDED-PATH.md)
+4. Optional: pick a saga from [`SAGAS.md`](SAGAS.md) (start with [`HARMONIC-SAGA-PATH.md`](HARMONIC-SAGA-PATH.md))
 
 ## Important
 
 The onboarding steps stay stable even as this repo grows.  
-When new lore is added, keep this entry flow unchanged and only expand the lore collections inside their main folders (`stories`, `rules`, `cultures`, `regions`, and others).
+When new lore is added, keep this entry flow unchanged and only expand the lore collections inside their main folders (`stories`, `rules`, `cultures`, `regions`, and others).  
+When a new saga journey is ready, list it in [`SAGAS.md`](SAGAS.md).
