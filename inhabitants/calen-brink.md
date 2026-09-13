@@ -52,6 +52,7 @@ related:
   - Looking Into
   - Gates
   - Basin Rail Shard
+  - Calen and the Shard
 themes:
   - echo-reading
   - belonging
@@ -66,17 +67,17 @@ nature: person
 
 ## Overview
 
-Calen Brink is the central figure of **The Harmonic Saga** — a young human from Brindle March who discovers they can **read harmonic echoes** left in places and objects touched by old resonance.
+Calen Brink is the central figure of **The Harmonic Saga** — a young human woman from Brindle March who discovers she can **read harmonic echoes** left in places and objects touched by old resonance.
 
 ## Description
 
 F432 race record: **Human**.
 
-Calen grew up on corridor policy and public fairness rituals, including load-balance trials that taught them to trust **weight proven under stress** more than speeches. They are practical, observant, and initially shy in large cities — not a chosen-one by birth, but someone whose sensitivity to echo-residue **awakens under Veloria's layered pressure**.
+Calen grew up on corridor policy and public fairness rituals, including load-balance trials that taught her to trust **weight proven under stress** more than speeches. She is practical, observant, and initially shy in large cities — not a chosen-one by birth, but someone whose sensitivity to echo-residue **awakens under Veloria's layered pressure**.
 
 Echo-reading is not combat magic. Calen hears **emotional residue**: grief in a gate stone, laughter trapped in a market rail, argument frozen in a core conduit. The gift is inconsistent, draining, and socially dangerous where institutions prefer sealed records.
 
-Calen travels with a waxed cord notebook and a habit of touching thresholds with two fingers — borrowed from DEB Gate custom before they understood why it steadied the echoes.
+Calen travels with a waxed cord notebook and a habit of touching thresholds with two fingers — borrowed from DEB Gate custom before she understood why it steadied the echoes.
 
 ## Personal Arc
 
@@ -87,7 +88,7 @@ Calen travels with a waxed cord notebook and a habit of touching thresholds with
 | Mid saga | Learns that hearing truth obligates you to act |
 | End state (Movement Three) | Witness network scales; loves Tamsin in daily life; schism named not solved; still listening |
 
-**Flaw:** waits for consensus before trusting what they hear — **softening**; learns to act from practice among people.
+**Flaw:** waits for consensus before trusting what she hears — **softening**; learns to act from practice among people.
 
 **Virtue:** uses the gift to protect others' dignity, not to dominate.
 
@@ -107,4 +108,4 @@ Calen is the audience surrogate: someone relatable who gains access to Dias's de
 
 ## Notes
 
-Portrait artwork **pending creator link**. Do not describe Calen's face in fixed visual detail until a portrait entry exists. Thematic companions in early canon: [`stories/the-echo-at-the-gate.md`](../stories/the-echo-at-the-gate.md), [`stories/first-day-in-veloria.md`](../stories/first-day-in-veloria.md). Early shard lesson: [`artifacts/basin-rail-shard.md`](../artifacts/basin-rail-shard.md). Doctrine: [`CORE-PILLARS.md`](../CORE-PILLARS.md).
+Primary portrait: [`artworks/calen-and-the-shard.md`](../artworks/calen-and-the-shard.md) (`assets/calen-and-shard.png`). Thematic companions in early canon: [`stories/the-echo-at-the-gate.md`](../stories/the-echo-at-the-gate.md), [`stories/first-day-in-veloria.md`](../stories/first-day-in-veloria.md). Early shard lesson: [`artifacts/basin-rail-shard.md`](../artifacts/basin-rail-shard.md). Doctrine: [`CORE-PILLARS.md`](../CORE-PILLARS.md).

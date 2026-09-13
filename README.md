@@ -1,5 +1,7 @@
 # The World of Dias
 
+![The World of Dias](assets/world-of-dias-banner-repo.png)
+
 This repository is the evolving canon archive for **The World of Dias**, created to support the storytelling and artistic expression of Daniel Eugene Botha.
 
 ## Start Here
@@ -40,3 +42,9 @@ If you share any part of this story, please include a link back to this reposito
 Full terms: see [`LICENSE`](LICENSE).
 
 Artists website: [danieleugenebotha.co.za](http://danieleugenebotha.co.za/)
+
+---
+
+![Calen and the Shard](assets/calen-and-shard.png)
+
+*Calen Brink and a Resonant Shard, on the approach to Veloria — see [`artworks/calen-and-the-shard.md`](artworks/calen-and-the-shard.md).*
