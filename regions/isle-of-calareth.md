@@ -14,6 +14,14 @@ related:
   - Map of Wabet
   - Aelwyn Canopy
   - Nauw Fruit Reverence
+  - Hallow Bay
+  - Coral Strand
+  - Elder Shelf
+  - The Rope Tree
+  - Yara Moss
+  - Calareth Watch
+  - Calareth No-Moved-Stone Rule
+  - The Ribbon Cut at Hallow Bay
 themes:
   - pristine coasts
   - cliffs and forests

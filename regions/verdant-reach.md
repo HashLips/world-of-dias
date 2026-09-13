@@ -16,6 +16,11 @@ related:
   - When Trees Sing
   - That Forest
   - Blue Litter Underwood
+  - Blue Litter Bottling Ban
+  - Riven Salt
+  - The Bottle That Cleared Itself
+  - Eastbound Fruit Road
+  - Open Hand Way
 themes:
   - fertile landscapes
   - orchard cultivation

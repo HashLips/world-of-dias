@@ -21,6 +21,12 @@ related:
   - The Salt Ledger
   - Solven Wetch
   - Workday
+  - Flagweek Strip
+  - Secondfire
+  - Claimscar Yard
+  - Mir Weekly
+  - Garen Scar
+  - Hanna Kiln
 themes:
   - exile
   - frontier survival

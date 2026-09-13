@@ -9,6 +9,11 @@ related:
   - Wabet
   - Lucky Farmers
   - Farmer One
+  - Ashcalm Rise
+  - Stillhollow
+  - Vorrith Kael
+  - The One Who Cooks Quiet
+  - Oryn Pell
 themes:
   - jungle forests
   - elevated living
@@ -30,6 +35,8 @@ The region is dominated by towering canopies that filter sunlight into shifting 
 Small resident tribes live quietly among the trees, constructing elevated walkways and wooden dwellings designed to merge with surrounding vegetation rather than replace it.
 
 Its footprint stretches across the northern edge of Wabet, with smaller reaches running down into the northwest and north-central interior.
+
+**Ashcalm Rise** breaks the canopy as a mute grey shoulder of stone. Canopy Kin treat it as known geography rather than a gathering place. Deeper rumor places **Stillhollow** inside the Rise—and an exile who cooks without disturbing the orchards.
 
 ## Lore
 

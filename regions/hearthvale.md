@@ -12,6 +12,10 @@ related:
   - Second-Beginning Slate fragment
   - The Kiln Fires of Second Beginning
   - Hearth Laughter Week
+  - Secondfire
+  - Hanna Kiln
+  - Hearthvale Second-Beginning Craft
+  - The Exile Who Refused Second Beginning
 themes:
   - reconstruction
   - cooperative survival
@@ -32,6 +36,8 @@ Hearthvale covers the western half of Sorel. The territory is characterized by s
 Residents often frame Hearthvale as proof that displacement does not end a person's social future.
 
 A major bridge runs from southern Nauw to Sorel's northern frontier within Hearthvale, making it the principal crossing for people and goods from Nauw into northern Sorel.
+
+**Secondfire** is a kiln town where second-beginning craft is taught as heat and slate: tools remade, selves remade, and refusal treated as a serious dignity rather than a joke. Culture detail lives in **Hearthvale Second-Beginning Craft**.
 
 ## Lore
 

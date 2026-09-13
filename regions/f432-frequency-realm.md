@@ -63,6 +63,9 @@ related:
   - 100 VEL Mark
   - 200 VEL Mark
   - 1000 VEL Mark
+  - Eastbound Fruit Road
+  - Flagweek Strip
+  - Songripe Isles
 themes:
   - stability
   - trade

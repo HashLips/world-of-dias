@@ -13,6 +13,15 @@ related:
   - Marek Solon
   - The Split Tide Bloodline
   - Nauw Fruit Reverence
+  - Hollowmere
+  - Cinder Nook
+  - Rim-Rest
+  - Jessa Quill
+  - Bran Cinder
+  - Pell Rim
+  - Outer Rim Line Answer
+  - The First Line That Failed
+  - Gangplank Before Dawn
 themes:
   - coastal survival
   - symbiosis

@@ -1,0 +1,37 @@
+---
+description: Permanent Dias GUID bridge between external/IRL artifacts and canon Markdown
+alwaysApply: true
+---
+
+# Dias Reference Map
+
+External Dias artifacts (artworks, Arweave, social posts, NFC, physical objects, Easter eggs) use permanent IDs of the form `DIAS-{UUIDv4}`.
+
+- Spec: `agent/DIAS-REFERENCE-MAP.md`
+- Map data: `agent/dias-map.yaml`
+- Agent index: `AGENTS.md`
+
+## Core rule
+
+`DIAS GUID -> canonical Markdown file`
+
+`file` paths in the map are relative to the **repo root**, not to `agent/`.
+
+Optional fields only: `note`, `link`. Omit `link` when discovery should stay hard. Do not turn the map into a second lore database.
+
+## When capturing a reference
+
+1. Preserve a user-supplied ID exactly, or generate a new UUID v4 prefixed with `DIAS-`.
+2. Never reuse or replace an existing ID.
+3. Point `file` at the best existing Markdown entry; do not create a lore file just for a GUID.
+4. Add the entry to `agent/dias-map.yaml`.
+
+## Protected files
+
+Before deleting, moving, renaming, merging, or replacing Markdown, read `agent/dias-map.yaml`. Any file listed there is externally referenced. Update the map in the same change if a path moves. Prefer marking superseded canon over deleting it.
+
+## Never
+
+- delete or reuse a Dias GUID
+- change a GUID's meaning
+- leave dangling `file` paths after restructuring

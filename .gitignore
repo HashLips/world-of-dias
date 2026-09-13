@@ -1,4 +1,6 @@
-.cursor/
+.cursor/*
+!.cursor/rules/
+!.cursor/rules/**
 .DS_Store
 **/.DS_Store
 /ref

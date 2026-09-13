@@ -10,6 +10,9 @@ related:
   - Everything resonates echo principle
   - When Trees Sing
   - The Blue Litter Husk
+  - Blue Litter Bottling Ban
+  - Riven Salt
+  - The Bottle That Cleared Itself
 themes:
   - ground resonance
   - listener overload

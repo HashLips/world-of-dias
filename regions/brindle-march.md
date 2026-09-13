@@ -25,6 +25,8 @@ related:
   - The Census Echoes of the Prime Mark
   - The Three Thank-Yous of Brindle
   - The light after shared laughter
+  - Span Toll
+  - Eastbound Fruit Road
 themes:
   - overland travel
   - road networks

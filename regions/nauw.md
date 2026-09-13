@@ -31,6 +31,12 @@ related:
   - Veloria ring-fair token
   - Lucky Fruit sharing-knife
   - Velorian Basin gilding hour
+  - Hollowmere
+  - Tubehold
+  - Pot Signal Lane
+  - Calibration Row
+  - Span Toll
+  - Eastbound Fruit Road
 themes:
   - trade routes
   - diversity of peoples

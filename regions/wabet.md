@@ -27,6 +27,20 @@ related:
   - That Forest
   - When Trees Sing
   - Blue Litter Underwood
+  - Ashcalm Rise
+  - Stillhollow
+  - Vorrith Kael
+  - The One Who Cooks Quiet
+  - The Still Pot
+  - Giftbroth Change
+  - Eastbound Fruit Road
+  - Open Hand Way
+  - Songripe Isles
+  - Quiet Well
+  - Saltwhisper Road
+  - Hallow Bay
+  - Soen Tide
+  - Tomas Share
 themes:
   - natural purity
   - serenity
@@ -59,6 +73,8 @@ Wabet defines the western edge of F432 and stands in contrast to the heavily pop
 A recurring produce-side phenomenon is the appearance of near-perfect fruit forms among otherwise organic growth patterns. Traders and households often classify these as Lucky Fruits; while unproven in strict scientific terms, repeated anecdotal outcomes keep the belief active across F432.
 
 Recognized subregions include Aelwyn Canopy across the north (with limited extension southward), Verdant Reach at the center, and Lumira Sands across the south. The major offshore island Isle of Calareth lies off Wabet's eastern side.
+
+Inside Aelwyn’s footprint, **Ashcalm Rise** is a little-visited grey mountain holding **Stillhollow**, where rumor places the exile **Vorrith Kael**. Most of Wabet never confirms the story; the region’s calm continues around the mountain as if the hollow were only another shade.
 
 ### Leadership Structure
 

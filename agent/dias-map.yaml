@@ -1,0 +1,10 @@
+# Dias Reference Map
+# Spec: agent/DIAS-REFERENCE-MAP.md
+# Each key: DIAS-{UUIDv4}
+# Fields: file (required), note (optional), link (optional)
+#
+# `file` paths are relative to the repository root.
+# Omit `link` when the external thing should stay hard to discover.
+# The ID still records that it exists.
+
+{}

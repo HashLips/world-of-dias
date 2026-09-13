@@ -29,6 +29,11 @@ related:
   - 10 VEL Mark
   - Velorian Basin gilding hour
   - The Sun-Sweet Afternoon
+  - Pot Signal Lane
+  - Calibration Row
+  - Lira Pot
+  - Dox Khar
+  - Pot Signal Customs
 themes:
   - capital
   - concentric city

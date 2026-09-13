@@ -17,6 +17,7 @@ related:
   - Fire in Ice
   - Harmonic Echo-Rise
   - Echoforms
+  - The Still Pot
 themes:
   - retained echo
   - historical weight

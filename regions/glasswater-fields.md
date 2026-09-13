@@ -19,6 +19,9 @@ related:
   - Green Garden Border Lanes
   - Green Garden Shift
   - Green Garden
+  - Tubehold
+  - Nimi Tube
+  - The Child Who Inherited a Tube
 themes:
   - agriculture
   - river-fed plains

@@ -20,6 +20,9 @@ related:
   - The Still Hours on Good Trade
   - Signing the Passage
   - The Passage Round
+  - Claimscar Yard
+  - Garen Scar
+  - Claimscar Vent-Claim Rule
 themes:
   - improvised settlements
   - personal autonomy
