@@ -7,4 +7,7 @@
 # Omit `link` when the external thing should stay hard to discover.
 # The ID still records that it exists.
 
-{}
+DIAS-271c0632-d8aa-4cc7-bf9b-358dafbb9019:
+  file: artifacts/letter-to-myself-at-the-crossing.md
+  note: Frederick Lumens self-letter (Letter to Myself at the Crossing); Arweave archive of the Lumen Saga remnant letter.
+  link: https://arweave.net/cksz5A71NJj7OAClqPnz-scvyo1kuE5lB07BHOgcu1c

@@ -10,6 +10,15 @@ related:
   - Wabet
   - Frequency as fundamental law
   - The One Who Cooks Quiet
+  - Frederick Lumens
+  - The Lumen Saga
+  - Roadglow Shard
+  - Come Into Stillhollow
+  - Cyan in the Pot
+  - Apple Touch
+  - Frederick Lumens
+  - The Lumen Saga
+  - Roadglow Shard
 themes:
   - unique unnatural gift
   - unpredictable consequence
@@ -56,4 +65,4 @@ Some Resonant House clerks would classify outcomes as unstable personal frequenc
 
 ## Notes
 
-Keep examples illustrative. Do not freeze a official power list; uniqueness per individual is the rule that makes later saga visits writable.
+Keep examples illustrative. Do not freeze an official power list; uniqueness per individual is the rule that makes later saga visits writable. Named Lumen outcome: [`phenomena/apple-touch.md`](apple-touch.md) (Frederick Lumens).

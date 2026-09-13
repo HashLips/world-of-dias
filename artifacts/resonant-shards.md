@@ -12,13 +12,18 @@ related:
   - Harmonic Echo-Rise
   - Resonant Shard
   - Calen Brink
+  - Frederick Lumens
   - The Harmonic Saga
+  - The Lumen Saga
   - Basin Rail Shard
+  - Roadglow Shard
+  - The True Blues
 themes:
   - preserved frequency
   - variable rarity
   - unread signals
   - recurring motif
+  - true blue scarcity
 status: canonical
 ---
 
@@ -38,6 +43,8 @@ Shards may contain memories, historical events, emotional residue, unknown signa
 
 Some shards are ordinary tools in local practice. Others are historically priceless. Some remain completely unreadable to Present Age methods. A stone may hold a vanished city’s last calm; a scrap of metal may layer every hand that carried it; a shard may refuse interpretation for generations.
 
+**True Blues** are a folk name for shards whose break glows hard electric blue and whose resonance is strong enough that strangers recognize them on sight. They are scarce relative to common echo-matter. Named example: [`artifacts/roadglow-shard.md`](roadglow-shard.md). Rumor frame: [`myths/the-true-blues.md`](../myths/the-true-blues.md).
+
 Not every Prime Relic is a shard, and not every shard is a Prime Relic. The terms overlap when provenance and behavior justify both labels.
 
 ## Cultural Meaning
@@ -52,4 +59,4 @@ Carried, studied, sealed, gifted, buried, or left where found. Echo-readers such
 
 Examples should be added as individual artifact entries when stories require them—do not invent a complete catalog here.
 
-**Pillar exemplar (named shard):** [`artifacts/basin-rail-shard.md`](basin-rail-shard.md) — ordinary basin market metal carrying laughter residue.
+**Pillar exemplars (named shards):** [`artifacts/basin-rail-shard.md`](basin-rail-shard.md) — ordinary basin market metal carrying laughter residue. [`artifacts/roadglow-shard.md`](roadglow-shard.md) — scarce luminous blue True Blue found on the Veloria approach, later gifted to Frederick Lumens.

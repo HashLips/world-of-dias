@@ -23,6 +23,9 @@ related:
   - Claimscar Yard
   - Garen Scar
   - Claimscar Vent-Claim Rule
+  - Frederick Lumens
+  - The Lumen Saga
+  - Roadglow Shard
 themes:
   - improvised settlements
   - personal autonomy
@@ -74,6 +77,8 @@ The guiding law of Driftfall is: "Freedom belongs to those who claim it."
 **Sprout Vent** and **vent-sprout spread** supply Driftfall's main geological omen thread: infrequent parent eruptions, contagious ground sprouting, and the scattered mini-vents that reshape how crews read southeastern routes.
 
 Inland of the hang-about beaches, **Mountain of Majestic Good Trade** marks Driftfall's quieter height—known for old fair-deal custom and for **Delci Beta**'s daily still hours on its sitting rock.
+
+**Frederick Lumens** and **The Lumen Saga** use Driftfall’s decks and shore pubs (including talk around **The Salt Ledger**) as the starting ground for a second long journey—orphan deck labor, a gifted True Blue, and theft that sends a dreamer onto a harder road.
 
 ## Notes
 

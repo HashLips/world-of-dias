@@ -13,6 +13,14 @@ related:
   - Wabet reciprocity harvest rule
   - Pot of Greatfullness
   - Soup in Bed
+  - Frederick Lumens
+  - Roadglow Shard
+  - The Lumen Saga
+  - Come Into Stillhollow
+  - Cyan in the Pot
+  - Apple Touch
+  - Roadglow Shard
+  - Frederick Lumens
 themes:
   - life-source mixture
   - frequency compounding

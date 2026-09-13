@@ -7,20 +7,25 @@ related:
   - Calen Brink
   - Resonant Shards
   - Resonant Shard
+  - Roadglow Shard
   - Veloria City
   - The Harmonic Saga
+  - The Lumen Saga
   - Everything resonates echo principle
   - Basin Rail Shard
+  - Roadglow on the Approach
+  - The True Blues
 themes:
   - discovery
   - echo awakening
   - approach to Veloria
   - luminous fragment
+  - true blue scarcity
 status: canonical
 medium: digital image
 edition:
 year: 2026
-based_on: Calen Brink finding a Resonant Shard on the approach to Veloria
+based_on: Calen Brink finding the Roadglow Shard on the approach to Veloria
 ---
 
 # Calen and the Shard
@@ -31,7 +36,7 @@ Calen and the Shard
 
 ## Overview
 
-*Calen and the Shard* is a cinematic close portrait of **Calen Brink** holding a jagged luminous blue Resonant Shard, with Veloria’s distant towers soft in the golden-hour haze behind her.
+*Calen and the Shard* is a cinematic close portrait of **Calen Brink** holding a jagged luminous blue Resonant Shard—later named **Roadglow Shard**—with Veloria’s distant towers soft in the golden-hour haze behind her.
 
 ## Description
 
@@ -45,7 +50,7 @@ Defining portrait lock for Calen in trailer and README use; anchors the “shard
 
 ## Lore Connection
 
-Shows Calen’s early approach to Veloria as echo-sensitivity awakens through a held shard—discovery before civilization. Complements basin shard lessons without claiming this exact stone is the Basin Rail Shard.
+Shows Calen’s early approach to Veloria as echo-sensitivity awakens through a held True Blue—discovery before civilization. Prose lock: [`stories/roadglow-on-the-approach.md`](../stories/roadglow-on-the-approach.md). Complements basin shard lessons without claiming this stone is the Basin Rail Shard. Later gifted to Frederick Lumens in The Lumen Saga.
 
 ## Notes
 

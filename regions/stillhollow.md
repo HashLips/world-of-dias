@@ -16,6 +16,10 @@ related:
   - Never Love Darkness
   - Soup in Bed
   - Pot of Greatfullness
+  - Frederick Lumens
+  - The Lumen Saga
+  - Come Into Stillhollow
+  - Roadglow Shard
 themes:
   - hidden cave
   - dark quiet
@@ -54,4 +58,4 @@ A few canopy locals know the cave is occupied. They do not lead children there. 
 
 ## Notes
 
-Landmark nested under Ashcalm Rise. Keep pilgrimage traffic rumor-grade unless a saga later makes a visit canonical scene.
+Landmark nested under Ashcalm Rise. Canonical seeker visit in The Lumen Saga: Frederick Lumens enters after orchard refusals name Vorrith—see [`stories/come-into-stillhollow.md`](../stories/come-into-stillhollow.md). Keep broader pilgrimage traffic rumor-grade outside that arc.

@@ -21,6 +21,16 @@ related:
   - The Bottle That Cleared Itself
   - Eastbound Fruit Road
   - Open Hand Way
+  - Bram Orlen
+  - Frederick Lumens
+  - The Lumen Saga
+  - What the Bag Attracts
+  - Bram Orlen
+  - Frederick Lumens
+  - The Lumen Saga
+  - Fellgrove
+  - Jorin Fell
+  - Apple Touch
 themes:
   - fertile landscapes
   - orchard cultivation

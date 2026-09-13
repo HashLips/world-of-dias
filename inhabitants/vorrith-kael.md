@@ -21,6 +21,14 @@ related:
   - Silent Song
   - Never Love Darkness
   - Soup in Bed
+  - Frederick Lumens
+  - The Lumen Saga
+  - Roadglow Shard
+  - Come Into Stillhollow
+  - Ask the Cook Again
+  - No More Apples
+  - Frederick Lumens
+  - The Lumen Saga
 themes:
   - exile
   - dark presence
@@ -72,8 +80,8 @@ He does not advertise the pot. Seekers find him anyway.
 
 ## Narrative Role
 
-Vorrith is a **hidden pressure node** under Wabet’s serenity: a dark exile who proves the west can hold something terrible without becoming terrible itself—so long as the something stays still. He is built as future-saga fuel: a being another protagonist can meet without rewriting Wabet’s identity. He offers knowledge and gift at a price the drinker cannot preview.
+Vorrith is a **hidden pressure node** under Wabet’s serenity: a dark exile who proves the west can hold something terrible without becoming terrible itself—so long as the something stays still. In **The Lumen Saga** he meets **Frederick Lumens** twice: first for Roadglow and Giftbroth Change; later when Frederick returns asking how to travel frequencies. What is said on that second visit is not public canon. Frederick is not seen again afterward.
 
 ## Notes
 
-Not an Echoform. Not confirmed Unraveled biology. Not a Wabet Keeper. Do not merge with the Blue Litter Husk. Origin details beyond “other-realm exile via Nauw into Wabet” remain intentionally soft for later reveal.
+Not an Echoform. Not confirmed Unraveled biology. Not a Wabet Keeper. Do not merge with the Blue Litter Husk. Origin details beyond “other-realm exile via Nauw into Wabet” remain intentionally soft. First visit: [`stories/come-into-stillhollow.md`](../stories/come-into-stillhollow.md). Second visit / open end: [`stories/ask-the-cook-again.md`](../stories/ask-the-cook-again.md).

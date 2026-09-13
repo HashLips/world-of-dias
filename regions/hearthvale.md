@@ -8,6 +8,7 @@ culture:
 related:
   - Sorel
   - Nauw
+  - Wabet
   - The Long Gate Argument
   - Second-Beginning Slate fragment
   - The Kiln Fires of Second Beginning
@@ -16,6 +17,11 @@ related:
   - Hanna Kiln
   - Hearthvale Second-Beginning Craft
   - The Exile Who Refused Second Beginning
+  - Westfold Toll
+  - Lira Vesk
+  - Frederick Lumens
+  - The Lumen Saga
+  - Skipped Water
 themes:
   - reconstruction
   - cooperative survival

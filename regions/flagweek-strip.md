@@ -13,6 +13,11 @@ related:
   - The Town That Changes Flags
   - Flagweek Breakfast Rule
   - The Three Opinions
+  - Perrin Cale
+  - Frederick Lumens
+  - The Lumen Saga
+  - Marks for the Toll
+  - Westfold Toll
 themes:
   - partition borderland
   - shifting allegiance
@@ -45,4 +50,4 @@ Flagweek Breakfast Rule: allegiance may rotate; the morning table must not becom
 
 ## Notes
 
-Borderland saga fuel with humor and knives in the same drawer.
+Borderland saga fuel with humor and knives in the same drawer. **Perrin Cale**’s waystation and Frederick Lumens’s toll-short labor appear in The Lumen Saga’s westbound flight.

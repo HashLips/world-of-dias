@@ -12,6 +12,10 @@ related:
   - Vorrith Kael
   - The One Who Cooks Quiet
   - Map of Wabet
+  - Frederick Lumens
+  - The Lumen Saga
+  - The Climb to Ashcalm
+  - Come Into Stillhollow
 themes:
   - quiet mountain
   - overlooked geography

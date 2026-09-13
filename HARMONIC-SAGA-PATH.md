@@ -14,6 +14,8 @@ Adapts **Movement One only** (saga chapters 1–7) into one ~110–120 minute fe
 - [`world/the-fracture.md`](world/the-fracture.md)
 - [`world/the-harmonic-saga.md`](world/the-harmonic-saga.md)
 
+Optional Calen bridge (Roadglow pickup before chapter 1): [`stories/roadglow-on-the-approach.md`](stories/roadglow-on-the-approach.md) — feeds later into [`LUMEN-SAGA-PATH.md`](LUMEN-SAGA-PATH.md).
+
 ## Movement One — Veloria awakening
 
 1. [`stories/the-echo-at-the-gate.md`](stories/the-echo-at-the-gate.md)
@@ -63,7 +65,7 @@ Related lore: [`inhabitants/delci-beta.md`](inhabitants/delci-beta.md), [`region
 
 Branch using [`GUIDED-PATH.md`](GUIDED-PATH.md). Return to myths, regions, and artworks the saga names but does not explain.
 
-This saga is also listed on [`SAGAS.md`](SAGAS.md) for readers coming from the Guided Path.
+This saga is also listed on [`SAGAS.md`](SAGAS.md) for readers coming from the Guided Path. A second long journey, **The Lumen Saga**, begins from Driftfall after Calen’s bridge gift—see [`LUMEN-SAGA-PATH.md`](LUMEN-SAGA-PATH.md).
 
 ## Maintenance
 

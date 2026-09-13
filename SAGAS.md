@@ -21,6 +21,15 @@ Primary narrative thread of Dias. Follows **Calen Brink** learning to read harmo
 
 Includes three movements (19 chapters) plus optional Driftfall side journeys listed on that path (including Delci Beta and the Passage Round).
 
+### The Lumen Saga
+
+Second long narrative journey. Follows **Frederick Lumens** from Driftfall to Fellgrove and a second Stillhollow ask—then an open disappearance. Remnant: his self-letter.
+
+- Path: [`LUMEN-SAGA-PATH.md`](LUMEN-SAGA-PATH.md)
+- Spine: [`world/the-lumen-saga.md`](world/the-lumen-saga.md)
+
+**Complete** (25 chapters + bridge). Crossing outcome left open. Letter mapped: `DIAS-271c0632-d8aa-4cc7-bf9b-358dafbb9019`.
+
 ---
 
 ## Adding a saga

@@ -41,6 +41,11 @@ related:
   - Hallow Bay
   - Soen Tide
   - Tomas Share
+  - Westfold Toll
+  - Frederick Lumens
+  - The Lumen Saga
+  - Lira Vesk
+  - Skipped Water
 themes:
   - natural purity
   - serenity

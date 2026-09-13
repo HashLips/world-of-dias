@@ -52,7 +52,12 @@ related:
   - Looking Into
   - Gates
   - Basin Rail Shard
+  - Roadglow Shard
   - Calen and the Shard
+  - Roadglow on the Approach
+  - The Lumen Saga
+  - Frederick Lumens
+  - The Gift He Would Not Take
 themes:
   - echo-reading
   - belonging
@@ -108,4 +113,4 @@ Calen is the audience surrogate: someone relatable who gains access to Dias's de
 
 ## Notes
 
-Primary portrait: [`artworks/calen-and-the-shard.md`](../artworks/calen-and-the-shard.md) (`assets/calen-and-shard.png`). Thematic companions in early canon: [`stories/the-echo-at-the-gate.md`](../stories/the-echo-at-the-gate.md), [`stories/first-day-in-veloria.md`](../stories/first-day-in-veloria.md). Early shard lesson: [`artifacts/basin-rail-shard.md`](../artifacts/basin-rail-shard.md). Doctrine: [`CORE-PILLARS.md`](../CORE-PILLARS.md).
+Primary portrait: [`artworks/calen-and-the-shard.md`](../artworks/calen-and-the-shard.md) (`assets/calen-and-shard.png`). Thematic companions in early canon: [`stories/the-echo-at-the-gate.md`](../stories/the-echo-at-the-gate.md), [`stories/first-day-in-veloria.md`](../stories/first-day-in-veloria.md). Early shard lesson: [`artifacts/basin-rail-shard.md`](../artifacts/basin-rail-shard.md). Approach True Blue: [`artifacts/roadglow-shard.md`](../artifacts/roadglow-shard.md) · [`stories/roadglow-on-the-approach.md`](../stories/roadglow-on-the-approach.md). Later bridge gift to Frederick Lumens: [`stories/the-gift-he-would-not-take.md`](../stories/the-gift-he-would-not-take.md) (The Lumen Saga). Doctrine: [`CORE-PILLARS.md`](../CORE-PILLARS.md).

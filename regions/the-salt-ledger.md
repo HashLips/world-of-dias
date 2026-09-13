@@ -14,6 +14,9 @@ related:
   - Delci Beta
   - Mountain of Majestic Good Trade
   - The Still Hours on Good Trade
+  - Frederick Lumens
+  - The Lumen Saga
+  - Stolen Blue
 themes:
   - hanging-about culture
   - coastal ease
