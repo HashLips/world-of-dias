@@ -1,0 +1,565 @@
+# Dias World Map Registry
+# ========================
+# Hand-authored positions for the dashboard Map tab.
+# Coordinates use a 0–100 x / 0–100 y grid (top-left origin).
+#
+# entry: must match a lore frontmatter `name` (or kebab slug).
+# kind: land | place | inhabitant | story | landmark
+#
+# After editing, regenerate:
+#   python3 scripts/build_story_dashboard.py
+#
+# The builder validates that every `entry` resolves and prints map warnings.
+
+version: 1
+default_frequency: f432
+
+frequencies:
+  f432:
+    label: F432
+    entry: F432 (frequency realm)
+    note: Primary lived realm — Wabet west, Nauw north-east, Sorel south-east.
+    water: "#0c2438"
+    land: "#2f4a32"
+    grid: [100, 100]
+    landmasses:
+      - id: mainland
+        label: F432 mainland
+        polygon:
+          - [8, 14]
+          - [38, 10]
+          - [62, 8]
+          - [88, 12]
+          - [94, 28]
+          - [92, 48]
+          - [88, 68]
+          - [72, 82]
+          - [48, 86]
+          - [28, 80]
+          - [12, 68]
+          - [6, 42]
+          - [8, 14]
+      - id: averra
+        label: Averra Isle
+        fill: "#3a5560"
+        polygon:
+          - [78, 6]
+          - [86, 5]
+          - [88, 10]
+          - [84, 14]
+          - [78, 12]
+          - [78, 6]
+      - id: calareth
+        label: Isle of Calareth
+        fill: "#3d5c48"
+        polygon:
+          - [36, 52]
+          - [44, 50]
+          - [46, 58]
+          - [42, 64]
+          - [34, 62]
+          - [36, 52]
+      - id: songripe
+        label: Songripe Isles
+        fill: "#355a50"
+        polygon:
+          - [2, 48]
+          - [7, 46]
+          - [8, 54]
+          - [4, 58]
+          - [1, 54]
+          - [2, 48]
+    regions:
+      - id: wabet
+        entry: Wabet
+        fill: "#3f6b45"
+        polygon:
+          - [8, 14]
+          - [38, 12]
+          - [40, 48]
+          - [38, 78]
+          - [28, 80]
+          - [12, 68]
+          - [6, 42]
+          - [8, 14]
+      - id: nauw
+        entry: Nauw
+        fill: "#4a6280"
+        polygon:
+          - [38, 12]
+          - [62, 8]
+          - [88, 12]
+          - [94, 28]
+          - [90, 42]
+          - [40, 42]
+          - [38, 12]
+      - id: sorel
+        entry: Sorel
+        fill: "#6a5340"
+        polygon:
+          - [40, 42]
+          - [90, 42]
+          - [92, 48]
+          - [88, 68]
+          - [72, 82]
+          - [48, 86]
+          - [38, 78]
+          - [40, 42]
+    markers:
+      # --- major regions / seats ---
+      - entry: Veloria City
+        x: 58
+        y: 24
+        kind: place
+      - entry: Hollowmere
+        x: 70
+        y: 14
+        kind: place
+      - entry: Cinder Nook
+        x: 64
+        y: 16
+        kind: place
+      - entry: Rim-Rest
+        x: 76
+        y: 15
+        kind: place
+      - entry: Tubehold
+        x: 68
+        y: 32
+        kind: place
+      - entry: Span Toll
+        x: 52
+        y: 30
+        kind: landmark
+      - entry: Pot Signal Lane
+        x: 59
+        y: 25
+        kind: place
+      - entry: Calibration Row
+        x: 57
+        y: 26
+        kind: place
+      - entry: Green Garden Border Lanes
+        x: 46
+        y: 34
+        kind: landmark
+      - entry: Open Hand Way
+        x: 36
+        y: 40
+        kind: place
+      - entry: Eastbound Fruit Road
+        x: 42
+        y: 38
+        kind: landmark
+      - entry: Verdant Reach
+        x: 24
+        y: 44
+        kind: place
+      - entry: Aelwyn Canopy
+        x: 20
+        y: 22
+        kind: place
+      - entry: Ashcalm Rise
+        x: 18
+        y: 26
+        kind: landmark
+      - entry: Stillhollow
+        x: 17
+        y: 27
+        kind: landmark
+      - entry: That Forest
+        x: 26
+        y: 48
+        kind: landmark
+      - entry: Quiet Well
+        x: 22
+        y: 68
+        kind: landmark
+      - entry: Saltwhisper Road
+        x: 28
+        y: 64
+        kind: landmark
+      - entry: Lumira Sands
+        x: 24
+        y: 72
+        kind: place
+      - entry: Hallow Bay
+        x: 40
+        y: 56
+        kind: place
+      - entry: Coral Strand
+        x: 42
+        y: 60
+        kind: landmark
+      - entry: Elder Shelf
+        x: 38
+        y: 54
+        kind: landmark
+      - entry: The Rope Tree
+        x: 40
+        y: 55
+        kind: landmark
+      - entry: Secondfire
+        x: 48
+        y: 58
+        kind: place
+      - entry: Hearthvale
+        x: 50
+        y: 54
+        kind: place
+      - entry: Flagweek Strip
+        x: 58
+        y: 60
+        kind: place
+      - entry: Driftfall
+        x: 72
+        y: 70
+        kind: place
+      - entry: Claimscar Yard
+        x: 74
+        y: 68
+        kind: place
+      - entry: Mountain of Majestic Good Trade
+        x: 70
+        y: 64
+        kind: landmark
+      - entry: Sprout Vent
+        x: 73
+        y: 66
+        kind: landmark
+      - entry: The Salt Ledger
+        x: 76
+        y: 72
+        kind: place
+      - entry: Averra Isle
+        x: 83
+        y: 9
+        kind: place
+      - entry: Songripe Isles
+        x: 4
+        y: 52
+        kind: place
+      - entry: DEB Gate of Veloria
+        x: 56
+        y: 23
+        kind: landmark
+      - entry: The Sketchy Gallery
+        x: 60
+        y: 23
+        kind: place
+      - entry: Brindle March
+        x: 50
+        y: 34
+        kind: place
+      - entry: Glasswater Fields
+        x: 66
+        y: 34
+        kind: place
+      - entry: Velorian Basin
+        x: 58
+        y: 28
+        kind: place
+      - entry: Nauw Outer Rim Seas
+        x: 72
+        y: 10
+        kind: landmark
+      - entry: Isle of Calareth
+        x: 40
+        y: 57
+        kind: place
+
+      # --- inhabitants ---
+      - entry: Vorrith Kael
+        x: 17.5
+        y: 27.5
+        kind: inhabitant
+      - entry: Jessa Quill
+        x: 70.5
+        y: 13.5
+        kind: inhabitant
+      - entry: Tomas Share
+        x: 36.5
+        y: 39.5
+        kind: inhabitant
+      - entry: Yara Moss
+        x: 40.5
+        y: 56.5
+        kind: inhabitant
+      - entry: Keth Dunewalk
+        x: 22.5
+        y: 67.5
+        kind: inhabitant
+      - entry: Nimi Tube
+        x: 68.5
+        y: 31.5
+        kind: inhabitant
+      - entry: Lira Pot
+        x: 59.5
+        y: 25.5
+        kind: inhabitant
+      - entry: Dox Khar
+        x: 57.5
+        y: 26.5
+        kind: inhabitant
+      - entry: Garen Scar
+        x: 74.5
+        y: 67.5
+        kind: inhabitant
+      - entry: Hanna Kiln
+        x: 48.5
+        y: 57.5
+        kind: inhabitant
+      - entry: Mir Weekly
+        x: 58.5
+        y: 59.5
+        kind: inhabitant
+      - entry: Soen Tide
+        x: 4.5
+        y: 51.5
+        kind: inhabitant
+      - entry: Riven Salt
+        x: 26.5
+        y: 47.5
+        kind: inhabitant
+      - entry: Elyra Mossen
+        x: 24.5
+        y: 42
+        kind: inhabitant
+      - entry: Calen Brink
+        x: 58.2
+        y: 24.8
+        kind: inhabitant
+      - entry: Marek Solon
+        x: 71
+        y: 12
+        kind: inhabitant
+      - entry: Oriven Tal
+        x: 58.8
+        y: 23.2
+        kind: inhabitant
+
+      # --- story hooks ---
+      - entry: The Perfect Fruit That Split a Convoy
+        x: 37
+        y: 41
+        kind: story
+      - entry: The Child Who Inherited a Tube
+        x: 69
+        y: 33
+        kind: story
+      - entry: The Ribbon Cut at Hallow Bay
+        x: 41
+        y: 55.5
+        kind: story
+      - entry: The Bottle That Cleared Itself
+        x: 27
+        y: 49
+        kind: story
+      - entry: Gangplank Before Dawn
+        x: 76.5
+        y: 15.5
+        kind: story
+      - entry: The Exile Who Refused Second Beginning
+        x: 49
+        y: 59
+        kind: story
+      - entry: The One Who Cooks Quiet
+        x: 16
+        y: 28
+        kind: story
+
+  f500:
+    label: F500
+    entry: F500 (frequency realm)
+    note: Abyss / null band — dark, but still readable as an anti-map.
+    water: "#14121c"
+    land: "#3c3752"
+    grid: [100, 100]
+    landmasses:
+      - id: void-panel
+        label: Void panel
+        fill: "#524a6e"
+        polygon:
+          - [26, 26]
+          - [74, 24]
+          - [78, 72]
+          - [24, 74]
+          - [26, 26]
+    regions: []
+    markers: []
+
+  f200:
+    label: F200
+    entry: F200 (frequency realm)
+    note: Coherent light realm — schematic layer.
+    water: "#1a2040"
+    land: "#d8c878"
+    grid: [100, 100]
+    landmasses:
+      - id: lumen-field
+        label: Lumen field
+        polygon:
+          - [20, 20]
+          - [80, 18]
+          - [85, 70]
+          - [18, 72]
+          - [20, 20]
+    regions:
+      - id: aurel-meridian
+        entry: Aurel Meridian
+        fill: "#e6d48a"
+        polygon:
+          - [35, 30]
+          - [65, 28]
+          - [68, 55]
+          - [32, 56]
+          - [35, 30]
+    markers:
+      - entry: Lumen Stair
+        x: 50
+        y: 40
+        kind: landmark
+
+  f840:
+    label: F840
+    entry: F840 (frequency realm)
+    note: Aftermath / recovery band.
+    water: "#2a1810"
+    land: "#6a4030"
+    grid: [100, 100]
+    landmasses:
+      - id: ember-shelf
+        label: Ember shelf
+        polygon:
+          - [25, 30]
+          - [75, 28]
+          - [78, 68]
+          - [22, 70]
+          - [25, 30]
+    regions:
+      - id: ashen-hearthline
+        entry: The Ashen Hearthline
+        fill: "#7a4a38"
+        polygon:
+          - [30, 38]
+          - [70, 36]
+          - [72, 60]
+          - [28, 62]
+          - [30, 38]
+    markers:
+      - entry: Emberfile Workshops
+        x: 50
+        y: 48
+        kind: place
+
+  f120:
+    label: F120
+    entry: F120 (frequency realm)
+    note: Near-return / echo band.
+    water: "#142830"
+    land: "#3a5058"
+    grid: [100, 100]
+    landmasses:
+      - id: echo-loop
+        label: Echo loop
+        polygon:
+          - [28, 28]
+          - [72, 28]
+          - [72, 72]
+          - [28, 72]
+          - [28, 28]
+    regions:
+      - id: returning-span
+        entry: The Returning Span
+        fill: "#4a6870"
+        polygon:
+          - [36, 40]
+          - [64, 40]
+          - [64, 60]
+          - [36, 60]
+          - [36, 40]
+    markers: []
+
+  f380:
+    label: F380
+    entry: F380 (frequency realm)
+    note: Emotion-as-weather band.
+    water: "#201828"
+    land: "#5a4060"
+    grid: [100, 100]
+    landmasses:
+      - id: climate-plate
+        label: Climate plate
+        polygon:
+          - [26, 24]
+          - [74, 24]
+          - [78, 72]
+          - [22, 72]
+          - [26, 24]
+    regions:
+      - id: bloomline
+        entry: The Bloomline Estuary
+        fill: "#6a5080"
+        polygon:
+          - [34, 38]
+          - [66, 36]
+          - [68, 62]
+          - [32, 64]
+          - [34, 38]
+    markers: []
+
+  f610:
+    label: F610
+    entry: F610 (frequency realm)
+    note: Reveal veil band.
+    water: "#182028"
+    land: "#486070"
+    grid: [100, 100]
+    landmasses:
+      - id: reveal-band
+        label: Reveal band
+        polygon:
+          - [26, 28]
+          - [74, 28]
+          - [74, 72]
+          - [26, 72]
+          - [26, 28]
+    regions:
+      - id: glassfold
+        entry: The Glassfold Ledge
+        fill: "#5a7888"
+        polygon:
+          - [34, 36]
+          - [66, 36]
+          - [66, 64]
+          - [34, 64]
+          - [34, 36]
+    markers: []
+
+  f960:
+    label: F960
+    entry: F960 (frequency realm)
+    note: Unfinished becoming band.
+    water: "#101818"
+    land: "#405048"
+    grid: [100, 100]
+    landmasses:
+      - id: unfinished-field
+        label: Unfinished field
+        polygon:
+          - [28, 30]
+          - [72, 28]
+          - [74, 70]
+          - [26, 72]
+          - [28, 30]
+    regions:
+      - id: unfinished
+        entry: The Unfinished
+        fill: "#506860"
+        polygon:
+          - [36, 38]
+          - [64, 38]
+          - [64, 62]
+          - [36, 62]
+          - [36, 38]
+    markers: []

@@ -26,6 +26,7 @@ Lore stays in category folders. Do not invent a second lore store.
 | [`agent/DIAS-REFERENCE-MAP.md`](agent/DIAS-REFERENCE-MAP.md) | External GUID bridge (IRL / Arweave / social / physical) |
 | [`agent/dias-map.yaml`](agent/dias-map.yaml) | Permanent `DIAS-{UUID}` → Markdown index |
 | [`.cursor/rules/dias-reference-map.mdc`](.cursor/rules/dias-reference-map.mdc) | Always-on permanence rule |
+| [`dashboard/map-registry.yaml`](dashboard/map-registry.yaml) | 2D atlas pin/land positions for the Map tab |
 
 ## Lore folders
 
@@ -50,3 +51,4 @@ Core rule: **DIAS GUID → Markdown file**. The map is a bridge, not a lore data
 2. Use [`CORE-PILLARS.md`](CORE-PILLARS.md) when deciding what new lore should serve.
 3. Keep [`GUIDED-PATH.md`](GUIDED-PATH.md) steps 1–5 stable; add saga journeys via [`SAGAS.md`](SAGAS.md).
 4. Create a Dias ID only when something must be independently referenceable outside normal Markdown lore.
+5. When adding a place or inhabitant that should appear on the atlas Map tab, add an `x`/`y` pin (0–100) in [`dashboard/map-registry.yaml`](dashboard/map-registry.yaml) and regenerate with `python3 scripts/build_story_dashboard.py`. The build prints unresolved map refs so pixels can be double-checked.

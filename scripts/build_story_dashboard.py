@@ -4,8 +4,10 @@ Generate an interactive world atlas dashboard from markdown lore files.
 
 Extracts full frontmatter metadata, document sections, summaries, assets and
 typed relationships from every lore entry, then renders a self-contained
-multi-tab HTML dashboard (graph, explorer, gallery, themes, hierarchy,
+multi-tab HTML dashboard (graph, map, explorer, gallery, themes, hierarchy,
 insights) with a rich detail panel per entry.
+
+Map positions are authored in dashboard/map-registry.yaml and compiled in.
 
 Usage:
   python3 scripts/build_story_dashboard.py
@@ -21,6 +23,11 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 ROOT = Path(__file__).resolve().parents[1]
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from dias_map import compile_map_payload, load_map_registry  # noqa: E402
+
 OUTPUT_PATH = ROOT / "dashboard" / "story-dashboard.html"
 SKIP_DIRS = {"assets", "ref", ".git", ".cursor", ".agents", "dashboard", "scripts", ".venv"}
 
@@ -326,10 +333,19 @@ def build_payload(entries: List[Entry]) -> Dict[str, object]:
         for rec in edge_map.values()
     ]
 
+    map_payload, _map_warnings = compile_map_payload(
+        load_map_registry(),
+        title_index,
+        slug_index,
+        slugify,
+        entries=entries,
+    )
+
     return {
         "generated": datetime.date.today().isoformat(),
         "nodes": nodes,
         "edges": edges,
+        "map": map_payload,
     }
 
 
@@ -851,6 +867,104 @@ TEMPLATE = r"""<!doctype html>
   }
   #lightbox.open { display: flex; }
   #lightbox img { max-width: 92vw; max-height: 90vh; border-radius: 10px; }
+
+  /* ---------- map tab ---------- */
+  #tab-map { display: none; grid-template-columns: 260px 1fr; height: 100%; }
+  #tab-map.active { display: grid; }
+  #map-rail {
+    border-right: 1px solid var(--line-soft);
+    background: var(--bg-soft);
+    overflow: auto;
+    padding: 14px 14px 24px;
+  }
+  #map-rail h3 {
+    margin: 0 0 8px;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--faint);
+  }
+  #map-rail .rail-group { margin-bottom: 18px; }
+  #map-freq {
+    width: 100%;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    color: var(--ink);
+    border-radius: 10px;
+    padding: 8px 10px;
+    font-size: 0.88rem;
+  }
+  #map-note {
+    margin-top: 8px;
+    font-size: 0.78rem;
+    color: var(--muted);
+    line-height: 1.45;
+  }
+  #map-stats {
+    font-size: 0.75rem;
+    color: var(--faint);
+    margin-top: 6px;
+  }
+  #map-wrap {
+    position: relative;
+    min-height: 0;
+    background: #06080e;
+    overflow: hidden;
+  }
+  #world-map {
+    width: 100%;
+    height: 100%;
+    display: block;
+    cursor: crosshair;
+    image-rendering: pixelated;
+  }
+  #map-hover {
+    position: absolute;
+    pointer-events: none;
+    z-index: 5;
+    min-width: 160px;
+    max-width: 280px;
+    background: rgba(12, 14, 22, 0.94);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 10px 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+    display: none;
+  }
+  #map-hover.open { display: block; }
+  #map-hover .mh-kind {
+    font-size: 0.65rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 4px;
+  }
+  #map-hover .mh-title { font-size: 0.95rem; font-weight: 600; margin-bottom: 4px; }
+  #map-hover .mh-sum { font-size: 0.76rem; color: var(--muted); line-height: 1.4; }
+  #map-hover .mh-miss { font-size: 0.72rem; color: #d08888; }
+  #map-hint {
+    position: absolute;
+    left: 12px;
+    bottom: 10px;
+    font-size: 0.7rem;
+    color: var(--faint);
+    pointer-events: none;
+  }
+  .map-legend-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin: 5px 0;
+  }
+  .map-swatch {
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+    image-rendering: pixelated;
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,0.15);
+  }
 </style>
 </head>
 <body>
@@ -858,6 +972,7 @@ TEMPLATE = r"""<!doctype html>
   <div class="brand"><b>__BRAND__</b><span>__SUBTITLE__</span></div>
   <nav id="tabs-nav">
     <button data-tab="graph" class="active">Graph</button>
+    <button data-tab="map">Map</button>
     <button data-tab="explorer">Explorer</button>
     <button data-tab="gallery">Gallery</button>
     <button data-tab="themes">Themes</button>
@@ -899,6 +1014,60 @@ TEMPLATE = r"""<!doctype html>
       <svg id="graph" viewBox="0 0 2400 1700" preserveAspectRatio="xMidYMid meet"></svg>
       <div id="graph-hud"></div>
       <div id="graph-hint">drag background to pan &middot; scroll to zoom &middot; drag nodes to arrange</div>
+    </div>
+  </section>
+
+  <section id="tab-map" class="tab">
+    <div id="map-rail">
+      <div class="rail-group">
+        <h3>Frequency</h3>
+        <select id="map-freq"></select>
+        <div id="map-note"></div>
+        <div id="map-stats"></div>
+      </div>
+      <div class="rail-group">
+        <h3>Layers</h3>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-regions" checked /> Region fills</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-places" checked /> Places</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-landmarks" checked /> Landmarks</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-inhabitants" checked /> Inhabitants</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-stories" checked /> Stories</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-myths" checked /> Myths</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-artifacts" checked /> Artifacts</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-artworks" checked /> Artworks</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-cultures" checked /> Cultures</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-phenomena" checked /> Phenomena</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-symbols" checked /> Symbols</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-rules" checked /> Rules</label>
+        <label class="toggle-row"><input type="checkbox" id="map-layer-world" checked /> World</label>
+      </div>
+      <div class="rail-group">
+        <h3>Legend</h3>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#8fa9ff"></span> Place</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#e2c36b"></span> Landmark</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#d48cff"></span> Inhabitant</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#7dcea0"></span> Story</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#f0a060"></span> Myth</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#6ec6d4"></span> Artifact</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#f278a8"></span> Artwork</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#a8d46e"></span> Culture</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#c090ff"></span> Phenomenon</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#ffd27a"></span> Symbol</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#9aa7c2"></span> Rule</div>
+        <div class="map-legend-row"><span class="map-swatch" style="background:#ffffff"></span> World</div>
+      </div>
+      <div class="rail-group">
+        <h3>Registry</h3>
+        <div class="empty-note" style="font-size:0.72rem;line-height:1.45">
+          Positions live in <code style="background:rgba(255,255,255,0.07);border-radius:5px;padding:1px 5px">dashboard/map-registry.yaml</code>.
+          Rebuild after edits.
+        </div>
+      </div>
+    </div>
+    <div id="map-wrap">
+      <canvas id="world-map" width="1200" height="900"></canvas>
+      <div id="map-hover"></div>
+      <div id="map-hint">scroll to zoom &middot; drag to pan &middot; hover for lore &middot; click to open</div>
     </div>
   </section>
 
@@ -1092,6 +1261,7 @@ function switchTab(name) {
   for (const sec of document.querySelectorAll('.tab')) {
     sec.classList.toggle('active', sec.id === 'tab-' + name);
   }
+  if (name === 'map' && window.DiasMap) window.DiasMap.resize();
 }
 tabsNav.addEventListener('click', (e) => {
   const btn = e.target.closest('button[data-tab]');
@@ -1913,6 +2083,7 @@ renderHierarchy();
 
   html += `<div class="panel"><h3>About</h3>` +
     `<div class="empty-note">Generated ${esc(DATA.generated)} from lore markdown frontmatter and bodies.<br>` +
+    `Map positions come from <code style="background:rgba(255,255,255,0.07);border-radius:5px;padding:1px 5px">dashboard/map-registry.yaml</code>.<br>` +
     `Regenerate with <code style="background:rgba(255,255,255,0.07);border-radius:5px;padding:1px 5px">python3 scripts/build_story_dashboard.py</code></div></div>`;
 
   grid.innerHTML = html;
@@ -1924,10 +2095,399 @@ renderHierarchy();
   });
 })();
 
+/* ============ world map (canvas) ============ */
+window.DiasMap = (function initWorldMap() {
+  const mapData = DATA.map || { frequencies: {}, default_frequency: null };
+  const freqs = mapData.frequencies || {};
+  const freqSelect = document.getElementById('map-freq');
+  const noteEl = document.getElementById('map-note');
+  const statsEl = document.getElementById('map-stats');
+  const canvas = document.getElementById('world-map');
+  const wrap = document.getElementById('map-wrap');
+  const hoverEl = document.getElementById('map-hover');
+  if (!canvas || !freqSelect) return { resize() {} };
+
+  const ctx = canvas.getContext('2d');
+  const KIND_COLOR = {
+    place: '#8fa9ff',
+    landmark: '#e2c36b',
+    inhabitant: '#d48cff',
+    story: '#7dcea0',
+    myth: '#f0a060',
+    artifact: '#6ec6d4',
+    artwork: '#f278a8',
+    culture: '#a8d46e',
+    phenomenon: '#c090ff',
+    symbol: '#ffd27a',
+    rule: '#9aa7c2',
+    world: '#ffffff'
+  };
+  const layers = {
+    regions: document.getElementById('map-layer-regions'),
+    places: document.getElementById('map-layer-places'),
+    landmarks: document.getElementById('map-layer-landmarks'),
+    inhabitants: document.getElementById('map-layer-inhabitants'),
+    stories: document.getElementById('map-layer-stories'),
+    myths: document.getElementById('map-layer-myths'),
+    artifacts: document.getElementById('map-layer-artifacts'),
+    artworks: document.getElementById('map-layer-artworks'),
+    cultures: document.getElementById('map-layer-cultures'),
+    phenomena: document.getElementById('map-layer-phenomena'),
+    symbols: document.getElementById('map-layer-symbols'),
+    rules: document.getElementById('map-layer-rules'),
+    world: document.getElementById('map-layer-world')
+  };
+
+  let freqId = mapData.default_frequency || Object.keys(freqs)[0] || null;
+  let view = { scale: 1, ox: 0, oy: 0 };
+  let hoverHit = null;
+  let dragging = false;
+  let lastX = 0, lastY = 0;
+  let hitList = [];
+
+  for (const id of Object.keys(freqs)) {
+    const opt = document.createElement('option');
+    opt.value = id;
+    opt.textContent = freqs[id].label || id;
+    if (id === freqId) opt.selected = true;
+    freqSelect.appendChild(opt);
+  }
+
+  function currentFreq() {
+    return freqs[freqId] || null;
+  }
+
+  function layerOn(kind) {
+    const map = {
+      place: layers.places,
+      landmark: layers.landmarks,
+      inhabitant: layers.inhabitants,
+      story: layers.stories,
+      myth: layers.myths,
+      artifact: layers.artifacts,
+      artwork: layers.artworks,
+      culture: layers.cultures,
+      phenomenon: layers.phenomena,
+      symbol: layers.symbols,
+      rule: layers.rules,
+      world: layers.world
+    };
+    const el = map[kind];
+    return el ? el.checked : true;
+  }
+
+  function worldToScreen(x, y, w, h) {
+    return {
+      x: view.ox + (x / 100) * w * view.scale,
+      y: view.oy + (y / 100) * h * view.scale
+    };
+  }
+
+  function screenToWorld(sx, sy, w, h) {
+    return {
+      x: ((sx - view.ox) / (w * view.scale)) * 100,
+      y: ((sy - view.oy) / (h * view.scale)) * 100
+    };
+  }
+
+  function drawPoly(poly, w, h, fill, stroke) {
+    if (!poly || poly.length < 3) return;
+    ctx.beginPath();
+    poly.forEach((pt, i) => {
+      const p = worldToScreen(pt[0], pt[1], w, h);
+      if (i === 0) ctx.moveTo(p.x, p.y); else ctx.lineTo(p.x, p.y);
+    });
+    ctx.closePath();
+    if (fill) { ctx.fillStyle = fill; ctx.fill(); }
+    if (stroke) { ctx.strokeStyle = stroke; ctx.lineWidth = 1; ctx.stroke(); }
+  }
+
+  function drawPixelMarker(sx, sy, kind, size) {
+    const color = KIND_COLOR[kind] || '#fff';
+    const s = Math.max(2, size);
+    const x = Math.round(sx);
+    const y = Math.round(sy);
+    ctx.fillStyle = color;
+    ctx.strokeStyle = 'rgba(0,0,0,0.45)';
+    ctx.lineWidth = 1;
+
+    if (kind === 'inhabitant') {
+      // person: head + body
+      ctx.fillRect(x - 1, y - s, 2, 2);
+      ctx.fillRect(x - s + 1, y - s + 3, s * 2 - 2, s);
+    } else if (kind === 'landmark') {
+      // triangle peak
+      ctx.beginPath();
+      ctx.moveTo(x, y - s);
+      ctx.lineTo(x + s, y + s);
+      ctx.lineTo(x - s, y + s);
+      ctx.closePath();
+      ctx.fill();
+    } else if (kind === 'story') {
+      // open book
+      ctx.fillRect(x - s, y - s + 1, s * 2, s * 2 - 2);
+      ctx.fillStyle = 'rgba(0,0,0,0.35)';
+      ctx.fillRect(x - 1, y - s + 1, 2, s * 2 - 2);
+    } else if (kind === 'myth') {
+      // diamond
+      ctx.beginPath();
+      ctx.moveTo(x, y - s);
+      ctx.lineTo(x + s, y);
+      ctx.lineTo(x, y + s);
+      ctx.lineTo(x - s, y);
+      ctx.closePath();
+      ctx.fill();
+    } else if (kind === 'artifact') {
+      // hex-ish square with notch
+      ctx.fillRect(x - s, y - s, s * 2, s * 2);
+      ctx.fillStyle = 'rgba(0,0,0,0.35)';
+      ctx.fillRect(x - 1, y - 1, 2, 2);
+    } else if (kind === 'artwork') {
+      // frame
+      ctx.fillRect(x - s, y - s, s * 2, s * 2);
+      ctx.fillStyle = 'rgba(0,0,0,0.4)';
+      ctx.fillRect(x - s + 2, y - s + 2, s * 2 - 4, s * 2 - 4);
+    } else if (kind === 'culture') {
+      // ring
+      ctx.beginPath();
+      ctx.arc(x, y, s - 0.5, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.fillStyle = 'rgba(10,12,18,0.85)';
+      ctx.beginPath();
+      ctx.arc(x, y, Math.max(1, s - 2.5), 0, Math.PI * 2);
+      ctx.fill();
+    } else if (kind === 'phenomenon') {
+      // spark / plus
+      ctx.fillRect(x - 1, y - s, 2, s * 2);
+      ctx.fillRect(x - s, y - 1, s * 2, 2);
+    } else if (kind === 'symbol') {
+      // star-ish X
+      ctx.fillRect(x - 1, y - s, 2, s * 2);
+      ctx.fillRect(x - s, y - 1, s * 2, 2);
+      ctx.fillRect(x - s + 1, y - s + 1, 2, 2);
+      ctx.fillRect(x + s - 3, y - s + 1, 2, 2);
+      ctx.fillRect(x - s + 1, y + s - 3, 2, 2);
+      ctx.fillRect(x + s - 3, y + s - 3, 2, 2);
+    } else if (kind === 'rule') {
+      // tablet
+      ctx.fillRect(x - s + 1, y - s, s * 2 - 2, s * 2);
+      ctx.fillStyle = 'rgba(0,0,0,0.35)';
+      ctx.fillRect(x - s + 3, y - 2, s * 2 - 6, 1);
+      ctx.fillRect(x - s + 3, y + 1, s * 2 - 6, 1);
+    } else if (kind === 'world') {
+      // globe square
+      ctx.beginPath();
+      ctx.arc(x, y, s - 0.5, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.strokeStyle = 'rgba(0,0,0,0.5)';
+      ctx.beginPath();
+      ctx.arc(x, y, s - 0.5, 0, Math.PI * 2);
+      ctx.stroke();
+      ctx.beginPath();
+      ctx.moveTo(x - s + 1, y);
+      ctx.lineTo(x + s - 1, y);
+      ctx.stroke();
+    } else {
+      // place: solid block
+      ctx.fillRect(x - s, y - s, s * 2, s * 2);
+    }
+    // shadow lip for click readability
+    ctx.fillStyle = 'rgba(0,0,0,0.25)';
+    ctx.fillRect(x - s, y + s - 1, s * 2, 1);
+  }
+
+  function draw() {
+    const freq = currentFreq();
+    const rect = wrap.getBoundingClientRect();
+    const dpr = window.devicePixelRatio || 1;
+    const cssW = Math.max(320, rect.width);
+    const cssH = Math.max(280, rect.height);
+    canvas.width = Math.floor(cssW * dpr);
+    canvas.height = Math.floor(cssH * dpr);
+    canvas.style.width = cssW + 'px';
+    canvas.style.height = cssH + 'px';
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.imageSmoothingEnabled = false;
+
+    const w = cssW;
+    const h = cssH;
+    hitList = [];
+
+    ctx.fillStyle = (freq && freq.water) || '#0c2438';
+    ctx.fillRect(0, 0, w, h);
+
+    if (!freq) {
+      noteEl.textContent = 'No map registry loaded.';
+      statsEl.textContent = '';
+      return;
+    }
+
+    noteEl.textContent = freq.note || '';
+    const resolvedMarkers = (freq.markers || []).filter(m => m.entry_id).length;
+    statsEl.textContent =
+      `${(freq.regions || []).length} regions · ${(freq.markers || []).length} pins · ${resolvedMarkers} linked`;
+
+    for (const lm of freq.landmasses || []) {
+      drawPoly(lm.polygon, w, h, lm.fill || freq.land, 'rgba(255,255,255,0.22)');
+    }
+
+    if (layers.regions.checked) {
+      for (const reg of freq.regions || []) {
+        drawPoly(reg.polygon, w, h, reg.fill || 'rgba(255,255,255,0.12)', 'rgba(255,255,255,0.18)');
+        // centroid label
+        let cx = 0, cy = 0;
+        for (const pt of reg.polygon) { cx += pt[0]; cy += pt[1]; }
+        cx /= reg.polygon.length; cy /= reg.polygon.length;
+        const p = worldToScreen(cx, cy, w, h);
+        ctx.fillStyle = 'rgba(233,235,242,0.75)';
+        ctx.font = '600 11px Inter, system-ui, sans-serif';
+        ctx.textAlign = 'center';
+        ctx.fillText(reg.entry || reg.id, p.x, p.y);
+        hitList.push({
+          kind: 'region',
+          entry_id: reg.entry_id,
+          label: reg.entry || reg.id,
+          x: cx, y: cy, r: 4
+        });
+      }
+    }
+
+    const markerSize = Math.max(3, Math.min(7, 4 * view.scale));
+    for (const m of freq.markers || []) {
+      if (!layerOn(m.kind)) continue;
+      const p = worldToScreen(m.x, m.y, w, h);
+      drawPixelMarker(p.x, p.y, m.kind, markerSize);
+      hitList.push({
+        kind: m.kind,
+        entry_id: m.entry_id,
+        label: m.label || m.entry,
+        x: m.x, y: m.y, r: markerSize + 2
+      });
+    }
+
+    if (hoverHit) {
+      const p = worldToScreen(hoverHit.x, hoverHit.y, w, h);
+      ctx.strokeStyle = 'rgba(255,255,255,0.85)';
+      ctx.lineWidth = 1;
+      ctx.strokeRect(Math.round(p.x - markerSize - 2), Math.round(p.y - markerSize - 2), (markerSize + 2) * 2, (markerSize + 2) * 2);
+    }
+  }
+
+  function pick(sx, sy) {
+    const rect = wrap.getBoundingClientRect();
+    const w = rect.width, h = rect.height;
+    let best = null, bestD = 1e9;
+    // Prefer markers over region labels when both are near the cursor.
+    const ordered = hitList.slice().sort((a, b) => {
+      const ar = a.kind === 'region' ? 1 : 0;
+      const br = b.kind === 'region' ? 1 : 0;
+      return ar - br;
+    });
+    for (const hit of ordered) {
+      const p = worldToScreen(hit.x, hit.y, w, h);
+      const dx = p.x - sx, dy = p.y - sy;
+      const d = Math.sqrt(dx * dx + dy * dy);
+      const maxR = hit.kind === 'region' ? 22 : Math.max(10, (hit.r || 8) + 6);
+      if (d <= maxR && d < bestD) { best = hit; bestD = d; }
+    }
+    return best;
+  }
+
+  function showHover(hit, clientX, clientY) {
+    if (!hit) { hoverEl.classList.remove('open'); return; }
+    const node = hit.entry_id ? nodesById.get(hit.entry_id) : null;
+    const wrapRect = wrap.getBoundingClientRect();
+    let html = `<div class="mh-kind">${esc(hit.kind)}</div><div class="mh-title">${esc(hit.label)}</div>`;
+    if (node && node.summary) html += `<div class="mh-sum">${esc(node.summary)}</div>`;
+    else if (!node) html += `<div class="mh-miss">Not linked to a lore entry yet.</div>`;
+    hoverEl.innerHTML = html;
+    hoverEl.classList.add('open');
+    const left = Math.min(wrapRect.width - 200, Math.max(8, clientX - wrapRect.left + 14));
+    const top = Math.min(wrapRect.height - 80, Math.max(8, clientY - wrapRect.top + 14));
+    hoverEl.style.left = left + 'px';
+    hoverEl.style.top = top + 'px';
+  }
+
+  function resetView() {
+    view = { scale: 1, ox: 0, oy: 0 };
+    draw();
+  }
+
+  freqSelect.addEventListener('change', () => {
+    freqId = freqSelect.value;
+    resetView();
+  });
+  for (const el of Object.values(layers)) {
+    el.addEventListener('change', draw);
+  }
+
+  canvas.addEventListener('mousemove', (e) => {
+    const rect = canvas.getBoundingClientRect();
+    const sx = e.clientX - rect.left;
+    const sy = e.clientY - rect.top;
+    if (dragging) {
+      view.ox += sx - lastX;
+      view.oy += sy - lastY;
+      lastX = sx; lastY = sy;
+      hoverHit = null;
+      hoverEl.classList.remove('open');
+      draw();
+      return;
+    }
+    hoverHit = pick(sx, sy);
+    canvas.style.cursor = hoverHit ? 'pointer' : (dragging ? 'grabbing' : 'crosshair');
+    draw();
+    showHover(hoverHit, e.clientX, e.clientY);
+  });
+  canvas.addEventListener('mouseleave', () => {
+    hoverHit = null;
+    hoverEl.classList.remove('open');
+    dragging = false;
+    draw();
+  });
+  canvas.addEventListener('mousedown', (e) => {
+    const rect = canvas.getBoundingClientRect();
+    lastX = e.clientX - rect.left;
+    lastY = e.clientY - rect.top;
+    dragging = true;
+  });
+  window.addEventListener('mouseup', () => { dragging = false; });
+  canvas.addEventListener('click', (e) => {
+    if (Math.abs(e.movementX) + Math.abs(e.movementY) > 4) return;
+    const rect = canvas.getBoundingClientRect();
+    const hit = pick(e.clientX - rect.left, e.clientY - rect.top);
+    if (hit && hit.entry_id) openEntry(hit.entry_id);
+  });
+  canvas.addEventListener('wheel', (e) => {
+    e.preventDefault();
+    const rect = canvas.getBoundingClientRect();
+    const sx = e.clientX - rect.left;
+    const sy = e.clientY - rect.top;
+    const before = screenToWorld(sx, sy, rect.width, rect.height);
+    const factor = e.deltaY < 0 ? 1.1 : 0.9;
+    view.scale = Math.max(0.6, Math.min(4.5, view.scale * factor));
+    const after = worldToScreen(before.x, before.y, rect.width, rect.height);
+    view.ox += sx - after.x;
+    view.oy += sy - after.y;
+    draw();
+  }, { passive: false });
+
+  window.addEventListener('resize', () => {
+    if (activeTab === 'map') draw();
+  });
+
+  draw();
+  return {
+    resize() { draw(); },
+    redraw: draw,
+    warnings: mapData.warnings || []
+  };
+})();
+
 /* ============ boot ============ */
 scheduleFit();
 applyGraphFilters();
-const TAB_NAMES = ['graph', 'explorer', 'gallery', 'themes', 'hierarchy', 'insights'];
+const TAB_NAMES = ['graph', 'map', 'explorer', 'gallery', 'themes', 'hierarchy', 'insights'];
 function applyHash() {
   const h = decodeURIComponent((location.hash || '').replace('#', ''));
   if (TAB_NAMES.includes(h)) { switchTab(h); return; }
@@ -1954,6 +2514,19 @@ def main() -> None:
     unresolved = sum(len(n["unresolved"]) for n in nodes)  # type: ignore[index]
     print(f"Generated {OUTPUT_PATH.relative_to(ROOT)}")
     print(f"Entries: {len(nodes)} | Links: {len(edges)} | Unresolved refs: {unresolved}")  # type: ignore[arg-type]
+
+    world_map = payload.get("map") or {}
+    stats = world_map.get("stats") or {}
+    print(
+        "Map: "
+        f"{stats.get('frequencies', 0)} frequencies | "
+        f"{stats.get('regions', 0)} region polys | "
+        f"{stats.get('markers', 0)} markers "
+        f"(manual {stats.get('manual_markers', 0)} / auto {stats.get('auto_markers', 0)}) | "
+        f"{stats.get('unresolved', 0)} unresolved map refs"
+    )
+    for warning in world_map.get("warnings") or []:
+        print(f"  map warning: {warning}")
 
 
 if __name__ == "__main__":
