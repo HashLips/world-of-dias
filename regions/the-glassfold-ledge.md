@@ -42,6 +42,8 @@ Use thin mirror contours, timing icons, and "visibility bands" marking likely re
 
 Navigation guilds time movement to "ledge minutes." Poor timing means traversing blind and missing structural cues.
 
+**Lived role (F610 icon):** Veil Scribes and pane-patient foxes thrive; opacity-afterglow hunters frighten lingerers. Joy is brief true sight; pressure is comedown. Sanctuary: stamped window work. Danger: post-window Opacity Serpents / Vein-Kraken rumor.
+
 ## Stories or Depictions
 
 Cartographers often print dual overlays: base-terrain and reveal-phase in separate line weights.

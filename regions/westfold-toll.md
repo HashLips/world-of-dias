@@ -17,6 +17,9 @@ related:
   - Perrin Cale
   - Lira Vesk
   - VEL Mark Trade Standard
+  - Transport of Dias
+  - Fruit Road and Toll Travel
+  - Sorel Exile and Yard Movement
 themes:
   - official crossing
   - fee barrier
@@ -40,6 +43,16 @@ The **Westfold Toll** is the main supervised crossing between western **Hearthva
 Travelers approach along a packed west road that gathers farm carts, fruit runners returning empty, and walkers hoping Wabet’s quiet will hire them. The toll itself is practical more than grand: timber and stone, a clerk shed, a chain that lifts when fees clear. Keepers on the Wabet side watch for raid energy; Hearthvale side watches for short coin and stolen goods.
 
 For a Driftfall boy alone, the posted rate is not impossible—only high enough that short waystation wages fail by a cruel margin.
+
+## Movement Card
+
+| | |
+| --- | --- |
+| **Mode** | Supervised Hearthvale↔Wabet crossing |
+| **Pay** | Marks + papers + patience |
+| **Joy beat** | First step into calm country when cleared |
+| **Pressure beat** | Almost-enough coin; raid-energy watch; quiet illegal alternatives |
+| **Culture** | [Fruit Road and Toll Travel](../cultures/fruit-road-and-toll-travel.md), [Sorel Exile and Yard Movement](../cultures/sorel-exile-and-yard-movement.md) |
 
 ## Lore
 

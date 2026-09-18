@@ -9,6 +9,7 @@ related:
   - The Open Hand of Making
   - Unfinished edge drift
   - The Last Line Never Drawn
+  - Peoples of Dias
 themes:
   - adaptive identity
   - iterative form
@@ -34,9 +35,13 @@ They are not treated as unfinished people; in local terms they are **finished in
 
 Outsiders sometimes mythologize Draftkin as prophecy beings or failed forms. F960 sources reject both simplifications: Draftkin are understood as normal citizens of a realm where persistence and revision coexist.
 
+## Daily Coexistence
+
+In F960, revision seams are as ordinary as changing a coat. Visiting F432, they prefer hosts who do not flinch when an edge refines mid-conversation. Accountability stays stable even when outline does not.
+
 ## Narrative Role
 
-Draftkin embody a key Dias question: can identity remain truthful while remaining revisable?
+Draftkin embody a key Dias question: can identity remain truthful while remaining revisable? Banded as **process-kind** in [`Peoples of Dias`](../world/peoples-of-dias.md).
 
 ## Notes
 

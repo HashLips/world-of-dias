@@ -66,6 +66,31 @@ related:
   - Eastbound Fruit Road
   - Flagweek Strip
   - Songripe Isles
+  - Softlane Hares
+  - Redmile Striders
+  - Laughlight Sparrows
+  - Road-Between Echo-Hounds
+  - Bleedweather Moths
+  - Mega Butterfly
+  - Human-Eyed Whales
+  - Rose-Thorn Wolves
+  - Exile Road Wolves
+  - Long-Gate Beast
+  - Glasswater Mirror-Koi
+  - Songripe Tide-Birds
+  - Glasswater Sky-Turtles
+  - Wabet Root-Titans
+  - Sorel Horizon-Walkers
+  - Outer Rim Deep-Keels
+  - Veloria Festival Sky-Whales
+  - Lumira Dune-Drakes
+  - Nauw Ring-Ox Draughts
+  - Fruit-Road Draft-Ponies
+  - Ledger Dust-Fleas
+  - Structure of Dias
+  - Cosmology of Dias
+  - F432 Civic Time
+  - Climates of Dias
 themes:
   - stability
   - trade
@@ -85,6 +110,8 @@ Like all frequencies, it represents a layer of reality defined by its unique res
 
 While F432 is well explored compared to many other frequencies, **its everyday institutions only partly understand** how it sits beside other bands. **F200**, **F500**, and **F960** are now accompanied in records by quieter background bands (**F120**, **F380**, **F610**, **F840**) mostly via supplemental ledgers and story circulation. In all cases, neighboring frequencies are treated as partial intelligence and narrative context rather than stable policy terrain.
 
+**Structural seat:** F432 is the **home band**—emotionally and practically between luminosity (F200) and null (F500), without being either. For the map-of-maps (roles, awareness channels, travel rarity, anomalies), see [`Structure of Dias`](../world/structure-of-dias.md).
+
 ## Lore
 
 Documented regions within F432 include Nauw, Wabet, and Sorel.
@@ -92,6 +119,8 @@ Documented regions within F432 include Nauw, Wabet, and Sorel.
 Current geographic framing places Wabet along the full western side of the F432 map, Nauw in the north-east, and Sorel in the south-east (south of Nauw and east of Wabet).
 
 Most F432 trade uses the **VEL Mark** standard for practical inter-regional pricing and settlement. Local tender forms still exist, but VEL is the dominant shared physical currency across Nauw, Wabet, and Sorel.
+
+**Time:** for markets, festivals, and how people say *when*, see [`F432 Civic Time`](../cultures/f432-civic-time.md). Deep antiquity markers remain in [`Known Eras and Markers`](../world/known-eras-and-markers.md).
 
 This does **not** mean Dias has a single currency model. Other frequencies may use non-note exchange systems, including value anchored to strategic minerals, rare resources, or non-physical settlement methods.
 

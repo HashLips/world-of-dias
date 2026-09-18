@@ -6,6 +6,8 @@ culture:
 related:
   - F432 (frequency realm)
   - F432 Major Races Compact
+  - F432 Shared Table
+  - Peoples of Dias
   - Nauw Outer Rim Seas
   - Wabet
 themes:
@@ -31,6 +33,10 @@ At rest, many appear as hovering clouds of pale particles with subtle internal c
 ## Beliefs About Them
 
 Non-swarm societies sometimes mistake Palewind coordination for anonymity; Palewind legal traditions are explicit that each swarm identity is a distinct person with accountable continuity.
+
+## Daily Coexistence
+
+Rim winds, canopy air, and fleet veils. Season shared steam with spice-motes rather than stirring a pot alone. Tax clerks who count partitions as many citizens start fights; good houses count continuity. Soft whisper-drift is taught as Lumira silence craft.
 
 ## Narrative Role
 

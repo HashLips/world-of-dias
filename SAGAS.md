@@ -8,6 +8,8 @@ You do not need a saga to understand the repo. Use them when you want a guided s
 
 World identity behind all sagas: [`CORE-PILLARS.md`](CORE-PILLARS.md)
 
+**Stage note:** World expansion plan Sections 1–35 are stage-ready. See [`world/stage-readiness-of-dias.md`](world/stage-readiness-of-dias.md) and [`world/relationships-of-dias.md`](world/relationships-of-dias.md). No new saga is listed here until a reading path exists.
+
 ---
 
 ## Available sagas

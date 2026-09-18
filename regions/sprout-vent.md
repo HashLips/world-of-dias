@@ -43,6 +43,8 @@ Driftfall crews treat Sprout Vent as both landmark and warning clock.
 
 Where contagious overflow has landed in past cycles, the landscape now carries **daughter vents**—knee-high to waist-high mounds that still warm at night. Together with the parent cluster, they give the southeastern approach its unsettling "many sprout" silhouette.
 
+**Story staging:** glow on the horizon as decision clock; haze week chores; a daughter vent as omen underfoot. Pair with Sorel Vent Haze and Driftfall salvage reroutes.
+
 ## Stories or Depictions
 
 No dedicated artwork entry yet. Southeastern Driftfall maps and oral charts usually mark the vent cluster with multiple tick-marks around one core symbol.

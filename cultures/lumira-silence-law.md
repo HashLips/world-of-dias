@@ -42,6 +42,14 @@ The land provides for those who respect its silence. Noise is not only volume—
 
 Iskar Lüm’s Silent Dune Keep is the living enforcement. Quiet Well is the emblematic protected node.
 
+## Kindness practice
+
+Teach soft steps as care for neighbors and water, not only fear of fangs.
+
+## Hard edge
+
+Turn back or labor-tax those who advertise wells; treat accurate public water maps as moral failure.
+
 ## Notes
 
 Distinct from Averra’s sealed mystery and from Wabet Open Hand orchard ethics.

@@ -10,6 +10,10 @@ related:
   - Calen Brink
   - The Long Gate Argument
   - Sorel
+  - F432 Civic Time
+  - Structure of Dias
+  - History of Dias
+  - Known Disputed Forgotten
 themes:
   - chronology
   - soft history
@@ -57,3 +61,7 @@ These are **biographical anchors**, not full histories:
 ## Notes
 
 Do not use this entry to pin the Fracture to a numbered year. Filmmakers may treat markers as culturally situated texture; repository explorers may treat them as orienting, not authoritative.
+
+For **lived F432 rhythm** (markets, festivals, regional variants, frequency time-feels), see [`F432 Civic Time`](../cultures/f432-civic-time.md). Eras answer “which age?”; civic time answers “which season of ordinary life?”
+
+Broader history hub (known/disputed/forgotten + regional memory): [`History of Dias`](history-of-dias.md).

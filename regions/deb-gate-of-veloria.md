@@ -40,6 +40,8 @@ Materially, the structure combines stone, gold, silver, and wood: major framing 
 
 In local interpretation, the gate serves both as a defense mechanism and as a statement of identity: Veloria's boundary is physically sealed, but visually tied to symbolic forms and skyborne mysteries.
 
+**Story staging:** first entry; Before-I-Kneel restraint; echo at the stone; Sky Drifter engravings catching late light. Pair with Gatewarden Rams, Watch-Geese, and ring protocol.
+
 ### Leadership Structure
 
 | Governance Style | Influence Tier | Governing Group | Leadership Seat |

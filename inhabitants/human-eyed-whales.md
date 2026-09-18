@@ -7,11 +7,14 @@ related:
   - Nauw Outer Rim Seas
   - Singing Fishermen
   - Nauw
+  - Creatures of Dias
+  - Animals of Dias
 themes:
   - ocean symbiosis
   - sustenance
   - intelligence
   - contested kinship
+  - wonder icon
 status: canonical
 nature: creature
 ---
@@ -28,13 +31,18 @@ These whales move through the outer waters as part of a broader ocean ecology th
 
 Not all human-eyed whales relate to people in the same way. Some are hunted by fishing crews, while others form sustained bonds with particular Singing Fishermen and are treated as companions rather than prey.
 
+Close reports speak of eyes that hold a person’s reflection too clearly—wet dark mirrors that make jokes die mid-deck.
+
 ## Beliefs About Them
 
-Some communities interpret the whales as intelligent co-participants in ocean life rather than mere resources, while others emphasize necessity and regard them primarily through a survival lens.
+Some communities interpret the whales as intelligent co-participants in ocean life rather than mere resources, while others emphasize necessity and regard them primarily through a survival lens. Song-crews argue kinship at table; market crews argue tonnage.
+
+## Cultural Touchstone
+
+Outer Rim’s contested wonder: the creature you may love and still need. Compact talk after a sighting often asks whether the eye looked *back*—and who is allowed to decide what that means.
 
 ## Narrative Role
 
-They embody the moral and practical tension between dependence, reverence, and extraction in the outer waters of Nauw.
+They embody the moral and practical tension between dependence, reverence, and extraction in the outer waters of Nauw. Classed as **wonder** (with social wound) in [Creatures of Dias](../world/creatures-of-dias.md).
 
 ## Notes
-

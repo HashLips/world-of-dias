@@ -6,6 +6,8 @@ culture:
 related:
   - F432 (frequency realm)
   - F432 Major Races Compact
+  - F432 Shared Table
+  - Peoples of Dias
   - Nauw
   - Sorel
 themes:
@@ -31,6 +33,10 @@ Common visual traits include hard-edged silhouettes, rotating facet planes, soft
 ## Beliefs About Them
 
 Some F432 communities treat Axiomorphs as difficult to read; others value them as precise negotiators and high-order systems thinkers.
+
+## Daily Coexistence
+
+Common in docks, archives, and systems halls. Hosts who arrange plates by geometry expect the pattern to be respected. Neighbors learn their “hello” is a facet-turn, not a smile—and that many are warm traders once the greeting lands.
 
 ## Narrative Role
 

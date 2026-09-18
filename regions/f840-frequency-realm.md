@@ -15,6 +15,17 @@ related:
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
   - F840 Map
+  - Embersleep Hounds
+  - Hearthline Warm-Rats
+  - Emberfile Soft-Moles
+  - Cinder-Nook Lantern Beetles
+  - Afterglow Vultures
+  - Great Blue Bird
+  - Hearthline Ash-Fleas
+  - Ember Quiet Glow-Ants
+  - Ashen Relay Ponies
+  - F840 Rebuild Aurochs
+  - Hearthline Ash-Whales
 themes:
   - recovery
   - aftermath

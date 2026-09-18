@@ -11,11 +11,14 @@ related:
   - The Echo at the Gate
   - The Load the Core Carries
   - Sun-Sweet and Sky
+  - Characters of Dias
+  - Pip Ringroad
 themes:
   - loss
   - endurance
   - routine
   - freedom through motion
+  - harold principle
 status: canonical
 nature: human
 ---
@@ -44,4 +47,4 @@ Harold grounds Veloria's vast scale in a human rhythm, showing how a single pers
 
 Harold and **Calen Brink** pass each other on basin-edge mornings in saga chronology before speaking—two mappers of Veloria, one by motion, one by echo.
 
-**Pillar exemplar (Central characters — ordinary life):** no unique power, still essential. Dias stays large because people like Harold already belong in it.
+**Pillar exemplar (Central characters — ordinary life):** no unique power, still essential. Dias stays large because people like Harold already belong in it. Index: [`Characters of Dias`](../world/characters-of-dias.md). Sometimes redirects **Pip Ringroad** from Operator rumors toward actual errands.

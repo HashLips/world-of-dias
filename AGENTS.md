@@ -25,14 +25,17 @@ Lore stays in category folders. Do not invent a second lore store.
 | --- | --- |
 | [`agent/DIAS-REFERENCE-MAP.md`](agent/DIAS-REFERENCE-MAP.md) | External GUID bridge (IRL / Arweave / social / physical) |
 | [`agent/dias-map.yaml`](agent/dias-map.yaml) | Permanent `DIAS-{UUID}` → Markdown index |
+| [`agent/plan.md`](agent/plan.md) | World expansion plan (stage-building; section-by-section) |
+| [`agent/secrets-pointer.md`](agent/secrets-pointer.md) | Author secret staging (saga-key vs texture; not a spoiler bible) |
+| [`agent/stage-readiness.md`](agent/stage-readiness.md) | Post–plan stage readiness (what sagas may touch) |
 | [`.cursor/rules/dias-reference-map.mdc`](.cursor/rules/dias-reference-map.mdc) | Always-on permanence rule |
 | [`dashboard/map-registry.yaml`](dashboard/map-registry.yaml) | 2D atlas pin/land positions for the Map tab |
 
 ## Lore folders
 
-Canon entries live in: `world/`, `regions/`, `rules/`, `cultures/`, `inhabitants/`, `artifacts/`, `phenomena/`, `myths/`, `stories/`, `symbols/`, `artworks/`, `assets/`.
+Canon entries live in: `world/`, `regions/`, `rules/`, `cultures/`, `inhabitants/`, `flora/`, `artifacts/`, `phenomena/`, `myths/`, `stories/`, `symbols/`, `artworks/`, `assets/`.
 
-Note: `rules/` is **world lore** (laws, protocols). Agent instructions are **not** stored there.
+Note: `rules/` is **world lore** (laws, protocols). Agent instructions are **not** stored there. `flora/` holds plant species and growth entries; [`world/flora-of-dias.md`](world/flora-of-dias.md) is the index.
 
 ## External references
 

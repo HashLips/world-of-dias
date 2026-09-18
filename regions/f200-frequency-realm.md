@@ -16,6 +16,17 @@ related:
   - Partial Harmonic Index fragment
   - Ledger mention of F200 and F500
   - F200 Map
+  - Lumen Filament-Fish
+  - Meridian Soft-Rays
+  - Champagne Glass-Moths
+  - Brightspine Grazers
+  - Dimming Leeches
+  - Meridian Spark-Mites
+  - Lumen Seam-Wasps
+  - Aurel Field-Gazelles
+  - F200 Pillar-Stags
+  - Bandwidth Sky-Mantas
+  - Structure of Dias
 themes:
   - light
   - serenity
@@ -47,6 +58,8 @@ F200 supports **energy-native beings** and structures that look like **architect
 The best-documented **inhabited structure** within F200 is **Aurel Meridian**, a sub-region that appears on charts as a **second long rectangle** nested inside the realm’s overall rectangle—an energetic corridor or “bright spine” where energy-kind populations and stable phenomena are most often reported.
 
 F200 stands in **sharp contrast** to the low-resonance **F500** abyss: where F200 reads as **clarity, saturation, and composed peace**, F500 reads as **absence, inversion, and unbounded dark**.
+
+**Structural role:** F200 is the **luminosity pole** of the known stack—see [`Structure of Dias`](../world/structure-of-dias.md).
 
 ### Awareness in F432
 

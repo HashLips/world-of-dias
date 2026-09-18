@@ -22,6 +22,8 @@ related:
   - Calareth Watch
   - Calareth No-Moved-Stone Rule
   - The Ribbon Cut at Hallow Bay
+  - Settlements of Dias
+  - Bay-Ribbon Guest Hall
 themes:
   - pristine coasts
   - cliffs and forests
@@ -48,6 +50,17 @@ Some travelers report that Calareth carries a slightly different resonance signa
 - **Coral Strand** — The southern **reef-ledge** beach: shallow, loud with water over shell, the best place for **tide-pool** teaching, children’s first swims, and the island’s one concession to *boisterous* joy. Coris is said to smile there more than anywhere else, though witnesses disagree on *how* much is rumor.
 
 Ferries from Wabet (when permitted) are infrequent; most traffic is still **intentional**—healers, students of restraint, and families seeking a week without a clock.
+
+## Settlement Card
+
+| | |
+| --- | --- |
+| **Tier** | Sanctuary island |
+| **Population feel** | Small, strict, seasonal |
+| **Economy verb** | stewardship |
+| **Festival / joy** | Coral Strand; Still Months work; Ribbon rite |
+| **Fear** | Broken No-Moved-Stone / ribbon law |
+| **Famous corners** | Hallow Bay; Elder Shelf; [Bay-Ribbon Guest Hall](bay-ribbon-guest-hall.md) |
 
 ### Seasonal year
 

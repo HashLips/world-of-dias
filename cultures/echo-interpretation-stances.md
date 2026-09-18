@@ -57,6 +57,18 @@ Common axes of disagreement:
 
 These are **stances**, not exclusive membership cards. Individuals cross them. Houses schism over them (H-11 vs H-19).
 
+### Practiced customs (how stances look day-to-day)
+
+| Stance | Kindness you might see | Hard edge you might meet |
+| --- | --- | --- |
+| File and stabilize | Clear tags that prevent wrong exile | Delay that feels like abandonment |
+| Load discipline | Ignoring panic-noise to keep lights on | Dismissing lived fear as “nonactionable” |
+| Make and leave open | Teaching revision without shame | Refusing closure someone desperately needs |
+| Witness and share | Basin-first testimony; shore pubs as memory | Gossip that harms before it helps |
+| Silence or exile | Protecting a community by moving a wound | Treating people as disposable resonance |
+
+Subcultures often live these tensions: [`Veloria Clerk Subculture`](veloria-clerk-subculture.md), [`Outer Rim Sailor Subculture`](outer-rim-sailor-subculture.md), [`Driftfall Vent-Crew Subculture`](driftfall-vent-crew-subculture.md).
+
 ## Lore
 
 This matrix does not invent new factions. It organizes how existing groups already behave so future stories can align characters with recognizable worldviews—or show them breaking from one.

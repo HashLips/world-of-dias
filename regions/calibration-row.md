@@ -12,6 +12,8 @@ related:
   - Valorian Operators
   - Resonant Houses
   - The Sketchy Gallery
+  - Knowledge of Dias
+  - Clerk and House Study Paths
 themes:
   - third ring workshops
   - load calibration
@@ -35,6 +37,16 @@ Calibration Row is a third-ring workshop strip where Kharad and allied craftspeo
 The Row smells of oil, warm metal, and argument. **Dox Khar** heads a calibration circle that will fix a cart-axle frequency and still decline to stamp a House form. Operators from the core sometimes send anonymous work; the Row pretends not to notice.
 
 Sketchy Gallery sits culturally nearby—art and craft trading sideways glances.
+
+## Learning Card
+
+| | |
+| --- | --- |
+| **Who studies** | Kharad & allied craft apprentices; stubborn seniors |
+| **Lesson** | Tune loads without selling classification |
+| **Joy** | Axle fixed; argument won; oil-smell pride |
+| **Pressure** | House forms; anonymous Operator jobs |
+| **Culture** | [Clerk and House Study Paths](../cultures/clerk-and-house-study-paths.md) |
 
 ## Lore
 

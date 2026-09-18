@@ -7,6 +7,8 @@ related:
   - Dias
   - Everything resonates echo principle
   - Frequency Zero
+  - Cosmology of Dias
+  - Resonance behavior soft limits
   - F432 (frequency realm)
   - F200 (frequency realm)
   - F500 (frequency realm)

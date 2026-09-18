@@ -32,6 +32,14 @@ Communities maintain chant-guided route recall, whale-path respect customs, and 
 
 The custodianship tradition is often associated with Marek Solon's Tide Warden role and with ongoing attempts to reconcile fracture-linked myth with practical seamanship.
 
+## Kindness practice
+
+Teach one true route stanza; share loft space with apprentices who will answer the call.
+
+## Hard edge
+
+Public shame for missed storm check-ins; catch restraint enforced when greed threatens the cycle.
+
 ## Notes
 
 Inland observers often misread the culture as purely symbolic, overlooking its practical navigation and risk-management functions.

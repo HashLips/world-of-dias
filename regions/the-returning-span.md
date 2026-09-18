@@ -38,6 +38,8 @@ Use concentric broken rings, paired milestone symbols, and mirrored-but-shifted 
 
 Local charting uses "pass count" notation: first pass, second pass, and "difference marks" noting what changed between traversals.
 
+**Lived role (F120 icon):** Refrain Walkers thrive; certainty addicts fear the inner lane. Joy is recognizing a road; pressure is learning it will not finish the same. Sanctuary: outer lane discipline. Danger: inner-lane bravado and Almost-Same predator lore.
+
 ## Stories or Depictions
 
 Depictions often include paired bridge forms and twin towers with non-matching windows to signal "same shape, changed outcome."

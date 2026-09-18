@@ -15,6 +15,8 @@ related:
   - 100 VEL Mark
   - 200 VEL Mark
   - 1000 VEL Mark
+  - Economy of Dias
+  - F432 Plural Tender Economies
 themes:
   - trade currency
   - regional interoperability
@@ -47,4 +49,4 @@ Within F432, VEL remains the dominant trusted physical trade standard used by mo
 
 ## Notes
 
-This entry defines broad usage behavior, not a monopoly claim. Local and cross-frequency variation remains canonical.
+Defines broad VEL usage, not a monopoly. Local and cross-frequency variation remains canonical. Broader tender stack: [`F432 Plural Tender Economies`](f432-plural-tender-economies.md). Hub: [`Economy of Dias`](../world/economy-of-dias.md).

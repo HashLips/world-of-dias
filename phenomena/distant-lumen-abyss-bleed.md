@@ -14,6 +14,8 @@ related:
   - Calen Brink
   - Marek Solon
   - The Unraveled
+  - Bleed-Sky Weather
+  - Climates of Dias
 themes:
   - leaked resonance
   - imperfect awareness

@@ -40,6 +40,11 @@ The Nauw Outer Rim Seas occupy the top-western to northern oceanic edge of Nauw,
 
 This maritime belt forms a distinct ecological zone at the outer rim of Nauw. Waters are rich with large marine life and interdependent food webs, but conditions can shift quickly with weather, currents, and migratory movement.
 
+**Sensory:** salt-sweet spray, whale-eye reflection talk, song lines over dark water, kiln-smoke at Cinder Nook, gangplank gossip at Rim-Rest.  
+**Who thrives / fears:** Singing Fishermen and bonded crews thrive; lone night swimmers and fog-proud captains fear Siren-Eels and Keel-Sharks.  
+**Joy / pressure:** symbiosis and first-spout festivals / contested hunting vs kinship with Human-Eyed Whales; Deep-Keel rumors.  
+**Sanctuary:** Hollowmere lofts, Rim-Rest rings under known captains. **Danger:** Fogbank lanes, open outer dark, false islands.
+
 The region is known for the presence of massive whales with human-like eyes and for the Singing Fishermen who live and work along these waters. Their practices combine subsistence, ritualized song, and inherited local knowledge of whale routes and behavior.
 
 ### Named anchor places

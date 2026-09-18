@@ -38,6 +38,8 @@ Use dark ashen base tones with subtle ember veins and orange-gold nodes at shelt
 
 Communities cluster around persistent heat nodes and maintain relay chains for travelers, supplies, and message continuity.
 
+**Lived role (F840 icon):** Ember Keepers and Embersleep Hounds thrive; Great Blue Bird open-zone bravado frightens parents. Joy is warmth that stayed; pressure is aftermath honesty. Sanctuary: rest-viability hearths. Danger: exposed upper lanes and ash-whale rarity awe.
+
 ## Stories or Depictions
 
 Hearthline maps are often marked with "rest viability" ratings rather than conventional distance-first legends.

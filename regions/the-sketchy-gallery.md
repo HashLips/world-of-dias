@@ -10,11 +10,14 @@ related:
   - Nauw
   - Bronze Umbrella Seated Figure
   - Sketchy Ape Book Club Collection
+  - Architecture of Dias
+  - Settlements of Dias
 themes:
   - evolving exhibition space
   - kinetic displays
   - physical and digital art bridge
   - mystery
+  - uncanny architecture
 status: canonical
 ---
 
@@ -34,9 +37,12 @@ The gallery displays works from across Nauw and sometimes farther reaches of F43
 
 A recognizable feature is the Sketchy Ape Book Club collection, shown as illuminated panel displays that contrast with traditional works nearby. At the center of the hall stands a large bronze statue of a seated man holding an umbrella beneath a circular skylight. At the far end, a solid blue door marked "DO NOT OPEN" remains permanently closed and publicly unexplained.
 
+Regulars joke that the gallery **keeps** an afternoon—you mean to glance and leave having stayed through two panel cycles. Staff neither confirm nor sell the joke.
+
 ## Lore
 
-The Sketchy Gallery is often described as a cultural bridge between Veloria's physical art traditions and newer digital forms emerging in parts of F432.
+The Sketchy Gallery is often described as a cultural bridge between Veloria's physical art traditions and newer digital forms emerging in parts of F432. Classed as the primary **uncanny architectural** exemplar in [`Architecture of Dias`](../world/architecture-of-dias.md).
+
 
 ### Leadership Structure
 

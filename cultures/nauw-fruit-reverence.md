@@ -7,6 +7,8 @@ related:
   - Wabet
   - Hunger
   - Two Ways
+  - Flora of Dias
+  - Lucky Fruit sharing-knife
 themes:
   - fruit devotion
   - banana primacy
@@ -36,6 +38,16 @@ Public markets, household meals, and social rituals often center fruit priority,
 Nauw does not significantly grow its own fruit supply at scale. Most fruit consumed in Nauw is sourced from Wabet, whose ecology supports broader fruit growth potential.
 
 Reports of Lucky Fruits are most often tied to Wabet-origin shipments and are treated as culturally credible but scientifically unresolved.
+
+Named flora that feed this culture—and **145+** other key plants across Dias—are indexed in [`Flora of Dias`](../world/flora-of-dias.md).
+
+## Kindness practice
+
+Offer fruit share before coin talk; teach children Lucky Fruit restraint.
+
+## Hard edge
+
+Shame waste and mockery of fruit rank; markets can freeze out those who treat bananas as only joke fuel.
 
 ## Notes
 

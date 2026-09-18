@@ -6,6 +6,8 @@ culture:
 related:
   - F432 (frequency realm)
   - F432 Major Races Compact
+  - F432 Shared Table
+  - Peoples of Dias
   - Nauw
   - Veloria City
 themes:
@@ -31,6 +33,10 @@ Visually, many Veyrin pass as human at first glance, then show one persistent ma
 ## Beliefs About Them
 
 They are often admired, overestimated, or mistrusted depending on context; Veyrin communities emphasize that trait discipline matters more than trait spectacle.
+
+## Daily Coexistence
+
+Frequent in Veloria crafts and courier houses. A cook’s salt-memory or a courier’s pressureless balance is workplace competence, not a carnival. Asking “what’s your trick?” at a shared table is considered rude; asking “what do you do?” is fine.
 
 ## Narrative Role
 

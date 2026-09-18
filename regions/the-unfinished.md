@@ -64,6 +64,8 @@ The Unfinished represents Dias-level becoming: a place where **incompletion is n
 
 Communities here optimize for adaptation. Architecture is modular, tools are multi-state, and social authority tends to favor maintainers, revisers, and mediators over conquerors.
 
+**Lived role (F960 icon):** Draftkin and sketchline neighbors thrive; Revision Wolves frighten fixed-outline thinkers. Joy is becoming without shame; pressure is erase-and-redraw hunger. Sanctuary: Scaffold Arc maintenance culture. Danger: Erasure Verge and sky-whale staring too long.
+
 ## Stories or Depictions
 
 The region is often depicted as a map "caught mid-edit." **The Half-Made Atlas** is the primary disputed artifact linked to this region's mutable cartography.

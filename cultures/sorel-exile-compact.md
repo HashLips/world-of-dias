@@ -36,6 +36,14 @@ Pact language, masked identity signaling, camp-to-camp oath carrying, and negoti
 
 Although locally diverse, the compact is widely associated with Carrow Vale's rise and with the transformation of exile identity into shared political structure.
 
+## Kindness practice
+
+One bowl and a name before asking which crew a newcomer will owe.
+
+## Hard edge
+
+Debt memory; exile-within-exile for pact-breakers; Concord rank-dropping earns cold shoulders.
+
 ## Notes
 
 Hearthvale versions trend restorative; Driftfall versions trend volatile and opportunistic.

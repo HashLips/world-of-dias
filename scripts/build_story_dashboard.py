@@ -1002,7 +1002,6 @@ TEMPLATE = r"""<!doctype html>
         <label class="slider">Node spacing
           <input id="spacing" type="range" min="60" max="300" step="1" value="150" />
         </label>
-        <label class="toggle-row"><input type="checkbox" id="focus-toggle" /> Focus on selection</label>
         <label class="toggle-row"><input type="checkbox" id="labels-toggle" checked /> Show labels</label>
         <div class="btn-row">
           <button class="ghost-btn" id="reset-layout">Reshuffle</button>
@@ -1474,7 +1473,7 @@ svg.appendChild(graphRoot);
 const tooltip = document.getElementById('tooltip');
 const hud = document.getElementById('graph-hud');
 const selectedCats = new Set(categories);
-let focusMode = false;
+let focusMode = true; // always on — smoother selection; toggle removed from UI
 let showLabels = true;
 let spacing = 150;
 let selectedId = null;
@@ -1635,11 +1634,12 @@ function tick() {
   }
   let motion = 0;
   for (const n of nodes) {
+    // Soft center pull only — no hard wall box (wide spacing used to pack against GW×GH).
     n.vx += (GW / 2 - n.x) * 0.00012 * energy;
     n.vy += (GH / 2 - n.y) * 0.00012 * energy;
     n.vx *= 0.82; n.vy *= 0.82;
-    n.x = Math.min(GW - 20, Math.max(20, n.x + n.vx));
-    n.y = Math.min(GH - 20, Math.max(20, n.y + n.vy));
+    n.x += n.vx;
+    n.y += n.vy;
     motion += Math.abs(n.vx) + Math.abs(n.vy);
   }
   energy *= 0.992;
@@ -1769,10 +1769,6 @@ document.getElementById('cats-none').addEventListener('click', () => {
 document.getElementById('spacing').addEventListener('input', (e) => {
   spacing = Number(e.target.value);
   energy = 1.0; settled = 0;
-});
-document.getElementById('focus-toggle').addEventListener('change', (e) => {
-  focusMode = e.target.checked;
-  applyGraphFilters();
 });
 document.getElementById('labels-toggle').addEventListener('change', (e) => {
   showLabels = e.target.checked;

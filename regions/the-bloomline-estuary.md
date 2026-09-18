@@ -40,6 +40,8 @@ Boundaries should blur at edges and sharpen near convergence nodes. Label major 
 
 Skilled guides track not only direction and depth but affective pressure. Settlements form near predictable convergence zones where volatility is manageable.
 
+**Lived role (F380 icon):** Tidehearts and Moodtide company thrive; fear-weather fox hours frighten crowds. Joy is confluence holding; pressure is griefmute fronts. Sanctuary: managed convergences. Danger: fear-narrow passages and Sky-Kraken panic lore.
+
 ## Stories or Depictions
 
 Maps often annotate the same path with two recommended timings: "clear-day" and "heavy-day" transit.

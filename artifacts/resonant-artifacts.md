@@ -54,6 +54,9 @@ An object may hold an echo from a vanished civilization, retain fragments of eve
 
 Institutions fight over Resonant Artifacts because they are historical records, political leverage, sacred proofs, and practical tools at once. Classification language (House codes, Operator load discipline, Open Hand making ethics) often matters as much as the object itself.
 
+Lived tech culture (everyday → taboo): [`Technology of Dias`](../world/technology-of-dias.md). Function index (joy / danger / everyday): [`Artifacts of Dias`](../world/artifacts-of-dias.md).
+
+
 ## Usage
 
 Studied, sealed, traded, hidden, ritually approached, or left unread. Activation is rarely reliable. Misreading an artifact can be as consequential as reading it.

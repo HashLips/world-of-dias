@@ -1,0 +1,59 @@
+---
+category: culture
+name: Freebands of Sorel
+region: Sorel
+related:
+  - Organizations of Dias
+  - Sorel Exile Compact
+  - Carrow Vale
+  - Claimscar Yard
+  - Driftfall
+  - Garen Scar
+  - Vexra Coil
+  - Exile Mutual Table
+  - Politics of Dias
+themes:
+  - freebands
+  - exile politics
+  - crews
+  - autonomy
+status: canonical
+---
+
+# Freebands of Sorel
+
+## Overview
+
+**Freebands of Sorel** are the frontier political animal: crews and pacts that reject outside hierarchy while enforcing loyalty, debt memory, and survival reciprocity.
+
+## Beliefs and Values
+
+Belonging is earned. Concord rank is not currency. Freedom without contribution is tourism. Masks and pacts can liberate or institutionalize fear.
+
+## Practices and Traditions
+
+### Faction card
+
+| Field | Content |
+| --- | --- |
+| **Purpose** | Survive and self-rule after exile/displacement |
+| **Method** | Crew pacts; vent-claims; kettle payroll; Free-Captain politics; Compact norms |
+| **Public face** | Carrow Vale as First Exile seat; yard autonomy; Driftfall motion |
+| **Private fear** | Pact-break cascade; Concord re-absorption; vent seasons that starve crews |
+| **Echoes** | Witness-and-share at Salt Ledger; suspicion of House filing as theft of story |
+
+### Variants
+
+Hearthvale Freeband culture trends restorative (Secondfire). Driftfall trends volatile and opportunistic. Exile Mutual Table tries to feed across crew lines without capturing them.
+
+### Kindness practice
+
+News-bowl before paint lecture; hold breakfast across flag flips.
+
+### Hard edge
+
+Exile-within; claim fraud; mask destiny used to silence dissent.
+
+## Notes
+
+Compact: [`Sorel Exile Compact`](sorel-exile-compact.md). Hub: [`Organizations of Dias`](../world/organizations-of-dias.md).

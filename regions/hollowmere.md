@@ -14,6 +14,8 @@ related:
   - The Loft
   - The First Line That Failed
   - Boat in a Bottle
+  - Settlements of Dias
+  - Hollowmere Net-Loft Stage
 themes:
   - net sheds
   - first line answer
@@ -37,6 +39,17 @@ Hollowmere is the Outer Rim’s best-known cove town: stacked net sheds, open me
 The town climbs a northern cove in tiers. Lower slopes hold drying lines and brine barrels; mid-slopes hold family sheds; the highest net-lofts are public stages for the **First Line Answer** and storm check-ins. Visitors sleep in borrowed hammocks more often than inns. Gossip prefers rope-height to street-height.
 
 Hollowmere is sociable without being soft. Missing a check-in call during Storm Choir is a public matter. Fruit barges that brave the route are greeted like festivals—and judged like guests who might steal a line.
+
+## Settlement Card
+
+| | |
+| --- | --- |
+| **Tier** | Port / cove town |
+| **Population feel** | Cove tiers; hammocks over inns |
+| **Economy verb** | fish + line-share |
+| **Festival / joy** | Fruit-barge greetings; loft songs |
+| **Fear** | Missed storm check-in; whale ethics fights |
+| **Famous corners** | [Hollowmere Net-Loft Stage](hollowmere-net-loft-stage.md) |
 
 ## Lore
 

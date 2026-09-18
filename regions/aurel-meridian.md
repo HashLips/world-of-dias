@@ -39,6 +39,8 @@ Aurel Meridian is the region most associated with the **Aurel-kind**—beings of
 
 Scholars from calmer frequencies sometimes call Aurel Meridian a **safety of shape**: a place where the overwhelming purity of F200 becomes **legible, habitable, and social** because the long rectangle compresses the realm’s field into a navigable, repeatable form.
 
+**Lived role (F200 icon):** Aurel-kind and Soft-Ray watchers thrive; Dimming Leech talk frightens visitors. Joy is coherent light-community; pressure is tourist awe that mistakes serenity for emptiness. Sanctuary: meridian spine gatherings. Danger: fold-planes of reported dimming; disorientation under Sky-Mantas.
+
 ## Stories or Depictions
 
 Cartographers sometimes nickname the meridian **“the long peace”** because its chart outline—a rectangle inside a rectangle—resembles a **frame inside a frame**, as if the realm chose to make room for life by **drawing a hall of light** down its own length.

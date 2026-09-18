@@ -18,6 +18,9 @@ related:
   - Fruit Display
   - Landworker 1
   - Nauw Fruit Reverence
+  - Transport of Dias
+  - Fruit Road and Toll Travel
+  - Beast and Relay Transport
 themes:
   - produce routes
   - convoy ethics
@@ -39,6 +42,16 @@ The Eastbound Fruit Road is the living spine of produce moving from Wabet’s or
 ## Description
 
 Convoy stewards like **Tomas Share** time rest to fruit bruising and heat, not to clocks alone. Lucky Farmers and Verdant stewards argue at junctions about perfect-form fruit: blessing, commodity, or omen. The road brushes Brindle March’s transit discipline before Basin markets take over.
+
+## Movement Card
+
+| | |
+| --- | --- |
+| **Mode** | Braided convoy road (wagons, draft-ponies, waystations) |
+| **Pay / restore** | Reciprocity + eventual Span Toll forms |
+| **Joy beat** | Shared fruit rest; Open Hand Way teaching |
+| **Pressure beat** | Lucky Fruit convoy split; bruise-heat timing; border tension |
+| **Culture** | [Fruit Road and Toll Travel](../cultures/fruit-road-and-toll-travel.md) |
 
 *Fruit Display* and *Landworker 1* are road-culture images: beauty and labor in the same crate.
 

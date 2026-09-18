@@ -41,6 +41,8 @@ Night at Quiet Well is not mystical theater. It is the sound of people agreeing 
 
 The guiding tension: the land provides for those who respect its silence—and silence includes not publishing the well. Lucky Fruit caravans that try to shortcut through Lumira learn expensive lessons.
 
+**Story staging:** decoy oasis first; true water only after soft voices; a map that must stay wrong as moral climax. Pair with Listening Heat and Quietwell Serpent caution.
+
 ## Stories or Depictions
 
 *The Map That Must Stay Wrong* is the oral spine. *Take It Easy* is hung in shade-camps as a reminder that hurry kills wells.
@@ -48,3 +50,7 @@ The guiding tension: the land provides for those who respect its silence—and s
 ## Notes
 
 Desert saga hook independent of Verdant orchard plots and Calen’s Wabet chapter.
+
+### Secret note
+
+**Type:** kinder lie (place-scale). Accurate public cartography here is treated as theft; true path knowledge stays Keep craft. Visitors who “find” water by rumor usually found a decoy first. See [`Secrets of Dias`](../world/secrets-of-dias.md).

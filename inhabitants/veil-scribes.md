@@ -7,6 +7,9 @@ related:
   - F610 (frequency realm)
   - The Glassfold Ledge
   - The Minute of True Faces
+  - Veil Scribe Discipline
+  - Knowledge of Dias
+  - Glassfold Phase Stamp Rule
 themes:
   - timed witnessing
   - precision annotation
@@ -35,4 +38,4 @@ They support plotlines where evidence is real but fleeting.
 
 ## Notes
 
-Veil records are always phase-stamped to prevent false certainty.
+Veil records are always phase-stamped to prevent false certainty. Training culture: [`Veil Scribe Discipline`](../cultures/veil-scribe-discipline.md).

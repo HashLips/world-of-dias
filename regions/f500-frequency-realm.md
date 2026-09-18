@@ -15,6 +15,17 @@ related:
   - Partial Harmonic Index fragment
   - Ledger mention of F200 and F500
   - F500 Map
+  - Pocket Floor Mites
+  - Nullmouth Shades
+  - Forget-Texture Worms
+  - Watching Absence
+  - Unraveled Remnant-Beasts
+  - Nullband Itch-Mites
+  - Abyss Gnaw-Roaches
+  - Unraveled Pale-Hounds
+  - Voidback Leviathan-Shades
+  - F500 Horizon-Nulls
+  - Structure of Dias
 themes:
   - abyss
   - nothingness
@@ -48,6 +59,8 @@ Stories acknowledge **whispers of inhabitants in the deep absence**, but **no cu
 ## Lore
 
 F500 is the frequency most often used in moral cosmology as **“the opposite of Aurel’s peace”**—not a mirror image with tidy symmetry, but a **hungry null**: the idea that *something might still watch from nowhere*.
+
+**Structural role:** F500 is the **null pole** of the known stack—see [`Structure of Dias`](../world/structure-of-dias.md).
 
 Diplomatic and scholarly records across F432 rarely treat F500 as a place to **visit**; it is a place to **name carefully**, map minimally, and avoid conflating with ordinary night or ordinary shadow.
 

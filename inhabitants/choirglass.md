@@ -6,6 +6,8 @@ culture:
 related:
   - F432 (frequency realm)
   - F432 Major Races Compact
+  - F432 Shared Table
+  - Peoples of Dias
   - Nauw
   - Veloria City
 themes:
@@ -31,6 +33,10 @@ Choirglass bodies are typically translucent or semi-translucent, built from face
 ## Beliefs About Them
 
 Some communities view Choirglass as serene adjudicators; others find them difficult to interpret when expecting single-channel speech norms.
+
+## Daily Coexistence
+
+Frequent in mediation rooms, song docks, and Veloria translation desks. Tone-meals pace chewing to soft harmonics. Outer Rim song-crews often mix Choirglass with human and Palewind hands. They are neighbors who happen to speak in light—not default oracles.
 
 ## Narrative Role
 

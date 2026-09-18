@@ -37,6 +37,41 @@ related:
   - Calibration Row
   - Span Toll
   - Eastbound Fruit Road
+  - Softlane Hares
+  - Banner Moths
+  - Ringroad Dogs
+  - Gilding Bees
+  - Fruitrail Foxes
+  - Brindle Still-Stags
+  - Sketchshade Cats
+  - Tollspine Lizards
+  - Hollowmere Latch-Otters
+  - Tubehold Rust-Rats
+  - Market Grin-Pigs
+  - Gatewarden Rams
+  - Nightledger Owls
+  - Redmile Striders
+  - Mega Butterfly
+  - Human-Eyed Whales
+  - Glasswater Mirror-Koi
+  - Averra Ink-Deer
+  - Ledger Dust-Fleas
+  - Fruit-Road Draft-Ponies
+  - Nauw Ring-Ox Draughts
+  - Veloria Festival Sky-Whales
+  - Outer Rim Keel-Sharks
+  - Outer Rim Deep-Keels
+  - Glasswater Sky-Turtles
+  - Nauw Basin Oxen
+  - Deb Gate Watch-Geese
+  - Climates of Dias
+  - Bleed-Sky Weather
+  - Velorian Basin gilding hour
+  - Brindle March stillness
+  - Landmarks of Dias
+  - Flora of Dias
+  - Architecture of Dias
+  - Nauw Layered Civic Architecture
 themes:
   - trade routes
   - diversity of peoples
@@ -58,9 +93,44 @@ Nauw lies in the north-eastern portion of the F432 frequency realm and is one of
 
 Nauw sits directly north of Sorel and east of Wabet. The lands of Nauw include fertile valleys, cultivated fields, trade roads, and expanding settlements. Travelers moving through the region encounter a wide variety of inhabitants, some of whom resemble ordinary humans while others possess unusual or simplified forms. Certain individuals appear almost like living drawings, their bodies resembling flat or stylized shapes rather than fully dimensional forms. Despite their appearance, these beings live and interact with others much like any other inhabitants of the region.
 
+**Sensory:** cart wheels on packed berm, banana-sweet market air, Basin mist turning gold at day’s end, salt on Outer Rim wind, ink and warm metal in Tubehold, glass-bright river light in the east. Voices overlap in a dozen body-shapes arguing prices as if they were neighbors—which they are.
+
+**Climate:** temperate trade weather—orchard humidity, Basin mist, soft rains, Outer Rim salt air. Signature gifts include **gilding hour** light and road **stillness**; rare **Bleed-Sky** nights remind markets the wider stack can bruise the blue. See [`Climates of Dias`](../world/climates-of-dias.md).
+
 Nauw has gradually become known as a place where many different peoples and cultures intersect. Trade routes cross the region, and its cities often serve as gathering places for travelers from across the wider frequency realm. Because of its position between the western wilderness of Wabet and the more unpredictable lands of Sorel to the south, Nauw often acts as a bridge between very different ways of life within F432.
 
 A defining regional trait is intense fruit devotion. While many dishes are made from varied ingredients, fruit is widely treated as the highest food class, and bananas are regarded as supreme.
+
+**Who thrives:** traders, stewards, ring clerks, orchard haulers, Singing Fishermen, gallery people, anyone who likes a table with strangers.  
+**Who fears it:** exiles facing the southern gate; loners on thin roads at dusk (**Redmile Striders**); sailors who know fog can sing with teeth.
+
+**Joy:** shared market laughter, gilding hour pauses, first fruit arrival, ring-fair lights, the feeling that difference is ordinary.  
+**Pressure:** Concord judgment, fruit dependence on Wabet, echo-rise talk seasons, the moral weight of who gets sent south.
+
+### Politics
+
+Civic/gate weather: Concord + Ring Protocol + House classification shadow. Soft venues: DEB Gate, Softfruit Hall, Span Toll, clerk stamps. Exit valve: Long Gate. Org: [`Nauw Concord`](../cultures/nauw-concord.md). Overview: [`Politics of Dias`](../world/politics-of-dias.md) · [`Regional Power Weathers`](../cultures/regional-power-weathers.md).
+
+### History
+
+Civic memory: rings, gates, Long Gate argument, fruit dependence, echo-rise seasons. Full: [`Nauw Civic Memory`](../cultures/nauw-civic-memory.md). Hub: [`History of Dias`](../world/history-of-dias.md).
+
+### Architecture
+
+Nauw builds in **layers and thresholds**: ring-stepped Veloria (stone markets → ordinary housing → tech sheds → sealed core glow), monumental gates that measure entry, and coastal towns stacked by height (Hollowmere net-lofts, Rim-Rest raft-piers). Full dialect: [`Nauw Layered Civic Architecture`](../cultures/nauw-layered-civic-architecture.md). Index: [`Architecture of Dias`](../world/architecture-of-dias.md).
+
+### Sanctuary zones
+
+- **Velorian Basin** interiors and kind ring-fair plazas (crowded safety).
+- **Glasswater Fields** calm waters and lull days (restful, watchful).
+- **Averra Isle** studio edges (for those invited into craft quiet).
+
+### Danger zones
+
+- Lonely **Eastbound / scrub stretches** after dark (Striders, bad luck, worse decisions).
+- **Outer Rim** fog banks and keel-shark lanes.
+- **Long Gate / southern bridge approaches** when arguments and exile traffic peak.
+- **Tubehold** undercrofts for the unprepared (not evil—industrial teeth).
 
 ## Lore
 
@@ -69,6 +139,10 @@ Veloria City, the capital, sits in the north-west of Nauw; the Velorian Basin su
 The top-western to northern outer waters are recognized as the Nauw Outer Rim Seas, where Singing Fishermen communities and human-eyed whale populations are concentrated. Despite this agricultural appetite, Nauw relies heavily on fruit imported from Wabet rather than large-scale local fruit production.
 
 On southern Nauw, a major bridge crosses the border into northern Sorel (Hearthvale), linking Nauw to the exile frontier at Sorel's northern reach. Many who later live in Sorel are counted as having left Nauw by that road or by wilder southern paths.
+
+Nauw is the **country of the crowded heart**—wonderful to live in if you can afford belonging; sharp if the Concord decides you cannot.
+
+Heart triad with Wabet (chosen calm) and Sorel (second beginning): see also [`Structure of Dias`](../world/structure-of-dias.md) and [`Climates of Dias`](../world/climates-of-dias.md).
 
 ### Leadership Structure
 
@@ -82,3 +156,4 @@ On southern Nauw, a major bridge crosses the border into northern Sorel (Hearthv
 
 ## Notes
 
+Country-of-the-heart test: if a scene could be “generic fantasy market,” add fruit rank, stylized neighbors, or a gate that remembers.

@@ -47,6 +47,8 @@ That rock is the reason the place stays named in talk. For years it has been **D
 
 The full name is older than Delci's routine. Shore memory holds that crews once climbed here to settle deals they wanted to keep **clean**: goods counted in daylight, prices spoken where the view made small lies feel foolish. "Majestic" stuck for the look of the water from the rock; "Good Trade" stuck for the custom. See [`stories/why-they-call-it-good-trade.md`](../stories/why-they-call-it-good-trade.md).
 
+**Story staging:** climb for a clean bargain; Delci’s still hours; a lie that feels foolish in daylight. Pair with Salt Ledger workdays and Sprout Vent glow on the other shoulder of Driftfall.
+
 ### Leadership Structure
 
 | Governance Style | Influence Tier | Governing Group | Leadership Seat |

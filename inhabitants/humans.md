@@ -6,6 +6,8 @@ culture:
 related:
   - F432 (frequency realm)
   - F432 Major Races Compact
+  - F432 Shared Table
+  - Peoples of Dias
   - Nauw
   - Wabet
   - Sorel
@@ -32,6 +34,10 @@ Typical appearance shows wide variation in hair texture, facial structure, heigh
 ## Beliefs About Them
 
 Other groups often describe humans as adaptable generalists: quick to form civic systems, quick to disagree internally, and quick to rebuild after disruption.
+
+## Daily Coexistence
+
+Often run street kitchens, courier desks, and loud dock arguments. Good at forming clubs; bad at assuming their speech pace is universal. Share tables easily; learn silence in Wabet the hard way.
 
 ## Narrative Role
 

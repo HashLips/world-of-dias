@@ -5,6 +5,8 @@ related:
   - Dias
   - Everything resonates echo principle
   - Frequency as fundamental law
+  - Cosmology of Dias
+  - Resonance behavior soft limits
   - The Fracture
   - The Prime Realm
   - Resonant Houses
@@ -12,6 +14,7 @@ related:
   - Harmonic Echo-Rise
   - Black Hole
   - Unseen
+  - Mysteries of Dias
 themes:
   - open mystery
   - absence

@@ -43,6 +43,14 @@ Apprenticeship includes "clean undo" training: how to reverse a harmful change w
 
 The culture is often summarized with a phrase repeated across F960 workshops and forums: **open hand, steady line**.
 
+## Kindness practice
+
+Teach clean undo; leave revision bands so the next maker inherits process, not only surface.
+
+## Hard edge
+
+Refuse sealed “perfection” that hides harm; call out attribution theft in the commons.
+
 ## Notes
 
 In Dias comparisons, this culture is frequently contrasted with F500's null pressure and F200's coherence ideals.

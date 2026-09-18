@@ -34,6 +34,9 @@ related:
   - Lira Pot
   - Dox Khar
   - Pot Signal Customs
+  - Settlements of Dias
+  - Ringwash Baths
+  - Softfruit Table Hall
 themes:
   - capital
   - concentric city
@@ -67,6 +70,21 @@ At the heart of the circle lies a **small but extraordinarily powerful** zone of
 Veloria remains an important center of trade and exchange, with merchants, travelers, and explorers from across the region still gathering here—now understood against this **layered**, ring-by-ring geography rather than as a uniformly medieval place.
 
 Above the city, the phenomenon of the **Sky Drifters** still sets Veloria apart from other settlements in Nauw. Floating high in the sky are mysterious, vaguely humanoid shapes that drift in groups or clusters, never landing. Some residents see them as silent watchers; others suspect an overlap between frequencies in Dias. They remain a defining feature of Veloria’s sky.
+
+## Settlement Card
+
+| | |
+| --- | --- |
+| **Tier** | Capital / hub |
+| **Population feel** | Rings of strangers who still share streets |
+| **Economy verb** | trade + power the realm |
+| **Festival / joy** | Ring-fair weeks; Banner Moths; Softfruit evenings |
+| **Fear** | Core opacity to outer rings; redmile roads out |
+| **Famous corners** | [Ringwash Baths](ringwash-baths.md), [Softfruit Table Hall](softfruit-table-hall.md), Pot Signal Lane, DEB Gate |
+
+A lived week: market morning, baths midday, table supper, Sky Drifter watch at dusk.
+
+Full building dialect: [`Nauw Layered Civic Architecture`](../cultures/nauw-layered-civic-architecture.md). Uncanny corner: [`The Sketchy Gallery`](the-sketchy-gallery.md).
 
 ## Lore
 

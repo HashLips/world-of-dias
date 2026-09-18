@@ -6,6 +6,8 @@ culture:
 related:
   - F432 (frequency realm)
   - F432 Major Races Compact
+  - F432 Shared Table
+  - Peoples of Dias
   - Wabet
   - Sorel
 themes:
@@ -31,6 +33,10 @@ They are often broad-framed with dense limb structure, mineral-like skin pattern
 ## Beliefs About Them
 
 They are widely associated with reliability and blunt pragmatism, though this stereotype often ignores their artistic and ceremonial traditions.
+
+## Daily Coexistence
+
+Common at bridges, kilns, and long repairs; also street kitchens where heat and grit favor dense hands. Soft-step training in Lumira is taught as craft, not apology. Ask about their art before assuming they only lift stone.
 
 ## Narrative Role
 

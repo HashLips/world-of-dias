@@ -155,6 +155,10 @@ frequencies:
         x: 24
         y: 44
         kind: place
+      - entry: Fellgrove
+        x: 25.5
+        y: 45.5
+        kind: landmark
       - entry: Aelwyn Canopy
         x: 20
         y: 22
@@ -166,6 +170,10 @@ frequencies:
       - entry: Stillhollow
         x: 17
         y: 27
+        kind: landmark
+      - entry: Westfold Toll
+        x: 40
+        y: 50
         kind: landmark
       - entry: That Forest
         x: 26
@@ -273,6 +281,30 @@ frequencies:
         x: 17.5
         y: 27.5
         kind: inhabitant
+      - entry: Frederick Lumens
+        x: 25.8
+        y: 45.8
+        kind: inhabitant
+      - entry: Bram Orlen
+        x: 26.4
+        y: 46.4
+        kind: inhabitant
+      - entry: Jorin Fell
+        x: 25.2
+        y: 44.8
+        kind: inhabitant
+      - entry: Lira Vesk
+        x: 42
+        y: 51
+        kind: inhabitant
+      - entry: Perrin Cale
+        x: 58.8
+        y: 60.5
+        kind: inhabitant
+      - entry: Dren Holk
+        x: 75.5
+        y: 71.5
+        kind: inhabitant
       - entry: Jessa Quill
         x: 70.5
         y: 13.5
@@ -342,6 +374,26 @@ frequencies:
       - entry: The Perfect Fruit That Split a Convoy
         x: 37
         y: 41
+        kind: story
+      - entry: Roadglow on the Approach
+        x: 54
+        y: 29
+        kind: story
+      - entry: The Gift He Would Not Take
+        x: 74
+        y: 71
+        kind: story
+      - entry: Skipped Water
+        x: 41
+        y: 50.5
+        kind: story
+      - entry: Come Into Stillhollow
+        x: 16.5
+        y: 27.8
+        kind: story
+      - entry: No More Apples
+        x: 26
+        y: 45
         kind: story
       - entry: The Child Who Inherited a Tube
         x: 69

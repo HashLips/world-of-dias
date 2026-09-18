@@ -7,6 +7,8 @@ related:
   - Dias
   - Frequency as fundamental law
   - Frequency Zero
+  - Cosmology of Dias
+  - Resonance behavior soft limits
   - Harmonic Echo-Rise
   - Resonant Artifacts
   - Resonant Shards

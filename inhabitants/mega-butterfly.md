@@ -8,11 +8,15 @@ related:
   - Averra Isle
   - Glasswater Fields
   - Between Two Places
+  - The Carrying Wings of Nauw
+  - Creatures of Dias
+  - Animals of Dias
 themes:
   - annual migration
   - giant winged creature
   - cautionary encounters
   - seasonal cycle
+  - wonder icon
 status: canonical
 nature: creature
 ---
@@ -29,15 +33,21 @@ Most butterflies in Nauw are small and harmless, but Mega Butterflies are report
 
 Their migration begins around Averra Isle, where they are believed to emerge, then continues eastward across Nauw until they reach Glasswater Fields. In that calmer region, they spend time around clean freshwater before the cycle resets.
 
+Wing-shadow on harvest roads can cool a whole cart-train for a breath. Up close the air smells of warm dust and bruised citrus from fruit knocked loose by downdraft.
+
 ## Beliefs About Them
 
 Communities treat Mega Butterfly season with caution. While most sightings are distant and non-violent, recurring reports claim some inhabitants have been lifted and carried across parts of Nauw by passing Mega Butterflies.
 
-Because of these incidents, families and travelers are warned not to remain in open exposed routes during migration windows.
+Because of these incidents, families and travelers are warned not to remain in open exposed routes during migration windows. The carrying stories are kept alive in [The Carrying Wings of Nauw](../myths/the-carrying-wings-of-nauw.md).
+
+## Cultural Touchstone
+
+Nauw’s signature wonder: people plan calendars around hope of a distant silhouette and fear of an open-road lift. Children learn to clap once for luck when a wing-shadow crosses the yard—then get indoors.
 
 ## Narrative Role
 
-Mega Butterflies represent one of Nauw's most dramatic seasonal movements: beautiful, awe-inducing, and potentially dangerous to anyone caught in their flight path.
+Mega Butterflies represent one of Nauw's most dramatic seasonal movements: beautiful, awe-inducing, and potentially dangerous to anyone caught in their flight path. Classed as **wonder** (primary) and **hazard** (secondary) in [Creatures of Dias](../world/creatures-of-dias.md).
 
 ## Notes
 

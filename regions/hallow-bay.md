@@ -14,6 +14,8 @@ related:
   - Coral Strand
   - Elder Shelf
   - Calm 1
+  - Settlements of Dias
+  - Bay-Ribbon Guest Hall
 themes:
   - arrival cove
   - watch house
@@ -37,6 +39,22 @@ Hallow Bay is Calareth’s main sheltered cove and usual arrival point: a low Wa
 Dories painted moss green rest above the high-tide line. The bay looks “hollowed by habit,” not by industry. **Yara Moss**, a junior Watch runner under Isle Warden Coris Vale, posts safe-passage slates and walks new arrivals through ribbon rules without softening them.
 
 Ferries are infrequent. Most traffic is intentional: healers, students of restraint, families seeking a week without a clock.
+
+**Sensory:** moss-green paint, ribbon blue on the Rope Tree, gull thread-theft, lantern-fish gold at night along Coral Strand approaches.  
+**Who thrives / fears:** the restrained and the resting thrive; movers of stone/story without assent fear (correctly) the island’s judgment.  
+**Joy / pressure:** arrival calm and promise ritual / few beds, many rules, infrequent ferries.  
+**Sanctuary:** bay, guest hall, Rope Tree rite. **Danger:** not monsters—belonging revoked for broken ribbon law; Elder Shelf for the unprepared climber.
+
+## Settlement Card
+
+| | |
+| --- | --- |
+| **Tier** | Sanctuary port |
+| **Population feel** | Few guests; intentional arrivals |
+| **Economy verb** | rest + Watch assent |
+| **Festival / joy** | Ribbon rite; Coral Strand approaches |
+| **Fear** | Belonging revoked |
+| **Famous corners** | Rope Tree; [Bay-Ribbon Guest Hall](bay-ribbon-guest-hall.md) |
 
 ## Lore
 

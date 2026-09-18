@@ -6,6 +6,8 @@ culture:
 related:
   - F432 (frequency realm)
   - F432 Major Races Compact
+  - F432 Shared Table
+  - Peoples of Dias
   - Wabet
   - Nauw
 themes:
@@ -31,6 +33,10 @@ Most Lineborn present as narrow profiles with calligraphic edges, high-contrast 
 ## Beliefs About Them
 
 Outsiders sometimes mistake Lineborn for illusions; local records classify them as fully material within their own interaction rules.
+
+## Daily Coexistence
+
+Strong in copy houses, map rooms, and quiet trails. Prefer foods that read in profile. Witness-seat prejudice (“not fully there”) is a known civic stain—good halls seat them front-facing and listen.
 
 ## Narrative Role
 

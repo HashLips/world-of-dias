@@ -22,6 +22,16 @@ related:
   - Partial Harmonic Index fragment
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
+  - Sketchline Foxes
+  - Wet-Paint Birds
+  - Guide-Mark Beetles
+  - Half-Made Deer
+  - Revision Wolves
+  - Unfinished Eraser-Mites
+  - Draftkin Sketch-Wasps
+  - Unfinished Ink-Foxes
+  - F960 Scaffold-Elk
+  - Revision Sky-Whales
 themes:
   - becoming
   - incompletion

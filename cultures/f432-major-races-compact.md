@@ -11,6 +11,8 @@ related:
   - Kharad
   - Choirglass
   - Palewind Swarms
+  - Peoples of Dias
+  - F432 Shared Table
   - Nauw
   - Wabet
   - Sorel
@@ -44,4 +46,4 @@ Other frequencies host races not yet fully documented in this repository. F432 i
 
 ## Notes
 
-Use this entry as a hub reference when introducing new race-focused inhabitants, stories, or migration events in F432.
+Use this entry as a hub reference when introducing new race-focused inhabitants, stories, or migration events in F432. Personhood spectrum: [`Peoples of Dias`](../world/peoples-of-dias.md). Daily coexistence: [`F432 Shared Table`](f432-shared-table.md).

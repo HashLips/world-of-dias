@@ -13,6 +13,7 @@ related:
   - The Kiln Fires of Second Beginning
   - Alwen Rusk
   - Hearth Laughter Week
+  - Settlements of Dias
 themes:
   - kiln town
   - second chances
@@ -36,6 +37,17 @@ Secondfire is a Hearthvale kiln town where displaced people remake tools, plates
 Workshop courtyards, slate boards of names-in-progress, laughter week banners stored between seasons. **Hanna Kiln** runs a teaching fire that accepts Nauw shame-cases and Sorel born-tired alike—unless someone refuses the Compact’s second beginning entirely.
 
 Alwen Rusk’s stewardship is felt as supply routes and quiet inspections, not sermons.
+
+## Settlement Card
+
+| | |
+| --- | --- |
+| **Tier** | Rebuild town |
+| **Population feel** | Displaced makers remaking tools and selves |
+| **Economy verb** | kiln + teach |
+| **Festival / joy** | Hearth Laughter Week |
+| **Fear** | Refusal of remaking; stories told as entertainment |
+| **Famous corners** | Hanna Kiln’s teaching fire courtyards |
 
 ## Lore
 

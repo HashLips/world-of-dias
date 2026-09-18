@@ -42,10 +42,19 @@ related:
   - Everything resonates echo principle
   - Frequency as fundamental law
   - Frequency Zero
+  - Cosmology of Dias
+  - Resonance behavior soft limits
+  - Structure of Dias
   - Resonant Artifacts
   - Resonant Shards
   - Echoforms
   - Echo interpretation stances
+  - Climates of Dias
+  - Landmarks of Dias
+  - Flora of Dias
+  - Animals of Dias
+  - Relationships of Dias
+  - Stage Readiness of Dias
 themes:
   - frequency
   - layered reality
@@ -84,6 +93,20 @@ Across the Frequencies, scattered ruins and **Prime Relics** hint that parts of 
 Alongside weightier tales, F432 in particular also carries **small, happy patterns**—shared sunlight myths, market laughter, and road gratitude—treated as part of the **same** Dias, not a separate “soft AU.”
 
 **World identity:** Dias is governed by a simple foundational principle—**everything resonates; everything leaves an echo**—developed in [`CORE-PILLARS.md`](../CORE-PILLARS.md) and the linked rules. New lore should extend and categorize under that principle rather than invent a separate metaphysics.
+
+**Cosmology orientation:** for law vs theory vs taboo guess, soft limits, and planted unsettled pressures, see [`Cosmology of Dias`](cosmology-of-dias.md).
+
+**Structure orientation:** for realm roles, awareness channels, travel rarity, and structural anomalies, see [`Structure of Dias`](structure-of-dias.md).
+
+**Climate orientation:** for baselines, signature anomalies, and named weather, see [`Climates of Dias`](climates-of-dias.md).
+
+**Landmark orientation:** for sacred/useful/feared/disputed bones and story staging webs, see [`Landmarks of Dias`](landmarks-of-dias.md).
+
+**Flora orientation:** for named plants by biome (kitchen to unsettled), see [`Flora of Dias`](flora-of-dias.md).
+
+**Animals orientation:** for companions, work beasts, pests, and gentle wilds, see [`Animals of Dias`](animals-of-dias.md).
+
+**Relationship / stage orientation:** for hub webs and what journeys may touch, see [`Relationships of Dias`](relationships-of-dias.md) and [`Stage Readiness of Dias`](stage-readiness-of-dias.md).
 
 Across different cultures and realms, many myths attempt to explain the Fracture. Some claim it was a natural cosmic event; others blame a forgotten civilization, betrayal, war, or a resonance threshold the Prime Realm could not contain. Other tales widen the frame further—**The Census Echoes of the Prime Mark** imagines a pre-Fracture **tally of resonance and category** (in those tellings, about **reality’s harmonics**, not the counting of people as chattel), and even stable, trade-heavy F432 sometimes records strange **road-scale pauses** (see **Brindle March stillness**) that feel, to some, like an echo of that older order reasserting a rhythm.
 

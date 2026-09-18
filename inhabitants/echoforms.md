@@ -13,6 +13,8 @@ related:
   - Figure Mountain
   - Nested Shadow Mismatch
   - The Blue Litter Husk
+  - Road-Between Echo-Hounds
+  - Peoples of Dias
 themes:
   - accumulated resonance
   - living memory
@@ -66,5 +68,7 @@ Echoforms let Dias grow a creature ecology that stays tied to echo, frequency, a
 ## Notes
 
 **Pillar exemplar (named Echoform):** [`inhabitants/the-blue-litter-husk.md`](the-blue-litter-husk.md).
+
+Personhood is case-by-case—see [`Peoples of Dias`](../world/peoples-of-dias.md). Echoforms are not monsters by default.
 
 Add further individual Echoform inhabitant entries when stories or artworks require them. Class definition remains here.

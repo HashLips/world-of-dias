@@ -15,6 +15,17 @@ related:
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
   - F380 Map
+  - Bloomline Heart-Deer
+  - Rainname Butterflies
+  - Moodtide Otters
+  - Griefmute Cranes
+  - Fear-Narrow Foxes
+  - Converse Heads
+  - Bloomline Mood-Fleas
+  - Estuary Joy-Bees
+  - Hearttide River-Horses
+  - F380 Grief-Mammoths
+  - Fearfront Sky-Kraken
 themes:
   - emotional climate
   - bloom states

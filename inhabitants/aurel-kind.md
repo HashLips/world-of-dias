@@ -8,6 +8,8 @@ related:
   - Aurel Meridian
   - Dias
   - F200 Map
+  - Peoples of Dias
+  - F432 Shared Table
 themes:
   - energy life
   - peace
@@ -38,9 +40,13 @@ This record does not yet specify governments, rites, or true population counts; 
 
 Outsiders sometimes mythologize the Aurel-kind as **saints of frequency**; others as **alien harmonics** that only mimic personhood. Neither claim is established.
 
+## Daily Coexistence (when visiting F432)
+
+Rare guests more often than settlers. Shared Table etiquette: ask their name before their frequency. Do not touch a corona without invitation; brightness shifts are speech.
+
 ## Narrative Role
 
-Aurel-kind function as a **lived proof** that Dias supports **ecologies of light** and **high-coherence personhood** outside material biology.
+Aurel-kind function as a **lived proof** that Dias supports **ecologies of light** and **high-coherence personhood** outside material biology. Banded as **energy-kind** in [`Peoples of Dias`](../world/peoples-of-dias.md).
 
 ## Notes
 

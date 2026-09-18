@@ -26,6 +26,8 @@ related:
   - Frederick Lumens
   - The Lumen Saga
   - Roadglow Shard
+  - Settlements of Dias
+  - Claimscar Cookfire Circle
 themes:
   - improvised settlements
   - personal autonomy
@@ -59,6 +61,19 @@ Daily life leans wilder than in western Sorel. Mainlanders compare it to a Wild 
 Along the eastern shores, a Baltic-leaning coastal culture tempers that edge with a distinct laid-back rhythm. People gather, lounge, play, and "hang about" with no urgency to force a day into productivity, even while an underlying sense of danger never fully leaves the atmosphere.
 
 On the southeastern flank, inland from those beaches, **Sprout Vent** rises: a modest active volcano that still dominates local ground. Its cluster of sprouting points and rare **vent-sprout spread** (daughter vents where magma lands) make the southeastern approach one of Driftfall's most watched—and most argued-about—landmarks.
+
+## Settlement Card
+
+| | |
+| --- | --- |
+| **Tier** | Frontier territory (contains yards like Claimscar) |
+| **Population feel** | Fluid crews; Baltic hang-about on the shore |
+| **Economy verb** | claim + move |
+| **Festival / joy** | Beach idle days; Good Trade still hours inland |
+| **Fear** | Vent nights; captainless hours; double-painted claims |
+| **Famous corners** | Sprout Vent approaches; Mountain of Majestic Good Trade; [Claimscar Cookfire Circle](claimscar-cookfire-circle.md) |
+
+A hard week: stake a mark, share one kettle, sleep light, argue a sprout window.
 
 ## Lore
 

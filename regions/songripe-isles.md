@@ -34,6 +34,12 @@ Songripe Isles are the scattered western coastal islet chains of Wabet where fru
 
 Small beaches, rope bridges, bird-loud mornings. **Soen Tide** keeps song-calendars that replace harvest calendars. A resonance pocket makes orchard logic fail and musical logic thrive—locals call it mercy; mainland traders call it inconvenience.
 
+**Sensory:** Tide-Bird racket, rope-salt hands, forever-green orchards, slug trails that squeak under boots, songs that schedule the day better than clocks.
+
+**Who thrives / fears:** Tide-song cousins thrive; harvest accountants fear the inconvenience.  
+**Joy / pressure:** Companionship and isle humor (*Meet My Bird*) / mainland pressure to ripen what refuses.  
+**Sanctuary:** beaches and bridge eaves under song custom. **Danger:** sea weather and outsider harvest greed—not wolves of the canopy, but wrong calendars with boats.
+
 *Meet My Bird* and *Blue Banana* are isle humor about companions and unripe jokes.
 
 ## Lore

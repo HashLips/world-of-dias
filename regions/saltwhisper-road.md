@@ -12,6 +12,8 @@ related:
   - Keth Dunewalk
   - Lumira Silence Law
   - Road To
+  - Transport of Dias
+  - Desert Silence Routes
 themes:
   - dune road
   - restricted routes
@@ -33,6 +35,16 @@ Saltwhisper Road is the main restricted dune route across Lumira Sands—less a 
 ## Description
 
 The road appears and vanishes with dune creep. Official markers are sparse on purpose. Caravans without Silent Dune Keep assent are turned, taxed in labor, or left to their own wrong maps.
+
+## Movement Card
+
+| | |
+| --- | --- |
+| **Mode** | Restricted dune permission-route |
+| **Pay** | Keep assent; labor-tax if loud/unapproved |
+| **Joy beat** | Quiet guidance; path-only gift |
+| **Pressure beat** | Mirage shortcuts; pale-rope noise; Nauw money vs ethics |
+| **Culture** | [Desert Silence Routes](../cultures/desert-silence-routes.md) |
 
 *Road To* captures the long pale monotony that makes people invent shortcuts.
 

@@ -36,6 +36,8 @@ Children sometimes add a second ribbon “for the sea.” Coris does not discour
 
 The tree is ceremony that behaves like a contract. Saga fuel: a ribbon cut, a stone moved, a week without clocks that suddenly needs clocks again.
 
+**Story staging:** first landing day; ribbon count overnight; a visitor who ties honestly vs one who performs. Pair with Hallow Bay arrival weather and Coral Strand night light.
+
 ## Stories or Depictions
 
 ## Notes

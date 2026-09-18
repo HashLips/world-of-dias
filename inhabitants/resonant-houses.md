@@ -67,4 +67,4 @@ The Resonant Houses embody **grand, structured power** in the saga: the weight o
 
 Not every house is named in current canon. Future entries may add individual houses when artworks or stories require them.
 
-**Pillar exemplar (Factions):** file-and-stabilize worldview—echoes as something to classify before the realm panics. Stance map: [`cultures/echo-interpretation-stances.md`](../cultures/echo-interpretation-stances.md).
+**Pillar exemplar (Factions):** file-and-stabilize worldview—echoes as something to classify before the realm panics. Stance map: [`cultures/echo-interpretation-stances.md`](../cultures/echo-interpretation-stances.md). Faction card: [`cultures/resonant-houses-faction-card.md`](../cultures/resonant-houses-faction-card.md). Org hub: [`Organizations of Dias`](../world/organizations-of-dias.md).

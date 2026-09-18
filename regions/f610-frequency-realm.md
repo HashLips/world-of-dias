@@ -17,6 +17,16 @@ related:
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
   - F610 Map
+  - Reveal-Pane Moths
+  - Glassfold Ledge Foxes
+  - Trueface Owls
+  - Opacity Serpents
+  - Brief-Truth Stags
+  - Ledge Pane-Fleas
+  - Reveal Veil Lacewings
+  - Glassfold Mirror-Lynx
+  - Truthwindow Elk
+  - Opacity Vein-Kraken
 themes:
   - revelation
   - hidden structure

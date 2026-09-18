@@ -13,6 +13,8 @@ related:
   - Hungry Dogs
   - Vexra Coil
   - Freebands of Sorel
+  - Settlements of Dias
+  - Claimscar Cookfire Circle
 themes:
   - outlaw yards
   - vent sprout claims
@@ -36,6 +38,17 @@ Claimscar Yard is an inland Driftfall crew yard where Freeband crews stake claim
 Tarps, scarred hull pieces, cookfires, and painted claim marks. **Garen Scar**, Free-Captain of the yard’s dominant crew, treats vent-sprout windows like weather wars. Vexra Coil’s wider Drift Crews politics brush the yard without owning every fire.
 
 This is not Good Trade mountain hospitality and not Delci’s dream path. It is dirt-and-rope Driftfall.
+
+## Settlement Card
+
+| | |
+| --- | --- |
+| **Tier** | Frontier yard |
+| **Population feel** | Tarps, rival marks, breakfast politics |
+| **Economy verb** | stake + salvage |
+| **Festival / joy** | Shared cookfire mornings |
+| **Fear** | Double-painted sprout nights |
+| **Famous corners** | [Claimscar Cookfire Circle](claimscar-cookfire-circle.md) |
 
 ## Lore
 

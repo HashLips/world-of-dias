@@ -10,6 +10,7 @@ related:
   - Pell Rim
   - Singing Fishermen
   - Friend 1
+  - Settlements of Dias
 themes:
   - raft living
   - gangplank gossip
@@ -33,6 +34,17 @@ Rim-Rest is a raft-and-pier cluster in a leeward Outer Rim bay. For part of the 
 Homes are part pier, part hull, part borrowed shore. Children learn to walk rope before they learn to run stone. Markets swell during Bright Inshore and thin to tea-and-repair circles in Hush Weeks.
 
 **Pell Rim** brokers news between raft rings without claiming captaincy—an informal post that can make or break a season’s trust.
+
+## Settlement Card
+
+| | |
+| --- | --- |
+| **Tier** | Port / raft town |
+| **Population feel** | Raft rings; seasonal sleep on water |
+| **Economy verb** | broker news + repair |
+| **Festival / joy** | Bright Inshore market swell |
+| **Fear** | Storm silence from a raft-ring |
+| **Famous corners** | Gangplank gossip ring |
 
 ## Lore
 
