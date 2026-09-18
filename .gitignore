@@ -5,3 +5,7 @@
 **/.DS_Store
 /ref
 .venv/
+
+# Python
+__pycache__/
+*.py[cod]
