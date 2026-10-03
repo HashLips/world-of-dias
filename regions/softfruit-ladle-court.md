@@ -12,6 +12,10 @@ related:
   - Softfruit Ladle
   - Sera Quillmend
   - Happiness Infrastructure Checklist
+  - Softfruit Second-Ladle Shelf
+  - Softfruit Ladle Queue Manners
+  - Softfruit ladle-before-stamp rule
+  - Softfruit Second-Ladle Token
 themes:
   - joy
   - civic care

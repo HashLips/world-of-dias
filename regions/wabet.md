@@ -79,6 +79,8 @@ related:
   - Architecture of Dias
   - Wabet Quiet Timber Architecture
   - Calareth Ribbon-Light Architecture
+  - Wabet Quiet Well Approach
+  - Dune-Approach Glasswort
 themes:
   - natural purity
   - serenity

@@ -26,6 +26,8 @@ related:
   - Ashen Relay Ponies
   - F840 Rebuild Aurochs
   - Hearthline Ash-Whales
+  - Kindle Spur Rest Nook
+  - Rest-Viability Hospitality
 themes:
   - recovery
   - aftermath

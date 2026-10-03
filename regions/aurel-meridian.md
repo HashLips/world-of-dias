@@ -10,6 +10,10 @@ related:
   - Aurel-kind
   - Dias
   - F200 Map
+  - Soft-Ray Procession Hall
+  - Meridian Soft Gathering Manners
+  - Meridian Quiet Rib
+  - Soft-Ray Breath Pulse
 themes:
   - corridor
   - habitation

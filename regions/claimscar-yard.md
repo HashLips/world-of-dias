@@ -15,6 +15,10 @@ related:
   - Freebands of Sorel
   - Settlements of Dias
   - Claimscar Cookfire Circle
+  - Claimscar Secondfire Ring
+  - Claimscar Vent-Claim Peg
+  - Claimscar Breakfast Caller
+  - Secondfire Claim Heat
 themes:
   - outlaw yards
   - vent sprout claims

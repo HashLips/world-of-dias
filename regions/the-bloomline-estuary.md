@@ -10,6 +10,10 @@ related:
   - Tidehearts
   - The Day the Rain Learned Names
   - F380 Map
+  - Warm Current Holding Cove
+  - Holding Cove Tone-Share Custom
+  - Hearttide Holding Cloth
+  - Warm Current Convergence Ease
 themes:
   - emotional confluence
   - gradient terrain

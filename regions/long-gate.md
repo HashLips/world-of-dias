@@ -17,6 +17,10 @@ related:
   - Transport of Dias
   - Active Conflicts of F432
   - Westfold Toll
+  - Long Gate Rest Niche
+  - Long Gate Assent Cord
+  - Gate Wind Manners
+  - Long Gate Niche Watcher
 themes:
   - border
   - exile infrastructure

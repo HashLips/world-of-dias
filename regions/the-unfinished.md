@@ -14,6 +14,10 @@ related:
   - The Half-Made Atlas
   - F960 Map
   - Dias
+  - Ghost Quarter Foundation Court
+  - Persistence Naming Custom
+  - Draft Pass Ledger
+  - Foundation Ghost Persistence
 themes:
   - mapworthy incompletion
   - adaptive terrain

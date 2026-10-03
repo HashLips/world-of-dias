@@ -32,6 +32,8 @@ related:
   - Unfinished Ink-Foxes
   - F960 Scaffold-Elk
   - Revision Sky-Whales
+  - Ghost Quarter Foundation Court
+  - Persistence Naming Custom
 themes:
   - becoming
   - incompletion

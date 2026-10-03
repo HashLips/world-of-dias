@@ -28,6 +28,7 @@ related:
   - Roadglow Shard
   - Settlements of Dias
   - Claimscar Cookfire Circle
+  - No-Captain Hour Pier
 themes:
   - improvised settlements
   - personal autonomy

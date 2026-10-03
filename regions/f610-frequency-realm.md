@@ -27,6 +27,8 @@ related:
   - Glassfold Mirror-Lynx
   - Truthwindow Elk
   - Opacity Vein-Kraken
+  - Third Window Shelf
+  - Ledge Minute Timing Guild Manners
 themes:
   - revelation
   - hidden structure

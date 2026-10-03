@@ -9,6 +9,11 @@ related:
   - Softfruit Manners Chapbook
   - F432 Shared Table
   - Measurement and Publish Ethics of Dias
+  - Softfruit Second-Ladle Shelf
+  - Softfruit Ladle Queue Manners
+  - Softfruit ladle-before-stamp rule
+  - Why the Ladle Comes Before the Stamp
+  - Dinner With You
 themes:
   - Softfruit
   - manners

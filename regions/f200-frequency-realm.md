@@ -27,6 +27,8 @@ related:
   - F200 Pillar-Stags
   - Bandwidth Sky-Mantas
   - Structure of Dias
+  - Soft-Ray Procession Hall
+  - Meridian Soft Gathering Manners
 themes:
   - light
   - serenity

@@ -26,6 +26,8 @@ related:
   - Hearttide River-Horses
   - F380 Grief-Mammoths
   - Fearfront Sky-Kraken
+  - Warm Current Holding Cove
+  - Holding Cove Tone-Share Custom
 themes:
   - emotional climate
   - bloom states

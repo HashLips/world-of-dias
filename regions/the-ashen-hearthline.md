@@ -10,6 +10,10 @@ related:
   - Ember Keepers
   - The Warmth That Stayed
   - F840 Map
+  - Kindle Spur Rest Nook
+  - Rest-Viability Hospitality
+  - Ember Quiet Bowl
+  - Kindle Spur Viable Glow
 themes:
   - shelter corridors
   - quiet recovery

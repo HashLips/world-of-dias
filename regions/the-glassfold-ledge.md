@@ -14,6 +14,10 @@ related:
   - Floating On
   - Glass Mirror
   - Eye in the Sky
+  - Third Window Shelf
+  - Reveal Window Chime
+  - Ledge Minute Timing Guild Manners
+  - Shelf-Minute Clarity
 themes:
   - reveal intervals
   - reflective terrain

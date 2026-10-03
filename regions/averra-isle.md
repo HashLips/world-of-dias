@@ -20,6 +20,13 @@ related:
   - The Two Pillars Witness
   - Blind Eyes
   - The Blind Eyes Vigil
+  - The Gray Post
+  - Crown Ash
+  - Averra Hearthline
+  - Averra Offshore Courtesy Token
+  - Gray Post Tide Permission
+  - Gray Post Wait Captains
+  - Pier Permission Still Life
 themes:
   - small isle
   - maritime mystery
