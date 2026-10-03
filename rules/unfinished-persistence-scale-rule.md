@@ -8,6 +8,7 @@ related:
   - F960 (frequency realm)
   - Draftkin
   - F960 Map
+  - F960 Map V2
   - F960 iterative manifestation rule
   - The Half-Made Atlas
 themes:

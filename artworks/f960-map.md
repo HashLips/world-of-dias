@@ -14,6 +14,7 @@ related:
   - F500 (frequency realm)
   - F432 (frequency realm)
   - Dias
+  - F960 Map V2
 themes:
   - cartography
   - iterative form
@@ -22,7 +23,7 @@ themes:
   - worldbuilding reference
 status: canonical
 medium: digital image
-edition:
+edition: v1
 year:
 based_on: F960 (frequency realm) and The Unfinished regional lore
 ---
@@ -31,7 +32,7 @@ based_on: F960 (frequency realm) and The Unfinished regional lore
 
 ## Overview
 
-*F960 Map* is the primary cartographic / infographic depiction of the **F960** unfinished band and its mappable internal region **The Unfinished**, presenting the realm as active draft-geometry rather than final terrain.
+*F960 Map* is the prior cartographic / infographic depiction of the **F960** unfinished band. The **current** chart is *F960 Map V2*.
 
 ## Description
 
@@ -41,7 +42,7 @@ Asset reference: `assets/f960-map.png`
 
 ## Real-World Role
 
-Serves as the visual standard for describing F960 and The Unfinished in story planning, map generation prompts, and presentation materials.
+Historical visual standard. Prefer [*F960 Map V2*](f960-map-v2.md) (`assets/f960-map-v2.jpg`) for current presentations.
 
 ## Lore Connection
 

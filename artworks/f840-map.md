@@ -18,6 +18,7 @@ related:
   - Dias
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
+  - F840 Map V2
 themes:
   - cartography
   - ember quiet
@@ -26,7 +27,7 @@ themes:
   - worldbuilding reference
 status: canonical
 medium: digital image
-edition:
+edition: v1
 year:
 based_on: F840 (frequency realm) and The Ashen Hearthline lore
 ---
@@ -35,7 +36,7 @@ based_on: F840 (frequency realm) and The Ashen Hearthline lore
 
 ## Overview
 
-*F840 Map* is a cartographic / infographic presentation of the **F840** Ember Quiet band: **The Ashen Hearthline** as a **core hearth spine** with **Kindle Spurs**, **Cold Gaps**, **refuge** basins, and **hearth** / **relay** symbology—**Ember Keepers** and **The Warmth That Stayed** in framing—plus **Dias** frequency context and **ledger** cross-links to the **F120 / F380 / F610 / F840** addendum.
+*F840 Map* is the prior cartographic / infographic pass of the **F840** Ember Quiet band. The **current** chart is *F840 Map V2*.
 
 ## Description
 
@@ -45,7 +46,7 @@ Asset reference: `assets/f840-map.png`
 
 ## Real-World Role
 
-Serves as the **visual standard** for F840, **The Ashen Hearthline**, and **Ember Keepers** in planning and display.
+Historical visual standard. Prefer [*F840 Map V2*](f840-map-v2.md) (`assets/f840-map-v2.jpg`) for current presentations.
 
 ## Lore Connection
 

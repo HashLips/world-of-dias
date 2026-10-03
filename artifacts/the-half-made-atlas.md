@@ -11,6 +11,7 @@ related:
   - The Last Line Never Drawn
   - Draftkin
   - F960 Map
+  - F960 Map V2
   - Dias
   - The Harmonic Saga
   - Calen Brink

@@ -13,6 +13,7 @@ related:
   - Unfinished edge drift
   - The Half-Made Atlas
   - F960 Map
+  - F960 Map V2
   - Dias
   - Ghost Quarter Foundation Court
   - Persistence Naming Custom
@@ -74,7 +75,7 @@ Communities here optimize for adaptation. Architecture is modular, tools are mul
 
 The region is often depicted as a map "caught mid-edit." **The Half-Made Atlas** is the primary disputed artifact linked to this region's mutable cartography.
 
-The **F960 Map** artwork is the primary current visualization of the region's sector layout (Scaffold Arc, Margin Flats, Revision Delta, Ghost Quarter, Erasure Verge) and pass-based scale language.
+The **F960 Map V2** artwork is the primary current visualization of the region's sector layout (Scaffold Arc, Margin Flats, Revision Delta, Ghost Quarter, Erasure Verge) and pass-based scale language; prior *F960 Map* remains in lineage.
 
 ## Notes
 

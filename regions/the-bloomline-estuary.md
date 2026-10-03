@@ -10,6 +10,7 @@ related:
   - Tidehearts
   - The Day the Rain Learned Names
   - F380 Map
+  - F380 Map V2
   - Warm Current Holding Cove
   - Holding Cove Tone-Share Custom
   - Hearttide Holding Cloth

@@ -10,6 +10,7 @@ related:
   - The Distant Companies
   - Distant lumen-abyss bleed
   - F500 Map
+  - F500 Map V2
   - Unsettled Deaths
   - Death and Legacy of Dias
 themes:

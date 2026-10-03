@@ -7,6 +7,7 @@ related:
   - Wabet
   - F432 (frequency realm)
   - F432 Map V1
+  - F432 Map V2
 themes:
   - regional cartography
   - close-up representation

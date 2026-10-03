@@ -27,6 +27,7 @@ related:
   - Palewind Swarms
   - Early F432 Survey Map
   - F432 Map V1
+  - F432 Map V2
   - Map of Nauw
   - Map of Wabet
   - Map of Sorel
@@ -40,12 +41,19 @@ related:
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
   - F200 Map
+  - F200 Map V2
   - F500 Map
+  - F500 Map V2
   - F120 Map
+  - F120 Map V2
   - F380 Map
+  - F380 Map V2
   - F610 Map
+  - F610 Map V2
   - F840 Map
+  - F840 Map V2
   - F960 Map
+  - F960 Map V2
   - The Census Echoes of the Prime Mark
   - The Long Gate Argument
   - Brindle March stillness
@@ -148,7 +156,7 @@ Other frequencies are known or suspected to host additional races not yet fully 
 
 The **Early F432 Survey Map** is treated as a canonical early-era depiction of the realm's broad layout (Wabet west, Nauw north-east, Sorel south-east), while remaining intentionally incomplete for future charting updates.
 
-*Map of Nauw*, *Map of Wabet*, and *Map of Sorel* are treated as close-up regional representations derived from established F432 geography.
+**F432 Map V2** is the current macro chart for presentation and navigation; *F432 Map V1* is the prior clarity pass. *Map of Nauw*, *Map of Wabet*, and *Map of Sorel* are close-up regional representations derived from established F432 geography.
 
 ## Notes
 

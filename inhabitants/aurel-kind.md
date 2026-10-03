@@ -8,6 +8,7 @@ related:
   - Aurel Meridian
   - Dias
   - F200 Map
+  - F200 Map V2
   - Peoples of Dias
   - F432 Shared Table
 themes:

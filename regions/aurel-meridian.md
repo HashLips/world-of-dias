@@ -10,6 +10,7 @@ related:
   - Aurel-kind
   - Dias
   - F200 Map
+  - F200 Map V2
   - Soft-Ray Procession Hall
   - Meridian Soft Gathering Manners
   - Meridian Quiet Rib

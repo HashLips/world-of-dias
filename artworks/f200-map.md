@@ -10,6 +10,7 @@ related:
   - F500 (frequency realm)
   - F432 (frequency realm)
   - Dias
+  - F200 Map V2
 themes:
   - cartography
   - high resonance
@@ -18,7 +19,7 @@ themes:
   - worldbuilding reference
 status: canonical
 medium: digital image
-edition:
+edition: v1
 year:
 based_on: F200 (frequency realm) and Aurel Meridian lore
 ---
@@ -27,7 +28,7 @@ based_on: F200 (frequency realm) and Aurel Meridian lore
 
 ## Overview
 
-*F200 Map* is a cartographic / infographic presentation of the **F200** high-luminosity frequency realm: a long **golden harmonic band** with **Aurel Meridian** as the central bright spine, set within broader **Dias** cosmology and contrast with other documented frequencies.
+*F200 Map* is the prior cartographic / infographic pass of the **F200** high-luminosity realm. The **current** chart is *F200 Map V2*.
 
 ## Description
 
@@ -37,7 +38,7 @@ Asset reference: `assets/f200-map.png`
 
 ## Real-World Role
 
-Serves as the **visual standard** for F200 geography, **Aurel Meridian** scale, and **Aurel-kind** read when building stories, art, or presentations in this repository.
+Historical visual standard. Prefer [*F200 Map V2*](f200-map-v2.md) (`assets/f200-map-v2.jpg`) for current presentations.
 
 ## Lore Connection
 

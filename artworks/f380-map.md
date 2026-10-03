@@ -16,6 +16,7 @@ related:
   - Dias
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
+  - F380 Map V2
 themes:
   - cartography
   - hearttide
@@ -24,7 +25,7 @@ themes:
   - worldbuilding reference
 status: canonical
 medium: digital image
-edition:
+edition: v1
 year:
 based_on: F380 (frequency realm) and The Bloomline Estuary lore
 ---
@@ -33,7 +34,7 @@ based_on: F380 (frequency realm) and The Bloomline Estuary lore
 
 ## Overview
 
-*F380 Map* is a cartographic / infographic presentation of the **F380** Hearttide band: **The Bloomline Estuary** as a confluence of **mood-currents** (warm, clear, heavy, bright, quiet) meeting in a **heartconfluence basin**, with **Tidehearts**-aligned tools and transit types, set in full **Dias** frequency context.
+*F380 Map* is the prior cartographic / infographic pass of the **F380** Hearttide band. The **current** chart is *F380 Map V2*.
 
 ## Description
 
@@ -43,7 +44,7 @@ Asset reference: `assets/f380-map.png`
 
 ## Real-World Role
 
-Serves as the **visual standard** for F380, **The Bloomline Estuary**, and **Tidehearts** in planning and display.
+Historical visual standard. Prefer [*F380 Map V2*](f380-map-v2.md) (`assets/f380-map-v2.jpg`) for current presentations.
 
 ## Lore Connection
 

@@ -6,6 +6,7 @@ culture:
 related:
   - F432 (frequency realm)
   - Early F432 Survey Map
+  - F432 Map V2
   - Nauw
   - Wabet
   - Sorel
@@ -25,22 +26,22 @@ based_on: Early F432 Survey Map (rough concept) and Dias-linked realm layout
 
 ## Overview
 
-*F432 Map V1* is the improved map artwork for the F432 frequency realm, created as a refined successor to the earlier rough survey concept.
+*F432 Map V1* is the colored clarity pass that succeeded the early survey concept. It remains in the map lineage; the **current** realm chart is *F432 Map V2*.
 
 ## Description
 
-This version keeps the established macro layout of F432 while presenting a cleaner, more intentional visual read of regional relationships and traversal flow. The current asset is now presented in color, improving region distinction and overall readability. It is treated as a polished cartographic artwork pass rather than a canon reset.
+This version keeps the established macro layout of F432 while presenting a cleaner, more intentional visual read of regional relationships and traversal flow. The asset is presented in color for region distinction and readability. It is treated as a polished cartographic artwork pass rather than a canon reset.
 
 Asset reference: `assets/f432-map-v1.png`.
 
 ## Real-World Role
 
-Serves as the updated visual standard for discussing F432 geography in current worldbuilding and presentation materials, with the colored pass making the map easier to parse at a glance while preserving the earlier map's value as a concept-stage baseline.
+Historical visual standard between the early survey and *F432 Map V2*. Prefer **F432 Map V2** for current geography discussions.
 
 ## Lore Connection
 
-In canon framing, the earlier map (`assets/f432-map.png`) remains the rough survey-era record, and *F432 Map V1* represents a later clarity pass by cartographic interpretation. This keeps historical continuity intact while improving readability for ongoing Dias-connected lore expansion.
+Lineage: early survey (`assets/f432-map.png`) → *F432 Map V1* (this entry) → [*F432 Map V2*](f432-map-v2.md) (`assets/f432-map-v2.jpg`).
 
 ## Notes
 
-This entry tracks the same file path (`assets/f432-map-v1.png`) after its upgrade to a colored version. Use the early survey artifact when discussing first-pass concept mapping history.
+Keep this entry for continuity. Do not delete the V1 asset when citing prior presentation materials.

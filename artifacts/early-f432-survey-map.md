@@ -9,6 +9,8 @@ related:
   - Nauw
   - Wabet
   - Sorel
+  - F432 Map V1
+  - F432 Map V2
 themes:
   - exploration
   - cartography
@@ -35,8 +37,8 @@ The map is valued less as a final authority and more as a foundational record: a
 
 ## Usage
 
-Used as an "early era" geographic reference in lore documentation; later maps may add newly charted subregions, routes, landmarks, and revised borders.
+Used as an "early era" geographic reference in lore documentation. Later clarity passes: *F432 Map V1*, then the current *F432 Map V2*.
 
 ## Notes
 
-Canon framing: this is an early depiction, not the definitive final map of F432.
+Canon framing: this is an early depiction, not the definitive final map of F432. Latest chart: [`artworks/f432-map-v2.md`](../artworks/f432-map-v2.md).

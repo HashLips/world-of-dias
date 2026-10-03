@@ -7,6 +7,7 @@ related:
   - Nauw
   - F432 (frequency realm)
   - F432 Map V1
+  - F432 Map V2
 themes:
   - regional cartography
   - close-up representation
@@ -40,4 +41,4 @@ In canon framing, this is not a new territorial revision; it is a close-up repre
 
 ## Notes
 
-Use alongside *F432 Map V1* for macro-to-regional context transitions.
+Use alongside *F432 Map V2* (current macro chart; V1 remains prior) for macro-to-regional context transitions.

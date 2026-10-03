@@ -16,6 +16,7 @@ related:
   - Dias
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
+  - F120 Map V2
 themes:
   - cartography
   - echo
@@ -24,7 +25,7 @@ themes:
   - worldbuilding reference
 status: canonical
 medium: digital image
-edition:
+edition: v1
 year:
 based_on: F120 (frequency realm) and The Returning Span lore
 ---
@@ -33,7 +34,7 @@ based_on: F120 (frequency realm) and The Returning Span lore
 
 ## Overview
 
-*F120 Map* is a cartographic / infographic presentation of the **F120** echo band: a **Dias** context panel with **The Returning Span** as the primary mappable region (three concentric **lanes**, **pattern fields**, **paired** and **mirrored** landmarks, waypoints, and **difference marks**), aligned with **Refrain Walkers** and the **Supplemental Harmonic Ledger** discovery thread.
+*F120 Map* is the prior cartographic / infographic pass of the **F120** echo band. The **current** chart is *F120 Map V2*.
 
 ## Description
 
@@ -43,7 +44,7 @@ Asset reference: `assets/f120-map.png`
 
 ## Real-World Role
 
-Serves as the **visual standard** for F120 and **The Returning Span** in story planning, presentations, and repository navigation.
+Historical visual standard. Prefer [*F120 Map V2*](f120-map-v2.md) (`assets/f120-map-v2.jpg`) for current presentations.
 
 ## Lore Connection
 

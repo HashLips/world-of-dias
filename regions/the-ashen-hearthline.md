@@ -10,6 +10,7 @@ related:
   - Ember Keepers
   - The Warmth That Stayed
   - F840 Map
+  - F840 Map V2
   - Kindle Spur Rest Nook
   - Rest-Viability Hospitality
   - Ember Quiet Bowl

@@ -21,13 +21,21 @@ related:
   - Prime Relics
   - The Prime Bridge
   - F200 Map
+  - F200 Map V2
   - F500 Map
+  - F500 Map V2
   - F120 Map
+  - F120 Map V2
   - F380 Map
+  - F380 Map V2
   - F610 Map
+  - F610 Map V2
   - F840 Map
+  - F840 Map V2
   - F960 Map
+  - F960 Map V2
   - F432 Map V1
+  - F432 Map V2
   - World of Dias Infographic
   - World of Dias Poster
   - The Census Echoes of the Prime Mark

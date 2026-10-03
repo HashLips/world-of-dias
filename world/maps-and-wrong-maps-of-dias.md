@@ -41,6 +41,8 @@ Some maps must stay wrong to keep people safe. Kind wrongness still owes later h
 | Story cousin | [The Map That Lied Kindly](../stories/the-map-that-lied-kindly.md) |
 | Beacon cost | [The Beacon That Called the Wrong Shore](../myths/the-beacon-that-called-the-wrong-shore.md); [Well-Beacon Shard](../artifacts/well-beacon-shard.md) |
 | Survey cousins | [Early F432 Survey Map](../artifacts/early-f432-survey-map.md) |
+| Current F432 chart | [F432 Map V2](../artworks/f432-map-v2.md) (latest); prior [F432 Map V1](../artworks/f432-map-v1.md) |
+| Current band charts | [F120–F960 Map V2](../artworks/f120-map-v2.md) family (latest per band); prior unversioned *F### Map* entries kept |
 
 ---
 

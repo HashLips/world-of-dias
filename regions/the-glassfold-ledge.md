@@ -10,6 +10,7 @@ related:
   - Veil Scribes
   - The Minute of True Faces
   - F610 Map
+  - F610 Map V2
   - Wall of Eyes
   - Floating On
   - Glass Mirror

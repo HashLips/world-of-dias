@@ -15,6 +15,7 @@ related:
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
   - F840 Map
+  - F840 Map V2
   - Embersleep Hounds
   - Hearthline Warm-Rats
   - Emberfile Soft-Moles
@@ -61,7 +62,7 @@ F432 storytellers invoke F840 as proof that endings and injuries are not the fin
 
 F840 depictions emphasize sheltered routes, durable materials, and quiet communal continuity rather than conflict fronts.
 
-The **F840 Map** artwork is the current visual reference for **The Ashen Hearthline** and ember/relay routing; see `assets/f840-map.png`.
+The **F840 Map V2** artwork is the current visual reference for **The Ashen Hearthline** and ember/relay routing; see `assets/f840-map-v2.jpg` (prior: *F840 Map* / `assets/f840-map.png`).
 
 ## Notes
 

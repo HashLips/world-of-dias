@@ -129,7 +129,7 @@ Act II is **tightened** around one interior turn: Calen must be **visibly change
 
 **III-D — Resolution:** Vailor distant acknowledgment — order holds, panic optional. Calen and Tamsin on workshop roof. Love affirmed quietly. Notebook line: *Same world—not the same place.*
 
-**Tag / sequel tease (~2 min):** Half-Made Atlas adds a line off-screen; Sky Drifters hold; [`F500 Map`](../artworks/f500-map.md) or [`World of Dias Infographic`](../artworks/world-of-dias-info-graphic.md) card — **one world, many frequencies**. No Fracture answer.
+**Tag / sequel tease (~2 min):** Half-Made Atlas adds a line off-screen; Sky Drifters hold; [`F500 Map`](../artworks/f500-map-v2.md) or [`World of Dias Infographic`](../artworks/world-of-dias-info-graphic.md) card — **one world, many frequencies**. No Fracture answer.
 
 ---
 
@@ -152,8 +152,8 @@ Act II is **tightened** around one interior turn: Calen must be **visibly change
 | 13 | Return: Calen changed; Tamsin notices | 2 | 4 | closed notebook, no compulsive touch |
 | 14 | Sun-sweet walk; moon-market romance | 6 | 3 | [`Big Moon`](../artworks/big-moon-tamsin-vor-portrait.md) |
 | 15 | Sky Drifter dip | 3 | 3 | [`Emergence`](../artworks/emergence.md) |
-| 16 | F200 lumen bleed; Diva glimpse | 7 | 5 | [`Diva 1`](../artworks/diva-1.md), [`F200 Map`](../artworks/f200-map.md) |
-| 17 | Atlas line discovery | 4 | 6 | [`F960 Map`](../artworks/f960-map.md) |
+| 16 | F200 lumen bleed; Diva glimpse | 7 | 5 | [`Diva 1`](../artworks/diva-1.md), [`F200 Map`](../artworks/f200-map-v2.md) |
+| 17 | Atlas line discovery | 4 | 6 | [`F960 Map`](../artworks/f960-map-v2.md) |
 | 18 | B-band event; basin witness | 10 | 7 | crowd, tea points |
 | 19 | Roof resolution; tag | 5 | 7 | core lights, [`World of Dias Poster`](../artworks/world-of-dias-poster.md) |
 

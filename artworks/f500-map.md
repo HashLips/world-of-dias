@@ -10,6 +10,7 @@ related:
   - F432 (frequency realm)
   - Dias
   - Distant lumen-abyss bleed
+  - F500 Map V2
 themes:
   - cartography
   - abyss
@@ -19,7 +20,7 @@ themes:
   - worldbuilding reference
 status: canonical
 medium: digital image
-edition:
+edition: v1
 year:
 based_on: F500 (frequency realm) and The Unraveled lore
 ---
@@ -28,7 +29,7 @@ based_on: F500 (frequency realm) and The Unraveled lore
 
 ## Overview
 
-*F500 Map* is a **void-forward** chart of the **F500** null / abyss frequency: a **warning-shaped** presentation of **unmapped place-as-absence**—swirling null field, **wrong geometry**, **stolen light**, and **The Unraveled** as **rumored** inhabitants—set against **Dias** context and **F200** contrast.
+*F500 Map* is the prior **void-forward** warning chart of the **F500** null / abyss frequency. The **current** chart is *F500 Map V2*.
 
 ## Description
 
@@ -38,7 +39,7 @@ Asset reference: `assets/f500-map.png`
 
 ## Real-World Role
 
-Serves as the **visual standard** for F500’s **feel of negation** and for story or presentation beats that need a **legible “abyss map”** without claiming stable geography in the same way as F432’s lands.
+Historical visual standard. Prefer [*F500 Map V2*](f500-map-v2.md) (`assets/f500-map-v2.jpg`) for current presentations.
 
 ## Lore Connection
 

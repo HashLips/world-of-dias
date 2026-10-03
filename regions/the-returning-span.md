@@ -10,6 +10,7 @@ related:
   - Refrain Walkers
   - The Bell That Rings Twice Differently
   - F120 Map
+  - F120 Map V2
   - First Lane Milestone Rest
   - Difference Mark Wayside
   - Outer Lane Discipline Customs

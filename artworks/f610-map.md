@@ -17,6 +17,7 @@ related:
   - Dias
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
+  - F610 Map V2
 themes:
   - cartography
   - reveal veil
@@ -25,7 +26,7 @@ themes:
   - worldbuilding reference
 status: canonical
 medium: digital image
-edition:
+edition: v1
 year:
 based_on: F610 (frequency realm) and The Glassfold Ledge lore
 ---
@@ -34,7 +35,7 @@ based_on: F610 (frequency realm) and The Glassfold Ledge lore
 
 ## Overview
 
-*F610 Map* is a cartographic / infographic presentation of the **F610** Reveal Veil band: **The Glassfold Ledge** as a **folded, reflective** climb with **Window Shelves** (first / second / deep pane), **Blind Basin**, **Mirror Runout**, and a **primary foldline** safe route, plus a **reveal window duration** key and **Veil Scribes** / **Minute of True Faces** framing.
+*F610 Map* is the prior cartographic / infographic pass of the **F610** Reveal Veil band. The **current** chart is *F610 Map V2*.
 
 ## Description
 
@@ -44,7 +45,7 @@ Asset reference: `assets/f610-map.png`
 
 ## Real-World Role
 
-Serves as the **visual standard** for F610, **The Glassfold Ledge**, and **Veil Scribes**-centric stories.
+Historical visual standard. Prefer [*F610 Map V2*](f610-map-v2.md) (`assets/f610-map-v2.jpg`) for current presentations.
 
 ## Lore Connection
 

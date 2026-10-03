@@ -15,6 +15,7 @@ related:
   - Supplemental Harmonic Ledger Leaf
   - Ledger addendum of F120 F380 F610 and F840
   - F380 Map
+  - F380 Map V2
   - Bloomline Heart-Deer
   - Rainname Butterflies
   - Moodtide Otters
@@ -61,7 +62,7 @@ F432 references F380 when trying to explain why some gatherings "change a place"
 
 Depictions emphasize color drifts and atmospheric transitions rather than fixed walls or nation-style borders.
 
-The **F380 Map** artwork is the current visual reference for **The Bloomline Estuary** and the five mood-currents layout; see `assets/f380-map.png`.
+The **F380 Map V2** artwork is the current visual reference for **The Bloomline Estuary** and the five mood-currents layout; see `assets/f380-map-v2.jpg` (prior: *F380 Map* / `assets/f380-map.png`).
 
 ## Notes
 
