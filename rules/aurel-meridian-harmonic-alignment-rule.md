@@ -7,10 +7,12 @@ related:
   - Aurel Meridian
   - F200 (frequency realm)
   - Aurel-kind
+  - F200 coherence gate rule
 themes:
   - meridian order
   - resonance discipline
   - corridor stability
+  - colossal
 status: canonical
 scope: Aurel Meridian traversal and settlement behavior
 ---
@@ -23,17 +25,18 @@ Aurel Meridian harmonic alignment rule
 
 ## Overview
 
-Movement within Aurel Meridian is stable only when aligned to meridian flow orientation.
+Movement within **Aurel Meridian** stays stable only when aligned to meridian flow orientation. Cross-angle force against the primary harmonic direction increases dissonance drag, navigation error, and stress in route constructs.
 
 ## Description
 
-Cross-angle force against primary harmonic direction increases dissonance drag, navigation error, and structural stress in route constructs.
+Experienced navigators treat alignment checks as mandatory pre-travel routine—cousin to F200 coherence gates, but local to Meridian architecture. Buildings and transit lean long-axis because the rule shapes geometry as much as manners.
 
 ## Effect
 
-- Shapes architecture and transit into long-axis systems.
-- Reinforces F200's geometric coherence aesthetics.
+- Reinforces F200’s geometric coherence aesthetics.
+- Makes “shortcut diagonal” a dangerous temptation.
+- Gives Meridian settlements a colossal, ordered feel.
 
 ## Notes
 
-Experienced navigators treat alignment checks as mandatory pre-travel routine.
+Open question: whether misalignment can be survived as art, or only as accident.

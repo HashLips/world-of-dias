@@ -7,10 +7,13 @@ related:
   - Nauw
   - Brindle March
   - Serik Dovant
+  - Nauw Concord
+  - Brindle March load-sharing rule
 themes:
   - transit ethics
   - conflict minimization
   - civic continuity
+  - craft
 status: canonical
 scope: Nauw overland movement and dispute routing
 ---
@@ -23,17 +26,18 @@ Nauw corridor priority rule
 
 ## Overview
 
-In Nauw, corridor continuity outranks local advantage during active movement windows.
+In **Nauw**, corridor continuity outranks local advantage during active movement windows. Keep the lanes open first; settle district gains later.
 
 ## Description
 
-When route pressure spikes, administrations prioritize keeping lanes open over maximizing any single district's gain. Delays are redistributed, documented, and compensated later where possible.
+When route pressure spikes, administrations prioritize open movement over maximizing any single district’s take. Delays are redistributed, documented, and compensated where possible. Defended as pragmatism; criticized as quiet centralization. Pairs with Brindle March load-sharing when southern pressure climbs toward Long Gate and Hearthvale.
 
 ## Effect
 
 - Reduces cascading supply failures.
-- Creates recurring political tension with communities that feel deprioritized.
+- Creates recurring political tension with deprioritized communities.
+- Makes Concord continuity feel like craft—and like power.
 
 ## Notes
 
-Often defended as necessary pragmatism and criticized as quiet centralization.
+Open question: who decides when a “movement window” ends and local advantage may speak again.

@@ -5,7 +5,7 @@ region: Veloria City
 related:
   - Veloria City
   - Cultures of Dias
-  - Veloria Ring Protocol
+  - Velorian Ring Protocol
   - Resonant Houses
   - Echo interpretation stances
   - Pot Signal Customs

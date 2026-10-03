@@ -11,6 +11,7 @@ themes:
   - harvest protection
   - communal duty
   - low-panic response
+  - craft
 status: canonical
 scope: Glasswater agricultural protection cycles
 ---
@@ -23,17 +24,18 @@ Glasswater night-watch rule
 
 ## Overview
 
-During high-alert seasons, every production cluster must maintain rotating night-watch pairs.
+In high-alert seasons across **Glasswater Fields**, every production cluster must keep rotating **night-watch pairs**. Lone watch is forbidden.
 
 ## Description
 
-Watchers track water level, sky anomalies, and perimeter disturbance in short intervals, logging observations before interpretation. Lone-watch assignments are prohibited.
+Watchers track water level, sky anomalies, and perimeter disturbance in short intervals—logging observation before interpretation. Pairing reduces rumor panic and catches dam/field hazards early. The Still Pool Vigil lore teaches why silence and pairs matter more than heroic solo staring.
 
 ## Effect
 
-- Reduces rumor-driven panic.
-- Improves early detection of field and dam hazards.
+- Improves early hazard detection.
+- Reduces single-voice panic cascades.
+- Makes communal duty a harvest skill, not optional virtue.
 
 ## Notes
 
-The paired-watch requirement is considered non-negotiable in core fields.
+Open question: what to log when the sky anomaly is beautiful and the fields are fine—still stamp it?

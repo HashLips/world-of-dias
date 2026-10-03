@@ -7,10 +7,12 @@ related:
   - Brindle March
   - Bren Holloway
   - The Load-Balance Trial
+  - Nauw corridor priority rule
 themes:
   - burden distribution
   - route resilience
   - transit justice
+  - craft
 status: canonical
 scope: Brindle March route operations
 ---
@@ -23,17 +25,18 @@ Brindle March load-sharing rule
 
 ## Overview
 
-No corridor may offload structural risk onto a single crew line for more than one cycle without review.
+On **Brindle March**, no corridor may dump structural risk onto a single crew line for more than one cycle without review. Phrase: **weight claimed is not weight carried.**
 
 ## Description
 
-High-risk duties rotate by documented schedule unless emergency exemptions are granted. Exemptions expire automatically and trigger post-cycle audit.
+High-risk duties rotate by documented schedule unless emergency exemptions are granted. Exemptions expire automatically and trigger post-cycle audit. The Load-Balance Trial lore keeps the rule emotionally alive—fairness as logistics, not sermon.
 
 ## Effect
 
 - Prevents burnout concentration in critical crews.
-- Creates constant negotiation over what counts as "emergency."
+- Forces constant negotiation of what “emergency” means.
+- Keeps the March walkable when Nauw pressure spikes.
 
 ## Notes
 
-Often invoked with the phrase: "weight claimed is not weight carried."
+Open question: whether Concord delays count as emergencies when Brindle crews already carry them.

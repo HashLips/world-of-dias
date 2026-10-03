@@ -13,6 +13,8 @@ related:
 themes:
   - forbidden extraction
   - grove protection
+  - mystery
+  - hazard
 status: canonical
 scope: Verdant Reach / Wabet blue litter handling
 ---
@@ -25,16 +27,18 @@ Blue Litter bottling ban
 
 ## Overview
 
-Bottling, sealing, or market-shipping Blue Litter from That Forest is banned under Keeper and Open Hand ethic. The ban exists because bottled litter does not stay politely bottled.
+Bottling, sealing, or market-shipping **Blue Litter** from **That Forest** is banned under Keeper and Open Hand ethic—because bottled litter does not stay politely bottled.
 
 ## Description
 
-Extraction crews still try. Stories of bottles that clear themselves—or clear the room—are treated as evidence, not campfire fluff.
+Extraction crews still try. Stories of bottles that clear themselves—or clear the room—are treated as evidence, not campfire fluff. The ban frames grove horror as ethics breach as much as monster tale, and keeps Blue Litter Husk distinct from Vorrith’s Still Pot craft. Outlaw economy leaks toward Pot Signal Lane anyway.
 
 ## Effect
 
-- Creates outlaw economy into Pot Signal Lane
-- Frames grove horror as ethics breach, not only monster tale
-- Keeps Husk distinct from Vorrith’s Still Pot craft
+- Criminalizes a tempting extraction product.
+- Protects grove systems from souvenir markets.
+- Gives sagas a clear “do not bottle this” hard line.
 
 ## Notes
+
+Open question: whether a sealed House sample for study is still a bottle under the ban.

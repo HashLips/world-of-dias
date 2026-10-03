@@ -5,7 +5,7 @@ region: F432 (frequency realm)
 related:
   - Entertainment of F432
   - The Sketchy Gallery
-  - Averra
+  - Averra Isle
   - Uncanny Keeping Architecture
   - Joy of Learning Practices
 themes:

@@ -13,6 +13,8 @@ related:
   - The Seven of Averra Isle
   - Seven in My Dreams Is
   - Sael Corvin
+  - Quiet Cloister
+  - Averra damp studios
   - Golden Teer (Sael Corvin Portrait)
   - Ascension Day
   - The Two Pillars Witness

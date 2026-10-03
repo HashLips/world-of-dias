@@ -8,10 +8,12 @@ related:
   - The Passage Round
   - Delci Beta
   - Signing the Passage
+  - Mountain of Majestic Good Trade
 themes:
   - sealed identity
   - withheld center
   - gold as occasion
+  - mystery
 status: canonical
 ---
 
@@ -23,20 +25,20 @@ Golden Beta Emblem
 
 ## Overview
 
-The Golden Beta Emblem is a solid 24-carat gold **B** engraved on the wooden door of **The Sealed Beta Chamber** at the heart of Delci Beta's Passage Round.
+The **Golden Beta Emblem** is a solid 24-carat gold **B** engraved on the wooden door of **The Sealed Beta Chamber** at the heart of Delci Beta’s Passage Round—name shown clearly, promise deferred.
 
 ## Meaning
 
-In Delci's dream architecture, the emblem marks the chamber as **his**—Beta held in gold—while also marking it as **not yet**. The door behind the five-lock gate has never been opened in his mind.
+In Delci’s dream architecture, the emblem marks the chamber as **his** (Beta held in gold) and as **not yet**. The door behind the five-lock gate has never been opened in his mind. Good Trade honesty above the mountain pairs with a withheld center below: you may know the letter without earning the room.
 
 ## Usage
 
-Seen, not used. Handshare guests may notice it; Delci does not treat the emblem as a daily tool the way he treats the Passage Logbook.
+Seen, not used. Handshare guests may notice it; Delci does not treat it as a daily tool the way he treats the Passage Logbook. No decoded motto in current canon.
 
 ## Lore Connection
 
-Pairs with the mountain's Good Trade honesty above: a name shown clearly, a promise deferred. Full occasion for opening remains creator-open.
+Passage Round / Sealed Beta Chamber lore; Signing the Passage beats. Keep occasion for opening creator-open.
 
 ## Notes
 
-Do not invent a decoded motto or hidden second letter unless later canon supplies one.
+Do not invent a hidden second letter unless later canon supplies one. Open question: whether the gold is dream-metal only, or has a waking twin.

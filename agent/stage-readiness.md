@@ -6,13 +6,16 @@ Companion to [`world/stage-readiness-of-dias.md`](../world/stage-readiness-of-di
 
 Expansion plan Sections **1–35** marked done in [`agent/plan.md`](plan.md). This is a **stage-building** finish line, not a saga finale.
 
+Flesh-and-balance (post-Calibration leveling) is **complete**: lore categories ≥100 each, dashboard unresolved refs 0, soft limits intact. Plan file removed after close-out.
+
 ## Safe to write next
 
 - Local arcs that pull hub webs (Softfruit, loft hail, Watch slate, Quiet Well path, Claimscar breakfast).  
 - Investigations using evidence genres (toll book + song calendar + forged handbill).  
 - Mystery *clues* that thicken without closing Frequency Zero.  
 - Secret *pressure* from holder notes / [`secrets-pointer.md`](secrets-pointer.md)—no spoiler bible dumps.  
-- Quiet Unbinding as coincidence of loosened bonds.
+- Quiet Unbinding as coincidence of loosened bonds.  
+- Enrichment and new entries that deepen hubs already on stage—prefer quality over category-count chasing.
 
 ## Do not do next without deliberate plan
 

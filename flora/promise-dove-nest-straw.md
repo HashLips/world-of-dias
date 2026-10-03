@@ -1,10 +1,11 @@
 ---
 category: flora
 name: Promise Dove Nest-Straw
-region: Hallow Bay eaves
+region: Hallow Bay
 related:
   - Flora of Dias
-  - Hallow Bay eaves
+  - Hallow Bay
+  - Isle of Calareth
 themes:
   - ordinary
   - observed
@@ -16,11 +17,11 @@ status: canonical
 
 ## Overview
 
-**Promise Dove Nest-Straw** is noted around **Hallow Bay eaves**. People watch it more than they take it. Local grass mix for dove nests.
+**Promise Dove Nest-Straw** is noted in the eaves and roof thatch around **Hallow Bay**. People watch it more than they take it. Local grass mix for dove nests.
 
 ## Description
 
-Range and habit: **Hallow Bay eaves**. Local grass mix for dove nests. Archive kind tag: *ordinary*.
+Range and habit: Hallow Bay eaves, guest-hall roof edges, and Rope Tree lee. Local grass mix for dove nests. Archive kind tag: *ordinary*.
 
 ## Local Use
 

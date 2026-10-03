@@ -7,7 +7,7 @@ related:
   - Organizations of Dias
   - The Distant Companies
   - Partial Harmonic Index fragment
-  - Ledger mention of F200 F500
+  - Supplemental Harmonic Ledger Leaf
   - Politics of Dias
   - Cross-Frequency Travel
 themes:

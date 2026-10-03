@@ -6,6 +6,8 @@ culture:
 related:
   - Sorel
   - Despise Me
+  - Lean After the Sneer
+  - The Rose at Second Crossing
   - Blue Rose Vow
 themes:
   - expressive resilience

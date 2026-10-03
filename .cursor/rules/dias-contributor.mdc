@@ -1,0 +1,15 @@
+---
+description: Dias lore contribution — Story Architect required, canon-safe
+alwaysApply: true
+---
+
+# Dias contributor rule
+
+Before creating or editing lore in this repository:
+
+1. Read [`agent/contributor-start.md`](agent/contributor-start.md).
+2. **Always** read and follow the Cursor **story-architect** skill (schema, templates, naming, categories, canon rules). Do not improvise a parallel lore format.
+3. Follow [`agent/canon-safety.md`](agent/canon-safety.md) (soft limits, no casual Zero/ferry solves, protect mapped GUID files).
+4. Orient with [`agent/world-orientation.md`](agent/world-orientation.md) and [`agent/stage-readiness.md`](agent/stage-readiness.md) before inventing hubs or arcs.
+
+Lore stays in category folders only. Agent ops stay under `agent/`. Keep `GUIDED-PATH.md` steps 1–5 stable.

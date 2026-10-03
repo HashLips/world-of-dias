@@ -11,6 +11,7 @@ themes:
   - route diplomacy
   - tribe coexistence
   - seasonal balance
+  - craft
 status: canonical
 scope: Aelwyn inter-tribe passage law
 ---
@@ -23,17 +24,18 @@ Aelwyn Canopy seven-paths rule
 
 ## Overview
 
-No single canopy path may be claimed as exclusive in all seasons.
+In the **Aelwyn Canopy**, no single elevated path may be claimed as exclusive in all seasons. You can win a season; you cannot own all future passage.
 
 ## Description
 
-Core elevated routes rotate priority by season and pressure. Emergency rights exist, but they cannot convert into permanent ownership claims.
+Core routes rotate priority by season and pressure. Emergency rights exist for storms and rescue, but they cannot harden into permanent ownership. Kin groups renegotiate under the Canopy Truce of Seven Paths—mediation is recurring craft, not a one-time treaty photo.
 
 ## Effect
 
-- Prevents choke-point monopolies.
-- Forces recurring mediation between kin groups.
+- Prevents choke-point monopolies in the trees.
+- Forces ongoing diplomacy between tribes.
+- Keeps canopy travel plural and alive.
 
 ## Notes
 
-You can win a season in Aelwyn; you cannot legally own all future passage.
+Open question: what counts as “emergency” when every season feels urgent to someone.

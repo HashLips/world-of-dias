@@ -9,7 +9,7 @@ related:
   - Partial Publish Courtesy
   - Orrin Veld
   - Issa Partial
-  - The Leaf That Wont Stay Quiet
+  - The Leaf That Won't Stay Quiet
   - Graphs That Agree
   - Nonactionable
   - Partial Truth for the Basin

@@ -7,6 +7,7 @@ related:
   - Sorel Exile Compact
   - Carrow's Mask
   - Carrow Vale
+  - Mask of Mask
   - The Mask Kept After Exile
   - Echo interpretation stances
 themes:

@@ -8,10 +8,13 @@ related:
   - The Unfinished
   - Draftkin
   - The Half-Made Atlas
+  - Open Hand Maker Tech
+  - F960 Disputed Line Etiquette
 themes:
   - becoming
   - revision
   - incomplete form
+  - craft
 status: canonical
 scope: F960 form stability and emergence
 ---
@@ -24,17 +27,18 @@ F960 iterative manifestation rule
 
 ## Overview
 
-Forms in F960 emerge in passes and remain revisable by default.
+Forms in **F960** emerge in passes and remain revisable by default. Incompletion is baseline state, not failure.
 
 ## Description
 
-Structures, layouts, and details can progress through outline, volume, adjustment, and rework cycles. Persistence is measured by repeated holds, not first appearance.
+Structures and details move through outline, volume, adjustment, and rework. Persistence is measured by repeated holds, not first appearance. Open Hand maker tech (clean undo, revision bands, half-made atlases) is the cultural operating system of this rule. F432 disputed-line etiquette for F960 catalog talk is the soft-limit cousin: name becoming without ferry geography.
 
 ## Effect
 
 - Makes mapping possible but provisional.
-- Supports design cultures built around revision literacy.
+- Supports revision-literate design cultures.
+- Keeps “unfinished” from being insult or door.
 
 ## Notes
 
-In F960, incompletion is not failure; it is baseline state.
+Open question: what happens when something holds so long people forget it was allowed to change.

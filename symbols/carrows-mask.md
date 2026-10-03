@@ -12,14 +12,22 @@ related:
   - Calen Brink
   - Masked
   - Behind the Masked
+  - Mask of Mask
+  - Long Gate
 themes:
   - exile identity
   - anonymity as rule
   - frontier authority
+  - mystery
+  - craft
 status: canonical
 ---
 
 # Carrow's Mask
+
+## Name
+
+Carrow's Mask
 
 ## Overview
 
@@ -27,16 +35,16 @@ status: canonical
 
 ## Meaning
 
-The mask says: **the First Exile is a role**, not a face you can capture, exile, or buy. Followers read it as solidarity. Enemies read it as intimidation. Both can be true.
+The mask says: **the First Exile is a role**, not a face you can capture, exile, or buy. Followers read solidarity. Enemies read intimidation. Both can be true. After Long Gate crossings, the mask teaches belonging grammar harder than Nauw cloth politics.
 
 ## Usage
 
-Reproduced on Sorel pact chips and camp banners as outline only—never as portrait. Removing another person's mask without pact release is grounds for Freebands sanction.
+Reproduced on Sorel pact chips and camp banners as outline only—never as portrait. Removing another person’s mask without pact release is Freeband sanction grounds. Collective mask practice (*Masked*, *Behind the Masked*) echoes the same ethic without claiming every mask is Carrow’s.
 
 ## Lore Connection
 
-Central to [`inhabitants/carrow-vale.md`](../inhabitants/carrow-vale.md) and [`stories/the-long-gate-south.md`](../stories/the-long-gate-south.md). Face under mask **not depicted** in current canon.
+Central to [`inhabitants/carrow-vale.md`](../inhabitants/carrow-vale.md) and [`stories/the-long-gate-south.md`](../stories/the-long-gate-south.md). Face under mask **not depicted** in current canon. Artwork companions: ball-room portrait; *Mask of Mask* for motion-of-masked-bodies texture.
 
 ## Notes
 
-Visual anchor: [`artworks/ball-room-carrow-vale-portrait.md`](../artworks/ball-room-carrow-vale-portrait.md). Collective mask practice: [`artworks/masked.md`](../artworks/masked.md).
+Keep face sealed. Open question: whether Carrow still remembers the day the mask first fit—or only the office remembers.

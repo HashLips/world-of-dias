@@ -7,31 +7,41 @@ related:
   - The Returning Span
   - Curious 1
   - Returning Span lane discipline rule
+  - Curious Arch Lane Token
 themes:
   - sacred orientation
   - disciplined inquiry
   - crossing commitment
+  - mystery
 status: canonical
 ---
 
 # Curious Arch
 
+## Name
+
+Curious Arch
+
 ## Overview
 
-Curious Arch is a sacred geometric symbol used in Returning Span crossing rites to mark the transition from indecision to committed movement.
+**Curious Arch** is the sacred geometric mark of Returning Span crossing rites—the shape that means *stop scattering questions; choose a lane and walk.*
 
 ## Meaning
 
-The rising pillar signifies focused ascent, the angled crown marks chosen direction, and the hooked line with sphere represents curiosity held within discipline rather than allowed to scatter.
+- Rising pillar: focused ascent / commitment.
+- Angled crown: chosen direction.
+- Hooked line with sphere: curiosity held inside discipline, not spilled into every path at once.
+
+Together: curiosity is holy only when it accepts a threshold.
 
 ## Usage
 
-Displayed at lane-entry points and invoked before major crossings. Travelers are taught to "pass under the question, then choose."
+Painted or carved at lane-entry points. Invoked before major crossings—“pass under the question, then choose.” Lane tokens sometimes echo the arch in miniature. Skipping the mark is not always illegal; on the Span it reads as someone about to collide with everyone else’s timing.
 
 ## Lore Connection
 
-The symbol is visually codified in the artwork *Curious 1* and commonly taught alongside lane-discipline doctrine.
+Visual cousin of artwork *Curious 1*. Taught with [`rules/returning-span-lane-discipline-rule.md`](../rules/returning-span-lane-discipline-rule.md). Stabilizes high-drift decision environments where unfinished edges tempt endless looking.
 
 ## Notes
 
-Used as a stabilizing emblem in high-drift decision environments.
+Keep distinct from Caliburn slit (measurement haunt) and DEB Gate Touch (Veloria greeting). Open question: what the arch does when two lanes both feel “true.”

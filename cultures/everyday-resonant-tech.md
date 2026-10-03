@@ -7,6 +7,7 @@ related:
   - Echo-Aware Craft
   - Pot Signal Customs
   - Veloria Street Flower Pot
+  - Wired Bloom Markers
   - Lucky Fruit sharing-knife
   - Softfruit Table Hall
   - Second-Beginning Slate fragment

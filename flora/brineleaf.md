@@ -1,10 +1,10 @@
 ---
 category: flora
 name: Brineleaf
-region: Salt Ledger
+region: The Salt Ledger
 related:
   - Flora of Dias
-  - Salt Ledger
+  - The Salt Ledger
 themes:
   - ordinary
   - garnish
@@ -16,11 +16,11 @@ status: canonical
 
 ## Overview
 
-**Brineleaf** is plant life of **Salt Ledger**, known to locals mainly as something you eat, drink, or cook with—trough-tolerant.
+**Brineleaf** is plant life around **The Salt Ledger** in Driftfall, known to locals mainly as something you eat, drink, or cook with—trough-tolerant.
 
 ## Description
 
-Range and habit: **Salt Ledger**. Trough-tolerant. Archive kind tag: *ordinary*.
+Range and habit: pub yards and salt-stained trough edges near The Salt Ledger. Trough-tolerant. Archive kind tag: *ordinary*.
 
 ## Local Use
 

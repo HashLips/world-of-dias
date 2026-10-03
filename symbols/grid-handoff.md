@@ -8,31 +8,39 @@ related:
   - Solven Wetch
   - The Week He Handed It Back
   - The Salt Ledger
+  - Between Repetitions
+  - Workday
 themes:
   - witness gift
   - attention as love
   - completed week
+  - craft
+  - joy
 status: canonical
 ---
 
 # Grid Handoff
 
+## Name
+
+Grid Handoff
+
 ## Overview
 
-The **Grid Handoff** is Solven Wetch's gesture of laying a finished lino-cut grid before the person he has watched for a week and saying, in most accounts, **"The week is yours."**
+The **Grid Handoff** is Solven Wetch’s gesture of laying a finished lino-cut grid before the person he watched for a week and saying, in most accounts, **“The week is yours.”**
 
 ## Meaning
 
-The handoff turns **compulsive observation** into **generous record**—the subject receives their own life back as pattern, not as surveillance. It is intimacy that can unsettle; refusal is accepted without argument.
+Compulsive observation becomes generous record. The subject receives their own life back as pattern—not as surveillance report. Intimacy that can unsettle; refusal is accepted without argument. Under **Between Repetitions**, the handoff is the moral climax of serial looking.
 
 ## Usage
 
-Not a universal ritual—specific to Wetch's practice and Driftfall witness culture. Referenced when discussing how Dias honors **seeing** as a moral act.
+Not a universal civic ritual—specific to Wetch’s practice and Driftfall witness culture. Referenced when Dias talks about **seeing** as a moral act. Often happens at or near The Salt Ledger; sometimes on a quiet beach table.
 
 ## Lore Connection
 
-Described in [`stories/the-week-he-handed-it-back.md`](../stories/the-week-he-handed-it-back.md) and [`inhabitants/solven-wetch.md`](../inhabitants/solven-wetch.md). Parallels Calen Brink's echo-gift theme in The Harmonic Saga without merging the characters.
+Story: [`stories/the-week-he-handed-it-back.md`](../stories/the-week-he-handed-it-back.md). Inhabitant: [`inhabitants/solven-wetch.md`](../inhabitants/solven-wetch.md). Artwork: *Workday*. Emotional parallel to Calen’s echo-gifts without merging the characters—one offers heard memory; one offers seen pattern.
 
 ## Notes
 
-Pairs emotionally with echo-reading: one offers heard memory; one offers seen pattern.
+Do not turn the handoff into a House certification. Open question: what Wetch does with a week the subject cannot bear to receive.

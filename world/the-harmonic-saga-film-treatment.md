@@ -4,7 +4,6 @@ name: The Harmonic Saga — Film Treatment
 related:
   - The Harmonic Saga
   - Calen Brink
-  - HARMONIC-SAGA-PATH
   - Veloria City
   - The Echo at the Gate
   - What the Bridge Remembers

@@ -11,6 +11,7 @@ themes:
   - timing law
   - civic rhythm
   - behavioral order
+  - craft
 status: canonical
 scope: lane rituals and visitor movement
 ---
@@ -23,17 +24,18 @@ Green Garden minute discipline rule
 
 ## Overview
 
-Green Garden lanes enforce minute-marked timing for crossings, rites, and queue transitions.
+**Green Garden** lanes enforce minute-marked timing for crossings, rites, and queue transitions. Personal urgency does not override the signal.
 
 ## Description
 
-Participants must follow signaled intervals rather than personal urgency. Missed windows are deferred to the next cycle to prevent lane turbulence and ritual overlap.
+Missed windows defer to the next cycle to prevent lane turbulence and ritual overlap. Feels overcontrolled to fast outsiders; locals call it precision that keeps crowded ceremony from becoming collision. The Warden of the Unwasted Hour myth is the teaching story: minutes are civic tools.
 
 ## Effect
 
-- Keeps high-density ceremonial traffic stable.
-- Feels overcontrolled to fast-moving outsiders.
+- Stabilizes high-density ceremonial traffic.
+- Formalizes the region’s reputation for precision over spontaneity.
+- Gives stories a hard clock without modern tech tone.
 
 ## Notes
 
-This rule formalizes the region's reputation for precision over spontaneity.
+Open question: who resets the minutes when two rites both claim the same tick.

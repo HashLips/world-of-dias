@@ -8,6 +8,17 @@ Thin root entry for agents and authoring tools.
 
 Lore stays in category folders. Do not invent a second lore store.
 
+## Before you contribute (required)
+
+Any agent that creates or edits lore must:
+
+1. Read [`agent/contributor-start.md`](agent/contributor-start.md).
+2. **Always use the Story Architect skill** — read its `SKILL.md` and `references/` (schema, templates, naming, categories, canon rules) before writing files. Do not invent a parallel format or stub schema.
+3. Follow [`agent/canon-safety.md`](agent/canon-safety.md) (soft limits, conflict framing, GUID protection).
+4. Orient with [`agent/world-orientation.md`](agent/world-orientation.md), then check [`agent/stage-readiness.md`](agent/stage-readiness.md) for what is safe to write next.
+
+Always-on reminder: [`.cursor/rules/dias-contributor.mdc`](.cursor/rules/dias-contributor.mdc).
+
 ## Human docs agents should also read
 
 | File | Role |
@@ -25,12 +36,16 @@ Lore stays in category folders. Do not invent a second lore store.
 
 | File | Role |
 | --- | --- |
+| [`agent/contributor-start.md`](agent/contributor-start.md) | **First stop** for contributing agents; Story Architect gate + checklist |
+| [`agent/canon-safety.md`](agent/canon-safety.md) | Soft limits, canon-safe enrichment, GUID protection |
+| [`agent/world-orientation.md`](agent/world-orientation.md) | Hubs, primers, navigation starting points |
+| [`agent/stage-readiness.md`](agent/stage-readiness.md) | What sagas/arcs may touch next; forbidden solves |
 | [`agent/DIAS-REFERENCE-MAP.md`](agent/DIAS-REFERENCE-MAP.md) | External GUID bridge (IRL / Arweave / social / physical) |
 | [`agent/dias-map.yaml`](agent/dias-map.yaml) | Permanent `DIAS-{UUID}` → Markdown index |
-| [`agent/plan.md`](agent/plan.md) | World expansion plan (stage-building; section-by-section) |
+| [`agent/plan.md`](agent/plan.md) | World expansion plan (stage-building; section-by-section; complete) |
 | [`agent/secrets-pointer.md`](agent/secrets-pointer.md) | Author secret staging (saga-key vs texture; not a spoiler bible) |
-| [`agent/stage-readiness.md`](agent/stage-readiness.md) | Post–plan stage readiness (what sagas may touch) |
-| [`.cursor/rules/dias-reference-map.mdc`](.cursor/rules/dias-reference-map.mdc) | Always-on permanence rule |
+| [`.cursor/rules/dias-contributor.mdc`](.cursor/rules/dias-contributor.mdc) | Always-on: Story Architect + contributor docs |
+| [`.cursor/rules/dias-reference-map.mdc`](.cursor/rules/dias-reference-map.mdc) | Always-on permanence rule for Dias GUIDs |
 | [`dashboard/map-registry.yaml`](dashboard/map-registry.yaml) | 2D atlas pin/land positions for the Map tab |
 
 ## Lore folders
@@ -51,6 +66,8 @@ When capturing something outside this repo (artwork, letter, Arweave, social pos
 Core rule: **DIAS GUID → Markdown file**. The map is a bridge, not a lore database.
 
 ## How to grow the world
+
+Follow [`agent/contributor-start.md`](agent/contributor-start.md) and Story Architect first. Then:
 
 1. Prefer extending and categorizing existing entries over rewriting them.
 2. Use [`CORE-PILLARS.md`](CORE-PILLARS.md) when deciding what new lore should serve.

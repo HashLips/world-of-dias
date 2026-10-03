@@ -7,10 +7,12 @@ related:
   - The Bloomline Estuary
   - F380 (frequency realm)
   - Tidehearts
+  - F380 emotional climate coupling rule
 themes:
   - confluence management
   - emotional safety
   - flow regulation
+  - joy
 status: canonical
 scope: Bloomline gathering and transition zones
 ---
@@ -23,17 +25,18 @@ Bloomline confluence holding rule
 
 ## Overview
 
-High-density confluence zones require holding intervals before major decisions.
+At the **Bloomline Estuary**, high-density confluence zones require a short **holding interval** before major decisions—stabilize feeling before you vote, contract, or mediate conflict.
 
 ## Description
 
-When current overlap intensifies, groups must enter a short stabilization phase led by Tideheart protocols before voting, contracting, or conflict mediation.
+When currents and crowds overlap, Tideheart protocols lead a brief pause. Outsiders call it delay theater; locals call it civic infrastructure. The rule is the procedural twin of F380 emotional climate coupling: do not let affect-spikes write law.
 
 ## Effect
 
-- Reduces affect-spike decision errors.
-- Normalizes emotional regulation as civic infrastructure.
+- Reduces decision errors born of mood weather.
+- Normalizes emotional regulation as public craft.
+- Protects joy gatherings from becoming stampede politics.
 
 ## Notes
 
-The rule is controversial only among outsiders who mistake it for delay theater.
+Open question: how long a hold may last before someone weaponizes the pause.

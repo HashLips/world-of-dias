@@ -8,7 +8,7 @@ related:
   - Calibration Row
   - Open Hand Faction Card
   - Resonant Houses
-  - Distant Companies
+  - The Distant Companies
   - Westfold Toll
 themes:
   - cold conflict

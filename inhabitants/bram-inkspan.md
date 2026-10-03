@@ -8,9 +8,8 @@ related:
   - Supplemental Harmonic Ledger Leaf
   - Inkspan Copy Desk
   - Orrin Veld
-  - The Leaf That Wont Stay Quiet
+  - The Leaf That Won't Stay Quiet
   - Archivist Pellun
-  - Disputed Line Etiquette
   - F960 Disputed Line Etiquette
 themes:
   - evidence economy

@@ -37,7 +37,7 @@ A character-energy artwork representing dance as a survival language in hard soc
 
 ## Lore Connection
 
-In Sorel, the piece is linked to stories of a dancer who can move to any rhythm and shift a crowd's emotional state toward courage.
+In Sorel, the piece is linked to [`stories/the-rose-at-second-crossing.md`](../stories/the-rose-at-second-crossing.md) and to **Despise Dancer**—movement that can shift a crowd toward courage under judgment.
 
 ## Notes
 
