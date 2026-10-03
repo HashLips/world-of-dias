@@ -22,6 +22,11 @@ Expansion plan Sections **1–35** marked done in [`agent/plan.md`](plan.md). Th
 - Add a saga to [`SAGAS.md`](../SAGAS.md) until a reading path exists.  
 - Replace wonder with war as default weather.
 
+## Saga status
+
+- Harmonic + Lumen + **Calibration** listed with reading paths.
+- Calibration: [`CALIBRATION-SAGA-PATH.md`](../CALIBRATION-SAGA-PATH.md) — quality rebuild complete (18 chapters + optional aftermath; Caliburn at large; Zero unresolved).
+
 ## Saga prep checkpoint (Phase I)
 
-Stage can support **enrichment of Harmonic / Lumen** and future third journeys that stay inside F432 hubs + thin cross-frequency threads. Escalate dark initiatives only when a movement is designed to bear them.
+Stage supports enrichment of existing journeys and further arcs inside F432 hubs + thin cross-frequency threads. Escalate dark initiatives only when a movement is designed to bear them.

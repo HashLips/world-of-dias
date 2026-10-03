@@ -14,6 +14,11 @@ related:
   - The Sketchy Gallery
   - Knowledge of Dias
   - Clerk and House Study Paths
+  - Orrin Veld
+  - The Calibration Saga
+  - Spectrum Frame
+  - Tea Slit Bench
+  - Veld Workshop Alcove
 themes:
   - third ring workshops
   - load calibration
@@ -53,6 +58,8 @@ Sketchy Gallery sits culturally nearby—art and craft trading sideways glances.
 This is craft politics: who owns the right to name a frequency event. Saga fuel without requiring High Resonant schism plots.
 
 ## Stories or Depictions
+
+Primary stage for [`The Calibration Saga`](../world/the-calibration-saga.md) and Orrin Veld’s Spectrum Frame work.
 
 ## Notes
 

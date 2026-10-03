@@ -13,6 +13,10 @@ related:
   - Fellgrove
   - Apple Touch
   - Ask the Cook Again
+  - Orrin Veld
+  - The Calibration Saga
+  - The Orchard Man Who Wanted a Door
+  - Calibration Row
 themes:
   - research years
   - depleted options
@@ -30,7 +34,7 @@ Years of shared harvest profits and travel go into Frederick’s search for a wa
 
 ## Story
 
-Frederick kept his word to **Bram Orlen**. Before harvests, he walked the trees. Apples answered. Coin returned as research: charts of bleed talk, gate lore, Passage Round whispers, Driftfall dream-sitters, Nauw clerks who priced miracles like freight.
+Frederick kept his word to **Bram Orlen**. Before harvests, he walked the trees. Apples answered. Coin returned as research: charts of bleed talk, gate lore, Passage Round whispers, Driftfall dream-sitters, Nauw clerks who priced miracles like freight—and one earnest Veloria consultation with **Orrin Veld** on Calibration Row, who would map signatures and still refuse any safe subway between frequencies.
 
 People came to know him—not as the hollow boy only, but as the orchard hand who could make wrong wood fruit, and as the man who paid for band-rumors with apple share. He tried what could be tried without selling the rest of his life to institutions that filed crossings as noise.
 

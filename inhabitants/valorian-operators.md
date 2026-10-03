@@ -11,6 +11,10 @@ related:
   - Echo interpretation stances
   - Core harmonic classification rule
   - Revelation
+  - Orrin Veld
+  - The Calibration Saga
+  - The Caliburn
+  - Load-Noise Filing Manners
 themes:
   - stewardship
   - hypertechnology
@@ -41,5 +45,8 @@ They embody the link between Veloria’s ancient-feeling periphery and the realm
 ## Notes
 
 Saga canon honors Operator labor in [`stories/the-load-the-core-carries.md`](../stories/the-load-the-core-carries.md). N-band echo classification is policy, not denial—see [`rules/core-harmonic-classification-rule.md`](../rules/core-harmonic-classification-rule.md).
+
+The Calibration Saga pressures the same wonder-as-noise manners when Orrin Veld makes load-noise shapes legible and the Caliburn escapes into that “nothing.”
+
 
 **Pillar exemplar (Factions):** load-discipline worldview—keep systems legible; some truths stay filed so the core stays alive. Stance map: [`cultures/echo-interpretation-stances.md`](../cultures/echo-interpretation-stances.md).

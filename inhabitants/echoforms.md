@@ -13,8 +13,10 @@ related:
   - Figure Mountain
   - Nested Shadow Mismatch
   - The Blue Litter Husk
+  - The Caliburn
   - Road-Between Echo-Hounds
   - Peoples of Dias
+  - The Calibration Saga
 themes:
   - accumulated resonance
   - living memory
@@ -67,7 +69,9 @@ Echoforms let Dias grow a creature ecology that stays tied to echo, frequency, a
 
 ## Notes
 
-**Pillar exemplar (named Echoform):** [`inhabitants/the-blue-litter-husk.md`](the-blue-litter-husk.md).
+**Pillar exemplar (named Echoform):** [`the-blue-litter-husk.md`](the-blue-litter-husk.md).
+
+**Measurement/city cousin:** [`the-caliburn.md`](the-caliburn.md) — nest in Operator load-noise and precision instruments; keep origin distinct from grove overload.
 
 Personhood is case-by-case—see [`Peoples of Dias`](../world/peoples-of-dias.md). Echoforms are not monsters by default.
 

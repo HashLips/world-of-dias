@@ -18,6 +18,8 @@ Lore stays in category folders. Do not invent a second lore store.
 | [`GUIDED-PATH.md`](GUIDED-PATH.md) | Stable reading path through canon |
 | [`SAGAS.md`](SAGAS.md) | Saga index |
 | [`HARMONIC-SAGA-PATH.md`](HARMONIC-SAGA-PATH.md) | Main narrative journey |
+| [`LUMEN-SAGA-PATH.md`](LUMEN-SAGA-PATH.md) | Second narrative journey |
+| [`CALIBRATION-SAGA-PATH.md`](CALIBRATION-SAGA-PATH.md) | Third narrative journey (spectrum / Caliburn) |
 
 ## Agent-only materials
 

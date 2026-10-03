@@ -8,7 +8,7 @@ You do not need a saga to understand the repo. Use them when you want a guided s
 
 World identity behind all sagas: [`CORE-PILLARS.md`](CORE-PILLARS.md)
 
-**Stage note:** World expansion plan Sections 1–35 are stage-ready. See [`world/stage-readiness-of-dias.md`](world/stage-readiness-of-dias.md) and [`world/relationships-of-dias.md`](world/relationships-of-dias.md). No new saga is listed here until a reading path exists.
+**Stage note:** World expansion plan Sections 1–35 are stage-ready. See [`world/stage-readiness-of-dias.md`](world/stage-readiness-of-dias.md) and [`world/relationships-of-dias.md`](world/relationships-of-dias.md).
 
 ---
 
@@ -31,6 +31,15 @@ Second long narrative journey. Follows **Frederick Lumens** from Driftfall to Fe
 - Spine: [`world/the-lumen-saga.md`](world/the-lumen-saga.md)
 
 **Complete** (25 chapters + bridge). Crossing outcome left open. Letter mapped: `DIAS-271c0632-d8aa-4cc7-bf9b-358dafbb9019`.
+
+### The Calibration Saga
+
+Third long narrative journey. Follows **Orrin Veld** proving background frequencies are measurable—then inviting **the Caliburn**, a mischievous Echoform that escapes into Veloria’s load-noise. Open haunt; spectrum science taught in-scene.
+
+- Path: [`CALIBRATION-SAGA-PATH.md`](CALIBRATION-SAGA-PATH.md)
+- Spine: [`world/the-calibration-saga.md`](world/the-calibration-saga.md)
+
+**Complete** (18 chapters + optional aftermath). Caliburn at large. Frequency Zero unresolved. Hooks to Harmonic (method vs gift) and Lumen (Frederick’s research-years consultation).
 
 ---
 

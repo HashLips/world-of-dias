@@ -8,6 +8,8 @@ related:
   - Kharad
   - Veloria City
   - Resonant Houses
+  - Orrin Veld
+  - The Calibration Saga
 themes:
   - load calibration
   - craft refusal

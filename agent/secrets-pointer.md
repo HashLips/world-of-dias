@@ -20,6 +20,9 @@ Author staging aid for Section 33. **Not** a spoiler bible—no complete plot an
 | Averra / Sketchy keepers | institutional | texture | What “may be shown” vs DO NOT OPEN politics |
 | Null-Seal Archivist Ren (legacy) | sealed research | saga-key | Seal precedent others still argue—present holders vary |
 | Quiet Unbinding (throughline) | — | saga-key | Pattern of loosened bonds; **do not** assign one named final army here |
+| Orrin Veld / Issa Partial packet | personal / institutional | saga-key | What the partial spectrum publish omitted to keep ferries from becoming religion |
+| The Caliburn (at large) | personal / institutional | saga-key | Where it nests in Veloria noise after escape; Houses/Operators competing cover stories |
+| Valorian load-noise shape (Calibration pressure) | sealed research | saga-key | That civic wonder-as-noise had a reproducible stutter before it grew a roommate |
 
 ## Rules for authors
 

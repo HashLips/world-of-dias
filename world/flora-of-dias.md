@@ -47,7 +47,7 @@ status: canonical
 
 **Flora of Dias** is the living plant index of the archive. Each named plant has its own entry in [`flora/`](../flora/). Heavy behaviors may also appear as phenomena (Apple Touch, Blue Litter, Bleed-Sky Nightbloom).
 
-**Count:** **145** named key flora — one file each in [`flora/`](../flora/).
+**Count:** **149** named key flora — one file each in [`flora/`](../flora/).
 
 ## Core Premise
 
@@ -219,6 +219,10 @@ Locals use most plants. A minority are watched, feared, sung about, or refused. 
 | 143 | [**Nullband Soot-Bloom**](../flora/nullband-soot-bloom.md) | F500 rumor | anti-flora | omen fear | Petals like erased charcoal |
 | 144 | [**Unraveled Pale-Weed**](../flora/unraveled-pale-weed.md) | F500 talk | rumor | observed claims | Almost-plant shapes |
 | 145 | [**Pocket-Floor Mycelium (rumor)**](../flora/pocket-floor-mycelium.md) | F500 pockets | rumor | itch lore | With pocket mites talk |
+| 146 | [**Cylinder Mint**](../flora/cylinder-mint.md) | Calibration Row | ordinary | tea steep | Graduated-cylinder arguments; Row custom |
+| 147 | [**Oilvine Creeper**](../flora/oilvine-creeper.md) | Calibration Row workshops | ordinary | observed / shutter jokes | Thrives in oil mist; alcove eaves |
+| 148 | [**Peel-Sweet Herb**](../flora/peel-sweet-herb.md) | Softfruit Corner | ordinary | sniff-test / honesty signal | Keep-mood folk aid; not a realm tool |
+| 149 | [**Static Moss**](../flora/static-moss.md) | Veloria conduit glass | ordinary omen | weather tell | Bristles near residual static / seams |
 
 ---
 
@@ -228,7 +232,7 @@ Locals use most plants. A minority are watched, feared, sung about, or refused. 
 Market Banana, Basin Mist-Herb, Verdant Share-Apple, Quiet Well Date-Palm, Hearthvale Stew-Onion, Brineleaf, Whale-Road Kelp, Songripe Evergreen (unripe), Lumira Night-Cool Melon, Sun-Sweet Sample-Melon, Waystation Soup-Carrot, Salt-Ledger Pickle-Cabbage, Coral Strand Sea-Lettuce, Forge-Sorrel, Unclaimed Breakfast Herb.
 
 ### Medicine & comfort
-Canopy Drip-Moss, Serpent-Hour Aloe, Listening Heat Sage, Hollowmere Net-Moss, Drift-Song Bladderwrack, Ash-Hardy Moss, Calibration Corner-Mint, Garen Scar Bloodroot (folk).
+Canopy Drip-Moss, Serpent-Hour Aloe, Listening Heat Sage, Hollowmere Net-Moss, Drift-Song Bladderwrack, Ash-Hardy Moss, Calibration Corner-Mint, Cylinder Mint, Peel-Sweet Herb, Garen Scar Bloodroot (folk).
 
 ### Dye, fiber, craft
 Ringfair Dye-Marigold, Flagweek Dye-Flower, Saltwhisper Thorn-Brush, Openhand Craft-Hemp, Scrap-Rope Hemp, Ribbon-Blue Dye Lichen, Averra Inkcap Mushroom, Sky-Whale Festival Paperflower.

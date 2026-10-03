@@ -54,6 +54,10 @@ related:
   - Fellgrove
   - Jorin Fell
   - The Boy Who Lit the Hollow
+  - Orrin Veld
+  - The Calibration Saga
+  - Too Costly to Cross
+  - The Orchard Man Who Wanted a Door
 themes:
   - orphan hunger
   - frequency dream

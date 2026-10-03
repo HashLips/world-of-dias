@@ -7,6 +7,8 @@ related:
   - Daily Life of Dias
   - Calen Brink
   - Frederick Lumens
+  - Orrin Veld
+  - The Caliburn
   - Harold
   - Pip Ringroad
   - Osa Laughlight
@@ -51,6 +53,8 @@ Do not force every character into destiny.
 | --- | --- |
 | [Calen Brink](../inhabitants/calen-brink.md) | Echo-reading; Harmonic path |
 | [Frederick Lumens](../inhabitants/frederick-lumens.md) | Roadglow; Lumen path; crossing hunger |
+| [Orrin Veld](../inhabitants/orrin-veld.md) | Measurement ethics; Calibration path; spectrum publish |
+| [The Caliburn](../inhabitants/the-caliburn.md) | Mischievous measurement Echoform; Veloria haunt |
 | [Harold](../inhabitants/harold.md) | Ordinary Veloria necessity |
 | [Vorrith Kael](../inhabitants/vorrith-kael.md) | Stillhollow pressure; rare seeker bargains |
 | [Carrow Vale](../inhabitants/carrow-vale.md) | Exile Compact politics |
