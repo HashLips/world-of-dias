@@ -8,6 +8,7 @@ related:
   - Brindle March
   - Green 1 (Serik Dovant Portrait)
   - The Steward at the Crossing Tables
+  - Brindle Compensation Chit
 themes:
   - civic balance
   - route stewardship

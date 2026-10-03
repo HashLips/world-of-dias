@@ -12,6 +12,7 @@ related:
   - Folklore Families of F432
   - Long-Gate Beast Mystery
   - Mysteries of Dias
+  - The Refused Coat
 themes:
   - threshold folklore
   - fear

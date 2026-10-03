@@ -11,6 +11,7 @@ related:
   - The Pale Rope of Lumira
   - Wabet Orchard-Kid Subculture
   - F432 Hospitality Gift and Insult
+  - The False Decoy Mark
 themes:
   - silence
   - nonverbal speech

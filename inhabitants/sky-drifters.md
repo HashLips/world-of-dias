@@ -12,6 +12,7 @@ related:
   - Harmonic Echo-Rise
   - Calmness of Floating
   - Eye in the Sky
+  - Outer-Ring Chalk Count
 themes:
   - watchers
   - frequency overlap (speculation)

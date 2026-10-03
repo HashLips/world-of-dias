@@ -8,6 +8,7 @@ related:
   - The Long Gate Argument
   - Nauw
   - Sorel
+  - The Refused Coat
 themes:
   - mystery
   - gate beast

@@ -9,6 +9,7 @@ related:
   - Serik Dovant
   - Nauw Concord
   - Brindle March load-sharing rule
+  - Brindle Compensation Chit
 themes:
   - transit ethics
   - conflict minimization

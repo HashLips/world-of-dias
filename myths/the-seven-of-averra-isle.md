@@ -9,6 +9,7 @@ related:
   - Old Masters of Averra Isle
   - Two Ways
   - Verdant Reach
+  - The Seventh Unlit Lamp
 themes:
   - hidden council
   - island mystery

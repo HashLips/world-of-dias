@@ -10,6 +10,7 @@ related:
   - Sorel
   - F432 (frequency realm)
   - Vent-sprout spread
+  - The Cooled Daughter-Stone
 themes:
   - active venting
   - multiple mouths

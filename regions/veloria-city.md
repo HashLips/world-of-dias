@@ -37,6 +37,7 @@ related:
   - Settlements of Dias
   - Ringwash Baths
   - Softfruit Table Hall
+  - Outer-Ring Chalk Count
 themes:
   - capital
   - concentric city

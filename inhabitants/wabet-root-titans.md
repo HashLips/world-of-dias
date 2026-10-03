@@ -8,6 +8,7 @@ related:
   - Wabet
   - When Trees Sing
   - Wabet Canopy Elk
+  - The Valley That Changed Shape
 themes:
   - colossal
   - forest giant

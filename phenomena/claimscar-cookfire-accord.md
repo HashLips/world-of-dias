@@ -7,6 +7,7 @@ related:
   - Claimscar Cookfire Circle
   - Claimscar vent claim rule
   - Cold Conflict and Soft Pressure of Dias
+  - The Spoiled Accord Breakfast
 themes:
   - Claimscar
   - cold conflict

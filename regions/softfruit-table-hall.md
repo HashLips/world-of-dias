@@ -11,6 +11,9 @@ related:
   - F432 Shared Table
   - Peoples of Dias
   - Nauw Fruit Reverence
+  - Softfruit Ladle
+  - Softfruit Manners Chapbook
+  - Softfruit Second-Ladle Token
 themes:
   - shared table
   - fruit culture

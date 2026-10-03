@@ -8,6 +8,7 @@ related:
   - Driftfall
   - Sorel
   - F432 (frequency realm)
+  - The Cooled Daughter-Stone
 themes:
   - contagious venting
   - ground-plate shift

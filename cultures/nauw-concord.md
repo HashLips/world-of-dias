@@ -10,6 +10,7 @@ related:
   - Velorian Ring Protocol
   - Politics of Dias
   - Long Gate
+  - Brindle Compensation Chit
 themes:
   - nauw concord
   - civic authority
