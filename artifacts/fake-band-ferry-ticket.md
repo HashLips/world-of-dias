@@ -12,6 +12,9 @@ related:
   - Ferrylie Joke Pier
   - Frederick Lumens
   - Too Costly to Cross
+  - Vintage Ferry Ticket Prop
+  - Golden-Hour Ferry Ticket Shack
+  - Ferry Ticket to Nowhere
 themes:
   - soft limit comedy
   - no subway
@@ -46,3 +49,5 @@ Sold, pocketed, later found in coats as a reminder. Sometimes pinned on school b
 ## Notes
 
 Place: [`regions/ferrylie-joke-pier.md`](../regions/ferrylie-joke-pier.md). Symbol: [`symbols/no-ferry-mark.md`](../symbols/no-ferry-mark.md).
+
+Artwork prop: [`artworks/vintage-ferry-ticket-prop.md`](../artworks/vintage-ferry-ticket-prop.md) (`assets/vintage-ferry-ticket-prop.jpg`). Pier scene: [`artworks/golden-hour-ferry-ticket-shack.md`](../artworks/golden-hour-ferry-ticket-shack.md).

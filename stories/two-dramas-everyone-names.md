@@ -15,6 +15,8 @@ related:
   - Tea Slit Bench
   - Distant lumen-abyss bleed
   - Ferrylie Joke Pier
+  - Golden-Hour Ferry Ticket Shack
+  - Vintage Ferry Ticket Prop
 themes:
   - frequency teaching
   - F200
@@ -59,3 +61,5 @@ A visitor from Dott's cluster lingered, eyes bright with the wrong kind of appet
 ## Notes
 
 Chapter 3 of **The Calibration Saga** (Movement One).
+
+Artwork: [`artworks/golden-hour-ferry-ticket-shack.md`](../artworks/golden-hour-ferry-ticket-shack.md) (pier shack); ticket close-up: [`artworks/vintage-ferry-ticket-prop.md`](../artworks/vintage-ferry-ticket-prop.md).

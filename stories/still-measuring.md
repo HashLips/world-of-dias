@@ -18,6 +18,7 @@ related:
   - Frederick Lumens
   - Calen Brink
   - Tea Slit Bench
+  - Golden-Hour Ferry Ticket Shack
 themes:
   - aftermath
   - haunt
@@ -53,3 +54,5 @@ Orrin scraped a correction in his ledger, bowed to an ordinary lamp, and kept me
 ## Notes
 
 Chapter 18 of **The Calibration Saga** (Movement Three).
+
+Artwork cousin when Ell jokes harder at the pier: [`artworks/golden-hour-ferry-ticket-shack.md`](../artworks/golden-hour-ferry-ticket-shack.md).

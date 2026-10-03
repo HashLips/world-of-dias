@@ -13,6 +13,8 @@ related:
   - Orrin Veld
   - Frederick Lumens
   - Too Costly to Cross
+  - Golden-Hour Ferry Ticket Shack
+  - Vintage Ferry Ticket Prop
 themes:
   - folklore
   - soft limits
@@ -54,5 +56,7 @@ Concrete cousins in canon:
 - [`symbols/no-ferry-mark.md`](../symbols/no-ferry-mark.md)
 - [`cultures/no-ferry-disclaimer-custom.md`](../cultures/no-ferry-disclaimer-custom.md)
 - [`inhabitants/captain-ell-ferrylie.md`](../inhabitants/captain-ell-ferrylie.md)
+- [`artworks/golden-hour-ferry-ticket-shack.md`](../artworks/golden-hour-ferry-ticket-shack.md)
+- [`artworks/vintage-ferry-ticket-prop.md`](../artworks/vintage-ferry-ticket-prop.md)
 
 Saga soft limit (locked): no ferry between bands; Frederick’s crossing outcome untouched; Frequency Zero unresolved.

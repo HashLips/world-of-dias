@@ -14,6 +14,8 @@ related:
   - Calibration Row
   - Captain Ell Ferrylie
   - No-Ferry Disclaimer Custom
+  - Vintage Ferry Ticket Prop
+  - Fake Band Ferry Ticket
 themes:
   - Frederick bridge
   - no subway
@@ -49,3 +51,5 @@ Now, with Frame chalk on the floor and a leaf that would not stay quiet, Orrin t
 ## Notes
 
 Chapter 6 of **The Calibration Saga** (Movement One).
+
+Artwork: [`artworks/vintage-ferry-ticket-prop.md`](../artworks/vintage-ferry-ticket-prop.md) — the joke ticket Orrin means when he refuses Frederick a door.

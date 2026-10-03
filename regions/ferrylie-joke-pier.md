@@ -17,6 +17,8 @@ related:
   - Orrin Veld
   - Frederick Lumens
   - Too Costly to Cross
+  - Golden-Hour Ferry Ticket Shack
+  - Vintage Ferry Ticket Prop
 themes:
   - stage place
   - soft limit comedy
