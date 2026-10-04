@@ -10,6 +10,7 @@ related:
   - Lumen of Softfruit
   - F432 Shared Table
   - Everyday Resonant Tech
+  - Notched Ladle, Bowl, and Green Crate
 themes:
   - joy
   - everyday resonance

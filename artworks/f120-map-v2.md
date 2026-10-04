@@ -45,7 +45,7 @@ Latest visual standard for F120 / The Returning Span. Prefer over *F120 Map* for
 
 ## Lore Connection
 
-Prior pass: [*F120 Map*](f120-map.md) (`assets/f120-map.png`). Soft limit: lane geography is not a ferry between bands.
+Prior pass: [*F120 Map*](f120-map.md) (`assets/f120-map.jpg`). Soft limit: lane geography is not a ferry between bands.
 
 ## Notes
 

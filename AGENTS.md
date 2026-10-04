@@ -31,6 +31,7 @@ Always-on reminder: [`.cursor/rules/dias-contributor.mdc`](.cursor/rules/dias-co
 | [`HARMONIC-SAGA-PATH.md`](HARMONIC-SAGA-PATH.md) | Main narrative journey |
 | [`LUMEN-SAGA-PATH.md`](LUMEN-SAGA-PATH.md) | Second narrative journey |
 | [`CALIBRATION-SAGA-PATH.md`](CALIBRATION-SAGA-PATH.md) | Third narrative journey (spectrum / Caliburn) |
+| [`FARSTOCK-SAGA-PATH.md`](FARSTOCK-SAGA-PATH.md) | Fourth narrative journey (Farstock / Sorel road) |
 
 ## Agent-only materials
 

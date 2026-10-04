@@ -7,6 +7,7 @@ related:
   - First Lane Milestone Rest
   - F120 (frequency realm)
   - Refrain Walkers
+  - Paired Cushions a Handspan Apart
 themes:
   - near-return
   - soft growth

@@ -16,6 +16,7 @@ related:
   - The Lumen Saga
   - The Climb to Ashcalm
   - Come Into Stillhollow
+  - Grey Shoulder Through the Canopy
 themes:
   - quiet mountain
   - overlooked geography

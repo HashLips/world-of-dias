@@ -12,6 +12,7 @@ related:
   - Hearthvale
   - Sorel Exile and Yard Movement
   - Long Gate Assent Cord
+  - Seat, Rail, and a Water Skin
 themes:
   - exile manners
   - threshold rest

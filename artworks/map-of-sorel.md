@@ -31,7 +31,7 @@ based_on: F432 Map V1 and Sorel regional layout
 
 The map gives a clearer visual split between Hearthvale and Driftfall and emphasizes Sorel's bridge-linked relationship to southern Nauw.
 
-Asset reference: `assets/map-of-sorel.PNG`.
+Asset reference: `assets/map-of-sorel.jpg`.
 
 ## Real-World Role
 

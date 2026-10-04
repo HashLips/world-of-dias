@@ -7,6 +7,7 @@ related:
   - F432 (frequency realm)
   - Bleed-Sky Weather
   - Distant lumen-abyss bleed
+  - Open Bleed-Sky Nightbloom
 themes:
   - magical-leaning
   - omen only

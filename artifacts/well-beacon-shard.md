@@ -10,6 +10,7 @@ related:
   - Vesh Wrong-Map
   - Lumira Silence Law
   - Kindness Markets and Black Markets
+  - Wrong-Bright Glass on Open Dunes
 themes:
   - danger
   - water ethics

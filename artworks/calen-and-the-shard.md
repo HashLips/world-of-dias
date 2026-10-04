@@ -42,7 +42,7 @@ Calen and the Shard
 
 Calen appears as a young woman, travel-worn, dust on skin and scarf, dark hair pulled back with loose strands. She holds a palm-sized dark fragment whose interior fractures glow electric blue, lighting her hands and face. The land between her and the city is rocky and sparse; the city reads as pale luminous spires on the horizon.
 
-Asset reference: `assets/calen-and-shard.png`.
+Asset reference: `assets/calen-and-shard.jpg`.
 
 ## Real-World Role
 

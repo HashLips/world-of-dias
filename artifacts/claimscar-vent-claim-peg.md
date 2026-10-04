@@ -10,6 +10,7 @@ related:
   - Claimscar vent-claim rule
   - Garen Scar
   - Sprout Vent
+  - Stake and Frayed Rope at the Ditch
 themes:
   - salvage rights
   - crew marks

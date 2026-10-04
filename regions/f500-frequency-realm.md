@@ -77,7 +77,7 @@ F432’s hold on F500 is **almost entirely indirect**: **tavern myths**, **seale
 
 Frontier tavern lore claims that staring too long at an **empty corner** can “**tune**” a person toward F500, as if attention were a dial—another folk explanation for bad dreams and sudden cold rooms.
 
-The **F500 Map V2** artwork is the current **visual reference** for void-field presentation, **F200** contrast, and **Unraveled** marginalia as **rumor**; see `assets/f500-map-v2.jpg` (prior: **F500 Map** / `assets/f500-map.png`). It is framed as **warning cartography**, not a guarantee of safe routes.
+The **F500 Map V2** artwork is the current **visual reference** for void-field presentation, **F200** contrast, and **Unraveled** marginalia as **rumor**; see `assets/f500-map-v2.jpg` (prior: **F500 Map** / `assets/f500-map.jpg`). It is framed as **warning cartography**, not a guarantee of safe routes.
 
 ## Notes
 

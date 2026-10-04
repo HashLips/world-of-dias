@@ -7,6 +7,7 @@ related:
   - The Glassfold Ledge
   - Veil Scribes
   - Reveal Window Chime
+  - Dull Crust and Steel-Blue Flecks
 themes:
   - timed reveal
   - glass ecology

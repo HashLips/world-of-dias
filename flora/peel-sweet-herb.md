@@ -11,6 +11,7 @@ related:
   - Softfruit Field Interview
   - Quillmend Softfruit Field Notes
   - The Calibration Saga
+  - Dried Bunch at a Door Latch
 themes:
   - locale plants
   - Softfruit

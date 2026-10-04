@@ -11,6 +11,7 @@ related:
   - Calareth Watch
   - Yara Moss
   - Calareth No-Moved-Stone Rule
+  - Rings, Worn Lines, and Plain Blue Ribbons
 themes:
   - ribbon rite
   - public promise

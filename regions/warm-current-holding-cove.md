@@ -12,6 +12,7 @@ related:
   - Hearttide Holding Cloth
   - Holding Cove Tone-Share Custom
   - F380 emotional climate coupling rule
+  - Rose-Amber Bank, Cloth, and Low Otters
 themes:
   - hearttide
   - confluence

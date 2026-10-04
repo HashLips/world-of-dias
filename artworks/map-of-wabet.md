@@ -29,7 +29,7 @@ based_on: F432 Map V1 and Wabet regional layout
 
 The map highlights Wabet's major subregions (Aelwyn Canopy, Verdant Reach, Lumira Sands) and offshore context, including Isle of Calareth.
 
-Asset reference: `assets/map-of-wabet.PNG`.
+Asset reference: `assets/map-of-wabet.jpg`.
 
 ## Real-World Role
 

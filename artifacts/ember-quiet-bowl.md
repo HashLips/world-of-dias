@@ -10,6 +10,7 @@ related:
   - Ember Keepers
   - Ashen Viable Warmth
   - F840 recovery continuity rule
+  - Mended Ember Quiet Bowl
 themes:
   - recovery
   - shared broth

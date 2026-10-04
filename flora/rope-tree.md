@@ -8,6 +8,7 @@ related:
   - The Rope Tree
   - Isle of Calareth
   - Calareth Watch
+  - Rings, Worn Lines, and Plain Blue Ribbons
 themes:
   - sacred
   - vow

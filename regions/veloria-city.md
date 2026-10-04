@@ -38,6 +38,8 @@ related:
   - Ringwash Baths
   - Softfruit Table Hall
   - Outer-Ring Chalk Count
+  - Farstock
+  - The Farstock Saga
 themes:
   - capital
   - concentric city

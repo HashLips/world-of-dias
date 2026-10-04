@@ -28,7 +28,7 @@ based_on: Singing Fishermen and Human-Eyed Whales (lore)
 
 The composition places a human body and whale form in intimate spatial proximity, using dense mark-making and high-contrast tones to suggest both tenderness and discomfort. The whale's visible eye and teeth reinforce the paradox at the center of the lore: the beings who feed civilization are also encountered as persons, rivals, and companions.
 
-Asset reference: `assets/man-with-whale.png`.
+Asset reference: `assets/man-with-whale.jpg`.
 
 ## Real-World Role
 

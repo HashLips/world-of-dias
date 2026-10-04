@@ -7,6 +7,7 @@ related:
   - Long Gate
   - Averra Cliff-Thyme
   - Brindle March
+  - Gray-Green Mats in Stone Cracks
 themes:
   - threshold
   - tough herb

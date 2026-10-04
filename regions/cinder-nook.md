@@ -10,6 +10,7 @@ related:
   - Bran Cinder
   - Singing Fishermen
   - Meal 1
+  - Smoke, Racks, and the Tide Path
 themes:
   - smoke reading
   - slow-dried fish

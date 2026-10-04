@@ -11,6 +11,7 @@ related:
   - No-Captain Hour Pier
   - Driftfall floating-flag rule
   - Claimscar Yard
+  - Driftfall Piers at Sunset
 themes:
   - salvage
   - frontier docks

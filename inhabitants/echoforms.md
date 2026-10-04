@@ -17,6 +17,8 @@ related:
   - Road-Between Echo-Hounds
   - Peoples of Dias
   - The Calibration Saga
+  - The Lean Echo
+  - The Farstock Saga
 themes:
   - accumulated resonance
   - living memory

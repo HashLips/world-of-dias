@@ -45,7 +45,7 @@ based_on: Dias world lore and documented frequency-realm framing
 
 The piece presents **reality as layered resonance** rather than a single plane, with marginal **band status** and **ledger**-style notes that echo the **Supplemental Harmonic Ledger** tone used across the map series. Dedicated F432 land detail now prefers [*F432 Map V2*](f432-map-v2.md) as the go-to macro chart; this infographic remains the Dias-wide stacked-frequency explainer (access, bleed, incomplete band knowledge).
 
-Asset reference: `assets/world-of-dias-info-graphic.png`.
+Asset reference: `assets/world-of-dias-info-graphic.jpg`.
 
 ## Real-World Role
 

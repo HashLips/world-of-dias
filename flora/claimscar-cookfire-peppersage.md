@@ -7,6 +7,7 @@ related:
   - Claimscar Secondfire Ring
   - Claimscar Yard
   - Hungry Dogs
+  - Sooty Undersides on Worn Hot Dirt
 themes:
   - frontier food
   - sharp flavor

@@ -42,7 +42,7 @@ based_on: F840 (frequency realm) and The Ashen Hearthline lore
 
 The artwork uses **ash–ember** gradients, **rest viability** cues, and **difference marks** (seen / changed / recovered since last pass) aligned with the realm’s **aftermath and continuity** tone. It positions F840 among neighbor frequencies; **F610** is the dedicated **reveal-veil** map pass—this one centers **recovery, warmth, and relay** geography.
 
-Asset reference: `assets/f840-map.png`
+Asset reference: `assets/f840-map.jpg`
 
 ## Real-World Role
 

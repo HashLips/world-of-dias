@@ -30,7 +30,7 @@ based_on: VEL Mark Trade Standard and F432 macro-trade circulation
 
 The 200 note widens the scene into a maritime-industrial assembly: elevated platforms, large ships, cranes, and gathered delegations facing one another across water-linked trade space. The palette cools toward steel-blue and silver-gold, and a security-window block is embedded in the right denomination panel beside **TWO HUNDRED VEL**. Tri-region labels remain visible along the lower edge, reinforcing that this value tier is tied to large coordinated exchange across F432.
 
-Asset reference: `assets/200-vel-mark.png`.
+Asset reference: `assets/200-vel-mark.jpg`.
 
 ## Real-World Role
 

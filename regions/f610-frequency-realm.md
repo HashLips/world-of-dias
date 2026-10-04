@@ -63,7 +63,7 @@ In F432, F610 is mostly referenced in investigative circles and cautionary myths
 
 Art and diagrams represent F610 with layered panes, split reflections, and brief alignment notches rather than broad territorial borders.
 
-The **F610 Map V2** artwork is the current visual reference for **The Glassfold Ledge** and foldline / window-shelf navigation; see `assets/f610-map-v2.jpg` (prior: *F610 Map* / `assets/f610-map.png`).
+The **F610 Map V2** artwork is the current visual reference for **The Glassfold Ledge** and foldline / window-shelf navigation; see `assets/f610-map-v2.jpg` (prior: *F610 Map* / `assets/f610-map.jpg`).
 
 Additional motif work includes **Awake 1** and the reported **Mirror-Wake Inversion** event, both used by investigators to discuss self-reflection anomalies under reveal strain.
 

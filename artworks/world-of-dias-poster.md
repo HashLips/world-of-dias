@@ -37,7 +37,7 @@ based_on: Dias world lore and Nauw as a tiered crossroads megacity
 
 The composition mixes **realistic depth** (water, ships, crowding architecture, sky traffic) with **symbolic figures** and **realm tags**, selling the core line that **reality is not one layer** but **stacked frequency realms**. **F432** sits on the central city mass; other bands appear as **annotated focal points** around the frame, including ember-quiet and **unfinished** tonal hints at the lower range of the image.
 
-Asset reference: `assets/world-of-dias-poster.png`.
+Asset reference: `assets/world-of-dias-poster.jpg`.
 
 ## Real-World Role
 

@@ -5,6 +5,7 @@ region: Aelwyn Canopy
 related:
   - Flora of Dias
   - Aelwyn Canopy
+  - Ridged Willow in a Standing Forest
 themes:
   - magical-leaning
   - omen

@@ -38,7 +38,7 @@ based_on: F960 (frequency realm) and The Unfinished regional lore
 
 The map expresses F960 through layered linework, revision seams, sector framing, and persistence logic (scale of passes rather than strict mile confidence), while visually contrasting F960 with both F200 and F500 in Dias-level context.
 
-Asset reference: `assets/f960-map.png`
+Asset reference: `assets/f960-map.jpg`
 
 ## Real-World Role
 

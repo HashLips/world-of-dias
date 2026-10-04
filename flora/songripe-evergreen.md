@@ -6,6 +6,7 @@ related:
   - Flora of Dias
   - Songripe Isles
   - The Isles Where Fruit Will Not Ripen
+  - Hard Green Fruit on a Rocky Shore
 themes:
   - magical-leaning
   - unripe fruit

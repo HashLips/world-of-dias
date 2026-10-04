@@ -12,6 +12,7 @@ related:
   - Verdant Reach
   - Wabet Open Hand
   - Lucky Fruit sharing-knife
+  - Shade, Board, and Wheels Outside
 themes:
   - waystation
   - knife custom

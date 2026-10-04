@@ -10,6 +10,7 @@ related:
   - Softfruit Ladle Court
   - Softfruit ladle-before-stamp rule
   - Nineteen-Nineteen Fairness Cards
+  - Second-Ladle Chip
 themes:
   - joy
   - fairness

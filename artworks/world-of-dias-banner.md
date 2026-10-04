@@ -34,7 +34,7 @@ World of Dias Banner
 
 Chiseled metallic “DIAS” dominates; smaller serif “THE WORLD OF” sits above. Background reads as deep brown-black with golden smoke, spark particles, and a celestial compass-like diagram. The mood is epic, archival, and slightly ancient.
 
-Asset reference: `assets/world-of-dias-banner-repo.png`.
+Asset reference: `assets/world-of-dias-banner-repo.jpg`.
 
 ## Real-World Role
 

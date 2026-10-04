@@ -12,6 +12,7 @@ related:
   - Calareth Watch
   - Yara Moss
   - Settlements of Dias
+  - Shutters, a Blank Slate, and an Empty Bench
 themes:
   - guest hall
   - few beds

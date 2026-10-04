@@ -48,7 +48,7 @@ Latest visual standard for F960 / The Unfinished. Prefer over *F960 Map* for cur
 
 ## Lore Connection
 
-Prior pass: [*F960 Map*](f960-map.md) (`assets/f960-map.png`). Soft limit: scaffold notches are next steps, not subways.
+Prior pass: [*F960 Map*](f960-map.md) (`assets/f960-map.jpg`). Soft limit: scaffold notches are next steps, not subways.
 
 ## Notes
 

@@ -12,6 +12,7 @@ related:
   - Eastbound Fruit Road
   - Load-Share Clover
   - Nauw
+  - Smudge Board and Cooling Axles
 themes:
   - load sharing
   - travel manners

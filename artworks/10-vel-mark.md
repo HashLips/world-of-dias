@@ -29,7 +29,7 @@ based_on: VEL Mark Trade Standard and Veloria public works identity
 
 The note retains the same streamer geometry and left seal medallion but shifts imagery toward engineered infrastructure: scaffolded bridgeworks, dock-mechanical structures, and clean lane-like sightlines across water and stone. Faint technical linework in the sky reinforces planning and civic systems, while the right panel formalizes value as **TEN VEL** / **10 VELMARKS** with issuer-style text and serial. Overall, the denomination feels practical, organized, and institution-adjacent.
 
-Asset reference: `assets/10-vel-mark.png`.
+Asset reference: `assets/10-vel-mark.jpg`.
 
 ## Real-World Role
 

@@ -10,6 +10,7 @@ related:
   - Ashen Relay Ponies
   - Hearthvale shelter-first rule
   - Horn for the Night Breeze
+  - Porch Horn at Ashen Rest
 themes:
   - travel
   - rest

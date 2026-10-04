@@ -29,7 +29,7 @@ based_on: VEL Mark Trade Standard and Veloria harbor market activity
 
 The elongated strip keeps the same left `V` medallion and circular border rhythm, but the center scene becomes busier: cranes, ships, dock edges, and mixed inhabitants in active exchange. Small flying forms and layered harbor silhouettes push the note toward movement and negotiation, while the right denomination box presents **FIVE VELLMARKS** and **5 VEL MARKS** with serial detail. The artwork reads as low-tier but high-traffic port commerce.
 
-Asset reference: `assets/5-vel-mark.png`.
+Asset reference: `assets/5-vel-mark.jpg`.
 
 ## Real-World Role
 

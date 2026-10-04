@@ -12,6 +12,7 @@ related:
   - The Flag That Never Docked
   - The Drift Hour with No Captain
   - Claimscar Yard
+  - Empty Timber at the Unclaimed Hour
 themes:
   - temporary truce
   - frontier manners

@@ -13,6 +13,7 @@ related:
   - The Map That Must Stay Wrong
   - Quiet Well Map-Wrongness Rule
   - Take It Easy
+  - Palm, Stone Lip, and Dark Water
 themes:
   - hidden oasis
   - deliberate misdirection

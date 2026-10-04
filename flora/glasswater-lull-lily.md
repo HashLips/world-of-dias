@@ -6,6 +6,7 @@ related:
   - Flora of Dias
   - Glasswater Fields
   - The Glasswater Mirror Lull
+  - Wide Lily on a Grounded Pool
 themes:
   - ordinary
   - omen

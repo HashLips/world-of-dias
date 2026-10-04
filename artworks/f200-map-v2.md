@@ -45,7 +45,7 @@ Latest visual standard for F200 / Aurel Meridian. Prefer over *F200 Map* for cur
 
 ## Lore Connection
 
-Prior pass: [*F200 Map*](f200-map.md) (`assets/f200-map.png`). Contrast cousin: F500 warning charts. No ferry.
+Prior pass: [*F200 Map*](f200-map.md) (`assets/f200-map.jpg`). Contrast cousin: F500 warning charts. No ferry.
 
 ## Notes
 

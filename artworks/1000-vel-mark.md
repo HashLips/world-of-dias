@@ -33,7 +33,7 @@ based_on: VEL Mark Trade Standard and F432 reserve-trade symbolism
 
 The 1000 note is rendered as a ceremonial macro plate rather than a street scene: concentric geometry, star-map arcs, and a monumental central complex rising beneath a tri-region canopy labeled **Wabet**, **Nauw**, and **Sorel**. The left medallion becomes more elaborate with radiating compass-like structures, while the right panel presents **ONE THOUSAND VEL** and a premium security window. Dense gold-on-navy linework and a frieze of small figures along the base convey reserve-class authority and realm-scale symbolism.
 
-Asset reference: `assets/1000-vel-mark.png`.
+Asset reference: `assets/1000-vel-mark.jpg`.
 
 ## Real-World Role
 

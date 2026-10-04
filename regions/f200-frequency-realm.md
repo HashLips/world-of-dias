@@ -72,7 +72,7 @@ F432 does not “see” F200 the way it sees a coastline. Knowledge arrives as *
 
 Travelers’ tales from other frequencies often flatten F200 into a **single geometric icon** (triangle, circle, or line) in marginal diagrams—simplified emblems of **high purity and order**—while actual realm maps return to the **elongated rectangle** as the more faithful large-scale frame.
 
-The **F200 Map V2** artwork is the current **visual reference** for that large-scale frame, **Aurel Meridian** as the bright spine, and **Dias**-level context panels; see `assets/f200-map-v2.jpg` (prior: **F200 Map** / `assets/f200-map.png`).
+The **F200 Map V2** artwork is the current **visual reference** for that large-scale frame, **Aurel Meridian** as the bright spine, and **Dias**-level context panels; see `assets/f200-map-v2.jpg` (prior: **F200 Map** / `assets/f200-map.jpg`).
 
 ## Notes
 

@@ -46,7 +46,7 @@ Latest visual standard for F840 / The Ashen Hearthline. Prefer over *F840 Map* f
 
 ## Lore Connection
 
-Prior pass: [*F840 Map*](f840-map.md) (`assets/f840-map.png`). Soft limit: recovery routes are not band ferries; cold gaps stay named honestly.
+Prior pass: [*F840 Map*](f840-map.md) (`assets/f840-map.jpg`). Soft limit: recovery routes are not band ferries; cold gaps stay named honestly.
 
 ## Notes
 

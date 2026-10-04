@@ -50,7 +50,7 @@ Asset reference: `assets/f432-map-v2.jpg`.
 
 ## Lore Connection
 
-Lineage: Early survey (`assets/f432-map.png`) → *F432 Map V1* (`assets/f432-map-v1.png`) → *F432 Map V2* (this entry). Regional zooms (Map of Nauw / Wabet / Sorel) remain cousins; this is the go-to realm chart.
+Lineage: Early survey (`assets/f432-map.jpg`) → *F432 Map V1* (`assets/f432-map-v1.jpg`) → *F432 Map V2* (this entry). Regional zooms (Map of Nauw / Wabet / Sorel) remain cousins; this is the go-to realm chart.
 
 ## Notes
 

@@ -30,7 +30,7 @@ based_on: VEL Mark Trade Standard and F432 high-value settlement culture
 
 The strip keeps the same medallion-and-value architecture but darkens into a more formal violet-blue register. Its center depicts guarded crossings, bridge towers, elevated city massing, and clustered negotiators in heavier attire, giving the note a frontier-meets-civic authority mood. The right panel states **ONE HUNDRED VEL** with institutional issue text, and the lower labels still reference Wabet, Nauw, and Sorel. The visual message is high-value settlement under structured oversight.
 
-Asset reference: `assets/100-vel-mark.png`.
+Asset reference: `assets/100-vel-mark.jpg`.
 
 ## Real-World Role
 

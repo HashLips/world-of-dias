@@ -10,6 +10,7 @@ related:
   - Hallow Bay
   - Coris Vale
   - Calareth Watch
+  - Coral Strand Tide Ledge
 themes:
   - reef beach
   - tide-pool teaching

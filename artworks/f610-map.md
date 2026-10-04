@@ -41,7 +41,7 @@ based_on: F610 (frequency realm) and The Glassfold Ledge lore
 
 The artwork expresses **interval-based disclosure**: structure that is ordinary until a short **window** makes depth legible. Sidebars list **Dias** frequencies and tie **Supplemental Harmonic Ledger** / **addendum** language to **comparing truth windows** across the echo, hearttide, reveal, and ember bands.
 
-Asset reference: `assets/f610-map.png`
+Asset reference: `assets/f610-map.jpg`
 
 ## Real-World Role
 

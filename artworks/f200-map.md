@@ -34,7 +34,7 @@ based_on: F200 (frequency realm) and Aurel Meridian lore
 
 The artwork encodes the realm as **geometric, light-forward space**: **harmonic gates**, **luminosity fields**, **resonant lattices**, and **Aurel-kind**-aligned imagery consistent with the realm’s in-world **energetic cartography** (distance as coherence, travel by resonance, minimal sound in favor of harmonic expression).
 
-Asset reference: `assets/f200-map.png`
+Asset reference: `assets/f200-map.jpg`
 
 ## Real-World Role
 

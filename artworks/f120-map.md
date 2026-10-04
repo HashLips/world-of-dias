@@ -40,7 +40,7 @@ based_on: F120 (frequency realm) and The Returning Span lore
 
 The artwork encodes **near-return** and **drift** as navigable structure: the Span reads as a crescent or corridor of recurring-but-not-identical passage, with legend entries for **First / Second / Third Lane** severity of variation and for how landmarks behave across passes. Side panels place F120 among other documented frequency realms (F200, F380, F432, F500, F960) and echo the **Dias Council** / frontier chart framing used across the map series.
 
-Asset reference: `assets/f120-map.png`
+Asset reference: `assets/f120-map.jpg`
 
 ## Real-World Role
 

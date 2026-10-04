@@ -12,6 +12,7 @@ related:
   - The Kiln Fires of Second Beginning
   - The Long Gate Argument
   - F432 (frequency realm)
+  - Notches and a Hollowed Palm
 themes:
   - exile law
   - mutual obligation

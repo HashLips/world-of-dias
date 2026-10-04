@@ -10,6 +10,7 @@ related:
   - Veil Scribes
   - F610 reveal window rule
   - F610 Anti-Stare Manners
+  - Soft Close of the Reveal Chime
 themes:
   - timed reveal
   - anti-linger

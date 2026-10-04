@@ -47,7 +47,7 @@ Latest visual standard for F500’s feel of absence. Prefer over *F500 Map* for 
 
 ## Lore Connection
 
-Prior pass: [*F500 Map*](f500-map.md) (`assets/f500-map.png`). Contrast cousin: F200 Map V2. Soft limit: no ferry; Unraveled stay rumor unless promoted.
+Prior pass: [*F500 Map*](f500-map.md) (`assets/f500-map.jpg`). Contrast cousin: F200 Map V2. Soft limit: no ferry; Unraveled stay rumor unless promoted.
 
 ## Notes
 

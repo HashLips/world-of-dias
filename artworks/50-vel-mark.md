@@ -30,7 +30,7 @@ based_on: VEL Mark Trade Standard and Wabet-Nauw-Sorel trade lanes
 
 This denomination expands into a warm gold-forward logistics tableau: produce loads, carts, pack animals, warehousing ramps, and market workers distributed across a broad supply corridor. Region labels for **Wabet**, **Nauw**, and **Sorel** are integrated into the scene framing, while fruit and harvest motifs appear in the decorative border. The left `V` medallion and right **FIFTY VEL** panel keep series continuity as the note scales up from city trade to inter-regional provisioning.
 
-Asset reference: `assets/50-vel-mark.png`.
+Asset reference: `assets/50-vel-mark.jpg`.
 
 ## Real-World Role
 

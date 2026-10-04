@@ -5,6 +5,7 @@ region: F960 (frequency realm)
 related:
   - Flora of Dias
   - F960 (frequency realm)
+  - One Fruit, Half Ripe and Half Drawn
 themes:
   - unsettled wonder
   - observed

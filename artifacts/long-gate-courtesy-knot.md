@@ -10,6 +10,7 @@ related:
   - DEB Gate threshold dignity rule
   - Nauw Concord
   - Transport of Dias
+  - Loosened Courtesy on Gate Wood
 themes:
   - border manners
   - travel

@@ -7,6 +7,7 @@ related:
   - Quiet Well
   - Lumira Sands
   - Lumira Glass-Succulent
+  - Clear Joints on Open Sand
 themes:
   - desert patience
   - water ethics

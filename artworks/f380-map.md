@@ -40,7 +40,7 @@ based_on: F380 (frequency realm) and The Bloomline Estuary lore
 
 The artwork shows **coves**, **holding** zones, **gradient boundaries**, and **flow** legend consistent with F380’s “emotional climate as place” premise. It carries **Supplemental Harmonic Ledger** and **addendum** cross-references, **frontier (F432)** observation beats, and the same council-style metadata block as the sibling realm maps.
 
-Asset reference: `assets/f380-map.png`
+Asset reference: `assets/f380-map.jpg`
 
 ## Real-World Role
 

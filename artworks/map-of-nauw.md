@@ -29,7 +29,7 @@ based_on: F432 Map V1 and Nauw regional layout
 
 The map provides a tighter visual read of Nauw's key zones, including Veloria City, the Velorian Basin, Brindle March, Glasswater Fields, Green Garden Border Lanes, Averra Isle, and the Nauw Outer Rim Seas.
 
-Asset reference: `assets/map-of-nauw.PNG`.
+Asset reference: `assets/map-of-nauw.jpg`.
 
 ## Real-World Role
 

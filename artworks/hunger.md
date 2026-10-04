@@ -28,7 +28,7 @@ based_on: Nauw fruit culture and Wabet fruit flow (lore)
 
 The piece uses clustered banana forms and grasping hands to dramatize urgency, appetite, and competition around fruit access. The visual emphasis on bananas communicates their symbolic rank as the highest fruit in Nauw's food imagination.
 
-Asset reference: `assets/hunger.png`.
+Asset reference: `assets/hunger.jpg`.
 
 ## Real-World Role
 

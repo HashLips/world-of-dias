@@ -29,7 +29,7 @@ An early cartographic depiction of F432 used as a baseline reference for the rea
 
 This map captures an earlier surveyed understanding of F432 and is intentionally treated as incomplete and time-bound. It accurately represents broad regional placement used by current canon—Wabet to the west, Nauw to the north-east, and Sorel to the south-east—while leaving room for future expansion and refinement.
 
-Source image: `assets/f432-map.png`
+Source image: `assets/f432-map.jpg`
 
 ## Cultural Meaning
 

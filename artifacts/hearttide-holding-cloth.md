@@ -10,6 +10,10 @@ related:
   - Tidehearts
   - Holding Cove Tone-Share Custom
   - F380 emotional climate coupling rule
+  - Heartlean Colorstone
+  - Farstock
+  - The Farstock Saga
+  - Rose-Amber Bank, Cloth, and Low Otters
 themes:
   - consent climate
   - hearttide

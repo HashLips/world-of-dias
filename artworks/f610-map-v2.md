@@ -46,7 +46,7 @@ Latest visual standard for F610 / The Glassfold Ledge. Prefer over *F610 Map* fo
 
 ## Lore Connection
 
-Prior pass: [*F610 Map*](f610-map.md) (`assets/f610-map.png`). Soft limit: reveal windows are not ferries.
+Prior pass: [*F610 Map*](f610-map.md) (`assets/f610-map.jpg`). Soft limit: reveal windows are not ferries.
 
 ## Notes
 

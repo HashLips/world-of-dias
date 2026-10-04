@@ -45,7 +45,7 @@ Latest visual standard for F380 / The Bloomline Estuary. Prefer over *F380 Map* 
 
 ## Lore Connection
 
-Prior pass: [*F380 Map*](f380-map.md) (`assets/f380-map.png`). Soft limit: hearttide notice is not a ferry.
+Prior pass: [*F380 Map*](f380-map.md) (`assets/f380-map.jpg`). Soft limit: hearttide notice is not a ferry.
 
 ## Notes
 

@@ -32,7 +32,7 @@ based_on: Early F432 Survey Map (rough concept) and Dias-linked realm layout
 
 This version keeps the established macro layout of F432 while presenting a cleaner, more intentional visual read of regional relationships and traversal flow. The asset is presented in color for region distinction and readability. It is treated as a polished cartographic artwork pass rather than a canon reset.
 
-Asset reference: `assets/f432-map-v1.png`.
+Asset reference: `assets/f432-map-v1.jpg`.
 
 ## Real-World Role
 
@@ -40,7 +40,7 @@ Historical visual standard between the early survey and *F432 Map V2*. Prefer **
 
 ## Lore Connection
 
-Lineage: early survey (`assets/f432-map.png`) → *F432 Map V1* (this entry) → [*F432 Map V2*](f432-map-v2.md) (`assets/f432-map-v2.jpg`).
+Lineage: early survey (`assets/f432-map.jpg`) → *F432 Map V1* (this entry) → [*F432 Map V2*](f432-map-v2.md) (`assets/f432-map-v2.jpg`).
 
 ## Notes
 

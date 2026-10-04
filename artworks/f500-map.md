@@ -35,7 +35,7 @@ based_on: F500 (frequency realm) and The Unraveled lore
 
 The artwork follows the in-world idea that F500 is **not a country in the ordinary sense**; it is rendered as a **horizonless inverse field** with **void currents**, **dissolving pockets**, and marginal **expedition** framing (low return, memory fray) aligned with F500’s reputation as **moral and sensory counterweight** to F200’s luminosity.
 
-Asset reference: `assets/f500-map.png`
+Asset reference: `assets/f500-map.jpg`
 
 ## Real-World Role
 

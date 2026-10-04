@@ -28,7 +28,7 @@ based_on: Veloria City (region lore)
 
 The poster frames a cart of inhabitants traveling toward Veloria City's monumental gate and urban mass, emphasizing both human-scale movement and city-scale grandeur.
 
-Asset reference: `assets/poster-of-veloria-city.PNG`.
+Asset reference: `assets/poster-of-veloria-city.jpg`.
 
 ## Real-World Role
 

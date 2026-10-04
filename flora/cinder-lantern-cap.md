@@ -5,6 +5,7 @@ region: Cinder Nook
 related:
   - Flora of Dias
   - Cinder Nook
+  - Cinder Nook Lantern Cap
 themes:
   - craft
   - tiny light

@@ -41,6 +41,15 @@ Third long narrative journey. Follows **Orrin Veld** proving background frequenc
 
 **Complete** (18 chapters + optional aftermath). Caliburn at large. Frequency Zero unresolved. Hooks to Harmonic (method vs gift) and Lumen (Frederick’s research-years consultation).
 
+### The Farstock Saga
+
+Fourth long narrative journey. Follows **Joss Merrow**, **Harl Fenlow**, and **Rill Ostmark** from the outer-ring shop **Farstock** toward **Sorel** after they steal what **Pim Farstock** would not sell. A Hearttide-leaning stone stands up as **the Lean Echo**. They never reach F500. Nobody learns a way.
+
+- Path: [`FARSTOCK-SAGA-PATH.md`](FARSTOCK-SAGA-PATH.md)
+- Spine: [`world/the-farstock-saga.md`](world/the-farstock-saga.md)
+
+**Complete** (18 chapters). The echo is back in the stone. Whether it knew a way stays open. Frequency Zero, band ferries, and Frederick Lumens’s crossing stay untouched.
+
 ---
 
 ## Adding a saga

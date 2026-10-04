@@ -22,6 +22,7 @@ related:
   - Long Gate Assent Cord
   - Gate Wind Manners
   - Long Gate Niche Watcher
+  - Seat, Rail, and a Water Skin
 themes:
   - border
   - exile infrastructure
