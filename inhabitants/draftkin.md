@@ -4,6 +4,7 @@ name: Draftkin
 region: F960 (frequency realm)
 culture: The Open Hand of Making
 related:
+  - Ghost Quarter Court
   - F960 (frequency realm)
   - The Unfinished
   - The Open Hand of Making

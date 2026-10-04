@@ -4,6 +4,7 @@ name: The Blue Litter Husk
 region: Wabet
 culture:
 related:
+  - Blue Litter Husk
   - Echoforms
   - Blue Litter Underwood
   - That Forest

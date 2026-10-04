@@ -6,6 +6,7 @@ parent_region: F120 (frequency realm)
 region: F120 (frequency realm)
 culture:
 related:
+  - Returning Span Offset Lanes
   - F120 (frequency realm)
   - Refrain Walkers
   - The Bell That Rings Twice Differently

@@ -6,6 +6,7 @@ parent_region: The Unfinished
 region: F960 (frequency realm)
 culture: The Open Hand of Making
 related:
+  - Ghost Quarter Court
   - The Unfinished
   - F960 (frequency realm)
   - Draftkin

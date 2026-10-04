@@ -6,6 +6,7 @@ parent_region: Nauw
 region: F432 (frequency realm)
 culture:
 related:
+  - Long Gate Span
   - Nauw
   - Sorel
   - Hearthvale

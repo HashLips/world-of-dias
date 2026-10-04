@@ -6,6 +6,7 @@ parent_region: F500 (frequency realm)
 region: F500 (frequency realm)
 culture:
 related:
+  - Null-Edge Cairn Rumor
   - F500 (frequency realm)
   - F500 negation proximity rule
   - Null-Proximity Warning Tag

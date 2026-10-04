@@ -6,6 +6,7 @@ parent_region: The Glassfold Ledge
 region: F610 (frequency realm)
 culture:
 related:
+  - Third Window Minute
   - The Glassfold Ledge
   - F610 (frequency realm)
   - Veil Scribes

@@ -6,6 +6,7 @@ parent_region: The Ashen Hearthline
 region: F840 (frequency realm)
 culture:
 related:
+  - Kindle Spur Rest
   - The Ashen Hearthline
   - F840 (frequency realm)
   - Ember Keepers

@@ -5,6 +5,7 @@ artifact_type: resonant shard
 region: Velorian Basin
 culture:
 related:
+  - Basin Rail in a Hand
   - Resonant Shards
   - Resonant Artifacts
   - Resonant Shard

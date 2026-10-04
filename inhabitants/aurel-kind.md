@@ -4,6 +4,7 @@ name: Aurel-kind
 region: F200 (frequency realm)
 culture:
 related:
+  - Aurel Meridian Gathering
   - F200 (frequency realm)
   - Aurel Meridian
   - Dias
