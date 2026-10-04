@@ -9,6 +9,7 @@ related:
   - Nauw
   - Velorian Basin
   - F432 (frequency realm)
+  - Unlabeled Rings and a Fruit Flourish
 themes:
   - fairgrounds
   - outer ring life

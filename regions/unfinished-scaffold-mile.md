@@ -12,6 +12,7 @@ related:
   - F960 iterative manifestation rule
   - Draftkin
   - Open Hand Maker Tech
+  - Frames Holding and Frames Not
 themes:
   - becoming
   - craft

@@ -10,6 +10,7 @@ related:
   - Anonymous Load Scrap Token
   - Calibration Row
   - Helpful Glass Agreement
+  - A Few Strokes, Not a Screen
 themes:
   - mythic personal tech
   - measurement

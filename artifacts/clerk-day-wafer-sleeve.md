@@ -10,6 +10,7 @@ related:
   - Tone-Mark Messenger Reed
   - Everyday Resonant Tech
   - Veloria ring clearance rule
+  - One Blank Wafer, Sleeve Unworn
 themes:
   - mythic personal tech
   - clerk craft

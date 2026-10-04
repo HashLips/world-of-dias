@@ -11,6 +11,7 @@ related:
   - Spectrum Frame
   - Measure-Mark
   - Building the Spectrum Frame
+  - Three Hinges and Crooked Ticks
 themes:
   - craft affection
   - aperture ticks

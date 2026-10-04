@@ -10,6 +10,7 @@ related:
   - F610 Anti-Stare Manners
   - The Window That Would Not Blink
   - Glassfold Wall-Eye Cap
+  - One Dull Tick on a Smoked Oval
 themes:
   - reveal ethics
   - craft instruments

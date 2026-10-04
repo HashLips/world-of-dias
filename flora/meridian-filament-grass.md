@@ -7,6 +7,7 @@ related:
   - Soft-Ray Procession Hall
   - F200 (frequency realm)
   - Meridian Soft-Rays
+  - Filaments That Barely Shadow
 themes:
   - luminosity
   - path texture

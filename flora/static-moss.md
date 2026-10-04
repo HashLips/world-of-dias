@@ -10,6 +10,7 @@ related:
   - Spectrum Frame
   - Post-Escape Static Drift
   - The Calibration Saga
+  - Lifted Tips on Brick
 themes:
   - locale plants
   - residual static

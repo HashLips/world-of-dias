@@ -11,6 +11,8 @@ related:
   - Serik Dovant
   - Nauw corridor priority rule
   - Long Gate
+  - Wind on the High Steward Steps
+
 themes:
   - civic authority
   - craft

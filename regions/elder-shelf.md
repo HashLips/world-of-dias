@@ -10,6 +10,7 @@ related:
   - Calareth Watch
   - Coris Vale
   - Hallow Bay
+  - Lean Inside Gray Stone
 themes:
   - clifftop quiet
   - day passes

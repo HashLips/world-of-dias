@@ -14,6 +14,8 @@ related:
   - Softfruit Ladle
   - Softfruit Manners Chapbook
   - Softfruit Second-Ladle Token
+  - Fruit and Steam at Softfruit Hall
+
 themes:
   - shared table
   - fruit culture

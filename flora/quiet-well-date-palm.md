@@ -6,6 +6,7 @@ related:
   - Flora of Dias
   - Quiet Well
   - Lumira Silence Law
+  - A Date Palm and an Empty Court
 themes:
   - sacred-useful
   - food

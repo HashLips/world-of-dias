@@ -10,6 +10,7 @@ related:
   - Aelwyn Canopy seven-paths rule
   - The Canopy Truce of Seven Paths
   - Oryn Pell
+  - Boards Along a Limb, Marks Not Carved
 themes:
   - route diplomacy
   - seasonal balance

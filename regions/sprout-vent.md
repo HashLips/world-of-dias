@@ -11,6 +11,8 @@ related:
   - F432 (frequency realm)
   - Vent-sprout spread
   - The Cooled Daughter-Stone
+  - The Inland Throat of Sprout Vent
+
 themes:
   - active venting
   - multiple mouths

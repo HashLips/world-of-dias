@@ -12,6 +12,8 @@ related:
   - Long Gate
   - Alwen Rusk
   - Second-Beginning Slate fragment
+  - First Bowl Before the Story
+
 themes:
   - mutual aid
   - joy

@@ -10,6 +10,7 @@ related:
   - Settlements of Dias
   - F432 Shared Table
   - Banner Moths
+  - Steam and an Empty Court
 themes:
   - baths
   - happiness infrastructure

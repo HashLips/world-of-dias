@@ -9,6 +9,7 @@ related:
   - Bess Thirdchair
   - Verdant Reach
   - Verdant Third-Chair Moss
+  - Three Scratches, No Chair
 themes:
   - joy
   - everyday resonance

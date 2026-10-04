@@ -11,6 +11,8 @@ related:
   - Averra Hearthline
   - Sael Corvin
   - Old Masters of Averra Isle
+  - Paper-Light on Crown Ash
+
 themes:
   - cliff bearing
   - pale stone

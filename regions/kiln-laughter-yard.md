@@ -11,6 +11,7 @@ related:
   - Hearth Laughter Week
   - Hearthvale Second-Beginning Craft
   - Second-Beginning Slate fragment
+  - Ash and Soft Clay at Kiln Laughter Yard
 themes:
   - joy
   - remaking

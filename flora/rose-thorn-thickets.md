@@ -5,6 +5,7 @@ region: Wabet
 related:
   - Flora of Dias
   - Wabet
+  - Wine-Dark Thorns, No Animals
 themes:
   - ordinary
   - feared

@@ -440,6 +440,40 @@ frequencies:
         y: 28
         kind: story
 
+      # --- Vitrin saga ---
+      - entry: The Peel and Bell
+        x: 61.0
+        y: 27.5
+        kind: place
+      - entry: Mercer Shed
+        x: 60.2
+        y: 28.3
+        kind: place
+      - entry: Lent Strip
+        x: 30.0
+        y: 39.2
+        kind: place
+      - entry: The Mix Orchard
+        x: 28.8
+        y: 41.0
+        kind: place
+      - entry: Orrow House
+        x: 28.4
+        y: 41.6
+        kind: place
+      - entry: Lark Venn
+        x: 60.7
+        y: 27.0
+        kind: inhabitant
+      - entry: Dain Mercer
+        x: 59.7
+        y: 27.9
+        kind: inhabitant
+      - entry: Sella Orrow
+        x: 29.2
+        y: 41.3
+        kind: inhabitant
+
   f500:
     label: F500
     entry: F500 (frequency realm)

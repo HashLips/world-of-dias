@@ -12,6 +12,7 @@ related:
   - Lean After the Sneer
   - Freeband Tarp Edge
   - Sorel Exile Compact
+  - Blue Cloth Rose at Second Crossing
 themes:
   - joy
   - defiance

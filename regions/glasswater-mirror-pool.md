@@ -10,6 +10,8 @@ related:
   - Glasswater night-watch rule
   - Leora Finn
   - The Still Pool Vigil
+  - Birds Above Mirror Calm
+
 themes:
   - beauty
   - harvest calm

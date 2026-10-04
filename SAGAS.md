@@ -52,6 +52,17 @@ Fourth long narrative journey. Follows **Joss Merrow**, **Harl Fenlow**, and **R
 
 ---
 
+### The Vitrin Saga
+
+Fifth long narrative journey. Follows **Lark Venn** and **Dain Mercer** from a lent Wabet strip to **The Peel and Bell** and back. A glass fruit, **Vitrin**, is shown, sold, and does not wear off cleanly. The farmer **Sella Orrow** is not erased. The road still hauls.
+
+- Path: [`VITRIN-SAGA-PATH.md`](VITRIN-SAGA-PATH.md)
+- Spine: [`world/the-vitrin-saga.md`](world/the-vitrin-saga.md)
+
+**Complete** (18 chapters). How the mix works, and whether Mercer's invisibility ever fully leaves him, stay open. Frequency Zero, band ferries, and Frederick Lumens's crossing stay untouched.
+
+---
+
 ## Adding a saga
 
 When a new saga journey is ready:

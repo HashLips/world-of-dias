@@ -10,6 +10,7 @@ related:
   - Orrin Veld
   - Oil Apology at Midnight
   - The Calibration Saga
+  - Gloss Where the Tools Are
 themes:
   - locale plants
   - workshop ecology

@@ -10,6 +10,7 @@ related:
   - Softfruit Ladle
   - Fruit-Road Ethics
   - Wired Bloom Markers
+  - A Warm Bead on a Bowl
 themes:
   - Softfruit
   - joy

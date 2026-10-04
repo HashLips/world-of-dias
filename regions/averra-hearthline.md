@@ -11,6 +11,7 @@ related:
   - Crown Ash
   - Averra damp studios
   - The Ashen Hearthline
+  - A Stitched Warmth Above Dark Land
 themes:
   - aligned smoke
   - field kilns rumor

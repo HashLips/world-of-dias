@@ -11,6 +11,8 @@ related:
   - Claimscar vent-claim rule
   - Driftfall
   - Garen Scar
+  - Wet Paint at the Tarp Edge
+
 themes:
   - frontier camp
   - claim manners

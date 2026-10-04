@@ -13,6 +13,7 @@ related:
   - Vault and Break
   - Tam Brinkoil
   - Instrument Apology Rite
+  - Sprung Metal, Not Parade-New
 themes:
   - failed containment
   - escape evidence

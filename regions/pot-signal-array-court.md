@@ -11,6 +11,7 @@ related:
   - Veloria Street Flower Pot
   - Everyday Resonant Tech
   - Leaning Ring Streets
+  - Flowers in the Pot-Signal Court
 themes:
   - civic signal
   - beauty

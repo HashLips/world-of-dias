@@ -12,6 +12,7 @@ related:
   - Claimscar vent-claim rule
   - Hungry Dogs
   - Driftfall
+  - Two Fires, Not a War
 themes:
   - secondfire
   - claim politics

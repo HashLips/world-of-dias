@@ -13,6 +13,7 @@ related:
   - Valorian Operators
   - Leaning Ring Streets
   - Pot-Signal Array Court
+  - Inner Glow from Core Approach
 themes:
   - colossal
   - layered access

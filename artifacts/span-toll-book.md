@@ -10,6 +10,7 @@ related:
   - Toll Talk Token
   - Nessa Tolltalk
   - Reliable and Unreliable Records
+  - Writing Too Small, Ghosts in the Margin
 themes:
   - toll
   - evidence

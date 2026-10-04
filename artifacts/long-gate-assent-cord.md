@@ -10,6 +10,7 @@ related:
   - The Long Gate Argument
   - Assent Ribbon Spool
   - Exile and Second Beginning of Dias
+  - One Plain Knot Beside a Water Skin
 themes:
   - exile
   - assent

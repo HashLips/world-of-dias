@@ -11,6 +11,7 @@ related:
   - Spectrum Frame
   - Wrong by Half a Digit
   - Vault Latch That Failed
+  - Hairline Polish, No Needle
 themes:
   - rival craft
   - over-precision

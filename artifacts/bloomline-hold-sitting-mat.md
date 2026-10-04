@@ -10,6 +10,7 @@ related:
   - The Hold That Outlasted the Speech
   - Bloomline Heart-Deer
   - F380 emotional climate coupling rule
+  - Reed Flat, Color at the Edge
 themes:
   - Bloomline
   - unfinished

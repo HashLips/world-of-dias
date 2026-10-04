@@ -11,6 +11,7 @@ related:
   - Golden Beta Emblem
   - Delci Passage Logbook
   - Signing the Passage
+  - Shut Door, One B, Five Locks
 themes:
   - sealed occasion
   - withheld center

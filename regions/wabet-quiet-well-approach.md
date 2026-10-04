@@ -12,6 +12,7 @@ related:
   - Lumira Silence Law
   - Take It Easy
   - Quiet Well map-wrongness rule
+  - Glitter Sand and Two Cairns
 themes:
   - silence
   - wrong maps

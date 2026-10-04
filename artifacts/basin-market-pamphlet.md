@@ -9,6 +9,7 @@ related:
   - Market Theater Customs
   - Veloria Market Resource Board
   - Reliable and Unreliable Records
+  - Moths and Toll Lizards Under a Crate
 themes:
   - market
   - pamphlet

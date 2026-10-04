@@ -24,6 +24,7 @@ related:
   - The Ribbon Cut at Hallow Bay
   - Settlements of Dias
   - Bay-Ribbon Guest Hall
+  - Clear Water around Isle of Calareth
 themes:
   - pristine coasts
   - cliffs and forests

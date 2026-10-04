@@ -9,6 +9,7 @@ related:
   - F200 (frequency realm)
   - Distant lumen-abyss bleed
   - Diva One
+  - Pale Terraces of Gathered Light
 themes:
   - coherent light
   - ascent overlook

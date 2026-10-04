@@ -30,6 +30,8 @@ related:
   - F120 (frequency realm)
   - F610 (frequency realm)
   - F500 (frequency realm)
+  - Vitrin
+  - The Vitrin Saga
 themes:
   - flora
   - orchards
@@ -223,6 +225,7 @@ Locals use most plants. A minority are watched, feared, sung about, or refused. 
 | 147 | [**Oilvine Creeper**](../flora/oilvine-creeper.md) | Calibration Row workshops | ordinary | observed / shutter jokes | Thrives in oil mist; alcove eaves |
 | 148 | [**Peel-Sweet Herb**](../flora/peel-sweet-herb.md) | Softfruit Corner | ordinary | sniff-test / honesty signal | Keep-mood folk aid; not a realm tool |
 | 149 | [**Static Moss**](../flora/static-moss.md) | Veloria conduit glass | ordinary omen | weather tell | Bristles near residual static / seams |
+| 150 | [**Vitrin**](../flora/vitrin.md) | Wabet mix orchard | magical-leaning | unseen fruit / not a recipe | Glass rind; mix untaught; effect may stick |
 
 ---
 
@@ -241,7 +244,7 @@ Ringfair Dye-Marigold, Flagweek Dye-Flower, Saltwhisper Thorn-Brush, Openhand Cr
 Rope Tree, Quiet Well Date-Palm, Brindle Fork-Tree, Calareth No-Move Moss, Carrow Mask-Willow, Two-Ways Fork-Olive, Fellgrove Boundary-Oak.
 
 ### Magical-leaning & omen (use lightly)
-Lucky Fruit forms, Bleed-Sky Nightbloom, Singing Bark Willow, Leaf-Speech Ivy, Echo-Lichen, Moodbloom Lily, Pane-Moss, Wet-Paint Blossom, Half-Made Fruit, Laughlight Seedgrass, Resonant Shard Moss.
+Lucky Fruit forms, Vitrin, Bleed-Sky Nightbloom, Singing Bark Willow, Leaf-Speech Ivy, Echo-Lichen, Moodbloom Lily, Pane-Moss, Wet-Paint Blossom, Half-Made Fruit, Laughlight Seedgrass, Resonant Shard Moss.
 
 ### Observed only / do not harvest casually
 Listener Ear-Fungus, Underwood Bluecap, Stillhollow Mouth-Fern, Daughter-Vent Warmfern, Forget-Grass, Nullseed, Unraveled Pale-Weed, Vorrith Broth-Herb (rumor).

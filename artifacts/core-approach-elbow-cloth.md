@@ -10,6 +10,7 @@ related:
   - Everyday Resonant Tech
   - Veloria ring clearance rule
   - Oilvine Apology Cloth
+  - Soft Gray, Oily Enough to Replace
 themes:
   - magnificence
   - manners

@@ -12,6 +12,7 @@ related:
   - Softfruit Second-Ladle Token
   - Softfruit ladle-before-stamp rule
   - F432 Shared Table
+  - Ladles and Mint at the Second-Ladle Shelf
 themes:
   - joy manners
   - second helpings

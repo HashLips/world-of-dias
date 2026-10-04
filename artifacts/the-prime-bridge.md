@@ -14,6 +14,7 @@ related:
   - The Harmonic Saga
   - Calen Brink
   - What the Bridge Remembers
+  - One Broken Stone Arch
 themes:
   - convergence
   - resonance

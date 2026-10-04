@@ -13,6 +13,7 @@ related:
   - Veloria Street Flower Pot
   - Twelve Flowers
   - VEL Mark Trade Standard
+  - One Bloom Inward, One Bare Pot
 themes:
   - second ring underbelly
   - flower codes

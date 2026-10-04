@@ -17,6 +17,7 @@ related:
   - Frederick Lumens
   - The Lumen Saga
   - Stolen Blue
+  - Bottle-Gold at the Salt Ledger
 themes:
   - hanging-about culture
   - coastal ease

@@ -574,8 +574,8 @@ TEMPLATE = r"""<!doctype html>
   .gnode { stroke: rgba(8, 10, 20, 0.9); stroke-width: 1.2; cursor: pointer; transition: opacity .15s; }
   .gnode.dim { opacity: 0.07; }
   .gnode.sel { stroke: #fff; stroke-width: 2.4; }
-  .gedge { stroke: #38415f; stroke-opacity: 0.5; stroke-width: 1; transition: opacity .15s; }
-  .gedge.dim { opacity: 0.04; }
+  .gedge { stroke: #3a425c; stroke-opacity: 0.22; stroke-width: 0.75; transition: opacity .15s; }
+  .gedge.dim { opacity: 0.03; }
   .gedge.hot { stroke: var(--accent); stroke-opacity: 0.95; stroke-width: 1.6; }
   .glabel {
     font-size: 10px; fill: #d7ddf0;
@@ -584,6 +584,33 @@ TEMPLATE = r"""<!doctype html>
     transition: opacity .15s;
   }
   .glabel.dim { opacity: 0.05; }
+  .gcluster {
+    fill: rgba(215, 221, 240, 0.22);
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    pointer-events: none;
+    paint-order: stroke;
+    stroke: rgba(7, 8, 14, 0.55);
+    stroke-width: 6px;
+  }
+  .rail select {
+    width: 100%;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 9px;
+    color: var(--ink);
+    padding: 7px 10px;
+    font-size: 0.8rem;
+    outline: none;
+  }
+  .rail select:focus { border-color: rgba(143,169,255,0.5); }
+  .rail .field-label {
+    display: grid; gap: 5px;
+    font-size: 0.78rem; color: var(--muted);
+    margin-bottom: 8px;
+  }
   #tooltip {
     position: fixed;
     z-index: 60;
@@ -999,10 +1026,22 @@ TEMPLATE = r"""<!doctype html>
       </div>
       <div class="rail-group">
         <h3>Layout</h3>
-        <label class="slider">Node spacing
-          <input id="spacing" type="range" min="60" max="300" step="1" value="150" />
+        <label class="field-label">Arrange by
+          <select id="layout-mode">
+            <option value="space" selected>Space</option>
+            <option value="category">Category</option>
+          </select>
         </label>
-        <label class="toggle-row"><input type="checkbox" id="labels-toggle" checked /> Show labels</label>
+        <label class="field-label">Show space
+          <select id="space-filter">
+            <option value="all" selected>All spaces</option>
+          </select>
+        </label>
+        <label class="slider">Node spacing
+          <input id="spacing" type="range" min="80" max="360" step="1" value="190" />
+        </label>
+        <label class="toggle-row"><input type="checkbox" id="labels-toggle" /> Show labels</label>
+        <label class="toggle-row"><input type="checkbox" id="cluster-labels-toggle" checked /> Space labels</label>
         <div class="btn-row">
           <button class="ghost-btn" id="reset-layout">Reshuffle</button>
           <button class="ghost-btn" id="reset-view">Reset view</button>
@@ -1010,7 +1049,7 @@ TEMPLATE = r"""<!doctype html>
       </div>
     </div>
     <div id="graph-wrap">
-      <svg id="graph" viewBox="0 0 2400 1700" preserveAspectRatio="xMidYMid meet"></svg>
+      <svg id="graph" viewBox="0 0 3200 2200" preserveAspectRatio="xMidYMid meet"></svg>
       <div id="graph-hud"></div>
       <div id="graph-hint">drag background to pan &middot; scroll to zoom &middot; drag nodes to arrange</div>
     </div>
@@ -1462,35 +1501,183 @@ document.addEventListener('click', (e) => {
 
 /* ============ graph tab ============ */
 const svg = document.getElementById('graph');
-const GW = 2400, GH = 1700;
+const GW = 3200, GH = 2200;
 const graphRoot = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+const clusterGroup = document.createElementNS('http://www.w3.org/2000/svg', 'g');
 const edgeGroup = document.createElementNS('http://www.w3.org/2000/svg', 'g');
 const nodeGroup = document.createElementNS('http://www.w3.org/2000/svg', 'g');
 const labelGroup = document.createElementNS('http://www.w3.org/2000/svg', 'g');
-graphRoot.append(edgeGroup, nodeGroup, labelGroup);
+graphRoot.append(clusterGroup, edgeGroup, nodeGroup, labelGroup);
 svg.appendChild(graphRoot);
 
 const tooltip = document.getElementById('tooltip');
 const hud = document.getElementById('graph-hud');
 const selectedCats = new Set(categories);
 let focusMode = true; // always on — smoother selection; toggle removed from UI
-let showLabels = true;
-let spacing = 150;
+let showLabels = false;
+let showClusterLabels = true;
+let layoutMode = 'space';
+let selectedSpace = 'all';
+let spacing = 190;
 let selectedId = null;
 let view = { scale: 1, x: 0, y: 0 };
 let energy = 1.0;
-const MIN_ENERGY = 0.012;
+const MIN_ENERGY = 0.008;
 let settled = 0;
 
+const SPACE_ORDER = ['Dias', 'Veloria', 'Nauw', 'Wabet', 'Sorel', 'Bands', 'Other'];
+const SPACE_ANCHOR_NORM = {
+  Dias: { x: 0.50, y: 0.50 },
+  Veloria: { x: 0.74, y: 0.36 },
+  Nauw: { x: 0.80, y: 0.64 },
+  Wabet: { x: 0.24, y: 0.40 },
+  Sorel: { x: 0.40, y: 0.80 },
+  Bands: { x: 0.52, y: 0.16 },
+  Other: { x: 0.18, y: 0.74 },
+};
+const SPACE_FOLD = {
+  'dias': 'Dias',
+  'veloria city': 'Veloria',
+  'calibration row': 'Veloria',
+  'deb gate of veloria': 'Veloria',
+  'core approach overlook': 'Veloria',
+  'clerk stamp gallery': 'Veloria',
+  'anonymous drop wall': 'Veloria',
+  'nauw': 'Nauw',
+  'averra isle': 'Nauw',
+  'averra damp studios': 'Nauw',
+  'averra hearthline': 'Nauw',
+  'brindle march': 'Nauw',
+  'brindle thank-you lean': 'Nauw',
+  'nauw outer rim seas': 'Nauw',
+  'nauw harbor': 'Nauw',
+  'cinder nook': 'Nauw',
+  'wabet': 'Wabet',
+  'aelwyn canopy': 'Wabet',
+  'aelwyn path of the season': 'Wabet',
+  'ashcalm rise': 'Wabet',
+  'eastbound fruit road': 'Wabet',
+  'lumira sands': 'Wabet',
+  'isle of calareth': 'Wabet',
+  'coral strand': 'Wabet',
+  'elder shelf': 'Wabet',
+  'hearthvale': 'Wabet',
+  'the ashen hearthline': 'Wabet',
+  'ashen rest relay': 'Wabet',
+  'the bloomline estuary': 'Wabet',
+  'bloomline holding terrace': 'Wabet',
+  'velorian basin': 'Wabet',
+  'bay-ribbon guest hall': 'Wabet',
+  'hallow bay': 'Wabet',
+  'sorel': 'Sorel',
+  'driftfall': 'Sorel',
+  'driftfall piers': 'Sorel',
+  'claimscar yard': 'Sorel',
+  'claimscar cookfire circle': 'Sorel',
+  'claimscar secondfire ring': 'Sorel',
+  'f120 (frequency realm)': 'Bands',
+  'f200 (frequency realm)': 'Bands',
+  'f380 (frequency realm)': 'Bands',
+  'f432 (frequency realm)': 'Bands',
+  'f500 (frequency realm)': 'Bands',
+  'f610 (frequency realm)': 'Bands',
+  'f840 (frequency realm)': 'Bands',
+  'f960 (frequency realm)': 'Bands',
+  'aurel meridian': 'Bands',
+  'difference mark wayside': 'Bands',
+  'emberfile workshops': 'Bands',
+  'the returning span': 'Bands',
+  'glassfold phase bench': 'Bands',
+  'the glassfold ledge': 'Bands',
+};
+
+const regionByLabel = new Map();
+for (const n of nodes) {
+  if (n.category === 'region') regionByLabel.set(n.label.toLowerCase(), n);
+}
+
+function foldSpaceName(name) {
+  if (!name) return null;
+  let cur = String(name).trim();
+  if (!cur) return null;
+  for (let i = 0; i < 8; i++) {
+    const key = cur.toLowerCase();
+    if (SPACE_FOLD[key]) return SPACE_FOLD[key];
+    if (/^f\d+\b/i.test(cur)) return 'Bands';
+    const reg = regionByLabel.get(key);
+    if (!reg) break;
+    const next = (reg.parent_region || '').trim();
+    if (!next || next.toLowerCase() === key) break;
+    cur = next;
+  }
+  if (/^f\d+\b/i.test(String(name))) return 'Bands';
+  return 'Other';
+}
+
+function assignNodeSpaces() {
+  for (const n of nodes) {
+    let raw = '';
+    if (n.category === 'world') raw = 'Dias';
+    else if (n.category === 'region') {
+      const self = SPACE_FOLD[n.label.toLowerCase()];
+      raw = self ? n.label : (n.parent_region || n.region || n.label);
+    } else {
+      raw = n.region || n.parent_region || '';
+    }
+    n.space = foldSpaceName(raw) || (raw ? 'Other' : 'Dias');
+  }
+}
+assignNodeSpaces();
+
+const spaceCounts = new Map();
+for (const n of nodes) spaceCounts.set(n.space, (spaceCounts.get(n.space) || 0) + 1);
+const spacesPresent = SPACE_ORDER.filter(s => spaceCounts.has(s));
+for (const s of spaceCounts.keys()) {
+  if (!spacesPresent.includes(s)) spacesPresent.push(s);
+}
+
+const spaceFilterEl = document.getElementById('space-filter');
+for (const s of spacesPresent) {
+  const opt = document.createElement('option');
+  opt.value = s;
+  opt.textContent = `${s} (${spaceCounts.get(s)})`;
+  spaceFilterEl.appendChild(opt);
+}
+
+function spaceAnchors() {
+  const out = new Map();
+  for (const s of spacesPresent) {
+    const norm = SPACE_ANCHOR_NORM[s] || { x: 0.5, y: 0.5 };
+    const count = spaceCounts.get(s) || 1;
+    const radius = 140 + Math.sqrt(count) * 18;
+    out.set(s, {
+      x: 220 + norm.x * (GW - 440),
+      y: 180 + norm.y * (GH - 360),
+      radius,
+    });
+  }
+  return out;
+}
+let anchors = spaceAnchors();
+
 function seedPositions() {
+  anchors = spaceAnchors();
   const catIdx = new Map(categories.map((c, i) => [c, i]));
   for (const n of nodes) {
-    const baseAngle = (catIdx.get(n.category) / categories.length) * Math.PI * 2;
-    const r = 540 + Math.random() * 260;
-    const jitter = (Math.random() - 0.5) * 0.9;
-    n.x = GW / 2 + Math.cos(baseAngle + jitter) * r;
-    n.y = GH / 2 + Math.sin(baseAngle + jitter) * r;
     n.vx = 0; n.vy = 0;
+    if (layoutMode === 'category') {
+      const baseAngle = (catIdx.get(n.category) / categories.length) * Math.PI * 2;
+      const r = 620 + Math.random() * 320;
+      const jitter = (Math.random() - 0.5) * 0.75;
+      n.x = GW / 2 + Math.cos(baseAngle + jitter) * r;
+      n.y = GH / 2 + Math.sin(baseAngle + jitter) * r;
+      continue;
+    }
+    const a = anchors.get(n.space) || { x: GW / 2, y: GH / 2, radius: 220 };
+    const ang = Math.random() * Math.PI * 2;
+    const rad = Math.sqrt(Math.random()) * a.radius * 0.85;
+    n.x = a.x + Math.cos(ang) * rad;
+    n.y = a.y + Math.sin(ang) * rad;
   }
 }
 for (const n of nodes) {
@@ -1498,6 +1685,16 @@ for (const n of nodes) {
   n.color = catColor(n.category);
 }
 seedPositions();
+
+const clusterEls = new Map();
+for (const s of spacesPresent) {
+  const t = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+  t.setAttribute('class', 'gcluster');
+  t.setAttribute('text-anchor', 'middle');
+  t.textContent = s;
+  clusterGroup.appendChild(t);
+  clusterEls.set(s, t);
+}
 
 const edgeEls = edges.map((e) => {
   const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
@@ -1523,7 +1720,11 @@ const labelEls = nodes.map((n) => {
 });
 
 function graphVisibleSet() {
-  let vis = new Set(nodes.filter(n => selectedCats.has(n.category)).map(n => n.id));
+  let vis = new Set(
+    nodes
+      .filter(n => selectedCats.has(n.category) && (selectedSpace === 'all' || n.space === selectedSpace))
+      .map(n => n.id)
+  );
   if (focusMode && selectedId) {
     const hood = new Set([selectedId]);
     for (const l of adj.get(selectedId) || []) hood.add(l.id);
@@ -1556,7 +1757,8 @@ function applyGraphFilters() {
     el.classList.toggle('hot', hot);
     el.classList.toggle('dim', v && selectedId ? !hot : false);
   }
-  hud.textContent = `${vis.size} nodes \u00b7 ${visEdges} links`;
+  const spaceBit = selectedSpace === 'all' ? '' : ` \u00b7 ${selectedSpace}`;
+  hud.textContent = `${vis.size} nodes \u00b7 ${visEdges} links${spaceBit}`;
 }
 
 function graphSelect(id, opts = {}) {
@@ -1603,49 +1805,114 @@ function fitView() {
 }
 let userInteracted = false;
 let fitStamp = 0;
-function scheduleFit(delay = 1700) {
+function scheduleFit(delay = 700) {
   fitView();
   const stamp = ++fitStamp;
   setTimeout(() => { if (!userInteracted && stamp === fitStamp) fitView(); }, delay);
 }
 
-function tick() {
-  if (energy <= MIN_ENERGY) return;
+function tickOnce() {
+  if (energy <= MIN_ENERGY) return false;
+  const clustered = layoutMode !== 'category';
   for (const e of edges) {
     const a = nodesById.get(e.source), b = nodesById.get(e.target);
     const dx = b.x - a.x, dy = b.y - a.y;
     const dist = Math.max(1, Math.hypot(dx, dy));
-    const force = (dist - spacing) * 0.0028 * energy;
+    const sameSpace = clustered && a.space === b.space;
+    const rest = sameSpace ? spacing * 0.72 : spacing * (clustered ? 2.55 : 1.0);
+    const force = (dist - rest) * (sameSpace ? 0.0044 : 0.0020) * energy;
     const fx = (dx / dist) * force, fy = (dy / dist) * force;
     a.vx += fx; a.vy += fy; b.vx -= fx; b.vy -= fy;
   }
+
+  // Local repulsion via coarse bins — keeps neighborhoods airy without O(n^2) cost.
+  const cell = Math.max(48, spacing * 0.55);
+  const bins = new Map();
   for (let i = 0; i < nodes.length; i++) {
-    for (let j = i + 1; j < nodes.length; j++) {
-      const a = nodes[i], b = nodes[j];
-      const dx = b.x - a.x, dy = b.y - a.y;
-      const dist = Math.max(1, Math.hypot(dx, dy));
-      const minDist = a.r + b.r + spacing * 0.5;
-      if (dist < minDist) {
-        const push = (minDist - dist) * 0.06 * energy;
-        const px = (dx / dist) * push, py = (dy / dist) * push;
-        a.vx -= px; a.vy -= py; b.vx += px; b.vy += py;
+    const n = nodes[i];
+    const key = ((n.x / cell) | 0) + ':' + ((n.y / cell) | 0);
+    let arr = bins.get(key);
+    if (!arr) { arr = []; bins.set(key, arr); }
+    arr.push(i);
+  }
+  for (const [key, arr] of bins) {
+    const [cx, cy] = key.split(':').map(Number);
+    for (let ox = -1; ox <= 1; ox++) {
+      for (let oy = -1; oy <= 1; oy++) {
+        const other = bins.get((cx + ox) + ':' + (cy + oy));
+        if (!other) continue;
+        for (const i of arr) {
+          for (const j of other) {
+            if (j <= i) continue;
+            const a = nodes[i], b = nodes[j];
+            const dx = b.x - a.x, dy = b.y - a.y;
+            const dist = Math.max(1, Math.hypot(dx, dy));
+            const sameSpace = clustered && a.space === b.space;
+            const minDist = a.r + b.r + spacing * (sameSpace ? 0.62 : 0.95);
+            if (dist < minDist) {
+              const push = (minDist - dist) * (sameSpace ? 0.10 : 0.06) * energy;
+              const px = (dx / dist) * push, py = (dy / dist) * push;
+              a.vx -= px; a.vy -= py; b.vx += px; b.vy += py;
+            }
+          }
+        }
       }
     }
   }
+
   let motion = 0;
   for (const n of nodes) {
-    // Soft center pull only — no hard wall box (wide spacing used to pack against GW×GH).
-    n.vx += (GW / 2 - n.x) * 0.00012 * energy;
-    n.vy += (GH / 2 - n.y) * 0.00012 * energy;
-    n.vx *= 0.82; n.vy *= 0.82;
+    if (clustered) {
+      const a = anchors.get(n.space);
+      if (a) {
+        n.vx += (a.x - n.x) * 0.0028 * energy;
+        n.vy += (a.y - n.y) * 0.0028 * energy;
+      }
+      n.vx += (GW / 2 - n.x) * 0.00004 * energy;
+      n.vy += (GH / 2 - n.y) * 0.00004 * energy;
+    } else {
+      n.vx += (GW / 2 - n.x) * 0.00018 * energy;
+      n.vy += (GH / 2 - n.y) * 0.00018 * energy;
+    }
+    n.vx *= 0.72; n.vy *= 0.72;
     n.x += n.vx;
     n.y += n.vy;
     motion += Math.abs(n.vx) + Math.abs(n.vy);
   }
-  energy *= 0.992;
-  if (motion < nodes.length * 0.01) settled++; else settled = 0;
-  if (settled > 24) { energy = MIN_ENERGY; for (const n of nodes) { n.vx = 0; n.vy = 0; } }
-  if (energy < MIN_ENERGY) energy = MIN_ENERGY;
+  energy *= 0.965;
+  if (motion < nodes.length * 0.018) settled++; else settled = 0;
+  if (settled > 8 || energy <= MIN_ENERGY) {
+    energy = MIN_ENERGY;
+    for (const n of nodes) { n.vx = 0; n.vy = 0; }
+    return false;
+  }
+  return true;
+}
+function tick() {
+  // Burst a few physics steps per frame so the graph snaps into place quickly.
+  const steps = energy > 0.35 ? 4 : energy > 0.12 ? 2 : 1;
+  for (let s = 0; s < steps; s++) {
+    if (!tickOnce()) break;
+  }
+}
+function renderClusterLabels() {
+  const vis = graphVisibleSet();
+  const clustered = layoutMode !== 'category';
+  const sums = new Map();
+  for (const n of nodes) {
+    if (!vis.has(n.id)) continue;
+    let s = sums.get(n.space);
+    if (!s) { s = { x: 0, y: 0, c: 0 }; sums.set(n.space, s); }
+    s.x += n.x; s.y += n.y; s.c++;
+  }
+  for (const [space, el] of clusterEls) {
+    const s = sums.get(space);
+    const show = showClusterLabels && clustered && s && s.c > 0 && (selectedSpace === 'all' || selectedSpace === space);
+    el.style.display = show ? '' : 'none';
+    if (!show) continue;
+    el.setAttribute('x', s.x / s.c);
+    el.setAttribute('y', s.y / s.c - 18);
+  }
 }
 function render() {
   for (const [e, line] of edgeEls) {
@@ -1655,6 +1922,7 @@ function render() {
   }
   for (const [n, c] of nodeEls) { c.setAttribute('cx', n.x); c.setAttribute('cy', n.y); }
   for (const [n, t] of labelEls) { t.setAttribute('x', n.x + n.r + 3); t.setAttribute('y', n.y + 3); }
+  renderClusterLabels();
 }
 (function frame() { tick(); render(); requestAnimationFrame(frame); })();
 
@@ -1773,6 +2041,21 @@ document.getElementById('spacing').addEventListener('input', (e) => {
 document.getElementById('labels-toggle').addEventListener('change', (e) => {
   showLabels = e.target.checked;
   applyGraphFilters();
+});
+document.getElementById('cluster-labels-toggle').addEventListener('change', (e) => {
+  showClusterLabels = e.target.checked;
+});
+document.getElementById('layout-mode').addEventListener('change', (e) => {
+  layoutMode = e.target.value;
+  seedPositions(); energy = 1.0; settled = 0;
+  userInteracted = false;
+  scheduleFit();
+});
+document.getElementById('space-filter').addEventListener('change', (e) => {
+  selectedSpace = e.target.value;
+  applyGraphFilters();
+  userInteracted = false;
+  scheduleFit(400);
 });
 document.getElementById('reset-layout').addEventListener('click', () => {
   seedPositions(); energy = 1.0; settled = 0;

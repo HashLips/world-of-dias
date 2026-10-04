@@ -10,6 +10,7 @@ related:
   - DEB Gate Touch
   - Deb Gate Watch-Geese
   - Long Gate Courtesy Knot
+  - Ankle Height, Not a Tripwire
 themes:
   - dignity
   - gate craft

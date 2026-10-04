@@ -32,6 +32,7 @@ Always-on reminder: [`.cursor/rules/dias-contributor.mdc`](.cursor/rules/dias-co
 | [`LUMEN-SAGA-PATH.md`](LUMEN-SAGA-PATH.md) | Second narrative journey |
 | [`CALIBRATION-SAGA-PATH.md`](CALIBRATION-SAGA-PATH.md) | Third narrative journey (spectrum / Caliburn) |
 | [`FARSTOCK-SAGA-PATH.md`](FARSTOCK-SAGA-PATH.md) | Fourth narrative journey (Farstock / Sorel road) |
+| [`VITRIN-SAGA-PATH.md`](VITRIN-SAGA-PATH.md) | Fifth narrative journey (Vitrin / lent strip) |
 
 ## Agent-only materials
 

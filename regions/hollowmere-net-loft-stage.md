@@ -12,6 +12,7 @@ related:
   - Settlements of Dias
   - The Loft
   - Human-Eyed Whales
+  - Empty Floor at Hollowmere Net-Loft Stage
 themes:
   - music corner
   - storm check-in

@@ -10,6 +10,7 @@ related:
   - Sorel second-beginning right
   - The Kiln Fires of Second Beginning
   - First-Bowl Stew Mark
+  - A Crack, Not a Face
 themes:
   - craft
   - joy

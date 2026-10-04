@@ -10,6 +10,7 @@ related:
   - Hearthvale Stew-Onion
   - Softfruit Keep-Mark Cord
   - Hearth Laughter Week
+  - One Hearth Tick in the Hall Pot
 themes:
   - joy
   - shelter

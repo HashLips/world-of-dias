@@ -10,6 +10,7 @@ related:
   - Wired Bloom Markers
   - Waystation Soup Tag
   - The Restoration Before the Pick
+  - An Eye and Unnumbered Notches
 themes:
   - fruit-road
   - reciprocity

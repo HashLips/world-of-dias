@@ -10,6 +10,7 @@ related:
   - The Phase Stamp That Blinked Twice
   - F610 Anti-Stare Manners
   - Glassfold Phase Bench
+  - Seated So No Eye Shows
 themes:
   - Glassfold
   - craft

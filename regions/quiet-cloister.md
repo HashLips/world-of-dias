@@ -12,6 +12,7 @@ related:
   - The Golden Tears of Averra
   - Golden Teer (Sael Corvin Portrait)
   - Averra offshore courtesy rule
+  - Salt Light in Quiet Cloister
 themes:
   - sealed memory
   - selective revelation

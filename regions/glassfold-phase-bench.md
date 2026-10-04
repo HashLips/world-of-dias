@@ -11,6 +11,7 @@ related:
   - Glassfold Phase-Stamp
   - Veil Scribes
   - Glassfold wall-eye spacing rule
+  - One Long Bench, Trays Still Shut
 themes:
   - evidence craft
   - mystery

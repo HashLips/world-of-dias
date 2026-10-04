@@ -11,6 +11,8 @@ related:
   - Gallery Going Customs
   - The Sketchy Gallery
   - Quiet Cloister
+  - Averra’s Damp Work Rooms
+
 themes:
   - craft
   - ink

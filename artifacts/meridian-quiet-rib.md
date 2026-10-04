@@ -10,6 +10,7 @@ related:
   - Aurel-kind
   - Meridian Soft-Rays
   - F200 coherence gate rule
+  - Champagne Brightness Off a Body
 themes:
   - luminosity
   - coherence

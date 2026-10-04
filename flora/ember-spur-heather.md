@@ -7,6 +7,7 @@ related:
   - The Ashen Hearthline
   - Ember Keepers
   - Ash-Hardy Moss
+  - Violet Bells and Root Soot
 themes:
   - recovery
   - quiet growth

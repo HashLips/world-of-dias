@@ -12,6 +12,7 @@ related:
   - Settlements of Dias
   - F432 Shared Table
   - Hungry Dogs
+  - Kettle Under Claimscar Tarps
 themes:
   - cookfire
   - frontier hospitality

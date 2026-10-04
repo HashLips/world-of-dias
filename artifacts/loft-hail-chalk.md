@@ -9,6 +9,7 @@ related:
   - Hollowmere Net-Loft Stage
   - Jessa Quill
   - Outer Rim Line Answer
+  - Salt-White Sticks, No Board
 themes:
   - everyday resonance
   - song

@@ -19,6 +19,14 @@ related:
   - Saltwhisper Road
   - Long Gate
   - Technology of Dias
+  - The Late Bruise
+  - The Soft Mark
+  - The Hipspoon
+  - The Stillwood Skiff
+  - The Reedpol
+  - The Banana Draft
+  - The Brindle Crawler
+  - The Vitrin Saga
 themes:
   - transportation
   - roads
@@ -79,6 +87,21 @@ Cross-frequency: rare intervals, sealed talk, Returning Span / Glassfold / Heart
 ## Key place files
 
 [Eastbound Fruit Road](../regions/eastbound-fruit-road.md) · [Span Toll](../regions/span-toll.md) · [Westfold Toll](../regions/westfold-toll.md) · [Saltwhisper Road](../regions/saltwhisper-road.md) · [Open Hand Way](../regions/open-hand-way.md) · [DEB Gate](../regions/deb-gate-of-veloria.md)
+
+
+## Craft from the Vitrin roads
+
+Private hire and odd local craft. None of these replace wagon, pony, and ox freight on the Eastbound Fruit Road. None is a band ferry. Sky Drifters are not listed because they are not vehicles.
+
+| Craft | Entry | What it is |
+| --- | --- | --- |
+| Ordinary freight plane | [The Late Bruise](../artifacts/the-late-bruise.md) | Grass-strip hire. Lands. Not a Drifter. |
+| Blimp | [The Soft Mark](../artifacts/the-soft-mark.md) | Slow gas sign over the basin. |
+| Odd self-propelled craft | [The Hipspoon](../artifacts/the-hipspoon.md) | Split-spoon ground courier. Steered, not a myth rail. |
+| Wooden levitating vessel | [The Stillwood Skiff](../artifacts/the-stillwood-skiff.md) | Handspan above Wabet lanes. Lift unknown. Not a ferry. |
+| Pole boat | [The Reedpol](../artifacts/the-reedpol.md) | Real river skiff on a Wabet bend. |
+| Market barge | [The Banana Draft](../artifacts/the-banana-draft.md) | Slow Nauw distribution by water. |
+| Slow real train | [The Brindle Crawler](../artifacts/the-brindle-crawler.md) | Soot, timetable, a depot it actually reaches. Not [The Rail That Sold the Same Platform](../myths/the-rail-that-sold-the-same-platform.md). |
 
 ## Notes
 

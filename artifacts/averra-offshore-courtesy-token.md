@@ -10,6 +10,7 @@ related:
   - Averra damp studios
   - Old Masters of Averra Isle
   - Nauw
+  - Wave Face, Blank Face
 themes:
   - offshore courtesy
   - permission weather

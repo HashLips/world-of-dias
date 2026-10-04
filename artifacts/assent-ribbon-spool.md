@@ -10,6 +10,7 @@ related:
   - First Ribbon Corin
   - Calareth Watch
   - The Ribbon Cut at Hallow Bay
+  - Plain Blue, No Motto
 themes:
   - joy
   - assent

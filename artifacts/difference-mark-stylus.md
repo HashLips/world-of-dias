@@ -10,6 +10,7 @@ related:
   - Difference-Mark Glyph
   - Refrain Walkers
   - Quartermark Drift
+  - Rain-Dark Wrap and a Stained Tip
 themes:
   - near-return
   - writing craft

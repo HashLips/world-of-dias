@@ -10,6 +10,7 @@ related:
   - Bloomline confluence holding rule
   - F380 emotional climate coupling rule
   - Tidehearts
+  - Empty Stones, Leaning Color
 themes:
   - emotional safety
   - joy

@@ -10,6 +10,7 @@ related:
   - Pot-Signal Array Court
   - The First Pot That Gossiped
   - Everyday Resonant Tech
+  - Dull Bead, Cork, and Reed
 themes:
   - civic tech
   - manners

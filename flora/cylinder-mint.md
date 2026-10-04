@@ -10,6 +10,7 @@ related:
   - Orrin Veld
   - Tea Slit Bench
   - The Calibration Saga
+  - Gray-Green, Unbloomed
 themes:
   - locale plants
   - craft manners

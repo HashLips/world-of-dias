@@ -12,6 +12,8 @@ related:
   - Returning Span lane discipline rule
   - F120 near-return drift rule
   - Pass-Count Pegboard
+  - Two Stones at First Lane
+
 themes:
   - recurrence
   - rest

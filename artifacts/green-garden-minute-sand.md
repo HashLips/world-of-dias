@@ -10,6 +10,7 @@ related:
   - Green Garden Border-Box
   - Verdant Reach third-chair rule
   - Quiet Cloister Silence Bead
+  - Green Sand, One Flip
 themes:
   - garden manners
   - timed care

@@ -8,6 +8,8 @@ culture:
 related:
   - F840 (frequency realm)
   - F840 recovery continuity rule
+  - Blank Slots in Emberfile
+
 themes:
   - aftermath craft
   - recovery tools

@@ -12,6 +12,8 @@ related:
   - Distress Before Debt
   - Singing Fishermen
   - Horn for the Night Breeze
+  - The Quiet Sea at Distress Listen
+
 themes:
   - maritime solidarity
   - joy

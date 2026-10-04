@@ -10,6 +10,7 @@ related:
   - Joy of Learning Practices
   - Multi-Kind Speech Etiquette
   - Reliable and Unreliable Records
+  - Empty Frames and Fruit Stains
 themes:
   - chapbook
   - manners

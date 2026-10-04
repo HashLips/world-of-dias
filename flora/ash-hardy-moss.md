@@ -5,6 +5,7 @@ region: The Ashen Hearthline
 related:
   - Flora of Dias
   - The Ashen Hearthline
+  - Trace-Heat Green, Grit in the Mat
 themes:
   - else-green
   - rest mark

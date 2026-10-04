@@ -5,6 +5,7 @@ region: Claimscar Yard
 related:
   - Flora of Dias
   - Claimscar Yard
+  - Magenta on the Slag
 themes:
   - ordinary
   - first green

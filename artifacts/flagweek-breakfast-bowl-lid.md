@@ -10,6 +10,7 @@ related:
   - Why Flagweek Breakfast Comes First
   - Softfruit Keep-Mark Cord
   - Softfruit Table Hall
+  - A Steam Hole, Still on the Bowl
 themes:
   - Flagweek
   - joy

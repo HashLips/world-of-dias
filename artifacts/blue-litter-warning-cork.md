@@ -10,6 +10,7 @@ related:
   - Wired Bloom Markers
   - Wabet Open Hand
   - Wabet reciprocity harvest rule
+  - A Slash on the Cork
 themes:
   - craft caution
   - Wabet

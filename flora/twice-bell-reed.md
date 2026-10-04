@@ -5,6 +5,7 @@ region: F120 (frequency realm)
 related:
   - Flora of Dias
   - F120 (frequency realm)
+  - Hollow Stems, No Second Plant
 themes:
   - else-green
   - sound craft

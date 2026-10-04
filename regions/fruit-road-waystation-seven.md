@@ -12,6 +12,7 @@ related:
   - Wishful Fruit-Road Handbill
   - Fruit-Road Mother Wen
   - Open Hand Way
+  - Shade, Trough, Seed, and Illegible Paper
 themes:
   - convoy rest
   - sharing

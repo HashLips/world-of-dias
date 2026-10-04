@@ -10,6 +10,7 @@ related:
   - The Second Crossing Rose That Kept Time
   - The Rose at Second Crossing
   - Span Toll
+  - Pale Pink, Already Washing Off
 themes:
   - travel
   - manners

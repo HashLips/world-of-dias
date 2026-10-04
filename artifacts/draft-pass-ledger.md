@@ -11,6 +11,7 @@ related:
   - The Open Hand of Making
   - Persistence Tick
   - The Half-Made Atlas
+  - Open Ledger, No Finished
 themes:
   - iterative craft
   - pass language

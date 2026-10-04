@@ -10,6 +10,7 @@ related:
   - Sky-Whale Festival Paperflower
   - Veloria City
   - Happiness Infrastructure Checklist
+  - A Paper Keel and a Careful Flame
 themes:
   - joy
   - festival
