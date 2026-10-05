@@ -90,6 +90,6 @@ They did.
 
 ## Notes
 
-Chapter 3 of **The Harmonic Saga**. Romance thread with Tamsin remains **open-textured**—consent, laughter, and choice without commitment locked. Sky Drifter dip is observational; full nature remains repository mystery.
+Chapter 3 of **The Harmonic Saga**. Romance thread with Tamsin remains **open-textured**—consent, laughter, and choice without commitment locked. Sky Drifter dip is observational; full nature remains an open mystery.
 
 Pairs with [`stories/the-afternoon-the-ball-kept-going.md`](the-afternoon-the-ball-kept-going.md) and basin gilding-hour canon.

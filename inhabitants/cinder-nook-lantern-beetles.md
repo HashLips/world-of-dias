@@ -7,6 +7,7 @@ related:
   - Cinder Nook
   - F840 (frequency realm)
   - The Ashen Hearthline
+  - Coal-Orange Path Marks
 themes:
   - small light
   - hope

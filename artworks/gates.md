@@ -40,7 +40,7 @@ Asset reference: `assets/gates-1.jpg`.
 
 ## Real-World Role
 
-A graphic threshold study in Daniel Eugene Botha's Dias-linked work: arrival reduced to scale, color, and facing forward.
+A graphic threshold study in Dias-linked work: arrival reduced to scale, color, and facing forward.
 
 ## Lore Connection
 

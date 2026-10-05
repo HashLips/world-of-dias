@@ -15,7 +15,9 @@ related:
   - Helpful Glass Agreement
   - Orrin Scraped Ledger
 themes:
-  - gaslighting
+  - half-digit mischief
+  - helpful lies
+  - calibration haunt
   - mischief
   - null pressure
 status: canonical

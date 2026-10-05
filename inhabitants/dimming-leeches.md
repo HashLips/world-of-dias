@@ -7,6 +7,7 @@ related:
   - F200 (frequency realm)
   - F500 (frequency realm)
   - Distant lumen-abyss bleed
+  - Matte Core on Bright Skin
 themes:
   - light drain
   - rare hazard

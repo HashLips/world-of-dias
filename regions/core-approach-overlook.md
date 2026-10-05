@@ -14,6 +14,7 @@ related:
   - Leaning Ring Streets
   - Pot-Signal Array Court
   - Inner Glow from Core Approach
+  - Glow More than Facade
 themes:
   - colossal
   - layered access

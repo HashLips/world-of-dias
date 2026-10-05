@@ -42,7 +42,7 @@ The "quay copy" version says a navigator from Nauw Outer routes brought in a wat
 
 A third version insists the addendum was intentionally downplayed by officials because it added complexity without immediate policy utility: useful for scholars and storytellers, inconvenient for budget committees.
 
-Some city archive notes claim the addendum survived because different race guilds found different value in it: **Veyrin** pattern-readers used it for trait comparison logs, **Kharad** route planners used it for resilience planning, and **Palewind Swarms** used it to tag coordination risks across changing conditions.
+Some city archive notes claim the addendum survived because different compact guilds found different value in it: **Veyrin** pattern-readers used it for trait comparison logs, **Kharad** route planners used it for resilience planning, and **Palewind Swarms** used it to tag coordination risks across changing conditions.
 
 Whatever the source, the effect in F432 was durable: those four bands entered language as **background truths with partial evidence**—enough to shape metaphor, ritual, and long-form story architecture without demanding full expedition programs.
 

@@ -19,6 +19,7 @@ related:
   - Hands That Would Not Open
   - Back into the Stone
   - Frequency as fundamental law
+  - Held Color Stood Up
 themes:
   - stolen color
   - lure

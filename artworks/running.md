@@ -21,7 +21,7 @@ based_on: Harold (lore)
 
 ## Overview
 
-*Running* is an artwork by Daniel Eugene Botha associated with Harold's daily, multi-day circuit around Veloria City.
+*Running* is an artwork associated with Harold's daily, multi-day circuit around Veloria City.
 
 ## Description
 
@@ -31,7 +31,7 @@ Asset reference: `assets/running.gif`.
 
 ## Real-World Role
 
-A compact visual expression of persistence and identity-through-action in Daniel Eugene Botha's wider body of world-linked artwork.
+A compact visual expression of persistence and identity through action in the wider body of Dias-linked artwork.
 
 ## Lore Connection
 

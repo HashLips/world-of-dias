@@ -13,6 +13,7 @@ related:
   - The Vitrin Saga
   - Sky Drifters
   - Eastbound Fruit Road
+  - Handspan Above the Lane
 themes:
   - unexplained lift
   - wood

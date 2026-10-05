@@ -41,4 +41,4 @@ Tied to: Hallow Bay, Calareth Watch, Isle of Calareth.
 
 ## Notes
 
-Pulled from ref for the F432 densification pass.
+Plate brought into Dias naming from the intake archive.

@@ -11,6 +11,7 @@ related:
   - Eastbound Fruit Road
   - The Vitrin Saga
   - Fruit Road and Toll Travel
+  - Pole and Banana Pad
 themes:
   - river craft
   - pole boat

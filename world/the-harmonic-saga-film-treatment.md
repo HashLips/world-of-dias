@@ -95,7 +95,7 @@ Supporting texture: Sky Drifters ([`Emergence`](../artworks/emergence.md)), basi
 
 **Sources:** [`the-echo-at-the-gate.md`](../stories/the-echo-at-the-gate.md), basin beats from [`sun-sweet-and-sky.md`](../stories/sun-sweet-and-sky.md)
 
-Calen walks from Brindle March into Veloria during **echo-rise season**. DEB Gate two-finger touch → first Bridge echo. Ring-by-ring wonder (medieval outer → modern → drone third). Sky Drifters overhead. Tea seller: *"It's one world. That is not the same thing."* Dawn harmonic thrum. Tamsin Vor invites Calen to stay in the basin.
+Calen walks from Brindle March into Veloria during **echo-rise season**. DEB Gate two-finger touch → first Bridge echo. Ring-by-ring wonder (handmade outer → resonant tools → pot-signal / operator third). Sky Drifters overhead. Tea seller: *"It's one world. That is not the same thing."* Dawn harmonic thrum. Tamsin Vor invites Calen to stay in the basin.
 
 **Act break:** Calen writes *The gate remembers a bridge* — chooses to stay.
 

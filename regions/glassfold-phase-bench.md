@@ -3,7 +3,7 @@ category: region
 name: Glassfold Phase Bench
 place_type: landmark
 parent_region: The Glassfold Ledge
-region: The Glassfold Ledge
+region: F610 (frequency realm)
 culture:
 related:
   - The Glassfold Ledge

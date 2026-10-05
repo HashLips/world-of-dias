@@ -17,6 +17,7 @@ related:
   - Vault Latch That Failed
   - Mio Chalkrule
   - Noro Halfmeasure
+  - Cracked Upright, Incomplete Aperture
 themes:
   - stage place
   - primary saga stage

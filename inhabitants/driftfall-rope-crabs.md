@@ -7,6 +7,7 @@ related:
   - Driftfall
   - Sorel
   - The Drift Hour with No Captain
+  - Claws That Cut Soft Cord
 themes:
   - coastal scavengers
   - salvage culture

@@ -10,6 +10,7 @@ related:
   - Animals of Dias
   - Creatures of Dias
   - Veloria Lap-Cats
+  - Pennants That Learned Flight
 themes:
   - festival fauna
   - daylight spectacle

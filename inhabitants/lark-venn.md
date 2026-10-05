@@ -15,6 +15,7 @@ related:
   - Yarrow Bine
   - Peel Bell Board
   - Eastbound Fruit Road
+  - Wool Coat on the Hull
 themes:
   - pilot
   - hire

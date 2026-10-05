@@ -19,6 +19,7 @@ related:
   - Too Costly to Cross
   - Golden-Hour Ferry Ticket Shack
   - Vintage Ferry Ticket Prop
+  - Laugh that Sells Stubs
 themes:
   - stage place
   - soft limit comedy

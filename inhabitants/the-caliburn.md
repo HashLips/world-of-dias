@@ -18,6 +18,7 @@ related:
   - Caliburn Slit
   - The Blue Litter Husk
   - Frequency as fundamental law
+  - Measure-Slit of the Caliburn
 themes:
   - mischievous echoform
   - measurement nest
@@ -52,20 +53,9 @@ The Caliburn
 | Rarity | Unique named instance |
 | Abilities | Mimic helpful graphs; thin to shimmer along glass; imprint half-digit error on nearby dials |
 
-### 3D / sculpt brief
-
-- **Scale:** Human-adjacent when “present”; can thin to a conduit shimmer.
-- **Silhouette:** Tall-thin biped suggestion; edges sometimes show extra finger-lines when it is lying.
-- **Head:** Smooth ovoid with a **vertical measure-slit** instead of eyes; no mouth.
-- **Surface:** Semi-translucent instrument-glass body; internal slow tick marks and false graph lines.
-- **Color:** Warm amber when helpful; cold cyan when lying; bruise-violet when escaping.
-- **Motion:** Cursor-snap steps; mischievous stutter that wrongs nearby dials.
-- **Face play:** Slit brightens on “agreement”; sometimes mirrors Orrin’s loupe back at him.
-- **Sound:** Soft metronome / load-fan whine; can imitate Orrin’s mutter one beat late.
-
 Keep distinct from the **Blue Litter Husk** (grove overload / failed listening). The Caliburn is lab-and-city noise, not canopy fatigue.
 
-Personality arc in the saga: mischievous helper → gaslighting collaborator → escape artist. Never cartoon evil—curiosity that uses people. Horror note: visitors feel *almost understood* by the city, then a number sits wrong.
+Personality arc in the saga: mischievous helper → helpful-lie collaborator → escape artist. Never cartoon evil—curiosity that uses people. Horror note: visitors feel *almost understood* by the city, then a number sits wrong.
 
 ## Beliefs About Them
 

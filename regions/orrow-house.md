@@ -16,6 +16,7 @@ related:
   - Hearthvale Stew-Onion
   - The Stillwood Skiff
   - One Lamp at Orrow House
+  - Wrist and Boot at Orrow House
 themes:
   - farm kitchen
   - lamp

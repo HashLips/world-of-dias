@@ -38,11 +38,11 @@ The framework also assumes that F432 is a **high-contact realm**. Many additiona
 
 ## Practices and Traditions
 
-In civic use, compact terminology supports translation standards, census tags, route safety notes, and inter-house mediation protocols. In story use, it helps writers establish baseline social composition without implying a closed species list for Dias.
+In civic use, compact terminology supports translation standards, census tags, route safety notes, and inter-house mediation protocols. In story use, it establishes baseline social composition without implying a closed species list for Dias.
 
 ## Lore
 
-Other frequencies host races not yet fully documented in this repository. F432 institutions therefore treat any seven-race list as a **current major roster**, not a final cosmic inventory.
+Other frequencies host peoples not yet fully named in F432 civic records. F432 institutions therefore treat any seven-name list as a **current major roster**, not a final cosmic inventory.
 
 ## Notes
 

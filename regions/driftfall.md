@@ -38,7 +38,7 @@ themes:
   - rebellion
   - relaxed fatalism
   - hanging-about culture
-  - baltic coastal influence
+  - salt coastal influence
   - volcanic omen geology
 status: canonical
 ---
@@ -57,9 +57,9 @@ Settlements in Driftfall are often provisional and frequently reconfigured as gr
 
 The territory attracts people who prioritize autonomy over institutional structure.
 
-Daily life leans wilder than in western Sorel. Mainlanders compare it to a Wild West in miniature: half outlaw country, half improvised nation, where sharp dealers, true believers, artists, and drifters cross paths in the same yards, stalls, and staging grounds. People here skew more rebellious and rogue in manner, quicker to risk reputation and safety on a whim—which is why some of the most interesting figures in F432 are said to turn up in Driftfall before anywhere else.
+Daily life leans wilder than in western Sorel. Mainlanders compare it to a hang-about frontier in miniature: half outlaw country, half improvised nation, where sharp dealers, true believers, artists, and drifters cross paths in the same yards, stalls, and staging grounds. People here skew more rebellious and rogue in manner, quicker to risk reputation and safety on a whim—which is why some of the most interesting figures in F432 are said to turn up in Driftfall before anywhere else.
 
-Along the eastern shores, a Baltic-leaning coastal culture tempers that edge with a distinct laid-back rhythm. People gather, lounge, play, and "hang about" with no urgency to force a day into productivity, even while an underlying sense of danger never fully leaves the atmosphere.
+Along the eastern shores, a salt-ledger coastal culture tempers that edge with a distinct laid-back rhythm. People gather, lounge, play, and "hang about" with no urgency to force a day into productivity, even while an underlying sense of danger never fully leaves the atmosphere.
 
 On the southeastern flank, inland from those beaches, **Sprout Vent** rises: a modest active volcano that still dominates local ground. Its cluster of sprouting points and rare **vent-sprout spread** (daughter vents where magma lands) make the southeastern approach one of Driftfall's most watched—and most argued-about—landmarks.
 
@@ -68,7 +68,7 @@ On the southeastern flank, inland from those beaches, **Sprout Vent** rises: a m
 | | |
 | --- | --- |
 | **Tier** | Frontier territory (contains yards like Claimscar) |
-| **Population feel** | Fluid crews; Baltic hang-about on the shore |
+| **Population feel** | Fluid crews; salt hang-about on the shore |
 | **Economy verb** | claim + move |
 | **Festival / joy** | Beach idle days; Good Trade still hours inland |
 | **Fear** | Vent nights; captainless hours; double-painted claims |

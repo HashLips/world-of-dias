@@ -41,4 +41,4 @@ Tied to: Quiet Well, Lumira Silence Law, Keth Dunewalk.
 
 ## Notes
 
-Pulled from ref for the F432 densification pass.
+Plate brought into Dias naming from the intake archive.

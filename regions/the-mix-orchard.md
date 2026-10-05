@@ -17,6 +17,7 @@ related:
   - Market Banana
   - Orrow House
   - Hoe-Kept Ground at The Mix Orchard
+  - Wrist and Boot at Orrow House
 themes:
   - secret growing
   - orchard

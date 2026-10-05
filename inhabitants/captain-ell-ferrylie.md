@@ -13,6 +13,7 @@ related:
   - Two Dramas Everyone Names
   - The Orchard Man Who Wanted a Door
   - Frederick Lumens
+  - Laugh that Sells Stubs
 themes:
   - soft limit comedy
   - no subway

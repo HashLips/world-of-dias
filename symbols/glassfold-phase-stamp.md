@@ -1,7 +1,7 @@
 ---
 category: symbol
 name: Glassfold Phase-Stamp
-region: The Glassfold Ledge
+region: F610 (frequency realm)
 culture:
 related:
   - The Glassfold Ledge

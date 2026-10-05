@@ -8,6 +8,7 @@ related:
   - Ember Keepers
   - Blue Bird
   - The Beak That Watches the Road
+  - Blue Scale over the Peaks
 themes:
   - macro-predator
   - fear ecology

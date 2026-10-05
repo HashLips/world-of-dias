@@ -19,6 +19,7 @@ related:
   - The Calibration Saga
   - The Lean Echo
   - The Farstock Saga
+  - Measure-Slit of the Caliburn
 themes:
   - accumulated resonance
   - living memory

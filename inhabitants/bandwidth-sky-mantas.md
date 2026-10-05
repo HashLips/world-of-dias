@@ -6,6 +6,7 @@ culture:
 related:
   - F200 (frequency realm)
   - Meridian Soft-Rays
+  - Champagne Dim Pass
 themes:
   - colossal
   - light ocean

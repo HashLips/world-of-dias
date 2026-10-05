@@ -41,7 +41,7 @@ Regulars joke that the gallery **keeps** an afternoon—you mean to glance and l
 
 ## Lore
 
-The Sketchy Gallery is often described as a cultural bridge between Veloria's physical art traditions and newer digital forms emerging in parts of F432. Classed as the primary **uncanny architectural** exemplar in [`Architecture of Dias`](../world/architecture-of-dias.md).
+The Sketchy Gallery is often described as a cultural bridge between Veloria's physical art traditions and newer illuminated panel craft emerging in parts of F432. Classed as the primary **uncanny architectural** exemplar in [`Architecture of Dias`](../world/architecture-of-dias.md).
 
 
 ### Leadership Structure
@@ -52,7 +52,8 @@ The Sketchy Gallery is often described as a cultural bridge between Veloria's ph
 
 ## Stories or Depictions
 
-Public collection reference: [SABC collection on Etherscan](https://etherscan.io/address/0xadc28cac9c1d53cc7457b11cc9423903dc09dddc).
+Corridor panels and custodian talk keep the collection's living inventory in-world. Outside the gallery, an external ownership ledger is sometimes cited for the same panel set.
 
 ## Notes
 
+External ledger bridge (optional discovery): [SABC collection on Etherscan](https://etherscan.io/address/0xadc28cac9c1d53cc7457b11cc9423903dc09dddc).

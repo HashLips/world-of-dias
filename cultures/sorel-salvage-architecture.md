@@ -14,6 +14,7 @@ related:
   - Flagweek Strip
   - Mountain of Majestic Good Trade
   - Claimscar Cookfire Circle
+  - Hull Ribs and Claim Smoke
 themes:
   - architecture
   - salvage

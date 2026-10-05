@@ -8,6 +8,7 @@ related:
   - F610 (frequency realm)
   - Bigger Picture
   - Glassfold phase-stamp rule
+  - Footprints to the Open Pane
 themes:
   - partial visibility
   - trace evidence

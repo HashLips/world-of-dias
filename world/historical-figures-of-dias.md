@@ -42,7 +42,7 @@ status: canonical
 
 ---
 
-## Roster (10)
+## Roster (12)
 
 | Figure | Archetype | Remembered by |
 | --- | --- | --- |

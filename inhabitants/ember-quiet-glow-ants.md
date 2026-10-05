@@ -6,6 +6,7 @@ culture:
 related:
   - F840 (frequency realm)
   - Cinder-Nook Lantern Beetles
+  - Coal Sparks on the Micro-Path
 themes:
   - insects
   - small

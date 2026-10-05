@@ -7,6 +7,7 @@ related:
   - F120 (frequency realm)
   - The Returning Span
   - Refrain Walkers
+  - Hare Ahead and Beside
 themes:
   - echo band
   - near-return

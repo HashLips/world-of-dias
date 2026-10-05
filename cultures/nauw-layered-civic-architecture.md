@@ -16,6 +16,9 @@ related:
   - Rim-Rest
   - Span Toll
   - Valorian Operators
+  - Four Rings around the Core
+  - Outer-Ring House Cutaway
+  - Shade Cloth over Outer Market
 themes:
   - architecture
   - concentric city

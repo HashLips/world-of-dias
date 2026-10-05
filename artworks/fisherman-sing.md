@@ -22,7 +22,7 @@ based_on: Singing Fishermen and Human-Eyed Whales (lore)
 
 ## Overview
 
-*Fisherman Sing* is an artwork by Daniel Eugene Botha used in canon to depict the Singing Fishermen and their close, unstable relationship with the whales of Nauw's outer waters.
+*Fisherman Sing* is an artwork used in canon to depict the Singing Fishermen and their close, unstable relationship with the whales of Nauw's outer waters.
 
 ## Description
 
@@ -32,7 +32,7 @@ Asset reference: `assets/fisherman-sing.jpg`.
 
 ## Real-World Role
 
-A visual anchor for interpreting the Singing Fishermen motif in Daniel Eugene Botha's worldbuilding continuum.
+A visual anchor for interpreting the Singing Fishermen motif across the Dias continuum.
 
 ## Lore Connection
 

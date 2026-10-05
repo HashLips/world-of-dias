@@ -45,11 +45,15 @@ related:
   - Mercer Shed
   - Lark Venn
   - Dain Mercer
+  - Four Rings around the Core
+  - Glow More than Facade
+  - Outer-Ring House Cutaway
+  - Shade Cloth over Outer Market
 themes:
   - capital
   - concentric city
   - layered technology
-  - medieval outer ring
+  - craft-era outer ring
   - hypertech core
   - operators
 status: canonical
@@ -59,23 +63,23 @@ status: canonical
 
 ## Overview
 
-Veloria City is the capital of the Nauw region within the F432 frequency realm. It lies in the north-west of Nauw, surrounded by the Velorian Basin. It is laid out as a **massive circle** of **four concentric rings** around a **central core**. Technology and daily life change sharply from ring to ring: the outermost band is largely medieval in character, while each band inward grows more modern, then contemporary-industrial, then hyper-advanced at the center—where the city’s power is generated and sustained.
+Veloria City is the capital of the Nauw region within the F432 frequency realm. It lies in the north-west of Nauw, surrounded by the Velorian Basin. It is laid out as a **massive circle** of **four concentric rings** around a **central core**. Technology and daily life change sharply from ring to ring: the outermost band is largely craft-era in character, while each band inward grows more resonant-tool rich, then operator-industrial, then hyper-advanced at the center—where the city’s power is generated and sustained.
 
 ## Description
 
 **Outer ring (first band)**  
-The outermost ring is where technology has advanced the least. Here you find **medieval-style** districts—stone streets, marketplaces, guild houses, older defensive or civic forms—but this is only **one section** of Veloria, not the whole city.
+The outermost ring is where technology has advanced the least. Here you find **craft-era** districts—stone streets, marketplaces, guild houses, older defensive or civic forms—but this is only **one section** of Veloria, not the whole city.
 
 **Second ring**  
 Moving inward, life becomes **more modern** in the sense of familiar contemporary housing, streets, and routines—closer to “normal” living as many know it—**without** heavy reliance on advanced technology. It reads as modern, but not tech-saturated.
 
 **Third ring**  
-The next band matches **present-day technological civilization**: robotics, AI, and the full spectrum of tools and infrastructure comparable to “everything we have today.”
+The next band matches **present resonant tools**: operator craft, pot-signal lanes, and the full spectrum of echo-aware infrastructure used in daily Veloria life.
 
 **Central core (fourth / innermost zone)**  
 At the heart of the circle lies a **small but extraordinarily powerful** zone of **hyper-advanced** technology—described by many as almost **alien** in sophistication. The devices and systems here draw on knowledge and materials from **other realms** within Dias, not only from F432. This core exists in large part to **generate and regulate power** for Veloria City and, more broadly, for the **current realm’s** energy and stability. The **Valorian Operators** live here; their sole vocation is to **keep the centerpiece running** through whatever daily work that demands.
 
-Veloria remains an important center of trade and exchange, with merchants, travelers, and explorers from across the region still gathering here—now understood against this **layered**, ring-by-ring geography rather than as a uniformly medieval place.
+Veloria remains an important center of trade and exchange, with merchants, travelers, and explorers from across the region still gathering here—now understood against this **layered**, ring-by-ring geography rather than as a uniformly craft-era place.
 
 Above the city, the phenomenon of the **Sky Drifters** still sets Veloria apart from other settlements in Nauw. Floating high in the sky are mysterious, vaguely humanoid shapes that drift in groups or clusters, never landing. Some residents see them as silent watchers; others suspect an overlap between frequencies in Dias. They remain a defining feature of Veloria’s sky.
 
@@ -96,7 +100,7 @@ Full building dialect: [`Nauw Layered Civic Architecture`](../cultures/nauw-laye
 
 ## Lore
 
-The contrast between the medieval-feeling rim and the realm-powering core is central to how Veloria is experienced and governed.
+The contrast between the craft-era rim and the realm-powering core is central to how Veloria is experienced and governed.
 
 ### Leadership Structure
 
@@ -110,4 +114,4 @@ The contrast between the medieval-feeling rim and the realm-powering core is cen
 
 ## Notes
 
-**Pillar exemplar (Iconic locations):** ring-layered city where frequency-adjacent tech and medieval rim share one circle—place identity from how resonance is *lived*, not from a single skyline trick. Doctrine: [`CORE-PILLARS.md`](../CORE-PILLARS.md).
+Ring-layered city where frequency-adjacent tech and craft-era rim share one circle—place identity from how resonance is *lived*, not from a single skyline trick. Doctrine: [`CORE-PILLARS.md`](../CORE-PILLARS.md).

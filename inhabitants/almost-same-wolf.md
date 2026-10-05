@@ -8,6 +8,7 @@ related:
   - The Returning Span
   - The Road that Almost Was
   - Folklore Families of F432
+  - Hunt Already Survived
 themes:
   - predator
   - recurrence dread

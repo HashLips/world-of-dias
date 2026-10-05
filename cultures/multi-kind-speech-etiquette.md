@@ -17,7 +17,7 @@ related:
   - Aurel-kind
 themes:
   - speech etiquette
-  - multi-racial
+  - multi-kind
   - translation
   - coexistence
 status: canonical

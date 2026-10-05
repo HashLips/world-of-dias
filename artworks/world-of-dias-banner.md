@@ -8,6 +8,9 @@ related:
   - F432 (frequency realm)
   - Resonant Shard
   - Frequency as fundamental law
+  - World of Dias Logo
+  - Dias Emblem
+  - World of Dias Wordmark
 themes:
   - title emblem
   - repository identity
@@ -28,7 +31,7 @@ World of Dias Banner
 
 ## Overview
 
-*World of Dias Banner* is the repository title card: weathered gold lettering for **THE WORLD OF DIAS** over dark ground, with nebula haze, a horizontal light flare, and faint concentric map rings behind the type.
+*World of Dias Banner* is the earlier repository title card: weathered gold lettering for **THE WORLD OF DIAS** over dark ground, with nebula haze, a horizontal light flare, and faint concentric map rings behind the type.
 
 ## Description
 
@@ -38,7 +41,7 @@ Asset reference: `assets/world-of-dias-banner-repo.jpg`.
 
 ## Real-World Role
 
-Primary banner for the GitHub README and public-facing identity of the World of Dias canon archive.
+Legacy banner plate kept for archive continuity. The README header now prefers [`World of Dias Logo`](world-of-dias-logo.md).
 
 ## Lore Connection
 
@@ -46,4 +49,4 @@ The concentric rings and gold scar-light rhyme with frequency charts and Fractur
 
 ## Notes
 
-Repo display asset; keep linked from README header.
+Superseded for README display by `assets/world-of-dias-logo.png`; keep this entry so older links and the banner asset stay mapped.

@@ -86,4 +86,4 @@ Movement Two does **not** resolve the Fracture, Oriven Tal's true nature, or the
 - [`familiar-face.md`](../stories/familiar-face.md)
 - [`underground-thrum.md`](../stories/underground-thrum.md)
 
-Portrait for Calen still pending creator artwork. Movement Three may begin when ready.
+Portrait for Calen still pending creator artwork. Movement Three is complete; later movements stay open until a real journey is ready.

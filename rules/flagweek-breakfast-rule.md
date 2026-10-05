@@ -37,7 +37,7 @@ Visitors who treat breakfast as recruitment get laughed out, then frozen out. Th
 
 - Lets border satire carry real stakes without weekly civil war at the table.
 - Protects ordinary joy when symbols thrash.
-- Teaches Dias readers a soft-limit cousin: belonging politics stop at the spoon.
+- Teaches Flagweek households a soft-limit cousin: belonging politics stop at the spoon.
 
 ## Notes
 

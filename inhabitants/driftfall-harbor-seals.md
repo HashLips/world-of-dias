@@ -7,6 +7,7 @@ related:
   - Driftfall
   - Sorel
   - Driftfall Rope-Crabs
+  - Haul-Out on Salvage Piers
 themes:
   - medium
   - marine mammal

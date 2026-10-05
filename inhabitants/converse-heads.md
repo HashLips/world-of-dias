@@ -7,6 +7,7 @@ related:
   - The Bloomline Estuary
   - Converse
   - The Whisper Field at Bloomline
+  - Canopy of Converse Heads
 themes:
   - communal chatter
   - elongated forms

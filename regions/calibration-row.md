@@ -19,6 +19,8 @@ related:
   - Spectrum Frame
   - Tea Slit Bench
   - Veld Workshop Alcove
+  - Cracked Upright, Incomplete Aperture
+  - Oil and Argument on the Row
 themes:
   - third ring workshops
   - load calibration
@@ -63,4 +65,4 @@ Primary stage for [`The Calibration Saga`](../world/the-calibration-saga.md) and
 
 ## Notes
 
-Minority-race craft enclave hook inside Veloria’s tech band.
+Kharad and allied craft enclave inside Veloria’s tech band—House refusal politics and load-tuning manners, not a census label.

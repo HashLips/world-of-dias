@@ -8,6 +8,7 @@ related:
   - Averra Ink-Deer
   - Calibration Row Ink-Sparrows
   - Animals of Dias
+  - Posing for the Sketch
 themes:
   - companion
   - artist isle

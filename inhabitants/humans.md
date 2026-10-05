@@ -11,6 +11,7 @@ related:
   - Nauw
   - Wabet
   - Sorel
+  - Four Humans at a Work Bench
 themes:
   - adaptability
   - cultural plurality
@@ -27,7 +28,7 @@ Humans are one of the most widespread and institutionally visible races in F432,
 
 ## Description
 
-F432 humans show broad variation in ethnicity, appearance, language, belief systems, and social customs. They are generally bipedal, tool-using, and community-structured, with high capacity to integrate cross-racial practices.
+F432 humans show broad variation in appearance, language, belief systems, and social customs. They are generally bipedal, tool-using, and community-structured, with high capacity to integrate cross-kind practices from the wider peoples of Dias.
 
 Typical appearance shows wide variation in hair texture, facial structure, height, body shape, and dress traditions tied to local cultures across F432.
 
@@ -41,7 +42,7 @@ Often run street kitchens, courier desks, and loud dock arguments. Good at formi
 
 ## Narrative Role
 
-Humans provide a flexible baseline for stories that need familiar social framing while still participating in the wider multi-racial reality of Dias.
+Humans provide a flexible baseline for stories that need familiar social framing while still participating in the wider multi-kind reality of Dias.
 
 ## Notes
 

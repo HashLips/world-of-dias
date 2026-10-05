@@ -41,4 +41,4 @@ Tied to: Eastbound Fruit Road, Tomas Share, Verdant Reach.
 
 ## Notes
 
-Pulled from ref for the F432 densification pass.
+Plate brought into Dias naming from the intake archive.

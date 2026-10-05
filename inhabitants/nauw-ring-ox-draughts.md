@@ -8,6 +8,7 @@ related:
   - Nauw
   - Deb Gate of Veloria
   - Gatewarden Rams
+  - Doorway Horns on the Ring Haul
 themes:
   - large
   - city muscle

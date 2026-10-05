@@ -43,4 +43,4 @@ The myth *The Map That Must Stay Wrong* is the story face of this rule. Fruit-mo
 
 ## Notes
 
-Keep cartography perforated—readers should feel the wrongness is intentional. Open question: what happens when a Resonant Shard or echo-read makes the decoys useless.
+Keep cartography perforated—strangers must see the wrongness as intentional Keep craft. Open question: what happens when a Resonant Shard or echo-read makes the decoys useless.

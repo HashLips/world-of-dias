@@ -48,7 +48,7 @@ Author detail: [`agent/stage-readiness.md`](../agent/stage-readiness.md).
 
 ## What to schedule later (not now)
 
-- A third named saga journey (needs path file + `SAGAS.md` entry when real)  
+- Any *new* named saga journey beyond the five already indexed in [`SAGAS.md`](../SAGAS.md) (Harmonic, Lumen, Calibration, Farstock, Vitrin)—only when a real path file is ready  
 - Escalation that names a single Unbinding antagonist force  
 - Any Zero “answer key” chapter  
 

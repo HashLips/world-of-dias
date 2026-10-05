@@ -7,6 +7,7 @@ related:
   - Ashcalm Rise
   - Wabet
   - Ashcalm Ember-Deer
+  - Thunder in the Hollows
 themes:
   - large
   - forest danger

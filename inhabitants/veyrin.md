@@ -10,6 +10,7 @@ related:
   - Peoples of Dias
   - Nauw
   - Veloria City
+  - Mirrored Gaze of a Veyrin
 themes:
   - signature traits
   - anomaly inheritance

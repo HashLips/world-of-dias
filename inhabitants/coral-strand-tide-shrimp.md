@@ -7,6 +7,7 @@ related:
   - Coral Strand
   - Isle of Calareth
   - Coral Lantern-Fish
+  - Silver Glitter in Tide Pools
 themes:
   - small
   - marine

@@ -30,7 +30,7 @@ Across **F432**, a **soft, disputed pattern** is often discussed in taverns, sch
 
 ## Description
 
-The effect is not reliable enough to be a **law of physics**; it is reliable enough to be a **shared folk observation**. Studies disagree on mechanism: endorphins, social bonding, or simple **mood carry**.
+The effect is not reliable enough to be a **fundamental law**; it is reliable enough to be a **shared folk observation**. Studies disagree on mechanism: shared breath, social bonding, or simple **mood carry**.
 
 Critics call it **wishful pattern-matching** after a good day. Proponents do not care—they keep collecting stories like coins.
 
@@ -38,8 +38,7 @@ Critics call it **wishful pattern-matching** after a good day. Proponents do not
 
 ## Effect
 
-- **In-world “effect” (reported, inconsistent):** short-lived **emotional afterglow** and slightly **easier** social navigation for a period measured in **minutes to an hour**, not days.  
-- **Out-of-universe use:** a gentle rule-of-thumb for writing **uplift** without inventing a new superpower.
+- **In-world “effect” (reported, inconsistent):** short-lived **emotional afterglow** and slightly **easier** social navigation for a period measured in **minutes to an hour**, not days.
 
 ## Notes
 

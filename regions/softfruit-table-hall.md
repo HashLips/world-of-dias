@@ -46,4 +46,4 @@ Architectural proof of [`F432 Shared Table`](../cultures/f432-shared-table.md). 
 
 ## Notes
 
-Use for scenes of ordinary multi-racial mealtime.
+Use for scenes of ordinary multi-kind mealtime.

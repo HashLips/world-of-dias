@@ -7,6 +7,7 @@ related:
   - Averra Isle
   - Nauw
   - Averra Ink-Deer
+  - Pebbles from Impossible Ledges
 themes:
   - medium
   - cliff

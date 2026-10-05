@@ -56,4 +56,4 @@ Driftfall crews treat the Ledger as neutral ground: not a court, not a crew hall
 
 ## Notes
 
-Often named in the same breath as Driftfall's Baltic-leaning "hang about" shore culture—slow afternoons, sharp evenings, danger never fully out of the room.
+Often named in the same breath as Driftfall's salt hang-about shore culture—slow afternoons, sharp evenings, danger never fully out of the room.

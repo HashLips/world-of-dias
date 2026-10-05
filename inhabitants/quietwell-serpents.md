@@ -11,6 +11,7 @@ related:
   - The Pale Rope of Lumira
   - Creatures of Dias
   - Lumira Dune-Drakes
+  - Frosted Rope at Quiet Well
 themes:
   - silence
   - desert danger

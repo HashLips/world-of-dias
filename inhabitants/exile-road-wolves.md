@@ -8,6 +8,7 @@ related:
   - Hearthvale
   - Nauw
   - The Long Gate Argument
+  - Gaunt on the Exile Road
 themes:
   - predator
   - exile routes

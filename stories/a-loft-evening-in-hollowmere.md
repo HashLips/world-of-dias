@@ -37,4 +37,4 @@ Sleep in a hammock over the cove’s breathing. Wanted another evening where the
 
 ## Notes
 
-Daily-life slice for Section 23. Hub: [`Daily Life of Dias`](../world/daily-life-of-dias.md).
+Daily-life slice. Hub: [`Daily Life of Dias`](../world/daily-life-of-dias.md).

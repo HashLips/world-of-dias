@@ -7,6 +7,7 @@ related:
   - Aurel Meridian
   - F200 (frequency realm)
   - Aurel-kind
+  - Moving Window of Afternoon
 themes:
   - bright spine
   - gentle giants

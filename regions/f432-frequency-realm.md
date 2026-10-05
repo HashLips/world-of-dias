@@ -99,6 +99,7 @@ related:
   - Cosmology of Dias
   - F432 Civic Time
   - Climates of Dias
+  - F432 span and travel distances
 themes:
   - stability
   - trade

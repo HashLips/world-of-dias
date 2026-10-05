@@ -9,6 +9,7 @@ related:
   - Bleed-Sky Weather
   - Nauw
   - Sorel
+  - Wrong Colors at Dusk
 themes:
   - frequency bleed
   - omen insects

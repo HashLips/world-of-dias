@@ -8,6 +8,7 @@ related:
   - Nauw
   - Fogbank Siren-Eels
   - Human-Eyed Whales
+  - Hungry Curiosity at the Keel
 themes:
   - large
   - marine predator

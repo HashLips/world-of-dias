@@ -11,6 +11,7 @@ related:
   - The Peel and Bell
   - The Vitrin Saga
   - Technology of Dias
+  - Spoon Hull on Biased Wheels
 themes:
   - odd craft
   - self-propelled

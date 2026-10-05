@@ -1,6 +1,6 @@
 # The World of Dias
 
-![The World of Dias](assets/world-of-dias-banner-repo.jpg)
+![The World of Dias](assets/world-of-dias-logo.png)
 
 This repository is the evolving canon archive for **The World of Dias**, created to support the storytelling and artistic expression of Daniel Eugene Botha.
 

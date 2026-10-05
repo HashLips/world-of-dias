@@ -30,6 +30,7 @@ related:
   - Structure of Dias
   - Soft-Ray Procession Hall
   - Meridian Soft Gathering Manners
+  - Filament Cores of Aurel-kind
 themes:
   - light
   - serenity

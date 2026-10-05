@@ -51,7 +51,7 @@ Silence—then schism formalized. Two Houses broke quorum. H-11 adherents accept
 
 Calen refused silence. Tamsin refused on their behalf in basin square before convocation ended.
 
-The schism did not resolve. It **named** factions for repository explorers to follow later.
+The schism did not resolve. It **named** factions for later chronicles to follow.
 
 Calen wrote:
 

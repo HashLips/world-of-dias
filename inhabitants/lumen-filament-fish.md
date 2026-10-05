@@ -7,6 +7,7 @@ related:
   - F200 (frequency realm)
   - Aurel Meridian
   - Aurel-kind
+  - Slow Calligraphy in Brightness
 themes:
   - light ecology
   - energy life

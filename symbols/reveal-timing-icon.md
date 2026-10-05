@@ -1,7 +1,7 @@
 ---
 category: symbol
 name: Reveal Timing Icon
-region: The Glassfold Ledge
+region: F610 (frequency realm)
 culture: Ledge Minute Timing Guild Manners
 related:
   - Reveal Window Chime

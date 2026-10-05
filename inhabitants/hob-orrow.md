@@ -9,6 +9,7 @@ related:
   - The Mix Orchard
   - The Vitrin Saga
   - Dain Mercer
+  - Wrist and Boot at Orrow House
 themes:
   - field hand
   - lamp

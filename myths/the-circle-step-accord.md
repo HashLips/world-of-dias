@@ -31,4 +31,4 @@ The phrase "as one" later entered Basin speech for agreements tested in lived co
 
 ## Notes
 
-Modern civic circles cite this myth when training mixed-race crews for high-pressure mediation.
+Modern civic circles cite this myth when training mixed-kind crews for high-pressure mediation.

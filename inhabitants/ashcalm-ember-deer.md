@@ -7,6 +7,7 @@ related:
   - Ashcalm Rise
   - Wabet
   - Stillhollow
+  - Ember Linings at First Light
 themes:
   - gentle wild
   - warmth

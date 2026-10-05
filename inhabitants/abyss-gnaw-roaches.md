@@ -6,6 +6,7 @@ culture:
 related:
   - F500 (frequency realm)
   - The Unraveled
+  - Labels Gone Quiet
 themes:
   - insects
   - small

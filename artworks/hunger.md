@@ -22,7 +22,7 @@ based_on: Nauw fruit culture and Wabet fruit flow (lore)
 
 ## Overview
 
-*Hunger* is an artwork by Daniel Eugene Botha that depicts hands reaching toward bananas, expressing Nauw's intense fruit desire and banana-centered food values.
+*Hunger* is an artwork that depicts hands reaching toward bananas, expressing Nauw's intense fruit desire and banana-centered food values.
 
 ## Description
 

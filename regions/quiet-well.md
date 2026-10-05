@@ -52,6 +52,4 @@ The guiding tension: the land provides for those who respect its silence—and s
 
 Desert saga hook independent of Verdant orchard plots and Calen’s Wabet chapter.
 
-### Secret note
-
-**Type:** kinder lie (place-scale). Accurate public cartography here is treated as theft; true path knowledge stays Keep craft. Visitors who “find” water by rumor usually found a decoy first. See [`Secrets of Dias`](../world/secrets-of-dias.md).
+Keep craft treats accurate public cartography here as theft; true path knowledge stays Keep practice. Visitors who “find” water by rumor usually found a decoy first. Related pressure: [`Secrets of Dias`](../world/secrets-of-dias.md).

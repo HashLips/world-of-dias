@@ -10,6 +10,7 @@ related:
   - Sella Orrow
   - The Late Bruise
   - Eastbound Fruit Road
+  - Cloth on the Lent Stake
 themes:
   - lend
   - grass

@@ -10,6 +10,7 @@ related:
   - Peoples of Dias
   - Nauw Outer Rim Seas
   - Wabet
+  - Pale Motes of a Palewind
 themes:
   - swarm personhood
   - distributed intelligence

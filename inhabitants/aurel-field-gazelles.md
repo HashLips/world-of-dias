@@ -7,6 +7,7 @@ related:
   - Aurel Meridian
   - F200 (frequency realm)
   - Brightspine Grazers
+  - Silent Brightness Arcs
 themes:
   - medium
   - light herd

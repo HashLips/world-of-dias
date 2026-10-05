@@ -12,6 +12,8 @@ related:
   - Meridian Soft-Rays
   - Meridian Quiet Rib
   - F200 coherence gate rule
+  - Filament Aisles in Soft-Ray Procession Hall
+  - Filament Cores of Aurel-kind
 themes:
   - luminosity
   - gathering

@@ -7,6 +7,7 @@ related:
   - Eastbound Fruit Road
   - Nauw
   - Fruitrail Foxes
+  - Rest Berm for Draft-Ponies
 themes:
   - medium
   - working animals

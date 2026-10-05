@@ -11,6 +11,7 @@ related:
   - Unfinished edge drift
   - The Last Line Never Drawn
   - Peoples of Dias
+  - Revision Seams of a Draftkin
 themes:
   - adaptive identity
   - iterative form

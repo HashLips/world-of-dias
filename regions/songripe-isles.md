@@ -13,7 +13,7 @@ related:
   - Meet My Bird
   - Blue Banana
 themes:
-  - west coast islets
+  - tide-song islets
   - song over harvest
   - resonance pocket
   - unripe abundance

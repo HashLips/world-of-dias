@@ -46,7 +46,7 @@ A third version, favored by those who like shame:
 
 An **academic in good standing** mistook a **bleed day** for equipment failure, wrote a **formal error report** naming **“mirror harmonics at 200/500 (folk designation)”**, and thereby **accidentally** gave the realm clean labels for whispers that already had teeth.
 
-In later retellings, copyists from different race communities annotate the same chain differently: some **Human** harbor clerks prioritize route risk, some **Lineborn** copy houses preserve symbol fidelity over prose, and some **Choirglass** recorders add tonal marks to indicate stress in witness testimony.
+In later retellings, copyists from different compact houses annotate the same chain differently: some **Human** harbor clerks prioritize route risk, some **Lineborn** copy houses preserve symbol fidelity over prose, and some **Choirglass** recorders add tonal marks to indicate stress in witness testimony.
 
 Whichever version you believe, the outcome is the same: **F200 and F500 exist in F432’s language** before they exist in F432’s **competence**. The realm knows enough to be **afraid, curious, and half-right**.
 

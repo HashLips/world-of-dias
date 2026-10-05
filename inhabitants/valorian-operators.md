@@ -15,6 +15,7 @@ related:
   - The Calibration Saga
   - The Caliburn
   - Load-Noise Filing Manners
+  - Glow More than Facade
 themes:
   - stewardship
   - hypertechnology

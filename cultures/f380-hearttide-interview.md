@@ -28,7 +28,7 @@ F380 Hearttide Interview
 
 ## Beliefs and Values
 
-Communal affect can lean a place. Soft limit: leaning is not realm conversion. Taboo guess: forcing hearttide with tools as if it were a ferry. Interviewers note laughter density, gift tempo, and whether strangers become “colleague” after one good question.
+Communal affect can lean a place. Manners refuse treating lean as realm conversion, and refuse forcing hearttide with tools as if it were a ferry. Interviewers note laughter density, gift tempo, and whether strangers become “colleague” after one good question.
 
 ## Practices and Traditions
 

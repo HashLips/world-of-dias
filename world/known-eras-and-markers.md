@@ -43,7 +43,7 @@ Everything after the Fracture. Most saga events occur here.
 | --- | --- | --- |
 | **Generations since Fracture** | People count backward in family lines, not years; "four generations of gate-keepers" is a typical phrase | cultural, imprecise |
 | **Long Gate era** | Period after the great Nauw–Hearthvale bridge crossing defined Sorel's northern gate | regional, disputed in detail |
-| **Ring expansion decades** | Veloria's inner rings rebuilt outward-in several times; outer ring still "medieval" by policy and taste | civic record, approximate |
+| **Ring expansion decades** | Veloria's inner rings rebuilt outward-in several times; outer ring still kept in craft-era stone and guild habit by policy and taste | civic record, approximate |
 | **Echo-rise season** | Recent interval when harmonic echo reports increased along Nauw trade routes; Calen Brink's awakening aligns with this period | observational, contested |
 | **Echo-rise schism season** | Competing Resonant House codes H-11 and H-19 during Calen Brink witness network expansion | institutional, unresolved |
 | **Ledger waves** | Supplemental harmonic ledger fragments circulated in three rumor waves (F200/F500; F120/F380/F610/F840; F960 gloss) | archival gossip |
@@ -60,7 +60,7 @@ These are **biographical anchors**, not full histories:
 
 ## Notes
 
-Do not use this entry to pin the Fracture to a numbered year. Filmmakers may treat markers as culturally situated texture; repository explorers may treat them as orienting, not authoritative.
+Do not use this entry to pin the Fracture to a numbered year. Markers are culturally situated texture—orienting, not authoritative.
 
 For **lived F432 rhythm** (markets, festivals, regional variants, frequency time-feels), see [`F432 Civic Time`](../cultures/f432-civic-time.md). Eras answer “which age?”; civic time answers “which season of ordinary life?”
 

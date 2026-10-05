@@ -57,6 +57,6 @@ Dias continued.
 
 ## Notes
 
-Chapter 19, Movement Three **complete**. Saga remains **open** for future movements. Fracture unresolved. Calen portrait still pending. Suitable as interim "series pause" for readers and filmmakers—emotional closure, cosmic openness.
+Chapter 19, Movement Three **complete**. Saga remains **open** for future movements. Fracture unresolved. Calen portrait still pending. Suitable as interim pause—emotional closure, cosmic openness.
 
 Repository explorers should branch from here into myths, frequencies, and contradictions the saga names but does not close.

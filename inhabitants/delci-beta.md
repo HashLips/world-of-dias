@@ -64,7 +64,7 @@ At **The Salt Ledger**, talk sometimes hardens into a name for the habit—"the 
 
 Delci Beta is a side-path figure in Dias: a living invitation into inward travel for anyone curious enough to find him—most notably **Calen Brink**, who hears the rumor, sits the rock, and later walks the Passage under handshare.
 
-**Pillar exemplar (Central characters — secondary):** proves the world supports protagonists and quiet recurrers who are not "chosen." His power is routine and place, not crown destiny.
+Proves the world supports protagonists and quiet recurrers who are not "chosen." His power is routine and place, not crown destiny.
 
 ## Notes
 

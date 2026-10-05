@@ -38,7 +38,7 @@ Paper (or slate, or tone-mark) can save a life or end a belonging. Accuracy is k
 
 ## Kindness practice
 
-Explain a form once without sighing; correct a wrong race-tag before it hardens.
+Explain a form once without sighing; correct a wrong census-mark before it hardens.
 
 ## Hard edge
 

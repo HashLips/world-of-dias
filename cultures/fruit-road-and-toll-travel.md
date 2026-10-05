@@ -12,6 +12,8 @@ related:
   - Nauw Market Slang
   - The Bells Against Redmile
   - Beast and Relay Transport
+  - F432 span and travel distances
+  - Fruit-Road Keeping
 themes:
   - fruit roads
   - tolls

@@ -10,6 +10,7 @@ related:
   - Peoples of Dias
   - Nauw
   - Veloria City
+  - Facet Light of a Choirglass
 themes:
   - resonance
   - faceted consciousness

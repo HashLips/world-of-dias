@@ -61,7 +61,7 @@ Regions remain the file of record. This page is the **settlement card** index.
 | [Rim-Rest](../regions/rim-rest.md) | port | Raft rings; seasonal sleep on water | broker news + repair | Bright Inshore swell | storm silence from a raft | gangplank gossip ring |
 | [Hallow Bay](../regions/hallow-bay.md) | sanctuary port | Few guests; intentional arrivals | rest + Watch assent | Ribbon rite | belonging revoked | [Bay-Ribbon Guest Hall](../regions/bay-ribbon-guest-hall.md); Rope Tree |
 | [Isle of Calareth](../regions/isle-of-calareth.md) | sanctuary | Small, strict, seasonal | stewardship | Coral Strand joy; Still Months work | broken No-Moved-Stone | Elder Shelf day-pass ring |
-| [Driftfall](../regions/driftfall.md) | frontier territory | Fluid crews; Baltic hang-about | claim + move | beach idle days | vent nights; captainless hours | Sprout Vent approaches; Good Trade mountain |
+| [Driftfall](../regions/driftfall.md) | frontier territory | Fluid crews; salt hang-about | claim + move | beach idle days | vent nights; captainless hours | Sprout Vent approaches; Good Trade mountain |
 | [Claimscar Yard](../regions/claimscar-yard.md) | frontier yard | Tarps and rival marks | stake + salvage | shared breakfast (not shared claims) | double-painted sprout nights | [Claimscar Cookfire Circle](../regions/claimscar-cookfire-circle.md) |
 | [Secondfire](../regions/secondfire.md) | rebuild town | Displaced makers remaking | kiln + teach | Hearth Laughter Week | refusal of remaking | teaching fire courtyards |
 

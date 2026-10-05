@@ -7,6 +7,7 @@ related:
   - Nauw Outer Rim Seas
   - Nauw
   - Human-Eyed Whales
+  - Throat Light Under Fog
 themes:
   - marine danger
   - fog predation

@@ -9,6 +9,7 @@ related:
   - Nauw
   - Creatures of Dias
   - Animals of Dias
+  - Eyes That Meet the Keel
 themes:
   - ocean symbiosis
   - sustenance

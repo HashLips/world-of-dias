@@ -37,4 +37,4 @@ Len slept under drip-moss sound and wanted another day of nothing that needed a 
 
 ## Notes
 
-Daily-life slice for Section 23. Hub: [`Daily Life of Dias`](../world/daily-life-of-dias.md).
+Daily-life slice. Hub: [`Daily Life of Dias`](../world/daily-life-of-dias.md).

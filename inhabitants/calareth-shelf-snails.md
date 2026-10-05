@@ -7,6 +7,7 @@ related:
   - Elder Shelf
   - Isle of Calareth
   - Hallow Bay
+  - Glittering Patience Trails
 themes:
   - small
   - slow life

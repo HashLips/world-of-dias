@@ -17,6 +17,9 @@ related:
   - The Mix Orchard
   - Fruit Road and Toll Travel
   - The Late Bruise on Lent Grass
+  - F432 span and travel distances
+  - Fruit-Road Keeping
+  - Cloth on the Lent Stake
 themes:
   - lent land
   - landing

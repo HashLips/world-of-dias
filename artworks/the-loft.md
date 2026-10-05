@@ -42,4 +42,4 @@ Tied to: Hollowmere, Jessa Quill, Outer Rim Line Answer.
 
 ## Notes
 
-Pulled from ref for the F432 densification pass.
+Plate brought into Dias naming from the intake archive.

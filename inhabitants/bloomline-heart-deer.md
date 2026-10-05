@@ -7,6 +7,7 @@ related:
   - The Bloomline Estuary
   - F380 (frequency realm)
   - Tidehearts
+  - Coat That Takes the Mood
 themes:
   - emotional climate
   - gentleness

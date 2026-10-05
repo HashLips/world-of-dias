@@ -12,6 +12,7 @@ related:
   - F200 Map V2
   - Peoples of Dias
   - F432 Shared Table
+  - Filament Cores of Aurel-kind
 themes:
   - energy life
   - peace

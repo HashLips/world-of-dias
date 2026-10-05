@@ -42,4 +42,4 @@ A mark is compressed manners. Misusing a mark as a subway ticket is Softfruit co
 
 ## Notes
 
-Phase 2H will thicken symbols; this primer prevents mark confusion during world leveling.
+This primer orients mark families so civic glyphs, plate marks, and saga signs do not collapse into one another.

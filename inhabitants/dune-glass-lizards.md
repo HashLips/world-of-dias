@@ -7,6 +7,7 @@ related:
   - Lumira Sands
   - Wabet
   - Quiet Well
+  - Blink Against Bright Dunes
 themes:
   - desert adaptation
   - camouflage

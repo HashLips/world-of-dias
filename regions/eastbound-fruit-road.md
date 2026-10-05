@@ -21,6 +21,8 @@ related:
   - Transport of Dias
   - Fruit Road and Toll Travel
   - Beast and Relay Transport
+  - F432 span and travel distances
+  - Fruit-Road Keeping
 themes:
   - produce routes
   - convoy ethics

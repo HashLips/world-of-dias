@@ -40,4 +40,4 @@ Tied to: Flagweek Strip, Mir Weekly.
 
 ## Notes
 
-Pulled from ref for the F432 densification pass.
+Plate brought into Dias naming from the intake archive.

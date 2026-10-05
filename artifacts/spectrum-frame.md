@@ -18,6 +18,8 @@ related:
   - Veld Blackened Spool
   - Vault Latch That Failed
   - Veld Workshop Alcove
+  - Measure-Slit of the Caliburn
+  - Cracked Upright, Incomplete Aperture
 themes:
   - measurement
   - triumph instrument

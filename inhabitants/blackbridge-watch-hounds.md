@@ -8,6 +8,7 @@ related:
   - Hearthvale
   - Nauw
   - The Long Gate Argument
+  - Scent at the Long Bridge
 themes:
   - threshold animals
   - guard work

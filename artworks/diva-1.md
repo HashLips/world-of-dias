@@ -11,6 +11,7 @@ related:
   - The Harmonic Saga
   - Luminance Line
   - Calen Brink
+  - Alignment Before Speech
 themes:
   - focused presence
   - luminous identity

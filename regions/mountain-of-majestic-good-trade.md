@@ -35,7 +35,7 @@ Mountain of Majestic Good Trade
 
 ## Overview
 
-Mountain of Majestic Good Trade is a modest inland rise on Driftfall's quieter eastern side—close enough to the Baltic-leaning beaches for shore people to know it by habit, far enough from Sprout Vent and the outlaw yards to feel like a different Driftfall.
+Mountain of Majestic Good Trade is a modest inland rise on Driftfall's quieter eastern side—close enough to the salt hang-about beaches for shore people to know it by habit, far enough from Sprout Vent and the outlaw yards to feel like a different Driftfall.
 
 ## Description
 

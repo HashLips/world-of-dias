@@ -6,6 +6,7 @@ culture:
 related:
   - F200 (frequency realm)
   - Aurel Meridian
+  - Soft Bright Wakes
 themes:
   - light-herd
   - coherence

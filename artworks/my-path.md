@@ -37,13 +37,13 @@ My Path
 
 ## Description
 
-A flat, high-contrast field of gray ground under a pale sky. A black silhouette walks away from the viewer with a stick, footprints marking the way behind him. A park bench sits alone to one side. Framed pictures lie on the ground like left-behind rooms. In the foreground, another dark figure lies reaching. A small white rectangle hangs in the sky like a cold sun or an open square of light.
+A flat, high-contrast field of gray ground under a pale sky. A dark silhouette walks away from the viewer with a stick, footprints marking the way behind him. A park bench sits alone to one side. Framed pictures lie on the ground like left-behind rooms. In the foreground, another dark figure lies reaching. A small white rectangle hangs in the sky like a cold sun or an open square of light.
 
 Asset reference: `assets/my-path.jpg`.
 
 ## Real-World Role
 
-A surreal path study in Daniel Eugene Botha's Dias-linked work: journey reduced to silhouette, track, and a few bright rectangles of color against emptiness.
+A surreal path study in Dias-linked work: journey reduced to silhouette, track, and a few bright rectangles of color against emptiness.
 
 ## Lore Connection
 

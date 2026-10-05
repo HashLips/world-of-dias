@@ -11,6 +11,8 @@ related:
   - Market Banana
   - Lucky Fruit forms
   - Wabet Orchard and Unclaimed Breakfast
+  - Fruit-Road Keeping
+  - F432 span and travel distances
 themes:
   - fruit trade
   - import dependence

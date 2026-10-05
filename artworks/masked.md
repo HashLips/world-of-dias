@@ -40,7 +40,7 @@ Asset reference: `assets/masked-1.jpg`.
 
 ## Real-World Role
 
-A graphic of anonymity-as-order in Daniel Eugene Botha's Sorel-linked imagery.
+A graphic of anonymity as order in Sorel-linked imagery.
 
 ## Lore Connection
 

@@ -22,7 +22,7 @@ based_on: Singing Fishermen and Human-Eyed Whales (lore)
 
 ## Overview
 
-*Man with Whale* is an artwork by Daniel Eugene Botha that canonically frames the emotional interior of fisherman-whale contact: closeness, dependence, and latent danger.
+*Man with Whale* is an artwork that canonically frames the emotional interior of fisherman-whale contact: closeness, dependence, and latent danger.
 
 ## Description
 

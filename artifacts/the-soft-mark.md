@@ -13,6 +13,8 @@ related:
   - The Vitrin Saga
   - Technology of Dias
   - Sky Drifters
+  - Peel Bite over the Basin
+  - Valve Hand on Soft Mark
 themes:
   - blimp
   - advertisement

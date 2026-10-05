@@ -39,4 +39,4 @@ Kept as a small F200 pin for future non-Harmonic cross-band stories. Do not trea
 
 ## Notes
 
-Other-frequency companion to the F432 densification pass—hook only, not a second capital.
+F200 companion stair to Stillhollow manners—hook place, not a second capital.

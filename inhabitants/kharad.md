@@ -10,6 +10,7 @@ related:
   - Peoples of Dias
   - Wabet
   - Sorel
+  - Granite Stance of a Kharad
 themes:
   - durability
   - craft labor

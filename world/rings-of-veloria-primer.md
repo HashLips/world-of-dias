@@ -10,6 +10,7 @@ related:
   - Pot-Signal Array Court
   - Why the Third Ring Leans
   - Personal Resonant Tech of Dias
+  - Four Rings around the Core
 themes:
   - Veloria
   - rings

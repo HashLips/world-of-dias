@@ -11,6 +11,7 @@ related:
   - Creatures of Dias
   - Wabet Softfall
   - Canopy Soft-Bear Berry
+  - Huff in Dappled Light
 themes:
   - forest gentleness
   - arboreal life

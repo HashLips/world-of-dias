@@ -44,4 +44,4 @@ Reports cluster at shared tables, loft wakes, and hearth watches: a soft lift in
 
 ## Notes
 
-Careful phenomenon note for Section 31. Do not canonize as afterlife physics. Hub: [`Death and Legacy of Dias`](../world/death-and-legacy-of-dias.md).
+Careful phenomenon note. Do not canonize as afterlife physics. Hub: [`Death and Legacy of Dias`](../world/death-and-legacy-of-dias.md).

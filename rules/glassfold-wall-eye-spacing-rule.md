@@ -1,7 +1,7 @@
 ---
 category: rule
 name: Glassfold wall-eye spacing rule
-region: The Glassfold Ledge
+region: F610 (frequency realm)
 culture:
 related:
   - The Glassfold Ledge

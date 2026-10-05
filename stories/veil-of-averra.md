@@ -68,7 +68,7 @@ The boat returned at dusk. Tamsin read Calen's face and did not ask until asked.
 
 "It sounds like Dias."
 
-Calen wrote the leaf's sensation, not its text—repository explorers must still seek [`myths/the-census-echoes-of-the-prime-mark.md`](../myths/the-census-echoes-of-the-prime-mark.md) for competing tellings. The saga does not quote the fragment verbatim.
+Calen wrote the leaf's sensation, not its text—later readers must still seek [`myths/the-census-echoes-of-the-prime-mark.md`](../myths/the-census-echoes-of-the-prime-mark.md) for competing tellings. The saga does not quote the fragment verbatim.
 
 ## Notes
 

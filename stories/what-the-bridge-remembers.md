@@ -101,4 +101,4 @@ Chapter 7 of **The Harmonic Saga** (first movement). Does **not** resolve Fractu
 
 Love with Tamsin affirmed as **chosen stay**—not marriage, not certainty, **pledged resonance**. Vailor remains distant grandeur; Oriven remains off-page pressure.
 
-The saga can expand beyond seven chapters; this closes the **first Veloria movement** emotionally while leaving the repository cosmos open.
+The saga can expand beyond seven chapters; this closes the **first Veloria movement** emotionally while leaving the cosmos open.

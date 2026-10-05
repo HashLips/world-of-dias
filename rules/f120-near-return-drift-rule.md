@@ -33,7 +33,7 @@ F120 near-return drift rule
 
 Scenes, routes, and phrases recur with slight offsets in timing, sequence, or consequence. Confidence grows from comparison logs (lab drift customs, Span pass records)—not from “I’ve seen this before.” Treating drift as a ferry into the past is soft-limit failure.
 
-Calibration Row’s F120 lab drift log custom is the F432 craft face of the same idea.
+Calibration Row’s F120 lab drift log custom is the Veloria craft face of the same idea.
 
 ## Effect
 

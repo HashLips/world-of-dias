@@ -51,6 +51,7 @@ related:
   - Flora of Dias
   - Architecture of Dias
   - Sorel Salvage Architecture
+  - Hull Ribs and Claim Smoke
 themes:
   - exile
   - frontier survival

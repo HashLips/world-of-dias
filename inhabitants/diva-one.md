@@ -8,6 +8,7 @@ related:
   - F200 (frequency realm)
   - Diva 1
   - Aurel Meridian harmonic alignment rule
+  - Alignment Before Speech
 themes:
   - focused perception
   - luminous composure

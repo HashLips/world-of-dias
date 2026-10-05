@@ -35,7 +35,7 @@ Claimscar Yard
 
 ## Overview
 
-Claimscar Yard is an inland Driftfall crew yard where Freeband crews stake claims on Sprout Vent runoff, salvage rights, and the ugly work that Baltic beach calm prefers not to advertise.
+Claimscar Yard is an inland Driftfall crew yard where Freeband crews stake claims on Sprout Vent runoff, salvage rights, and the ugly work that eastern shore hang-about prefers not to advertise.
 
 ## Description
 

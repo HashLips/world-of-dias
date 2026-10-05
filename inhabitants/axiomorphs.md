@@ -10,6 +10,7 @@ related:
   - Peoples of Dias
   - Nauw
   - Sorel
+  - Lattice Step of an Axiomorph
 themes:
   - alien morphology
   - geometry

@@ -8,6 +8,7 @@ related:
   - Nauw
   - Old Masters of Averra Isle
   - Mega Butterfly
+  - Hoofprints Like Ink Blots
 themes:
   - artist isle
   - mystical fauna

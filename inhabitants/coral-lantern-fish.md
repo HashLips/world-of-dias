@@ -8,6 +8,7 @@ related:
   - Isle of Calareth
   - Hallow Bay
   - Wabet
+  - Lantern Roads in Calm Bays
 themes:
   - bioluminescence
   - coastal wonder
