@@ -1,4 +1,5 @@
 ---
+
 category: region
 name: F610 (frequency realm)
 place_type: realm
@@ -30,6 +31,12 @@ related:
   - Opacity Vein-Kraken
   - Third Window Shelf
   - Ledge Minute Timing Guild Manners
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Frequency Difference Primer of Dias
+  - Established Frequency Realms of Dias
+  - Frequency as fundamental law
+  - Structure of Dias
 themes:
   - revelation
   - hidden structure
@@ -46,6 +53,10 @@ status: canonical
 **F610** is called the **Reveal Veil**: a frequency characterized by short-lived windows where concealed structure becomes visible.
 
 ## Description
+
+### Matter, mood, and meaning
+
+Matter presents as ledge, pane, and fold—surfaces that can go briefly sincere. Mood among surveyors mixes hunger for clarity with trained refusal to stare past the minute. Meaning-physics is interval law: disclosure, then opacity. A truth that remains forever visible would be a soft-limit breach fantasy, not F610’s native gift.
 
 F610 is neither a lie-detector world nor omniscient space. Its defining behavior is interval-based disclosure: pattern, relation, and underlying form become legible briefly, then return behind ordinary opacity.
 
@@ -66,6 +77,24 @@ Art and diagrams represent F610 with layered panes, split reflections, and brief
 The **F610 Map V2** artwork is the current visual reference for **The Glassfold Ledge** and foldline / window-shelf navigation; see `assets/f610-map-v2.jpg` (prior: *F610 Map* / `assets/f610-map.jpg`).
 
 Additional motif work includes **Awake 1** and the reported **Mirror-Wake Inversion** event, both used by investigators to discuss self-reflection anomalies under reveal strain.
+
+### Nesting
+
+**Dias** → **F610 (frequency realm)** → places such as **The Glassfold Ledge** → local phenomena such as Glassfold brief opens and interval-visible grain. Residual seam light inside F432 is not a permanent F610 window redrawn as a street.
+
+### Unlike the others
+
+F610’s fundamental difference is **timed disclosure**: concealed structure becomes legible in intervals, then opacity returns. Truth arrives as a window, not as permanent omniscience.
+
+| Domain | F610 expectation |
+| --- | --- |
+| Matter / place | Glassfold ledges, pane shelves, foldlines; surveyable for a minute |
+| Mood | Precision hunger tempered by anti-stare manners |
+| Physics-of-meaning | Reveal windows; brief true faces; then veil again |
+| Life | Creatures and guilds organized around timing and opacity |
+| Contrast | Not F432’s continuous desk clarity; not F120’s near-return rhyme; not F200’s lasting coherence glow |
+
+F432 investigators keep the proverb: *you may see truly, but not for long.*
 
 ## Notes
 

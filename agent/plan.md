@@ -1,1099 +1,1138 @@
-# Dias World Expansion Plan
+# Dias Book-Series Canon Plan
 
-A step-by-step plan to deepen the World of Dias without losing context, tone, or canon.
+Agent-only plan to prepare World of Dias lore so **six companion volumes** can be written from canon without inventing missing world rules mid-book.
 
-This is a **stage-building plan**. Sagas come later as journeys across a prepared world. Do not rush saga events until the stage can hold them.
+**Prior plan:** Stage-building Sections **1–35** are complete. This file replaces that expansion track as the active work plan.
+
+**Location:** `agent/plan.md` — not a human reading path. Lore stays in category folders only.
 
 ---
 
 ## North star
 
-Build a world someone would **love to inhabit**—full of mystery, magic, happiness, and life—while an **underlying unsettled pressure** remains: something is wrong, something may be coming, something may already be moving.
+Fill and deepen canon until each volume’s **definition of done** and **completion test** can pass. Phases ready ≠ first edition ready: after all volumes, the **Universal publication checklist** must still pass.
 
-Tone mix to protect in every step:
+| Volume | Title | Done when |
+| --- | --- | --- |
+| I | The Laws of Dias | A reader understands how the universe operates and its fundamental limitations |
+| II | The Atlas of Dias | A reader knows where important places exist and how they relate geographically |
+| III | The Living World | A reader understands living systems and can identify representative species |
+| IV | Peoples and Civilizations | A reader understands who inhabits Dias, how they live, and how societies function |
+| V | Artifacts and Inventions | A reader understands the material world: tools, travel, trade, tech |
+| VI | Echoes and Mysteries | A reader understands historical framework, remembered belief, and what remains unknown |
 
-| Layer | Feel |
-| --- | --- |
-| Surface life | Markets, jokes, fruit roads, songs, kindness, ordinary work |
-| Wonder | Frequencies, echoforms, strange animals, luminous places |
-| Unease | Bleed weather, sealed ledgers, unresolved mysteries, F500 dread |
-| Conflict | Factions, borders, exile, exploitation of echoes, slow dark initiatives |
-| Unimaginable | Cosmic rules, Frequency Zero, horizon-null scale threats—used sparingly |
-
-**Core principle (do not replace):** Everything resonates. Everything leaves an echo.  
-See [`CORE-PILLARS.md`](../CORE-PILLARS.md).
-
-**Location:** This file is **agent-only** (`agent/plan.md`). Human readers use root orientation docs; authors/agents use this plan to stage expansion.
+Tone to protect (from pillars and prior stage work): surface life, wonder, unease, conflict, and sparingly used unimaginable scale. **Core principle:** Everything resonates. Everything leaves an echo. See [`../CORE-PILLARS.md`](../CORE-PILLARS.md).
 
 ---
 
-## How we work this plan
+## How agents must run this plan
 
-### One section at a time
+### Story Architect (required for every entry)
 
-1. Read this section’s plan block fully before writing lore.
-2. Canon-check existing files in that domain.
-3. Produce only that section’s deliverables.
-4. Mark the section **done** only when its exit criteria pass.
-5. Stop. Summarize. Do not silently start the next section.
+**Whenever you create or edit lore for any phase, use the Cursor Story Architect skill.** This is not optional and not “remembered from earlier.”
 
-### Context discipline
+Before writing files in a phase:
 
-- Prefer **enriching** existing entries over inventing parallel systems.
-- One concept per file; use story-architect schema and folders.
-- **Indexes are not enough** when a domain carries big imaginative weight (architecture, flora, creatures, settlements). Create or deepen **individual entries**—materials, silhouettes, practices—not only hub tables.
-- Keep [`GUIDED-PATH.md`](../GUIDED-PATH.md) steps 1–5 stable.
-- Keep Dias GUID permanence rules (`agent/dias-map.yaml`) when touching mapped files.
-- Sagas stay listed in [`SAGAS.md`](../SAGAS.md); this plan **preps the stage**, it does not replace Harmonic / Lumen paths.
+1. Read Story Architect `SKILL.md`.
+2. Read its `references/` as needed for the work: at minimum `schema.md`, `file-templates.md`, `categories.md`, `naming-conventions.md`, `canon-rules.md`, and `hierarchy.md`.
+3. Classify each concept with the skill’s category guide.
+4. Generate or enrich each file with the skill’s **full category template** (frontmatter + body sections)—never a parallel stub format.
+5. Run the skill’s canon-check / progressive-enrichment behavior; frame conflicts (`rumor` / `myth` / `unknown` / `contradicted`), do not silently overwrite.
 
-### Folder mapping (quick)
+If Story Architect is unavailable in the session: **stop** and tell the human. Do not improvise lore files without it.
 
-| Plan topic | Primary folders |
+Also read Dias companions every phase: [`contributor-start.md`](contributor-start.md), [`canon-safety.md`](canon-safety.md), [`stage-readiness.md`](stage-readiness.md).
+
+### One phase at a time
+
+1. Read **this volume’s intro** and the **single phase** you are running.
+2. **Load Story Architect** (`SKILL.md` + needed `references/`) plus the Dias companion docs above.
+3. Canon-check existing hubs and related entries **before** creating files.
+4. Answer the phase question with due diligence (see below). **Take your time.**
+5. Mark the phase checkbox only when the question is **fully** answered and its **exit criteria** pass.
+6. Stop. Summarize what was added/enriched. Do **not** silently start the next phase.
+
+### Pace: leave no stone unturned (every phase)
+
+We have all the time in the world. Speed is not a goal. Completeness is.
+
+- **Fully answer the phase question** before stopping. Partial coverage is failure.
+- **Leave no stone unturned** — inventory gaps, chase cross-links, cover ordinary life and edge cases the book will need, not only the obvious hub entry.
+- **Volume of entries is fine** — if a phase needs **100, 500, or more** new or deeply enriched files to answer honestly, do that. Prefer many rich entries over one thin overview.
+- **Every entry stays richly descriptive** — full Story Architect templates; no stubs, no two-liners, no three-sentence skim entries, no checklist prose pretending to be lore. If you enrich a file, add real texture (sensory detail, place, practice, consequence)—not a thin bolt-on paragraph.
+- **Do not stop early** because the session is long, the count is high, or “enough examples” feel convenient. Stop only when a book chapter could be written from canon without inventing rules.
+- Soft limits still apply: openness and mystery are not excuses to skip required texture elsewhere.
+
+### Due diligence (required every phase)
+
+Before declaring a phase done, the agent must:
+
+1. **Inventory** — Search existing lore for the question’s domain. Listed folders are **starting points only**—follow links, indexes, saga paths, and further search across any category until the gap map is honest. List what already answers it and what gaps remain.
+2. **Judge sufficiency** — Ask: could a full book chapter on this topic be written from current entries alone without inventing rules? If no, keep going. If yes only by hand-waving, keep going.
+3. **Enrich first** — Prefer deepening existing entries over parallel stubs—then create whatever else is still missing.
+4. **Create as many entries as needed** — Per phase, **100–500+ descriptive entries is acceptable** when the question demands it. Hundreds or thousands across the full plan is expected. Do not stop at one thin file, a short list of examples, or a hub page alone if the question still fails.
+5. **Story Architect on every file** — Re-apply the skill’s schema, template, naming, and category rules for each create/enrich. Do not mass-generate lore that skips the template sections. **Hand-author each file** (see “Hand-authored lore only” below)—never Python/shell bulk-write of category Markdown.
+6. **Quality bar** — No two-liner or three-sentence skim entries. Every new or substantially touched entry must use the full Story Architect template for its category and be **rich enough to illustrate or narrate from**: lived sensory detail, how it sits in place, who uses or fears it, and how it connects to resonance / frequency logic where relevant. Enrichment means deepening the entry, not tacking on three short lines. **Definition first:** a book author must be able to state the rule in plain words without guessing—see “Definitional clarity” below.
+7. **Classify correctly** — Put each concept in the right folder per Story Architect (`world/`, `regions/`, `rules/`, `cultures/`, `inhabitants/`, `flora/`, `artifacts/`, `phenomena/`, `myths/`, `stories/`, `symbols/`, `artworks/`).
+8. **Lore voice (not book editorial)** — Category lore is the world source. Do **not** write Notes/Overview that address “Volume I,” “for the book,” “Phase I.x,” “publication checklist,” or other agent/plan scaffolding. Keep volume/phase language in `agent/plan.md` only. Prefer explaining relationships **inside the real entry** via `related:` / `parent_region` and body prose—not parallel meta files (e.g. do not create “Nest Path: …” twins for every place).
+9. **Link cleanly** — Exact `name:` matching in `related:`; rebuild dashboard when links/map pins change; aim for unresolved refs 0.
+10. **Protect soft limits** — Do not solve Frequency Zero, invent band ferries, promote Distant Companies / Horizon-Nulls / Unraveled to confirmed taxonomy, or rewrite `GUIDED-PATH.md` steps 1–5. Frame unknowns as `unknown` / `rumor` / `myth` when appropriate.
+11. **Volume completion test** — After the last phase in a volume, run that volume’s completion test in the summary.
+
+### Hand-authored lore only (non-negotiable)
+
+**Do not use Python, shell loops, templates-as-code, or any script to create or bulk-write lore Markdown entries.**
+
+- The agent must **author each entry itself** (Write / edit tools), with Story Architect judgment on classification, canon check, naming, `related:` exactness, and lived texture.
+- Scripts are allowed only for **non-authoring** ops: search/inventory (`rg`, `find`), dashboard rebuild (`scripts/build_story_dashboard.py`), git, and similar read/verify tooling.
+- Mass-generating dozens of near-identical files from a Python string template produces thin, low-attention lore. That is a phase failure even if the count looks high.
+- If a phase needs many files, write them **one by one** (or in small careful batches), each with its own sensory detail, place, and consequence—not a shared skeleton with swapped band names.
+
+### Definitional clarity (non-negotiable)
+
+Canon is the source a book will be written from. **Definitions must be plain and usable—not poetry standing in for physics.**
+
+- Every major term (frequency, resonance, echo, realm, region, local phenomenon, matter/life/memory/perception/environment effects, claim grades, soft limits, etc.) needs a **clear operational meaning**: what it is, what it does, what it is not, and what happens when someone treats it wrong.
+- Lived texture and Softfruit voice are welcome **after** the definition is locked. Atmosphere must not replace the definition.
+- A book author must not have to guess whether a phrase is metaphor, law, observation, or taboo. Use claim grades and “plain job” wording so sorting is obvious.
+- Soft limits and genuine unknowns stay open **on purpose**—but they must be labeled as unknown/taboo/soft-limit, not wrapped in beautiful ambiguity that looks like a hidden answer.
+- When enriching older entries that lean poetic, add or tighten a plain definition first; keep wonder in examples, not in the meaning of the word.
+
+### Entry quality bar (non-negotiable)
+
+Reject / rewrite work that is:
+
+- written without Story Architect schema/template
+- a title plus one sentence, or a thin three-sentence skim
+- enrichment that only adds a short bolt-on note instead of real body depth
+- a bullet list with no lived texture
+- Earth-tech pasted in (phones, apps, generic AI) without Dias framing
+- a duplicate of an existing entry under a new name
+- a parallel meta twin of an existing concept (relationship belongs in `related:` / body of the real entry)
+- **script-/template-bulk-generated** lore (Python/shell loops filling Markdown from string templates)
+- **poetry-as-definition** — evocative prose with no clear “what it is / does / isn’t,” leaving a book author to guess
+
+Accept work that:
+
+- follows Story Architect classification, naming, frontmatter, and full template sections
+- was **hand-authored** with attention to that concept’s particular place and manners
+- leads with a **plain, book-usable definition**, then adds lived texture
+- reads as a **decent, rich** lore record—enough prose that a stranger could picture and use it
+- a reader can **picture**, **place**, and **connect** to at least one other domain
+- leaves mystery where canon soft-limits require it, without fake final answers or undefined fog
+
+### Folder starting points (not limits)
+
+Each phase lists **starting points**—places to open first. They are **not** a closed allow-list.
+
+- Search further wherever the question leads (`related:` webs, hubs, indexes, map registry, artworks, myths, etc.).
+- Create or enrich entries in **any** correct category if that is where the answer belongs.
+- Classify by Story Architect rules; do not force a concept into a starting folder just because it was listed.
+
+| Domain | Start here |
 | --- | --- |
-| Cosmology, time, history, mysteries, secrets | `world/`, `rules/` |
-| Regions, landmarks, settlements | `regions/` (+ `world/` indexes) |
-| Architecture dialects | `cultures/` (+ index `world/architecture-of-dias.md`); link from `regions/` |
-| Climate, flora phenomena | `phenomena/`, `regions/`, occasional `world/` |
+| Cosmology, time, history indexes, mysteries | `world/`, `rules/` |
+| Realms, regions, settlements, landforms, routes | `regions/` (+ `world/` indexes, `dashboard/map-registry.yaml`) |
+| Climate, weather-as-phenomena | `phenomena/`, `regions/` |
 | Plants & growth | `flora/` (index: `world/flora-of-dias.md`) |
-| Animals, creatures, peoples | `inhabitants/` |
-| Cultures, language, religion, daily life, food | `cultures/` |
-| Tech, transport, economy, orgs, politics | `cultures/`, `artifacts/`, `rules/`, `regions/` |
-| Artifacts, evidence, communication | `artifacts/` |
-| Stories, folklore, entertainment | `myths/`, `stories/` |
-| Symbols of belief / identity | `symbols/` |
+| Animals, creatures, peoples, named persons | `inhabitants/` |
+| Cultures, language, religion, daily life, orgs, economy | `cultures/` |
+| Laws, protocols, absolute vs theory framing | `rules/` |
+| Objects, tech, vehicles, relics, records | `artifacts/` |
+| Folklore, entertainment stories | `myths/`, `stories/` |
+| Emblems, signs, belief marks | `symbols/` |
+| Visual plates / field-guide art | `artworks/` + `assets/` |
 
-### Definition of “fleshed out enough”
+### Status tracking
 
-A section is ready when a reader can:
-
-1. **Picture** it (sensory, concrete).
-2. **Feel** why it belongs in Dias (resonance / frequency logic).
-3. **Sense** both joy and pressure (not only danger, not only comfort).
-4. **Connect** it to at least two other domains (people ↔ place ↔ rule, etc.).
-5. Leave **one open question** for later saga fuel.
+- Phase checkbox `- [ ]` → `- [x]` only when exit criteria pass.
+- Volume status: **pending** → **in progress** → **ready for book draft**.
+- Do not mark a volume ready until its **completion test** can be answered honestly.
 
 ---
 
 ## Phase map (high level)
 
-| Phase | Sections | Goal |
+| Volume | Phases | Goal |
 | --- | --- | --- |
-| **A — Physics of wonder** | 1–4 | Laws, structure, time, climate |
-| **B — Living geography** | 5–9 | Places, land, flora, fauna, monsters |
-| **C — Who lives here** | 10–14 | Peoples, settlements, architecture, cultures, language |
-| **D — How life works** | 15–20 | Food, tech, transport, economy, knowledge, belief |
-| **E — Who pulls strings** | 21–23 | Orgs, politics, daily life texture |
-| **F — What came before** | 24–26 | History, figures, conflict (stage pressure) |
-| **G — Who walks the stage** | 27–28 | Characters, artifacts |
-| **H — How meaning travels** | 29–31 | Communication, stories, death & legacy |
-| **I — What stays unfinished** | 32–35 | Mysteries, secrets, evidence, relationship web |
+| **I — Laws** | I.1–I.11 | Cosmology, resonance, frequencies, limits, unknowns |
+| **II — Atlas** | II.1–II.10 | Hierarchy, F432 geography, climates, routes, maps |
+| **III — Living World** | III.1–III.10 | Ecosystems, flora, fauna, frequency-biology |
+| **IV — Peoples** | IV.1–IV.10 | Peoples, cultures, daily life, governance, belief |
+| **V — Artifacts** | V.1–V.10 | Materials, tech, transport, trade, relics |
+| **VI — Echoes** | VI.1–VI.10 | Eras, Fracture consequences, figures, mysteries, timeline |
 
-**Saga prep checkpoint:** after Phase F, review whether the stage can support a third saga without inventing cosmology mid-journey. After Phase I, sagas may escalate.
+**Total:** 61 phases. Run in order within a volume; volumes may be scheduled by human priority, but do not skip soft-limit phases casually.
 
 ---
 
-## Section plans (in order)
+# Volume I: The Laws of Dias
+
+**Theme:** Foundations, cosmology, frequencies, and the nature of reality.
+
+**Definition of done:** A reader understands how the universe operates and what its fundamental limitations are.
+
+**Completion test:** Give the finished material to someone unfamiliar with Dias. Can they explain its fundamental laws and identify why an event would or would not be possible?
+
+**Volume status:** ready for book draft
 
 ---
 
-### 1. Cosmology & Fundamental Rules
+### Phase I.1 — What Dias is; how realms, regions, and local phenomena fit
 
-**Purpose:** Make Dias’s “physics of meaning” clear enough to trust, open enough to explore.
+- [x] Can we explain exactly what Dias is and how frequency realms, regions, and local phenomena fit together?
 
-**Already strong:** frequency law, echo principle, Fracture, Frequency Zero, Prime Age threads, `CORE-PILLARS.md`.
+**Starting points** (search further as needed): `world/`, `rules/`, `regions/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- Inventory all `rules/` and top-level `world/` cosmology entries; write a one-page **cosmology index** note inside an existing world entry or a thin `world/` overview (no second lore bible).
-- Clarify layers: Dias → frequency realms → regions → local phenomena.
-- Name what is **law**, what is **theory**, what is **taboo guess**.
-- Define soft limits: what frequency can and cannot casually do (keeps magic from becoming “anything”).
-- Plant 2–3 **unsettled implications** (e.g. bleed, null pressure, unfinished becoming) without resolving Frequency Zero.
+**Diligence:** Inventory cosmology hubs and realm primers. Ensure a clear hierarchy (Dias → frequency realm → region → local phenomenon) exists in linked entries, not only in root docs. Enrich or create orientation entries until the stack is teachable without saga spoilers.
 
-**Deliverables:** tightened rule cross-links; 1 short cosmology orientation entry or enrichment; open-question list for later mysteries.
-
-**Exit criteria:** a new reader can explain resonance + frequencies in plain speech and feel that something larger remains unanswered.
+**Exit criteria:** A new reader can state what Dias is and correctly nest realm / region / local phenomenon with examples.
 
 ---
 
-### 2. World Structure
+### Phase I.2 — Resonance and echo
 
-**Purpose:** Make the “map of maps” legible—how realms relate without flattening wonder.
+- [x] Can we explain what resonance is and why everything leaves an echo?
 
-**Already strong:** F120–F960 realm entries; F432 as lived home band; F200/F500 contrast.
+**Starting points** (search further as needed): `rules/`, `world/`, `phenomena/`, `symbols/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- Produce a **structure diagram in prose**: Dias container, known realms, awareness levels from F432, travel rarity.
-- Define structural roles: home band (F432), luminosity (F200), null (F500), echo (F120), hearttide (F380), reveal (F610), ember quiet (F840), unfinished (F960).
-- Document “how people know” vs “how institutions know.”
-- Add sparse **structural anomalies** (bleed, unfinished edge drift, returning spans) as features, not dump lore.
+**Diligence:** Make resonance and echo concrete (effects, metaphors inhabitants use, observable traces). Avoid turning “echo” into unlimited magic.
 
-**Deliverables:** enriched realm hub links; optional atlas notes in `dashboard/map-registry.yaml` only where structure needs pins later.
-
-**Exit criteria:** someone can say where F432 sits emotionally and cosmically relative to light and abyss.
+**Exit criteria:** Plain-speech explanation of resonance + echo exists in canon entries, with at least two lived examples.
 
 ---
 
-### 3. Time & Calendar
+### Phase I.3 — Absolute laws vs theories vs observations
 
-**Purpose:** Give life rhythm—festivals, workweeks, omen seasons—without rigid Earth clone calendars unless earned.
+- [x] Do we know which principles are absolute laws versus theories or observations?
 
-**Plan:**
+**Starting points** (search further as needed): `rules/`, `world/`
 
-- Survey existing time cues (Flagweek, Hearth Laughter Week, migration seasons, reveal windows).
-- Design **F432 civic time** first (markets, fruit seasons, gate schedules).
-- Add **frequency-local time feels** (F120 near-return; F610 interval windows; F840 recovery seasons)—not full duplicate calendars unless needed.
-- Create 1 shared festival calendar seed + 2 regional variants.
-- Leave deep antiquity dating partly unresolved (supports mystery).
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** 1–2 `cultures/` or `rules/` time entries; festival hooks linked to regions.
+**Diligence:** Tag or structure entries so law / theory / observation / taboo-guess are distinguishable. Do not collapse scholarly dispute into false certainty.
 
-**Exit criteria:** a story can say “when” in a Dias way and it feels native.
+**Exit criteria:** A reader can sort major principles into law vs theory vs observation using canon wording.
 
 ---
 
-### 4. Environment & Climate
+### Phase I.4 — Established frequency realms
 
-**Purpose:** Make weather and land-feel carry emotion and slight unease.
+- [x] Can we describe every established frequency realm and what makes it fundamentally different?
 
-**Plan:**
+**Starting points** (search further as needed): `regions/` (realm entries), `world/`, `artworks/` (map plates if needed)
 
-- Per major F432 region: baseline climate + 1 signature anomaly (stillness, silence law, vent haze, mirror lull).
-- Per other frequency: climate-as-metaphor made sensory (light fields, mood weather, ash quiet, void anti-scenery).
-- Add **bleed-weather** as rare cross-pressure (ties to unsettled layer).
-- Avoid turning all climate into combat difficulty—keep beauty primary.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** phenomena + region lore enrichments; 3–5 named weather patterns.
+**Diligence:** Cover each established band (including F432 home and established neighbors). Difference must be fundamental (matter, mood, physics-of-meaning), not only aesthetic.
 
-**Exit criteria:** each major place has a climate you can film.
+**Exit criteria:** Each established realm has a descriptive entry (or enriched hub) stating what makes it unlike the others.
 
 ---
 
-### 5. Regions
+### Phase I.5 — Frequency effects on matter, life, memory, perception, environments
 
-**Purpose:** Deepen places people will walk through often; keep edges sketchable.
+- [x] Do we understand how frequencies affect matter, life, memory, perception, and environments?
 
-**Priority densify:** F432 (Nauw, Wabet, Sorel) → isles/seas → 1 iconic subregion per other frequency.
+**Starting points** (search further as needed): `rules/`, `phenomena/`, `world/`, `inhabitants/`, `flora/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- For each priority region: overview, sensory paragraph, who thrives, who fears it, one joy, one pressure, 3 linked entries.
-- Fill thin-but-named places before inventing new provinces.
-- Mark **danger zones** and **sanctuary zones** explicitly.
-- Keep “wonderful to be in” as default for F432 interiors.
+**Diligence:** For each affected domain, ensure concrete examples across more than one band where established. Prefer enrichment of existing phenomena over generic “magic differs.”
 
-**Deliverables:** region enrichments in batches of 3–5 files per working session.
-
-**Exit criteria:** Nauw / Wabet / Sorel each feel like different countries of the heart, not palette swaps.
+**Exit criteria:** Canon supports explaining frequency influence on all five domains with examples.
 
 ---
 
-### 6. Natural Landmarks & Geography
+### Phase I.6 — What resonance can and cannot do
 
-**Purpose:** Give the land memorable bones—mountains, spans, wells, shelves, vents, meridians.
+- [x] Do we know what resonance can and cannot do, including its consequences and limitations?
 
-**Plan:**
+**Starting points** (search further as needed): `rules/`, `artifacts/`, `phenomena/`
 
-- Inventory landmarks already named; classify: sacred / useful / feared / disputed.
-- Add a **landmark web** per F432 third (north trade, west wild, south frontier).
-- Ensure each frequency has 1 geography icon (Returning Span, Aurel Meridian, Bloomline Estuary, Ashen Hearthline, Glassfold Ledge, The Unfinished, void-as-anti-landmark).
-- Landmarks should teach movement and story staging (where a saga chapter can “happen”).
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** new or enriched `regions/` landmark entries; related links from parent regions.
+**Diligence:** Document capabilities, costs, failures, and social consequences. Soft-limit: no casual Zero solve; no band-ferry tickets.
 
-**Exit criteria:** a traveler’s mental map has 10 unforgettable points.
+**Exit criteria:** A reader can say why a proposed resonant feat would succeed, fail, or be forbidden/taboo.
 
 ---
 
-### 7. Flora
+### Phase I.7 — Inter-frequency interaction and exceptional travel
 
-**Purpose:** Living green (and un-green) that makes Dias edible, beautiful, and slightly wrong in the best way.
+- [x] Do we understand inter-frequency interaction, communication, and why travel between realms is exceptional?
 
-**Note:** No dedicated `flora/` folder today—file plants as `regions` features, `artifacts` (crops/relic plants), `phenomena`, or culture food ties; or introduce plant entries carefully under an agreed home (prefer enriching regions/cultures first unless a plant is a true character-of-place).
+**Starting points** (search further as needed): `rules/`, `world/`, `phenomena/`, `cultures/`, `artifacts/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- F432: orchard cultures, anomalous fruit, canopy species, desert oasis flora, unripe Songripe logic.
-- Other frequencies: light-flora, mood-bloom, ash-hardy growth, unfinished vegetation.
-- Range: kitchen herbs → sacred trees → plants that should not exist.
-- Tie flora to food, medicine, dye, omen, and at least one unsettled species.
+**Diligence:** Cover bleed, residual measurement, communication limits, No-Ferry ethics, and exceptional crossings as rare/dangerous—not infrastructure.
 
-**Deliverables:** 15–30 plant concepts across regions (batch by biome).
-
-**Exit criteria:** markets and forests feel botanically specific.
+**Exit criteria:** Canon explains interaction + communication + why ordinary travel between realms is exceptional.
 
 ---
 
-### 8. Animals
+### Phase I.8 — Prime Realm, Prime Age, Fracture (without inventing missing answers)
 
-**Purpose:** Normalize life—the happy, ordinary, useful layer.
+- [x] Can we explain what is known about the Prime Realm, Prime Age, and Fracture without inventing missing answers?
 
-**Already strong:** large fauna pass (everyday → colossal).
+**Starting points** (search further as needed): `world/`, `rules/`, `myths/`, `artifacts/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- Tag and index existing animals by role: companion / work / food / pest / omen.
-- Fill gaps: barnyard completeness, children’s pets, city vermin already partly done—add **beloved** species and **seasonal** visitors.
-- Keep most animals non-monstrous; wonder can be gentle.
-- Enrich 10 ordinary animals with richer sensory detail (for filmic reading).
+**Diligence:** Separate documented, disputed, and unknown. Enrich evidence and remembered accounts; do not fabricate a complete Prime atlas.
 
-**Deliverables:** enrichment pass + small gap fills; optional living index in a world/culture note (not a second lore DB).
-
-**Exit criteria:** a child character in Veloria has a normal animal life that still feels Dias.
+**Exit criteria:** A reader can summarize what is known vs unknown about Prime / Prime Age / Fracture without false closure.
 
 ---
 
-### 9. Creatures & Monsters
+### Phase I.9 — Time, causality, and change
 
-**Purpose:** Strange, feared, magnificent—pressure without making Dias a meat-grinder.
+- [x] Do we understand how time, causality, and change work wherever these are established?
 
-**Already strong:** ~187 fauna/creature entries including F500 horrors.
+**Starting points** (search further as needed): `rules/`, `world/`, `phenomena/`, `regions/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- Classify existing set: wonder / hazard / rumor / existential.
-- Promote 5 **iconic** creatures as cultural touchstones (not only scary ones—include joyful icons).
-- Deepen 5 **fear icons** (including Horizon-Nulls class threats) with myths and avoidance customs—without over-explaining.
-- Add monsters only when a region still lacks a signature dread.
-- Rule: every monster should reveal a law or a social wound.
+**Diligence:** Document only where established (including band-specific weirdness). Mark gaps explicitly rather than globalizing F432 assumptions.
 
-**Deliverables:** classification pass; 5 deep-dives; myth links.
-
-**Exit criteria:** readers know what to hope to see and what to pray not to meet.
+**Exit criteria:** Established time/causality rules are stated; unknowns are labeled as such.
 
 ---
 
-### 10. Peoples & Inhabitants
+### Phase I.10 — Unknowns, especially Frequency Zero
 
-**Purpose:** Races, kinds, and communities as neighbors—not a bestiary of people.
+- [x] Have we clearly identified what remains unknown, particularly around Frequency Zero?
 
-**Already strong:** F432 Major Races Compact, humans, Choirglass, etc.
+**Starting points** (search further as needed): `world/`, `rules/`, `myths/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- Clarify personhood spectrum: humanoid races, swarm persons, energy-kind, draftkin, echoforms-as-class.
-- Daily coexistence notes (markets, law, prejudice, friendship).
-- Add under-documented community textures (who cooks, who sails, who keeps silence).
-- Keep “people you’d love to meet” as the majority impression.
+**Diligence:** Create or enrich “known unknowns” orientation. Clues and pressure only—**do not solve Zero**.
 
-**Deliverables:** race/culture enrichments; 1 coexistence culture entry.
-
-**Exit criteria:** non-human peoples feel like citizens of a world, not guest monsters.
+**Exit criteria:** A clear canon list of major unknowns exists; Zero remains open.
 
 ---
 
-### 11. Settlements
+### Phase I.11 — Diagrams, timelines, frequency comparisons
 
-**Purpose:** Towns and cities with jobs, smells, jokes, and uneven safety.
+- [x] Can we represent the universe's structure with diagrams, timelines, and frequency comparisons?
 
-**Plan:**
+**Starting points** (search further as needed): `world/`, `artworks/`, `assets/`, `symbols/`
 
-- Tier settlements: capital/hub (Veloria), ports (Driftfall/Hallow Bay), frontier yards (Claimscar), sanctuaries (Calareth), waystations.
-- For each priority settlement: population feel, economy verb, festival, fear, famous corner.
-- Add 3–5 micro-locations (shops, halls, docks) as `regions/` with `place_type` scaled correctly.
-- Ensure happiness infrastructure: baths, gardens, music corners, shared tables.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** settlement enrichments + a few new micro-places.
+**Diligence:** Add comparison plates, structural diagrams, or timeline anchors as lore/art entries as needed. Keep them consistent with realm primers and soft limits.
 
-**Exit criteria:** you can “live a week” in Veloria and a hard week in Sorel in your head.
+**Exit criteria:** At least one teachable structural comparison and one timeline/frequency comparison artifact exist in-repo for book use.
 
 ---
 
-### 12. Architecture
+# Volume II: The Atlas of Dias
 
-**Purpose:** Buildings that express frequency and culture.
+**Theme:** Realms, regions, cities, geography, climates, and landmarks.
 
-**Plan:**
+**Definition of done:** A reader knows where important places exist and how they relate geographically.
 
-- Define architectural dialects: Nauw civic/trade, Wabet restraint/wood/stone quiet, Sorel salvage improvisation, Calareth ribbon-law lightness.
-- Frequency dialects: luminous filament structures (F200), ash-hearth continuity (F840), sketch-scaffold (F960), etc.
-- Sacred vs domestic vs defensive forms.
-- One uncanny architectural type (buildings that remember; sealed chambers; galleries that keep residents).
+**Completion test:** Can someone plan a believable journey across F432, locate major destinations, and understand the environments they would encounter?
 
-**Deliverables:** 1 architecture culture overview + examples linked to settlements.
-
-**Exit criteria:** a skyline silhouette tells you where you are.
+**Volume status:** pending
 
 ---
 
-### 13. Cultures
+### Phase II.1 — Geographical hierarchy
 
-**Purpose:** Living disagreement and shared joy—the heart of “loveable world.”
+- [ ] Do we have a clear geographical hierarchy of realms, regions, settlements, and landmarks?
 
-**Plan:**
+**Starting points** (search further as needed): `world/`, `regions/`
 
-- Expand echo-interpretation stances into practiced customs.
-- Document hospitality, gift rules, insult rules, mourning, celebration.
-- Regional culture packs: Fruit Reverence, Silence Law, Tide Song, exile freedom ethics, Open Hand making.
-- Add **subcultures** (sailors, clerks, orchard kids, vent crews).
-- Every culture gets a kindness practice and a hard edge.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** 5–10 culture entries / enrichments.
+**Diligence:** Ensure parent/child relationships and place_type usage are consistent and readable as a hierarchy.
 
-**Exit criteria:** characters can conflict about values without needing a villain monologue.
+**Exit criteria:** Hierarchy can be explained with examples from F432 and at least one other established realm where applicable.
 
 ---
 
-### 14. Language
+### Phase II.2 — F432 regions: Nauw, Wabet, Sorel
 
-**Purpose:** Texture and identity—without a full conlang unless you later want one.
+- [ ] Can we accurately locate and distinguish the established regions of F432, including Nauw, Wabet, and Sorel?
 
-**Plan:**
+**Starting points** (search further as needed): `regions/`, `dashboard/map-registry.yaml`
 
-- Prefer: naming patterns, honorifics, market slang, silence-as-speech, song-calendars, ledger jargon.
-- Frequency speech metaphors (F120 “again-but,” F610 “window talk,” F500 unnamed careful speech).
-- Taboo words and soft words.
-- Optional later: deeper conlang—out of scope until cultures stabilize.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** 1–2 language/culture notes; naming conventions enrichment.
+**Diligence:** Deepen regional distinctiveness (terrain, culture touch, travel feel). Align map pins/polygons with established map art where relevant.
 
-**Exit criteria:** dialogue can sound local in a paragraph.
+**Exit criteria:** Nauw, Wabet, and Sorel are clearly distinguishable in prose and map placement.
 
 ---
 
-### 15. Food & Everyday Resources
+### Phase II.3 — Major cities (e.g. Veloria)
 
-**Purpose:** Make hunger, feasting, and “unclaimed breakfast” world-real.
+- [ ] Are major cities such as Veloria sufficiently described, including their layout and surroundings?
 
-**Plan:**
+**Starting points** (search further as needed): `regions/`, `cultures/`, `inhabitants/`
 
-- Staple foods per region; luxury foods; crisis foods.
-- Water, salt, fruit, ash-hearth fuel, light-as-sustenance (F200), broth/life-source edge cases.
-- Shared table customs (joy layer) and scarcity customs (pressure layer).
-- Link to flora/fauna already created.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** food culture entries; market resource lists in key settlements.
+**Diligence:** Layout, districts/quarters, approaches, surroundings—not a single skyline sentence. Add subordinate place entries as needed.
 
-**Exit criteria:** a meal scene can carry plot and pleasure.
+**Exit criteria:** Veloria (and other major named cities in scope) support a walkable mental map.
 
 ---
 
-### 16. Technology
+### Phase II.4 — Landforms
 
-**Purpose:** Tools that feel resonant—not generic sci-fi, not medieval cosplay.
+- [ ] Have we established important mountains, rivers, seas, islands, forests, deserts, and other landforms?
 
-**Plan:**
+**Starting points** (search further as needed): `regions/`, `phenomena/`
 
-- Define tech as **echo-aware craft**: instruments, filters, seal work, lift-constructs, forge rebuild, unfinished tools.
-- Everyday tech vs restricted tech vs taboo tech.
-- Keep wonder in ordinary devices (pots that signal, ledgers that almost remember).
-- Unsettled tech: devices that listen too well; null-adjacent instruments.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** artifact classes + culture of makers; link Open Hand / Operators / Ember Keepers.
+**Diligence:** Seed or deepen named landforms across Wabet / Nauw / Sorel and other established geographies. Quantity is fine if each entry is descriptive.
 
-**Exit criteria:** tech answers “how do they live?” without breaking frequency law.
+**Exit criteria:** Each major F432 region has multiple concrete landforms a journey can route through.
 
 ---
 
-### 17. Transportation & Movement
+### Phase II.5 — Climate, seasons, environmental phenomena
 
-**Purpose:** Roads, spans, ferries, relays—how bodies cross a layered world.
+- [ ] Do we understand the climate, seasons, and characteristic environmental phenomena in each major region?
 
-**Plan:**
+**Starting points** (search further as needed): `phenomena/`, `regions/`, `world/`
 
-- F432 movement map: fruit roads, bridges, tolls, isle ferries, desert silence routes.
-- Cross-frequency travel: rare, disputed, omenized—not a subway.
-- Animals as transport (ponies, oxen, llamas, relays) already seeded—integrate.
-- Danger movement vs festival movement.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** route entries / enrichments; travel customs.
+**Diligence:** Climate must feel regional and frequency-aware where relevant (e.g. F380 weather-as-mood is not F432 weather).
 
-**Exit criteria:** a journey chapter has logistics and poetry.
+**Exit criteria:** Major regions have characteristic climate/season/phenomena coverage sufficient for travel writing.
 
 ---
 
-### 18. Economy
+### Phase II.6 — Roads, bridges, ferries, trade routes, travel constraints
 
-**Purpose:** Why people work, trade, gift, and cheat.
+- [ ] Are important roads, bridges, ferries, trade routes, and physical travel constraints documented?
 
-**Already seeded:** VEL marks, trade mountain, fruit economy, salvage yards.
+**Starting points** (search further as needed): `regions/`, `artifacts/`, `cultures/`, `rules/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- Formalize VEL + local barter + favor economies.
-- Labor types: orchard, ledger, salvage, watch, song, forge, ferry.
-- Black markets and kindness markets.
-- Economic pressure that can feed later conflict without reducing Dias to grimdark scarcity.
+**Diligence:** Document mundane travel richly. Keep **band ferry** soft limits: local ferries ≠ inter-frequency tickets.
 
-**Deliverables:** economy culture/rule entries; settlement economy verbs updated.
-
-**Exit criteria:** money and gifts both feel real.
+**Exit criteria:** A journey planner can name routes and constraints between major F432 destinations.
 
 ---
 
-### 19. Knowledge & Education
+### Phase II.7 — Safe, dangerous, sacred, restricted, unexplored
 
-**Purpose:** How people learn—schools, apprenticeships, hearsay, sealed study.
+- [ ] Do we know which places are safe, dangerous, sacred, restricted, or unexplored?
 
-**Plan:**
+**Starting points** (search further as needed): `regions/`, `cultures/`, `rules/`, `myths/`
 
-- Institutions: clerks, Veil Scribes, Ember Keepers, Open Hand, orchard teaching, isle watch training.
-- What children learn vs what initiates learn.
-- Knowledge that is dangerous to hold (F500 talk, Zero talk).
-- Joy of learning: galleries, songs, craft mistakes that become style.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** education/culture entries; link to Calibration Row / galleries / ledges.
+**Diligence:** Status should be inhabitant-facing where possible (who says it’s sacred?). Avoid turning the atlas into a combat zone list.
 
-**Exit criteria:** a young character has a believable learning path.
+**Exit criteria:** Representative places exist in each safety/sacred/restricted/unexplored class with reasons.
 
 ---
 
-### 20. Religion, Belief & Mythology
+### Phase II.8 — Objective geography vs unreliable maps
 
-**Purpose:** Meaning systems—plural, conflicting, beautiful, sometimes wrong.
+- [ ] Can we distinguish objective geography from incomplete or unreliable maps created by inhabitants?
 
-**Plan:**
+**Starting points** (search further as needed): `artifacts/`, `artworks/`, `world/`, `cultures/`
 
-- Belief about echoes: gift / warning / resource / illusion.
-- Local sacred practices (ribbons, silence, fruit thanks, hearth continuity).
-- Myth cycles that encode Fracture, whales, gate beasts, ash whales—without confirming cosmology.
-- Allow atheism-of-echoes and mysticism-of-markets to coexist.
-- Unsettled faith: cults of null, unfinished prophecy, light-purity extremes—present, not dominant.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** myths + culture belief entries; symbol links.
+**Diligence:** Map lineage, survey error, political maps, sailor charts—canonize the difference without erasing wonder.
 
-**Exit criteria:** belief can comfort and frighten in the same town.
+**Exit criteria:** Canon explicitly teaches that some maps are wrong, partial, or motivated—and why.
 
 ---
 
-### 21. Organizations & Factions
+### Phase II.9 — Locations linked to people, civilizations, artifacts, history
 
-**Purpose:** Groups with goals—the engines of later sagas.
+- [ ] Have we linked important locations to their inhabitants, civilizations, artifacts, and historical significance?
 
-**Already seeded:** Resonant Houses, Valorian Operators, Open Hand, Ember Keepers, Watch, Distant Companies rumors.
+**Starting points** (search further as needed): `regions/` + cross-links to `inhabitants/`, `cultures/`, `artifacts/`, `world/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- For each major org: purpose, method, public face, private fear, relationship to echoes.
-- Add 2–3 new factions only if a pressure niche is empty (e.g. bleed containment, exile mutual aid, fruit cartel, null-curiosity cell).
-- Keep most orgs mixed morality.
-- Map alliances/rivalries lightly (full web in section 35).
+**Diligence:** Enrich `related:` webs; add missing bridge entries where a famous place lacks people/history hooks.
 
-**Deliverables:** org inhabitant/culture enrichments; 1 faction map paragraph in world notes.
-
-**Exit criteria:** conflict can be institutional, not only personal.
+**Exit criteria:** Major locations point to people, culture, at least one artifact or historical beat where appropriate.
 
 ---
 
-### 22. Politics & Power
+### Phase II.10 — Consistent maps (realm, regional, settlement)
 
-**Purpose:** Who decides, who pretends to decide, who leaves.
+- [ ] Can we produce consistent maps at realm, regional, and settlement levels?
 
-**Plan:**
+**Starting points** (search further as needed): `artworks/`, `assets/`, `dashboard/map-registry.yaml`, `regions/`
 
-- Nauw civic/gate authority vs Sorel anti-authority vs Wabet stewardship/restraint.
-- Soft power: galleries, ledgers, watches, tolls, song calendars.
-- Cross-frequency “politics” as rumor diplomacy.
-- Plant **slow dark initiatives** as political possibilities (not yet full war canon): exploitation of echoes, sealed research, null curiosity, unfinished weaponization of revision—kept as pressures.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** region governance enrichments; 1 politics overview entry.
+**Diligence:** Align dashboard shapes/pins with V2 map art and prose. Add settlement-level sketch plates or registry detail as needed for book atlas work.
 
-**Exit criteria:** power struggles have venues (gates, yards, hearths, ledgers).
+**Exit criteria:** Realm + regional consistency verified; at least one settlement-level map depth exists for a major city (e.g. Veloria).
 
 ---
 
-### 23. Daily Life
+# Volume III: The Living World
 
-**Purpose:** The loveable middle of the world—mornings, errands, jokes, small fears.
+**Theme:** Flora, fauna, creatures, biology, habitats, and ecology.
 
-**Plan:**
+**Definition of done:** A reader understands the living systems of Dias and can identify its representative species.
 
-- Day-in-the-life sketches for: Veloria clerk, Wabet walker, Sorel exile, isle watch runner, Outer Rim fisher.
-- Domestic objects, greetings, bedtime fears, children’s games.
-- Happiness infrastructure checklist per hub.
-- Tiny unsettled details in ordinary days (wrong-color moth, ledger flea itch, laughlight rumor).
+**Completion test:** Can a reader open the book, recognize a creature or plant, understand where it lives, and learn what makes it special?
 
-**Deliverables:** short `stories/` slices + culture daily-life notes.
-
-**Exit criteria:** readers want to “stay another day” before the plot arrives.
+**Volume status:** pending
 
 ---
 
-### 24. History
+### Phase III.1 — Ordinary animals, extraordinary creatures, peoples, ambiguous life
 
-**Purpose:** A past deep enough to cast shadows—without locking every mystery.
+- [ ] Have we distinguished ordinary animals, extraordinary creatures, peoples, and ambiguous forms of life?
 
-**Plan:**
+**Starting points** (search further as needed): `inhabitants/`, `world/`
 
-- Timeline spines: before Fracture → Fracture → Prime Age echoes → realm settling → F432 civic memory → recent local histories.
-- Separate **known**, **disputed**, **forgotten**.
-- Regional histories first; cosmic history stays perforated.
-- Seed “something trying to unmake or unbind” as historical pattern rumors—not a completed war chronicle yet.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** `world/` history enrichments; region lore history sections.
+**Diligence:** Clear classification language in entries (`nature` / status / framing). Do not blur peoples into monsters casually.
 
-**Exit criteria:** the present feels like it inherited unfinished business.
+**Exit criteria:** Taxonomy of life-kinds is teachable from canon examples.
 
 ---
 
-### 25. Important Historical Figures
+### Phase III.2 — Major ecosystems and habitats
 
-**Purpose:** Names that places still argue about.
+- [ ] Have we established the major ecosystems and habitats across known regions and frequencies?
 
-**Plan:**
+**Starting points** (search further as needed): `regions/`, `flora/`, `inhabitants/`, `phenomena/`, `world/`
 
-- 8–12 historical figures across builder / breaker / bridge / warning archetypes.
-- Prefer figures remembered through institutions, songs, and scars.
-- At least one figure tied to joy (festival founder) and one to unsettled legacy (sealed work, null adjacent).
-- Distinguish from living characters (section 27).
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** inhabitant entries with historical status; myth links.
+**Diligence:** Habitats should be placeable on the atlas and frequency-aware where established.
 
-**Exit criteria:** statues, curses, and toasts have names.
+**Exit criteria:** Multiple ecosystems per major F432 region (and key other-band habitats where known) exist as descriptive entries or deeply enriched region sections plus linked species.
 
 ---
 
-### 26. Conflict
+### Phase III.3 — Plants, trees, flowers, fungi, growth
 
-**Purpose:** Stage pressure—war, dark initiatives, border pain—without killing wonder.
+- [ ] Can we describe the major plants, trees, flowers, fungi, and other forms of growth in the world?
 
-**Plan:**
+**Starting points** (search further as needed): `flora/`, `world/flora-of-dias.md`
 
-- Conflict types: border/exile, resource, belief, echo-ethics, frequency bleed, existential null pressure.
-- Define **active conflicts** (present), **cold conflicts** (simmering), **legendary conflicts** (remembered).
-- Design one **slow dark throughline** as stage prep (unnamed or lightly named)—enough for unease, not a full reveal.
-- Preserve happiness zones that conflict threatens but has not yet consumed.
-- Saga rule: sagas may ignite conflicts; this section only stacks dry wood.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** conflict overview entry; linked regional tensions; faction stakes.
+**Diligence:** Expand flora with full descriptive entries (appearance, place, growth habit). Indexes alone are not enough.
 
-**Exit criteria:** the world feels safe enough to love and unsafe enough to need heroes later.
+**Exit criteria:** Field-guide-ready plant entries cover major biomes in scope.
 
 ---
 
-### 27. Characters & Important Figures
+### Phase III.4 — Edible, medicinal, dangerous, commercial, cultural plants
 
-**Purpose:** Living people who open doors into the world.
+- [ ] Do we understand which plants are edible, medicinal, dangerous, commercially important, or culturally significant?
 
-**Already strong:** Calen Brink, Frederick Lumens, many local figures.
+**Starting points** (search further as needed): `flora/`, `cultures/`, `artifacts/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- Maintain ordinary-majority casting (Harold principle).
-- Fill gaps: joyful anchors, antagonists-with-reasons, bridge characters between regions, children/elders.
-- Tag characters as: saga-ready / locale color / historical only.
-- Do not force every character into destiny.
+**Diligence:** Tag uses in body prose and links to foodways / trade / ritual. Include warnings and taboos.
 
-**Deliverables:** targeted new inhabitants + enrichments; character index note optional.
-
-**Exit criteria:** multiple emotional entry points exist beyond one protagonist.
+**Exit criteria:** Examples exist in each use-class; readers can cook, heal, trade, or avoid with canon support.
 
 ---
 
-### 28. Objects & Artifacts
+### Phase III.5 — Wildlife, domesticates, working animals, dangerous species
 
-**Purpose:** Things that carry echo weight—tools, relics, toys, sealed devices.
+- [ ] Have we identified common wildlife, domesticated animals, working animals, and dangerous species?
 
-**Already strong:** Resonant Artifacts, shards, VEL marks, Still Pot, etc.
+**Starting points** (search further as needed): `inhabitants/`
 
-**Plan:**
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-- Everyday objects with slight resonance vs true relics.
-- Danger objects (listen too hard; erase; unfinished weapons-as-tools).
-- Joy objects (ribbons, share-knives, festival sky-whale constructs as civic artifacts).
-- Keep object power tied to history, not loot tiers.
+**Diligence:** Balance wonder-creatures with ordinary animals that make settlements feel alive.
 
-**Deliverables:** artifact batch by function; links to orgs and myths.
-
-**Exit criteria:** an object can start a chapter by itself.
+**Exit criteria:** Each class has multiple descriptive species entries tied to places.
 
 ---
 
-### 29. Information & Communication
+### Phase III.6 — Feeding, reproduction, migration, ecological interaction
 
-**Purpose:** How news, lies, songs, and seals move.
+- [ ] Do we understand how major species feed, reproduce, migrate, and interact within their environments where known?
 
-**Plan:**
+**Starting points** (search further as needed): `inhabitants/`, `flora/`, `regions/`
 
-- Channels: roads, toll talk, ledgers, watch slates, tide-song, gallery rumor, instrument harmonics.
-- Speed vs truth tradeoffs.
-- Censorship and sealed knowledge ethics.
-- Cross-frequency communication as rare omen-tech or myth.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** culture/tech entries; a few communication artifacts.
+**Diligence:** Add life-cycle and ecology detail where known; label unknowns. No Earth-wiki dumps that ignore frequency.
 
-**Exit criteria:** information itself can be a plot engine.
+**Exit criteria:** Major representative species have ecology sections sufficient for natural-history prose.
 
 ---
 
-### 30. Stories, Folklore & Entertainment
+### Phase III.7 — Frequency influence on biology
 
-**Purpose:** The world telling itself—why people keep reading inside the world too.
+- [ ] Have we established how different frequencies influence biology and lifeforms?
 
-**Plan:**
+**Starting points** (search further as needed): `rules/`, `inhabitants/`, `flora/`, `phenomena/`, `world/`
 
-- Folklore families: gate beasts, sky-turtles, ash whales, laughlight, almost-same roads.
-- Entertainment: Flagweek chaos, galleries, market theater, song isles, hearth cricket nights.
-- In-world stories that contradict official history on purpose.
-- Keep producing short `stories/` that make places addictive without advancing final cosmology answers.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** myths + stories batches tied to regions/creatures already made.
+**Diligence:** Cross-band examples where established; do not invent full biospheres for bands that should stay thin.
 
-**Exit criteria:** entertainment and folklore feel abundant.
+**Exit criteria:** Canon explains biological difference by frequency with concrete species/habitat examples.
 
 ---
 
-### 31. Death & Legacy
+### Phase III.8 — Appearance, size, behavior, identifying traits
 
-**Purpose:** How endings are held—grief, inheritance, echo after bodies.
+- [ ] Do important creatures have recognizable appearances, sizes, behaviors, and identifying characteristics?
 
-**Plan:**
+**Starting points** (search further as needed): `inhabitants/`, `artworks/`
 
-- Burial / ash / sea / song / silence practices by region.
-- Echoes of the dead: comfort vs horror.
-- Legacy institutions (ledgers, ribbons, hearths, unfinished works).
-- Unsettled deaths: Unraveled, missing time, revision wounds.
-- Tie to F840 recovery ethics.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** culture entries; 1–2 myths; careful phenomenon notes.
+**Diligence:** Descriptive morphology and behavior in prose; commission/add artwork plates where helpful.
 
-**Exit criteria:** death deepens love of life in Dias rather than nihilism.
+**Exit criteria:** Important creatures are identifiable from text alone; key ones have or link visual plates.
 
 ---
 
-### 32. Mysteries
+### Phase III.9 — Confirmed species vs rumor/legend creatures
 
-**Purpose:** Named open doors—fuel for imagination and later sagas.
+- [ ] Have we distinguished confirmed species from creatures existing only in rumor or legend?
 
-**Plan:**
+**Starting points** (search further as needed): `inhabitants/`, `myths/`, `stories/`
 
-- Maintain Frequency Zero as crown mystery.
-- Add a shortlist of **active mysteries** (bleed source, Deep-Keels nature, Long-Gate Beast, Horizon-Nulls, unfinished sky-whales, who seals what).
-- Rules: mysteries may gain clues; crown answers stay locked until deliberately opened.
-- Each mystery lists what life it currently affects.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** `world/` mystery register (thin index) + linked entries.
+**Diligence:** Use canon status framing (`canon` / `rumor` / `myth` / `unknown`). Keep legendary beings useful without fake zoology.
 
-**Exit criteria:** curiosity has a menu.
+**Exit criteria:** Readers can tell field-guide fact from campfire creature.
 
 ---
 
-### 33. Secrets
+### Phase III.10 — Illustrated field-guide capability
 
-**Purpose:** Things someone knows and is hiding—different from mysteries.
+- [ ] Can we create illustrated field-guide entries showing anatomy, habitat, scale, and distinguishing features?
 
-**Plan:**
+**Starting points** (search further as needed): `artworks/`, `assets/`, `flora/`, `inhabitants/`
 
-- Secret types: personal, institutional, sealed research, kinder lies, weaponized silence.
-- Assign secrets to factions and places (not all to one villain).
-- Mark which secrets are **saga keys** vs **texture**.
-- Never dump all secrets into one file readable as a spoiler bible—distribute, cross-link carefully.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** distributed secret notes inside relevant entries; optional agent-only pointer list under `agent/` if needed for authors.
+**Diligence:** Ensure a repeatable entry+plate pattern exists for book production (even if not every species is illustrated yet).
 
-**Exit criteria:** the unsettled layer has agents and motives, not only mood.
+**Exit criteria:** A field-guide pattern is demonstrated on multiple plants and creatures (text + art or clear art brief in artwork entries).
 
 ---
 
-### 34. Evidence / Records / In-world Documents
+# Volume IV: Peoples and Civilizations
 
-**Purpose:** Proof textures—ledgers, letters, maps, wrong maps, half-made atlases.
+**Theme:** Inhabitants, characters, cultures, governments, and everyday life.
 
-**Already strong:** ledger leaves, maps, self-letter DIAS id, etc.
+**Definition of done:** A reader understands who inhabits Dias, how they live, and how their societies function.
 
-**Plan:**
+**Completion test:** Can a reader imagine what it would be like to live in Veloria, or another established settlement, and describe a normal day there?
 
-- Document genres: toll books, watch slates, song calendars, sealed beta notes, market pamphlets, children’s chapbooks.
-- Reliable vs unreliable records.
-- Plant forged or wishful documents that still shape behavior.
-- Preserve Dias GUID discipline for external/physical docs.
-
-**Deliverables:** artifact documents; links from knowledge/politics sections.
-
-**Exit criteria:** investigation gameplay/storytelling is supported by paper (and song).
+**Volume status:** pending
 
 ---
 
-### 35. Relationships Between Everything
+### Phase IV.1 — Major intelligent peoples
 
-**Purpose:** The web—so the world feels alive and saga-ready.
+- [ ] Have we identified the major intelligent peoples and established their physical characteristics and abilities?
 
-**Plan:**
+**Starting points** (search further as needed): `inhabitants/`, `world/`, `cultures/`
 
-- Build a relationship pass: place ↔ people ↔ faction ↔ creature ↔ artifact ↔ rule.
-- Prioritize F432 hubs first, then cross-frequency thin threads.
-- Record tensions and affections (not only enmities).
-- Produce a **stage readiness summary**: what sagas can now touch safely.
-- Only then schedule new saga design.
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-**Deliverables:** enriched `related` fields; a short world-stage status note; update `SAGAS.md` only when a new journey is real.
+**Diligence:** Physical description + abilities with limits. Keep race/people framing canon-safe (no Earth race-tag shortcuts).
 
-**Exit criteria:** pulling one thread visibly moves three others—and the world still feels wonderful.
+**Exit criteria:** Major peoples are descriptively distinct and placeable.
 
 ---
 
-## Working session template (use every time)
+### Phase IV.2 — Where peoples live and how they interact
 
-```text
-Section #: [name]
-Status: in progress | blocked | done
-Canon checked: [files]
-Deliverables this session: [3–7 concrete outputs]
-Tone check: joy / wonder / unease / conflict present?
-Open question left for later:
-Next section only after exit criteria:
-```
+- [ ] Do we know where these peoples predominantly live and how they interact?
 
----
+**Starting points** (search further as needed): `inhabitants/`, `regions/`, `cultures/`
 
-## Saga staging reminder
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
 
-| Now | Later |
-| --- | --- |
-| Build life, law, places, factions, mysteries | Escalate wars / dark initiatives in saga movements |
-| Seed slow pressure | Name the antagonist force when the stage can bear it |
-| Keep Frequency Zero open | Reveal only with deliberate plan |
-| Multiply reasons to love Dias | Risk that love on purpose |
+**Diligence:** Homelands, diasporas, contact zones, manners of meeting—not only “also found in.”
 
-Existing journeys to respect while staging: Harmonic Saga, Lumen Saga ([`SAGAS.md`](../SAGAS.md)).
+**Exit criteria:** Interaction patterns between major peoples are documented with place anchors.
 
 ---
 
-## Progress tracker
+### Phase IV.3 — Cultures, customs, celebrations, traditions, expectations
 
-| # | Section | Status |
-| --- | ---: | --- |
-| 1 | Cosmology & Fundamental Rules | done |
-| 2 | World Structure | done |
-| 3 | Time & Calendar | done |
-| 4 | Environment & Climate | done |
-| 5 | Regions | done |
-| 6 | Natural Landmarks & Geography | done |
-| 7 | Flora | done |
-| 8 | Animals | done |
-| 9 | Creatures & Monsters | done |
-| 10 | Peoples & Inhabitants | done |
-| 11 | Settlements | done |
-| 12 | Architecture | done |
-| 13 | Cultures | done |
-| 14 | Language | done |
-| 15 | Food & Everyday Resources | done |
-| 16 | Technology | done |
-| 17 | Transportation & Movement | done |
-| 18 | Economy | done |
-| 19 | Knowledge & Education | done |
-| 20 | Religion, Belief & Mythology | done |
-| 21 | Organizations & Factions | done |
-| 22 | Politics & Power | done |
-| 23 | Daily Life | done |
-| 24 | History | done |
-| 25 | Important Historical Figures | done |
-| 26 | Conflict | done |
-| 27 | Characters & Important Figures | done |
-| 28 | Objects & Artifacts | done |
-| 29 | Information & Communication | done |
-| 30 | Stories, Folklore & Entertainment | done |
-| 31 | Death & Legacy | done |
-| 32 | Mysteries | done |
-| 33 | Secrets | done |
-| 34 | Evidence / Records / In-world Documents | done |
-| 35 | Relationships Between Everything | done |
+- [ ] Have we established major cultures, customs, celebrations, traditions, and social expectations?
+
+**Starting points** (search further as needed): `cultures/`, `myths/`, `symbols/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Full cultural entries; festivals and etiquette should be enactable in a scene.
+
+**Exit criteria:** Multiple cultures have customs/celebrations/expectations rich enough for daily-life chapters.
 
 ---
 
-## Execution log
-
-### Section 1 — Cosmology & Fundamental Rules (done)
-
-- Inventory held via existing `world/` + foundational `rules/` (echo principle, frequency law, Zero, Fracture, partial knowledge).
-- Added [`world/cosmology-of-dias.md`](../world/cosmology-of-dias.md): stack, law/theory/taboo, soft limits summary, unsettled implications, open questions.
-- Added [`rules/resonance-behavior-soft-limits.md`](../rules/resonance-behavior-soft-limits.md).
-- Cross-linked from Dias, echo principle, frequency law, Frequency Zero.
-- **Open question left:** Are bleed events accidents, attacks, weather, or memory?
-- **Next:** Section 2 — World Structure (only when starting that session).
-
-### Section 2 — World Structure (done)
-
-- Added [`world/structure-of-dias.md`](../world/structure-of-dias.md): prose stack diagram, realm roles, people vs institution awareness, travel rarity, anomaly index.
-- Linked from Dias, Cosmology of Dias, F432 (structural seat), F200 (luminosity pole), F500 (null pole).
-- Atlas pins deferred (lived F432 geography, not abstract band polarity).
-- **Open question left:** How many unindexed frequencies sit beyond the named set—and does the stack have a preferred “direction”?
-- **Next:** Section 3 — Time & Calendar (only when starting that session).
-
-### Section 3 — Time & Calendar (done)
-
-- Added [`cultures/f432-civic-time.md`](../cultures/f432-civic-time.md): ordinary civic beats, shared festival seed, Nauw/Wabet/Sorel variants, frequency-local time feels.
-- Linked from Known Eras and Markers + F432 realm.
-- Antiquity dating left unresolved (eras stay soft).
-- **Open question left:** Who first tried to force a Fracture-year number into civic law—and what broke when they did?
-- **Next:** Section 4 — Environment & Climate (only when starting that session).
-
-### Section 4 — Environment & Climate (done)
-
-- Added [`world/climates-of-dias.md`](../world/climates-of-dias.md): F432 baselines + anomalies, frequency climate feels, weather index.
-- New phenomena: Bleed-Sky Weather, Wabet Softfall, Lumira Listening Heat, Sorel Vent Haze.
-- Climate paragraphs on Nauw, Wabet, Sorel; links from Dias, F432, civic time, bleed moths, distant bleed.
-- **Open question left:** Is Bleed-Sky ever caused on purpose—and if so, by whom?
-- **Next:** Section 5 — Regions (only when starting that session).
-
-### Section 5 — Regions (done)
-
-- Densified **Nauw / Wabet / Sorel** as countries of the heart: sensory, who thrives/fears, joy/pressure, sanctuary vs danger zones.
-- Edge densify: Songripe Isles, Hallow Bay, Nauw Outer Rim Seas.
-- Frequency icons lived-role lines: Returning Span, Aurel Meridian, Bloomline Estuary, Glassfold Ledge, Ashen Hearthline, The Unfinished.
-- **Open question left:** What would it take for Nauw’s Concord and Wabet’s Keepers to jointly declare a shared sanctuary corridor—and who would oppose it?
-- **Next:** Section 6 — Natural Landmarks & Geography (only when starting that session).
-
-### Section 6 — Natural Landmarks & Geography (done)
-
-- Added [`world/landmarks-of-dias.md`](../world/landmarks-of-dias.md): classification key, Nauw/Wabet/Sorel landmark webs, frequency icons, ten unforgettable points.
-- Story-staging notes on Rope Tree, Quiet Well, Sprout Vent, Span Toll, DEB Gate, Good Trade mountain.
-- Linked from Dias, Structure, Nauw, Wabet, Sorel.
-- **Open question left:** Which landmark would a null-curious faction try to unmake first—and would anyone notice before the maps changed?
-- **Next:** Section 7 — Flora (only when starting that session).
-
-### Section 7 — Flora (done)
-
-- Added [`world/flora-of-dias.md`](../world/flora-of-dias.md): expanded to **145** named key flora; **each has a file in [`flora/`](../flora/)** (`category: flora`); AGENTS.md folder list updated.
-- Character omen plant phenomenon retained: [`phenomena/bleed-sky-nightbloom.md`](../phenomena/bleed-sky-nightbloom.md) (flora entry links beside it).
-- Linked Fruit Reverence, Dias, Nauw/Wabet/Sorel, climates, bleed-sky.
-- **Open question left:** Do Lucky Fruits and Nightbloom answer the same wrong string in the instrument—or two different ones?
-- **Next:** Section 8 — Animals (only when starting that session).
-
-### Section 8 — Animals (done)
-
-- Added [`world/animals-of-dias.md`](../world/animals-of-dias.md): role index (companion / work / food / pest / gentle / seasonal).
-- Gap fills (11): Lap-Cats, Yard-Chickens, Milk-Goats, Spring-Swallows, Trail-Pups, Nest-Finches, Doorstep-Hens, Oasis-Doves, Market Capons, Studio-Pigeons, Rest-Sheep.
-- Sensory enrichments on Softlane Hares, Ringroad Dogs, Grin-Pigs, Soft-Bears, Ember-Cats, Gilding Bees, Ribbon Gulls, Salt-Seals, Choir-Frogs, Banner Moths.
-- **Open question left:** Which Veloria child first named a Lap-Cat after a Banner Moth—and did the moth approve?
-- **Next:** Section 9 — Creatures & Monsters (only when starting that session).
-
-### Section 9 — Creatures & Monsters (done)
-
-- Added [`world/creatures-of-dias.md`](../world/creatures-of-dias.md): wonder / hazard / rumor / existential classification; 5 wonder + 5 fear icons.
-- Deepened wonder icons: Mega Butterfly, Soft-Bears, Human-Eyed Whales, Banner Moths, Choir-Frogs (Cultural Touchstone).
-- Deepened fear icons: Horizon-Nulls, Nullmouth Shades, Redmile Striders, Quietwell Serpents, Dune-Drakes (Avoidance Customs).
-- Myths: [`the-name-that-thins-the-room.md`](../myths/the-name-that-thins-the-room.md), [`the-pale-rope-of-lumira.md`](../myths/the-pale-rope-of-lumira.md), [`the-bells-against-redmile.md`](../myths/the-bells-against-redmile.md); existing Carrying Wings + Beak myths linked.
-- Animals index now points here for non-ordinary fauna.
-- **Open question left:** Which Veloria fair first banned crushing Banner Moths by market law—and who enforced it with a soft brush?
-- **Next:** Section 10 — Peoples & Inhabitants (only when starting that session).
-
-### Section 10 — Peoples & Inhabitants (done)
-
-- Added [`world/peoples-of-dias.md`](../world/peoples-of-dias.md): personhood spectrum (F432 majors / energy-kind / process-kind / echoforms / migrants).
-- Coexistence culture: [`cultures/f432-shared-table.md`](../cultures/f432-shared-table.md) (who cooks, sails, keeps silence; markets; prejudice; friendship).
-- Daily Coexistence enrichments on all seven compact races + Aurel-kind + Draftkin; Echoforms linked as case-by-case persons.
-- Compact hub notes point to Peoples + Shared Table.
-- **Open question left:** Which Veloria kitchen first posted a “no trick questions for Veyrin guests” placard—and did a Veyrin cook write it?
-- **Next:** Section 11 — Settlements (only when starting that session).
-
-### Section 11 — Settlements (done)
-
-- Added [`world/settlements-of-dias.md`](../world/settlements-of-dias.md): tier key + priority cards (Veloria, Hollowmere, Rim-Rest, Hallow Bay, Calareth, Driftfall, Claimscar, Secondfire).
-- Settlement Cards on those region files.
-- Micro-places (happiness infrastructure): Ringwash Baths, Softfruit Table Hall, Bay-Ribbon Guest Hall, Claimscar Cookfire Circle, Hollowmere Net-Loft Stage.
-- **Open question left:** Which Ringwash attendant first banned politics above a whisper—and did Softfruit Hall copy the rule?
-- **Next:** Section 12 — Architecture (only when starting that session).
-
-### Section 12 — Architecture (done)
-
-- Added [`world/architecture-of-dias.md`](../world/architecture-of-dias.md): Nauw/Wabet/Sorel/Calareth dialects; F200/F840/F960/F500 frequency forms; sacred/domestic/defensive grid.
-- Uncanny exemplar: Sketchy Gallery (buildings that keep you); Sealed Beta Chamber linked.
-- Settlements index cross-link.
-- **Open question left:** Who first painted DO NOT OPEN on the gallery’s blue door—and did they mean visitors or the building?
-- **Next:** Section 13 — Cultures (only when starting that session).
-
-### Section 12b — Architecture enrichment (done)
-
-- User direction: indexes alone insufficient; architecture needs descriptive entries.
-- Full dialect cultures: Nauw Layered Civic, Wabet Quiet Timber, Sorel Salvage, Calareth Ribbon-Light, F200 Filament, F840 Hearth-Corridor, F960 Scaffold, Uncanny Keeping.
-- [`architecture-of-dias.md`](../world/architecture-of-dias.md) rewritten as index → entries.
-- Architecture sections added to Nauw, Wabet, Sorel region files.
-- Plan working rule updated: **indexes are not enough** for high-imagination domains.
-- **Next:** Section 13 — Cultures.
-
-### Section 13 — Cultures (done)
+### Phase IV.4 — Languages, naming, etiquette
 
-- Hub: [`world/cultures-of-dias.md`](../world/cultures-of-dias.md).
-- Cross-cutting: [`f432-hospitality-gift-and-insult.md`](../cultures/f432-hospitality-gift-and-insult.md), [`f432-mourning-and-celebration.md`](../cultures/f432-mourning-and-celebration.md).
-- Subcultures: Veloria clerks, Outer Rim sailors, Wabet orchard-kids, Driftfall vent-crews.
-- Enriched stance matrix with practiced customs; Kindness/Hard Edge on Fruit Reverence, Silence Law, Tide-Song, Exile Compact, Open Hand.
-- **Open question left:** Which Softfruit Hall insult first made a clerk and a sailor apologize to each other in the same afternoon?
-- **Next:** Section 14 — Language (only when starting that session).
-
-### Section 14 — Language (done)
-
-- Hub: [`world/languages-of-dias.md`](../world/languages-of-dias.md) with sample local paragraphs (exit test).
-- Full entries: Naming Patterns; Honorifics and Address; Nauw Market Slang; Wabet Silence-as-Speech; Outer Rim Song-Calendar Speech; Sorel Ledger and Pact Jargon; Frequency Speech Metaphors; Taboo and Soft Words; Multi-Kind Speech Etiquette.
-- Exceeded thin “1–2 notes” deliverable per user direction (indexes not enough).
-- **Open question left:** Which Softfruit insult first required a Choirglass tone-desk to translate the apology?
-- **Next:** Section 15 — Food & Everyday Resources.
-
-### Section 15 — Food & Everyday Resources (done)
-
-- Hub: [`world/food-of-dias.md`](../world/food-of-dias.md).
-- Foodways: Nauw Fruit-Table; Wabet Orchard & Unclaimed Breakfast; Sorel Kettle & Scarcity; Outer Rim Salt & Catch; Calareth Bay Kitchen; F200 Light-as-Sustenance.
-- Settlement boards: Veloria Market Resource Board; Claimscar and Secondfire Resource Board.
-- Linked staples/luxury/crisis to existing flora/fauna and Shared Table places.
-- **Open question left:** Who first served unclaimed breakfast on a Claimscar kettle night—and did paint-true wait until morning?
-- **Next:** Section 16 — Technology (only when starting that session).
+- [ ] Do we understand how people communicate, including languages, naming conventions, and etiquette?
 
-### Section 16 — Technology (done)
-
-- Hub: [`world/technology-of-dias.md`](../world/technology-of-dias.md).
-- Entries: Echo-Aware Craft; Everyday Resonant Tech; Restricted and Taboo Tech; Valorian Operator Tech Culture; Open Hand Maker Tech; Ember Keeper Hearth Tech; Unsettled Listening Devices.
-- Linked Resonant Artifacts class page to tech hub.
-- **Open question left:** Which outer-ring florist first realized a “broken” pot code was still carrying sanctuary—and told a clerk?
-- **Next:** Section 17 — Transportation & Movement (only when starting that session).
-
-### Section 17 — Transportation & Movement (done)
-
-- Hub: [`world/transport-of-dias.md`](../world/transport-of-dias.md) with F432 movement sketch.
-- Entries: Travel Customs; Fruit Road and Toll Travel; Desert Silence Routes; Isle Ferry and Rim Crossing; Sorel Exile and Yard Movement; Cross-Frequency Travel; Beast and Relay Transport; Festival vs Danger Movement.
-- Movement Cards on Eastbound Fruit Road, Span Toll, Saltwhisper Road, Westfold Toll.
-- **Open question left:** Which Span Toll clerk first accepted “documented rest” from a choir-frog-late convoy—and did the marshal smile?
-- **Next:** Section 18 — Economy.
-
-### Section 18 — Economy (done)
-
-- Hub: [`world/economy-of-dias.md`](../world/economy-of-dias.md).
-- Entries: Plural Tender Economies; Labor Types of F432; Kindness Markets and Black Markets; Fruit Trade Economy; Salvage and Claim Economy.
-- VEL Mark standard cross-linked to plural tenders + economy hub.
-- Settlement economy verbs indexed on the hub.
-- **Open question left:** Who first cleared a Softfruit lunch in pot favor, VEL, and fruit-share in the same hour—and which tender felt most like belonging?
-- **Next:** Section 19 — Knowledge & Education (only when starting that session).
-
-### Section 19 — Knowledge & Education (done)
-
-- Hub: [`world/knowledge-of-dias.md`](../world/knowledge-of-dias.md).
-- Entries: F432 Learning Paths; Dangerous Knowledge Customs; Joy of Learning Practices; Clerk and House Study Paths; Veil Scribe Discipline; Orchard Watch and Loft Apprenticeship; Open Hand and Ember Teaching.
-- Learning Card on Calibration Row; Veil Scribes linked to discipline culture.
-- **Open question left:** Which Calibration Row apprentice first refused a House stamp to save a friend’s cart—and did Dox Khar buy the tea?
-- **Next:** Section 20 — Religion, Belief & Mythology.
-
-### Section 20 — Religion, Belief & Mythology (done)
-
-- Hub: [`world/belief-of-dias.md`](../world/belief-of-dias.md).
-- Entries: Echo Belief Stances; Sacred Local Practices; Myth Cycles of Fracture and Kin; Unsettled Faith Edges; Mysticism of Markets.
-- Plural belief: gift/warning/resource/illusion + atheism-of-echoes beside market mysticism; unsettled edges present not dominant.
-- **Open question left:** Who first thanked a Banner Moth and filed an echo as noise in the same afternoon—and which act felt more like prayer?
-- **Next:** Section 21 — Organizations & Factions (only when starting that session).
-
-### Section 21 — Organizations & Factions (done)
-
-- Hub: [`world/organizations-of-dias.md`](../world/organizations-of-dias.md) with light faction map.
-- Faction cards: Resonant Houses, Valorian Operators, Open Hand, Ember Keepers; full org cultures: Nauw Concord, Freebands of Sorel, Silent Dune Keep; Calareth Watch enriched; Distant Companies inhabitant (rumor-grade).
-- New niche factions: Bleed Weather Ward, Exile Mutual Table, Null Curiosity Cell.
-- **Open question left:** Which Exile Mutual Table bowl first fed a Free-Captain’s rival without starting a paint war?
-- **Next:** Section 22 — Politics & Power.
-
-### Section 22 — Politics & Power (done)
-
-- Hub: [`world/politics-of-dias.md`](../world/politics-of-dias.md).
-- Entries: Regional Power Weathers; Soft Power Venues; Slow Dark Initiatives (pressures, not war canon).
-- Politics sections on Nauw, Wabet, Sorel region files.
-- **Open question left:** Which Soft Power venue first cooled a House–Open Hand fight without a stamp—and who brought the fruit?
-- **Next:** Section 23 — Daily Life (only when starting that session).
-
-### Section 23 — Daily Life (done)
-
-- Hub: [`world/daily-life-of-dias.md`](../world/daily-life-of-dias.md).
-- Cultures: F432 Domestic and Play; Happiness Infrastructure Checklist; Tiny Unsettled Day Details.
-- Stories: Clerk Morning in Veloria; Walker Day in Wabet; Exile First Bowl in Sorel; Watch Runner Shift on Calareth; Loft Evening in Hollowmere.
-- **Open question left:** Which Ringwash regular first banned politics above a whisper—and did Softfruit copy the rule the same week?
-- **Next:** Section 24 — History.
-
-### Section 24 — History (done)
-
-- Hub: [`world/history-of-dias.md`](../world/history-of-dias.md) with soft timeline spine.
-- Entries: Known Disputed Forgotten; Unmaking Pattern Rumors; Nauw Civic Memory; Wabet Restraint Memory; Sorel Second-Beginning Memory.
-- History sections on Nauw/Wabet/Sorel; Known Eras linked to hub.
-- **Open question left:** Which Long Gate argument first admitted both sides were right—and who still refused the bridge anyway?
-- **Next:** Section 25 — Important Historical Figures (only when starting that session).
-
-### Section 25 — Important Historical Figures (done)
-
-- Hub: [`world/historical-figures-of-dias.md`](../world/historical-figures-of-dias.md).
-- 12 legendary/rumor figures: Sereth Gatewright, Tollwright Ansa, Lumen of Softfruit, Fruit-Road Mother Wen, Vesh Wrong-Map, First Ribbon Corin, Reef-Closer Sera, Drift-Captain Void, Kiln-Mother Halden, Maker-Hand Sol, Census Tally Vaun, Null-Seal Archivist Ren.
-- Archetypes cover builder/breaker/bridge/warning/joy/unsettled; distinct from living saga cast.
-- **Open question left:** Which Softfruit toast first confused Lumen of Softfruit with Frederick Lumens—and who laughed hardest?
-- **Next:** Section 26 — Conflict.
-
-### Section 26 — Conflict (done)
-
-- Hub: [`world/conflict-of-dias.md`](../world/conflict-of-dias.md) with types + happiness zones preserved.
-- Entries: Active Conflicts of F432; Cold Conflicts of F432; Legendary Conflicts of Dias.
-- Slow dark throughline: [`The Quiet Unbinding`](../cultures/the-quiet-unbinding.md) (lightly named, perforated).
-- **Open question left:** Which happiness zone would the Quiet Unbinding loosen first—and who would notice before the plot arrives?
-- **Next:** Section 27 — Characters & Important Figures (only when starting that session).
-
-### Section 27 — Characters & Important Figures (done)
-
-- Hub: [`world/characters-of-dias.md`](../world/characters-of-dias.md) with tags (saga-ready / locale / bridge / joyful / antagonist-with-reasons / child-elder).
-- Gap fills: Pip Ringroad, Tess Softfall, Rae Fruitrail, Osa Laughlight, Bess Thirdchair, Nessa Tolltalk, Orr Claimprice, Ivy Sketchwalk.
-- Harold enriched as Harold-principle exemplar + Pip redirect note.
-- **Open question left:** Which Softfruit lunch first seated Pip, Bess’s token-bearer, and a House junior—and who learned more?
-- **Next:** Section 28 — Objects & Artifacts.
-
-### Section 28 — Objects & Artifacts (done)
-
-- Hub: [`world/artifacts-of-dias.md`](../world/artifacts-of-dias.md) by function.
-- New everyday: Softfruit Ladle, Loft Hail Chalk, Third-Chair Token.
-- New joy: Assent Ribbon Spool, Banner Soft-Brush, Festival Sky-Whale Lantern.
-- New danger: Thin-Room Ear, Forced-Final Clamp, Well-Beacon Shard.
-- Resonant Artifacts class linked to hub.
-- **Open question left:** Which chapter starts with a ladle that won’t pour—and ends without a sword?
-- **Next:** Section 29 — Information & Communication (only when starting that session).
-
-### Section 29 — Information & Communication (done)
-
-- Hub: [`world/information-of-dias.md`](../world/information-of-dias.md).
-- Channels: [`F432 Information Channels`](../cultures/f432-information-channels.md); [`Speed Truth Tradeoffs`](../cultures/speed-truth-tradeoffs.md); [`Sealed Knowledge Ethics`](../cultures/sealed-knowledge-ethics.md); [`Cross-Frequency Omenspeak`](../cultures/cross-frequency-omenspeak.md).
-- Communication artifacts: Mir Weekly Leaf; Watch Passage Slate; Toll Talk Token.
-- **Open question left:** Which secret first crossed Claimscar to Softfruit intact—and which channel turned it into a kindness lie?
-- **Next:** Section 30 — Stories, Folklore & Entertainment.
-
-### Section 30 — Stories, Folklore & Entertainment (done)
-
-- Hub: [`world/stories-folklore-and-entertainment-of-dias.md`](../world/stories-folklore-and-entertainment-of-dias.md).
-- Folklore families + myths: gate beasts, sky-turtles, ash whales, laughlight, almost-same roads.
-- Entertainment: Flagweek chaos, gallery going, market theater, song isle/loft nights, hearth cricket nights.
-- Stories arguing with history: Flagweek breakfast hold; official vs loft telling; turtle day nobody logged.
-- **Open question left:** Which cricket-silent week first taught a Free-Captain to lower their voice—and did they keep the lesson past the next flag?
-- **Next:** Section 31 — Death & Legacy (only when starting that session).
-
-### Section 31 — Death & Legacy (done)
-
-- Hub: [`world/death-and-legacy-of-dias.md`](../world/death-and-legacy-of-dias.md).
-- Practices: [`Death Practices of F432`](../cultures/death-practices-of-f432.md); comfort/horror: [`Echoes of the Dead`](../cultures/echoes-of-the-dead.md).
-- Legacy: [`Legacy Institutions of Dias`](../cultures/legacy-institutions-of-dias.md); unsettled: [`Unsettled Deaths`](../cultures/unsettled-deaths.md).
-- F840 tie: [`F840 Recovery Ethics`](../cultures/f840-recovery-ethics.md).
-- Myths: Chair Left Warm; Seam They Would Not Close. Phenomenon: Afterglow Name-Light (disputed).
-- **Open question left:** Which Softfruit meal first left a chair warm without demanding a name-light—and who learned that was enough?
-- **Next:** Section 32 — Mysteries (only when starting that session).
-
-### Section 32 — Mysteries (done)
-
-- Hub (thin register): [`world/mysteries-of-dias.md`](../world/mysteries-of-dias.md).
-- Crown locked: Frequency Zero.
-- Active cards: Bleed Source; Deep-Keels; Long-Gate Beast; Horizon-Nulls; Unfinished Sky-Whales; Who Seals What—each with life-affected + clues-not-answers + lock note.
-- Cross-linked from cosmology, Frequency Zero, and seed creatures.
-- **Open question left:** Which active mystery first gains a clue that makes Softfruit argue over breakfast—without answering Frequency Zero?
-- **Next:** Section 33 — Secrets (only when starting that session).
-
-### Section 33 — Secrets (done)
-
-- Public taxonomy hub: [`world/secrets-of-dias.md`](../world/secrets-of-dias.md) (types + distribution map; not a spoiler bible).
-- Agent pointer: [`agent/secrets-pointer.md`](secrets-pointer.md) (saga-key vs texture; holders/motives only).
-- Distributed secret notes on Houses, Operators, Open Hand, Silent Dune Keep, Quiet Well, Null Curiosity Cell, Calareth Watch; Quiet Unbinding cross-link.
-- Mysteries hub updated (mystery vs secret).
-- **Open question left:** Which kinder lie first gets mistaken for weaponized silence—and who pays the water price?
-- **Next:** Section 34 — Evidence / Records / In-world Documents (only when starting that session).
-
-### Section 34 — Evidence / Records / In-world Documents (done)
-
-- Hub: [`world/evidence-and-records-of-dias.md`](../world/evidence-and-records-of-dias.md).
-- Reliability culture: [`Reliable and Unreliable Records`](../cultures/reliable-and-unreliable-records.md).
-- New document artifacts: Span Toll Book; Outer Rim Song Calendar; House Sealed Beta Note; Basin Market Pamphlet; Softfruit Manners Chapbook; Wishful Fruit-Road Handbill.
-- Linked existing: Watch Passage Slate, Mir Weekly Leaf, Half-Made Atlas, self-letter, ledger leaves; GUID discipline pointed.
-- **Open question left:** Which investigation first trusts a song calendar over a sealed beta note—and who was right for the wrong reason?
-- **Next:** Section 35 — Relationships Between Everything (only when starting that session).
-
-### Section 35 — Relationships Between Everything (done)
-
-- Hub: [`world/relationships-of-dias.md`](../world/relationships-of-dias.md) — F432 hub webs (affections + tensions) + cross-frequency thin threads + pull-one-thread examples.
-- Stage readiness: [`world/stage-readiness-of-dias.md`](../world/stage-readiness-of-dias.md) + [`agent/stage-readiness.md`](stage-readiness.md).
-- Cross-links: Organizations, Settlements, Mysteries; `SAGAS.md` stage note only (no new saga).
-- **Open question left:** Which Softfruit refusal first moves Watch, Mir, and a Toll Book in the same afternoon—and still leaves citrus on the ladle?
-- **Next:** Plan Sections 1–35 complete. Schedule new saga design only when a real journey is ready.
+**Starting points** (search further as needed): `cultures/`, `symbols/`, `artifacts/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Naming patterns, greetings, insults, register—resonance-aware where relevant.
+
+**Exit criteria:** A writer can name a character correctly and stage a polite vs rude exchange from canon.
+
+---
+
+### Phase IV.5 — Ordinary life (family, education, professions, food, entertainment)
+
+- [ ] Can we explain how ordinary life works, including family, education, professions, food, and entertainment?
+
+**Starting points** (search further as needed): `cultures/`, `flora/`, `artifacts/`, `stories/`, `myths/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** This phase may require many entries. Prioritize Veloria / major F432 settlements first, then widen.
+
+**Exit criteria:** A “normal day” in at least one major settlement can be narrated hour-by-hour from canon.
+
+---
+
+### Phase IV.6 — Governments, authorities, organizations, factions
+
+- [ ] Have we described the governments, authorities, organizations, and factions that influence societies?
+
+**Starting points** (search further as needed): `cultures/`, `regions/`, `rules/`, `inhabitants/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Power should have offices, habits, and limits—not only villain labels. Prefer civic texture over wardefault.
+
+**Exit criteria:** Major settlements/regions have identifiable authorities and competing influences.
+
+---
+
+### Phase IV.7 — Laws, trade, economies, political relationships
+
+- [ ] Do we understand how laws, trade, economies, and political relationships differ between regions?
+
+**Starting points** (search further as needed): `rules/`, `cultures/`, `artifacts/`, `regions/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Regional difference must be concrete (tolls, currencies, banned goods, obligations).
+
+**Exit criteria:** A reader can contrast at least two regions’ law/trade/politics with examples.
+
+---
+
+### Phase IV.8 — Religions, beliefs, rituals, cultural readings of resonance
+
+- [ ] Have we identified the major religions, beliefs, rituals, and cultural interpretations of resonance?
+
+**Starting points** (search further as needed): `cultures/`, `symbols/`, `myths/`, `rules/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Multiple interpretations encouraged; do not collapse into one church of Zero.
+
+**Exit criteria:** Belief systems and rituals are enactable; resonance interpretations differ by culture.
+
+---
+
+### Phase IV.9 — Named inhabitant reference profiles
+
+- [ ] Do important named inhabitants have consistent reference profiles covering identity, origin, role, and relationships?
+
+**Starting points** (search further as needed): `inhabitants/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Audit saga-facing and civic figures; enrich identity/origin/role/relationships; fix contradictions via canon-safe framing.
+
+**Exit criteria:** Important named figures have consistent profiles usable as encyclopedia entries.
+
+---
+
+### Phase IV.10 — Visual culture (peoples, clothing, symbols, architecture, relationships)
+
+- [ ] Can we illustrate recognizable peoples, clothing, cultural symbols, architecture, and relationship diagrams?
+
+**Starting points** (search further as needed): `artworks/`, `assets/`, `cultures/`, `symbols/`, `world/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Ensure architecture/clothing/symbol entries + plates support illustration briefs.
+
+**Exit criteria:** Book illustrators could brief peoples, dress, symbols, and architecture from canon without guessing.
+
+---
+
+# Volume V: Artifacts and Inventions
+
+**Theme:** Objects, technologies, vehicles, materials, transport, and trade.
+
+**Definition of done:** A reader understands how the material world functions and what inhabitants use to live, build, communicate, and travel.
+
+**Completion test:** Can a reader equip an adventurer, choose a believable way to travel, and understand what everyday technologies are available without inventing new rules?
+
+**Volume status:** pending
+
+---
+
+### Phase V.1 — Classification of objects and artifacts
+
+- [ ] Have we classified common objects, tools, technologies, resonant devices, and rare artifacts?
+
+**Starting points** (search further as needed): `artifacts/`, `world/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Clear artifact_type / rarity / role language across entries. Separate kitchen tool from relic.
+
+**Exit criteria:** Classification is usable as a book taxonomy with examples in each class.
+
+---
+
+### Phase V.2 — Materials, energy, manufacturing
+
+- [ ] Do we know what materials, energy sources, and manufacturing methods are used?
+
+**Starting points** (search further as needed): `artifacts/`, `cultures/`, `regions/`, `flora/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Workshops, mills, resonant craft, mundane industry—descriptive and place-linked.
+
+**Exit criteria:** A maker’s chapter can be written for at least two regional craft traditions.
+
+---
+
+### Phase V.3 — Resonant technology: capabilities, limits, failures
+
+- [ ] Are the capabilities, limitations, and possible failures of resonant technology established?
+
+**Starting points** (search further as needed): `artifacts/`, `rules/`, `phenomena/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Failure modes and social consequences matter as much as powers. Soft limits apply.
+
+**Exit criteria:** Readers know what resonant devices can/can’t do and how they break or mislead.
+
+---
+
+### Phase V.4 — Domestic objects, tools, agriculture, clothing, instruments
+
+- [ ] Have we described common domestic objects, tools, agricultural equipment, clothing, and instruments?
+
+**Starting points** (search further as needed): `artifacts/`, `cultures/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** High volume expected. Each entry still fully descriptive—no stub catalogs.
+
+**Exit criteria:** Household / farm / clothing / instrument coverage supports everyday scenes without invention.
+
+---
+
+### Phase V.5 — Vehicles and transportation systems
+
+- [ ] Do we know which vehicles and transportation systems exist and how they operate?
+
+**Starting points** (search further as needed): `artifacts/`, `regions/`, `cultures/`, `rules/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Carts, boats, bridges, local ferries, mounts, schedule culture—plus constraints. No inter-band subway.
+
+**Exit criteria:** Multiple transport modes documented with operation and limits.
+
+---
+
+### Phase V.6 — Recording, delivering, preserving, communicating information
+
+- [ ] Can we explain how information is recorded, delivered, preserved, and communicated?
+
+**Starting points** (search further as needed): `artifacts/`, `cultures/`, `symbols/`, `rules/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Ledgers, songs, seals, runners, resonant records—echo-aware, not Earth internet.
+
+**Exit criteria:** Message and archive methods are clear enough for plot logistics.
+
+---
+
+### Phase V.7 — Trade, currency, markets, manufacturing, distribution
+
+- [ ] Have we established how trade, currency, markets, manufacturing, and the distribution of goods work?
+
+**Starting points** (search further as needed): `cultures/`, `artifacts/`, `regions/`, `rules/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Markets should smell and sound like places; currency and credit must be regional where established.
+
+**Exit criteria:** A merchant plot can price, move, and sell goods using canon systems.
+
+---
+
+### Phase V.8 — Major relics and artifacts
+
+- [ ] Have we documented the major relics and artifacts, including their known origins and capabilities?
+
+**Starting points** (search further as needed): `artifacts/`, `myths/`, `world/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Origins may be disputed—say so. Capabilities must not break Volume I limits.
+
+**Exit criteria:** Major relics have descriptive dossier-quality entries (known / disputed / unknown sorted).
+
+---
+
+### Phase V.9 — Dangerous, restricted, rare, expensive, taboo inventions
+
+- [ ] Do we understand which inventions are dangerous, restricted, rare, expensive, or socially taboo?
+
+**Starting points** (search further as needed): `artifacts/`, `rules/`, `cultures/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Social enforcement matters (who bans, who sells anyway).
+
+**Exit criteria:** Examples exist in each risk/rarity/taboo class with in-world reasons.
+
+---
+
+### Phase V.10 — Consistent illustration of artifacts and machines
+
+- [ ] Can we illustrate important artifacts and machines with sufficiently consistent shapes, materials, dimensions, and details?
+
+**Starting points** (search further as needed): `artworks/`, `assets/`, `artifacts/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Prose must specify shape/material/scale; add plates for flagship objects.
+
+**Exit criteria:** Important artifacts can be drawn consistently from canon text + existing art.
+
+---
+
+# Volume VI: Echoes and Mysteries
+
+**Theme:** Recorded history, important events, beliefs, symbols, and unresolved mysteries.
+
+**Definition of done:** A reader understands the historical framework of Dias, what different societies remember, and what remains unknown.
+
+**Completion test:** Can a reader explain the broad history of Dias, recognize its most important events, and distinguish what is known from what is believed?
+
+**Volume status:** pending
+
+---
+
+### Phase VI.1 — Major historical eras and chronology
+
+- [ ] Have we established the major historical eras and their chronological relationships?
+
+**Starting points** (search further as needed): `world/`, `rules/`, `cultures/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Era names and order must be stable and cross-linked. Avoid fake precise calendars where canon is soft.
+
+**Exit criteria:** A broad era sequence is teachable from canon hubs.
+
+---
+
+### Phase VI.2 — Documented vs disputed vs myth vs unknown
+
+- [ ] Can we distinguish documented historical events from disputed accounts, myths, and unknown events?
+
+**Starting points** (search further as needed): `world/`, `myths/`, `stories/`, `artifacts/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Status discipline across history-facing entries.
+
+**Exit criteria:** Readers can classify event claims by evidence grade using canon labels.
+
+---
+
+### Phase VI.3 — Fracture and foundational event consequences
+
+- [ ] Have we described the established consequences of the Fracture and other foundational events?
+
+**Starting points** (search further as needed): `world/`, `rules/`, `regions/`, `cultures/`, `phenomena/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Consequences in lived world (institutions, geography, fear, craft)—not a solved cosmology dump.
+
+**Exit criteria:** Fracture consequences are multiple, concrete, and still leave Zero open.
+
+---
+
+### Phase VI.4 — Migrations, conflicts, discoveries, disasters
+
+- [ ] Do we know which migrations, conflicts, discoveries, and disasters shaped the current world?
+
+**Starting points** (search further as needed): `world/`, `regions/`, `cultures/`, `inhabitants/`, `myths/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Prefer regional shaping events with aftermath still visible. Conflict ≠ endless war setting.
+
+**Exit criteria:** Each event class has multiple grounded examples tied to present geography/culture.
+
+---
+
+### Phase VI.5 — Important historical figures and legacies
+
+- [ ] Have we identified important historical figures and their verified contributions or legacies?
+
+**Starting points** (search further as needed): `inhabitants/`, `world/`, `artifacts/`, `myths/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Separate verified legacy from legend inflation.
+
+**Exit criteria:** Key figures have profiles stating what is verified vs attributed.
+
+---
+
+### Phase VI.6 — How history is preserved
+
+- [ ] Do we understand how history is preserved through monuments, artifacts, songs, documents, and traditions?
+
+**Starting points** (search further as needed): `artifacts/`, `cultures/`, `symbols/`, `regions/`, `myths/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Preservation methods should differ by culture/region.
+
+**Exit criteria:** Multiple preservation channels are documented with examples.
+
+---
+
+### Phase VI.7 — Symbols, meanings, legends, beliefs tied to history
+
+- [ ] Have we documented the major symbols, meanings, legends, and beliefs associated with the world's history?
+
+**Starting points** (search further as needed): `symbols/`, `myths/`, `cultures/`, `artworks/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Symbols need meaning + usage + lore connection (full template).
+
+**Exit criteria:** Major historical symbols/legends are encyclopedia-ready and cross-linked.
+
+---
+
+### Phase VI.8 — Observed phenomena vs speculative causes
+
+- [ ] Are significant observed phenomena separated from speculation about their causes?
+
+**Starting points** (search further as needed): `phenomena/`, `rules/`, `myths/`, `world/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Observation sections vs interpretation sections; keep scholarly disagreement.
+
+**Exit criteria:** Flagship phenomena entries cleanly separate what is seen from what is guessed.
+
+---
+
+### Phase VI.9 — Boundaries of unresolved mysteries (no forced solves)
+
+- [ ] Have we defined the known boundaries of each major unresolved mystery without unnecessarily revealing its solution?
+
+**Starting points** (search further as needed): `world/`, `rules/`, [`secrets-pointer.md`](secrets-pointer.md) (author pressure only)
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Public lore gets edges and clues; do not dump spoiler bible. Frequency Zero stays open.
+
+**Exit criteria:** Each major mystery has a bounded “what is known / not known” entry surface.
+
+---
+
+### Phase VI.10 — Annotated timeline for non-saga readers
+
+- [ ] Can we construct an annotated timeline that makes history understandable without requiring readers to follow the sagas?
+
+**Starting points** (search further as needed): `world/`, `artworks/`, `assets/`
+
+**Pace:** Take as long as needed. Leave no stone unturned. Fully answer this question—**100–500+** fully descriptive entries in this phase is fine if required. Do not stop early.
+
+**Diligence:** Timeline must work as a Volume VI spine: eras, foundational events, regional beats—saga-optional.
+
+**Exit criteria:** An annotated timeline artifact/entry exists that a non-saga reader can follow.
+
+---
+
+## After each phase (agent close-out)
+
+1. Confirm Story Architect was used for every new/edited lore file (schema + category template).
+2. List new files and enriched files (counts are welcome; high counts are not a problem).
+3. State how the phase question is now **fully** answerable (quote entry names / examples). If any sub-angle is still thin, say so and do not mark done.
+4. Note remaining soft-limit gaps intentionally left open (mystery ≠ unfinished homework).
+5. Rebuild dashboard if links/pins changed: `python3 scripts/build_story_dashboard.py`
+6. Mark the phase `- [x]` only if exit criteria truly pass **and** a book chapter could be drafted without inventing rules.
+7. Stop for human review unless the human asked to continue to the next phase.
+
+## After each volume
+
+Run the volume **completion test** in prose. If it fails, reopen the weakest phases—do not mark the volume ready.
+
+---
+
+## Final definition of done — every first edition
+
+Even if all world-building phase questions have answers, a book is **not** ready to publish until these conditions pass.
+
+Applies to **each** first edition (Volumes I–VI individually, and to any combined release that claims first-edition status).
+
+### Universal publication checklist
+
+**Publication gates:** 0 of 8 completed
+
+- [ ] Every important claim traces to an approved canonical source.
+- [ ] No significant contradictions remain across the six volumes.
+- [ ] Unknowns and mysteries are explicitly classified rather than invented.
+- [ ] Referenced published facts have approved canon protection.
+- [ ] Maps and illustrations accurately reflect the canon.
+- [ ] Writing, captions, diagrams, and glossary are understandable independently of the sagas.
+- [ ] The edition records its repository commit and approved publication scope.
+- [ ] A reader test, editorial review, and publishing proof have been completed.
+
+### How to use this checklist
+
+1. Finish all **61 phases** (or the volumes in scope for that edition) with exit criteria honestly marked.
+2. Run each in-scope volume **completion test** again against the drafted book text.
+3. Walk the **8 publication gates** above. Do not ship on partial gates.
+4. Record: edition name, volumes included, git commit SHA, date, who approved scope, and gate outcomes (agent summary + human sign-off).
+5. Only then treat the first edition as **publication-ready**.
+
+**Agent note:** Lore phases prepare the repository. Publication gates cover tracing, cross-volume consistency, art accuracy, saga-independence, commit pinning, and human editorial/proof passes. Agents may help inventory and draft evidence for gates 1–7; gate 8 requires explicit human reader test, editorial review, and publishing proof.

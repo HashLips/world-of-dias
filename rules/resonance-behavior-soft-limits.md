@@ -11,6 +11,11 @@ related:
   - Frequency Zero
   - F432 partial knowledge protocol
   - Distant lumen-abyss bleed
+  - Soft Limits of Dias
+  - Resonance Can and Cannot of Dias
+  - Resonance does not grant wishes
+  - Resonance feats have costs
+  - Reading echoes is craft
 themes:
   - soft limits
   - consistent physics
@@ -29,6 +34,10 @@ Resonance behavior soft limits
 ## Overview
 
 Resonance and frequency explain wonder in Dias, but they do not grant omnipotence on demand. These soft limits keep the cosmos consistent enough for trust and broad enough for discovery.
+
+**Claim grade:** law (working expectations strong enough to rely on; rare exceptions remain mysteries, not routine tools).
+
+**Use with:** Resonance Can and Cannot of Dias (feat judgment); Resonance feats have costs (the bill); Resonance does not grant wishes (desire ≠ physics).
 
 ## Description
 

@@ -44,7 +44,7 @@ Always-on reminder: [`.cursor/rules/dias-contributor.mdc`](.cursor/rules/dias-co
 | [`agent/stage-readiness.md`](agent/stage-readiness.md) | What sagas/arcs may touch next; forbidden solves |
 | [`agent/DIAS-REFERENCE-MAP.md`](agent/DIAS-REFERENCE-MAP.md) | External GUID bridge (IRL / Arweave / social / physical) |
 | [`agent/dias-map.yaml`](agent/dias-map.yaml) | Permanent `DIAS-{UUID}` → Markdown index |
-| [`agent/plan.md`](agent/plan.md) | World expansion plan (stage-building; section-by-section; complete) |
+| [`agent/plan.md`](agent/plan.md) | **Active** book-series canon plan (Volumes I–VI; one question = one phase) |
 | [`agent/secrets-pointer.md`](agent/secrets-pointer.md) | Author secret staging (saga-key vs texture; not a spoiler bible) |
 | [`.cursor/rules/dias-contributor.mdc`](.cursor/rules/dias-contributor.mdc) | Always-on: Story Architect + contributor docs |
 | [`.cursor/rules/dias-reference-map.mdc`](.cursor/rules/dias-reference-map.mdc) | Always-on permanence rule for Dias GUIDs |

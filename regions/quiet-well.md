@@ -11,9 +11,13 @@ related:
   - Keth Dunewalk
   - Lumira Silence Law
   - The Map That Must Stay Wrong
-  - Quiet Well Map-Wrongness Rule
+  - Quiet Well map-wrongness rule
   - Take It Easy
   - Palm, Stone Lip, and Dark Water
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Wabet
+  - F432 (frequency realm)
 themes:
   - hidden oasis
   - deliberate misdirection
@@ -47,6 +51,10 @@ The guiding tension: the land provides for those who respect its silence—and s
 ## Stories or Depictions
 
 *The Map That Must Stay Wrong* is the oral spine. *Take It Easy* is hung in shade-camps as a reminder that hurry kills wells.
+
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Wabet** → **Lumira Sands** → **Quiet Well**. Desert quiet around the Well is place manners and law-touching weather, not evidence that the Well is its own realm.
 
 ## Notes
 

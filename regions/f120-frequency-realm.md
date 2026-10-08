@@ -1,4 +1,5 @@
 ---
+
 category: region
 name: F120 (frequency realm)
 place_type: realm
@@ -31,6 +32,12 @@ related:
   - First Lane Milestone Rest
   - Difference Mark Wayside
   - Outer Lane Discipline Customs
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Frequency Difference Primer of Dias
+  - Established Frequency Realms of Dias
+  - Frequency as fundamental law
+  - Structure of Dias
 themes:
   - echo
   - variation
@@ -47,6 +54,10 @@ status: canonical
 **F120** is commonly described as the **echo band**: a frequency where events recur in recognizable patterns, but never repeat exactly.
 
 ## Description
+
+### Matter, mood, and meaning
+
+Matter in F120 often looks trustworthy at first glance: stone, path, milestone. The difference arrives in **use**. A rest that sheltered you yesterday may shelter you again with a different joke, a different silence, a different debt unpaid. Mood runs toward recognition-with-error—comfort that keeps a thin edge. Meaning-physics favors comparison: paired bells, difference marks, lanes that teach “almost” as a discipline rather than a failure.
 
 F120 does not trap people in loops. Instead, it produces **near-return**: similar scenes, phrases, routes, and meetings with altered timing, tone, or outcome. Witnesses describe the realm as if memory and future were standing slightly out of sync.
 
@@ -67,6 +78,24 @@ F120 often appears as ring motifs with slight breaks, doubled landmarks, and pai
 The **F120 Map V2** artwork is the current visual reference for **The Returning Span** and lane-based echo geography; see `assets/f120-map-v2.jpg` (prior: *F120 Map* / `assets/f120-map.jpg`).
 
 Later motif work such as **Time Splits** is often used with **Quartermark Drift** briefings to explain why matching clock reads can still produce diverging outcomes in recurring passes.
+
+### Nesting
+
+**Dias** → **F120 (frequency realm)** → places such as **The Returning Span** → local phenomena such as Quartermark Drift and near-return phrase drift. This is a frequency layer of Dias, not a country painted east of Nauw.
+
+### Unlike the others
+
+F120’s fundamental difference is **near-return without exact loop**. Matter and roads can feel familiar; outcomes refuse perfect copy. Memory and timing lean side-by-side rather than stacked as finished past.
+
+| Domain | F120 expectation |
+| --- | --- |
+| Matter / place | Routes and landmarks that rhyme; never identical twice |
+| Mood | Gentle unease of recognition—“I have almost been here” |
+| Physics-of-meaning | Recurrence with drift; Quartermark-style timing error is native weather |
+| Life | Creatures and customs built for comparison, milestones, difference marks |
+| Contrast | Not F432’s solid novelty of ordinary days; not F960’s wet-paint revision; not F610’s brief total reveal |
+
+From F432, the honest proverb is still best: *the same road, not the same day.*
 
 ## Notes
 

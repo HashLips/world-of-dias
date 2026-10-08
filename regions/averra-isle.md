@@ -85,5 +85,9 @@ Another active myth names seven cloaked figures as an unseen council on Averra, 
 
 **Sael Corvin** and **The Seven of Averra** threads supply character-scale entry points; the **Offshore Pass** supplies a **recurring, shared calendar event** for novels that never need to set foot onshore. **Ascension Day** and **The Two Pillars Witness** add a public-ritual lens where authority is staged, witnessed, and argued over rather than cleanly explained. **Blind Eyes** and **The Blind Eyes Vigil** add a parallel witness-discipline strand focused on verification under rumor pressure.
 
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Nauw** → **Averra Isle**. The isle is regional geography inside the home band—obscure on purpose, not a separate frequency painted as an island. Offshore Pass lamps and mainland answering windows are local rites; they do not nest Averra above F432.
+
 ## Notes
 

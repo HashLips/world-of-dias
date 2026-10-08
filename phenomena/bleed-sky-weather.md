@@ -14,6 +14,9 @@ related:
   - F500 (frequency realm)
   - Bleed-Sky Nightbloom
   - Flora of Dias
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Local phenomenon scope rule
 themes:
   - bleed weather
   - rare unease
@@ -47,6 +50,10 @@ Rare; uneven by coast and season. More talked about after sailor returns and led
 - Street: omen night; check on neighbors; do not boast at empty corners.
 - Institutions: log if instruments spike; do not write policy as if F500 sued for custody of the clouds.
 - Storytellers: the unsettled string in Dias’s instrument made visible.
+
+### Nesting
+
+A weather-of-meaning pattern hosted by F432 places. Nest it under events, not under regions.
 
 ## Notes
 

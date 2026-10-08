@@ -6,6 +6,12 @@ related:
   - Everything resonates echo principle
   - Frequency as fundamental law
   - Resonance behavior soft limits
+  - Resonance and Echo of Dias
+  - What an echo is
+  - Why everything leaves an echo
+  - Law Theory Observation of Dias
+  - Graded Principles of Dias
+  - Claim Grade Discipline
   - Frequency Zero
   - The Prime Realm
   - The Fracture
@@ -25,6 +31,10 @@ related:
   - Echoforms
   - Resonant Artifacts
   - Structure of Dias
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Frequency realm is not a country
+  - Local phenomenon scope rule
 themes:
   - cosmology
   - orientation
@@ -53,15 +63,18 @@ Dias is one cosmos with **layered resonance**. What people call magic is usually
 
 Movement between realms is not ordinary travel distance. It is a change in resonance—rare, disputed, and culturally heavy when it happens at all.
 
-### Law / theory / taboo guess
+For the binding nesting rule and place-type vocabulary, see [`Nesting and Scale of Dias`](nesting-and-scale-of-dias.md) and [`Dias nesting hierarchy`](../rules/dias-nesting-hierarchy.md). Concrete examples live in each place’s own entry (`parent_region`, `related`, and body).
+
+### Law / theory / observation / taboo guess
 
 | Kind | Meaning | Examples |
 | --- | --- | --- |
 | **Law** | Treated as reliable world behavior across cultures that disagree about almost everything else | Everything resonates; everything leaves an echo. Frequency shapes what is possible. The Fracture separated one Prime Realm into frequencies. |
 | **Theory** | Useful, argued, sometimes institutionalized—still revisable | Exact count of frequencies; best model of bleed; whether F500 “hunger” and Zero are related; how echo-reading should be governed. |
+| **Observation** | Witnessed or instrumented remainder/event without a closed cause-model | Bleed nights; everyday aftertones; unfinished edge drift as reported behavior |
 | **Taboo guess** | Spoken carefully, sealed, joked away, or prayed around | Forcing Frequency Zero into a tool; treating null as a workplace; claiming to know the Fracture’s culprit as settled fact. |
 
-F432’s own discipline for incomplete cosmic claims lives in the **F432 partial knowledge protocol**: rumor may inform caution; it does not silently become law.
+F432’s own discipline for incomplete cosmic claims lives in the **F432 partial knowledge protocol**: rumor may inform caution; it does not silently become law. Plain-speech expansion: [`Law Theory Observation of Dias`](law-theory-observation-of-dias.md). Binding rule: [`Claim Grade Discipline`](../rules/claim-grade-discipline.md). Living index: [`Graded Principles of Dias`](graded-principles-of-dias.md).
 
 ## Global Lore
 

@@ -13,6 +13,10 @@ related:
   - The Unfinished
   - Aurel Meridian
   - Distant lumen-abyss bleed
+  - Inter-Frequency Interaction of Dias
+  - Exceptional crossing is not infrastructure
+  - Cross-Frequency Manners
+  - No-Ferry Mark
 themes:
   - cross-frequency
   - rare travel

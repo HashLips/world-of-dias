@@ -21,6 +21,7 @@ Companion Dias rules (this repo):
 | [`canon-safety.md`](canon-safety.md) | Soft limits, conflict framing, what not to solve |
 | [`world-orientation.md`](world-orientation.md) | Hubs, primers, where to start reading before writing |
 | [`stage-readiness.md`](stage-readiness.md) | What is safe to write next on stage |
+| [`plan.md`](plan.md) | Active book-series canon plan (Volumes I–VI phases) |
 | [`../AGENTS.md`](../AGENTS.md) | Thin root index for all agent materials |
 
 ## First-session reading order (short)
@@ -44,12 +45,22 @@ One concept → one Markdown file in the matching category folder:
 - Do not invent a second lore store under `agent/` or elsewhere.
 - Prefer extending and categorizing existing entries over rewriting them.
 
+## Hand-authored lore only
+
+**Do not use Python, shell loops, or code templates to create lore Markdown.** Author each entry with Write/edit tools under Story Architect judgment. Scripts are fine for search, inventory, git, and dashboard rebuild—not for bulk-writing `world/`, `rules/`, `phenomena/`, or other category lore. See [`plan.md`](plan.md) “Hand-authored lore only.”
+
+## Definitional clarity
+
+Canon must support book writing without guessing. Lead with **plain operational definitions** (what it is / does / isn’t). Lived Softfruit texture comes after. Do not use poetry as a substitute for physics. Soft limits and unknowns stay open only when labeled as such—not as beautiful fog. See [`plan.md`](plan.md) “Definitional clarity.”
+
 ## Contribution checklist
 
 - [ ] Story Architect skill read and applied
 - [ ] Category/classification decided from the skill’s guide
 - [ ] Canon check against related entries; conflicts framed (`rumor` / `myth` / etc.), not silently overwritten
 - [ ] Frontmatter + body match the category template
+- [ ] Entry hand-authored (no Python/shell bulk generation of lore files)
+- [ ] Plain definition present (not poetry-as-physics); claim grade clear where relevant
 - [ ] `related:` names match other entries’ `name:` fields exactly (dashboard links by exact name)
 - [ ] Soft limits respected ([`canon-safety.md`](canon-safety.md))
 - [ ] If a place/inhabitant should appear on the Map tab: pin in [`../dashboard/map-registry.yaml`](../dashboard/map-registry.yaml), then `python3 scripts/build_story_dashboard.py`

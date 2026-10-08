@@ -8,6 +8,7 @@ related:
   - The Present Age
   - Prime Relics
   - The Prime Bridge
+  - Prime and Fracture Knowledge of Dias
 themes:
   - origin
   - unity
@@ -20,13 +21,23 @@ status: canonical
 
 ## Overview
 
-The Prime Realm was the single unified reality that existed before the Frequencies.
+**The Prime Realm** was the single unified reality that existed before the Frequencies.
 
 ## Description
 
-In the Prime Realm, the laws of existence were believed to be in complete balance—matter, energy, time, and life functioning as one continuous world rather than as layered vibrational states.
+### Plain definition
 
-No living being remembers the Prime Realm, and no surviving record describes it in full. What is known is inferred from scattered remnants that appear to predate the separation of reality into Frequencies.
+The Prime Realm = one continuous world before frequency layers. Matter, energy, time, and life are remembered in later teaching as balanced unity—not as proven laboratory detail.
+
+### Known vs unknown
+
+| Known / consensus | Unknown |
+| --- | --- |
+| It preceded the Fracture | Full geography or atlas |
+| No living continuous personal memory | Exact daily life |
+| Knowledge is reconstructed from relics/ruins | Complete law-list of Prime physics |
+
+Do not invent a finished Prime atlas. See Prime and Fracture Knowledge of Dias.
 
 ## Lore
 

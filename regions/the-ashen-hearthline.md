@@ -15,6 +15,8 @@ related:
   - Rest-Viability Hospitality
   - Ember Quiet Bowl
   - Kindle Spur Viable Glow
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
 themes:
   - shelter corridors
   - quiet recovery
@@ -51,6 +53,10 @@ Communities cluster around persistent heat nodes and maintain relay chains for t
 ## Stories or Depictions
 
 Hearthline maps are often marked with "rest viability" ratings rather than conventional distance-first legends.
+
+### Nesting
+
+**Dias** → **F840 (frequency realm)** → **The Ashen Hearthline** → workshops and rest nooks. Ember quiet is realm role; the Hearthline is aftermath geography.
 
 ## Notes
 

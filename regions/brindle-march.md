@@ -68,5 +68,9 @@ Travelers repeat a rumor that the resilient charms on certain old spans and toll
 
 **Brindle March stillness** and **Ledger of the still march** name a rare, route-wide hush and the disputed archive of its episodes. **The Long Gate Argument** and **The Census Echoes of the Prime Mark** appear in travel sermon and scholar tavern talk as *big* explanations for why a road can feel like more than wood and stone. In civic halls, **Balance 1** and **The Load-Balance Trial** are often paired as visual-and-legal shorthand for burden-sharing disputes.
 
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Nauw** → **Brindle March** → roads, bridges, toll-wards, and traveling settlements. March stillness and load-sharing disputes are local phenomena and customs on the road stack; they are not other realms drawn as districts between Veloria and Glasswater.
+
 ## Notes
 

@@ -482,15 +482,39 @@ frequencies:
     land: "#3c3752"
     grid: [100, 100]
     landmasses:
+      # Outer Forget-Texture Margin (dashed oval on F500 Map V2).
+      - id: forget-margin
+        label: Forget-Texture Margin
+        fill: "#2a2640"
+        polygon:
+          - [22, 34]
+          - [34, 20]
+          - [52, 16]
+          - [70, 20]
+          - [82, 34]
+          - [86, 52]
+          - [78, 72]
+          - [58, 82]
+          - [38, 80]
+          - [22, 68]
+          - [16, 50]
+          - [22, 34]
+      # Inner irregular void blot — the readable anti-map core.
       - id: void-panel
         label: Void panel
         fill: "#524a6e"
         polygon:
-          - [26, 26]
-          - [74, 24]
-          - [78, 72]
-          - [24, 74]
-          - [26, 26]
+          - [34, 30]
+          - [48, 24]
+          - [62, 26]
+          - [72, 36]
+          - [74, 50]
+          - [68, 64]
+          - [52, 72]
+          - [36, 68]
+          - [28, 54]
+          - [28, 40]
+          - [34, 30]
     regions: []
     markers: []
 
@@ -502,28 +526,33 @@ frequencies:
     land: "#d8c878"
     grid: [100, 100]
     landmasses:
+      # Gold schematic frame from F200 Map V2 (hall left, stair right).
       - id: lumen-field
         label: Lumen field
         polygon:
-          - [20, 20]
-          - [80, 18]
-          - [85, 70]
-          - [18, 72]
-          - [20, 20]
+          - [16, 28]
+          - [84, 28]
+          - [86, 32]
+          - [86, 68]
+          - [84, 72]
+          - [16, 72]
+          - [14, 68]
+          - [14, 32]
+          - [16, 28]
     regions:
       - id: aurel-meridian
         entry: Aurel Meridian
         fill: "#e6d48a"
         polygon:
-          - [35, 30]
-          - [65, 28]
-          - [68, 55]
-          - [32, 56]
-          - [35, 30]
+          - [20, 34]
+          - [48, 34]
+          - [48, 66]
+          - [20, 66]
+          - [20, 34]
     markers:
       - entry: Lumen Stair
-        x: 50
-        y: 40
+        x: 68
+        y: 52
         kind: landmark
 
   f840:
@@ -534,28 +563,56 @@ frequencies:
     land: "#6a4030"
     grid: [100, 100]
     landmasses:
+      # Mountain / ridge mass from F840 Map V2 (hearthline Y over crags).
       - id: ember-shelf
         label: Ember shelf
         polygon:
-          - [25, 30]
-          - [75, 28]
-          - [78, 68]
-          - [22, 70]
-          - [25, 30]
+          - [18, 26]
+          - [36, 16]
+          - [54, 14]
+          - [72, 20]
+          - [86, 32]
+          - [90, 48]
+          - [86, 64]
+          - [74, 78]
+          - [54, 86]
+          - [34, 80]
+          - [20, 66]
+          - [14, 46]
+          - [18, 26]
+      # Kindle Spur crater shelf (lower-right rest nook on V2).
+      - id: kindle-spur
+        label: Kindle Spur
+        fill: "#5a3428"
+        polygon:
+          - [68, 62]
+          - [82, 58]
+          - [88, 68]
+          - [82, 78]
+          - [68, 76]
+          - [64, 68]
+          - [68, 62]
     regions:
+      # Y-shaped Ashen Hearthline corridor through the ridge.
       - id: ashen-hearthline
         entry: The Ashen Hearthline
         fill: "#7a4a38"
         polygon:
-          - [30, 38]
-          - [70, 36]
-          - [72, 60]
-          - [28, 62]
-          - [30, 38]
+          - [52, 16]
+          - [62, 22]
+          - [58, 36]
+          - [74, 48]
+          - [68, 56]
+          - [54, 46]
+          - [42, 56]
+          - [32, 50]
+          - [44, 38]
+          - [48, 24]
+          - [52, 16]
     markers:
       - entry: Emberfile Workshops
-        x: 50
-        y: 48
+        x: 72
+        y: 82
         kind: place
 
   f120:
@@ -566,24 +623,37 @@ frequencies:
     land: "#3a5058"
     grid: [100, 100]
     landmasses:
+      # Floating plateau silhouette from F120 Map V2 (cloud-sea island).
       - id: echo-loop
         label: Echo loop
         polygon:
-          - [28, 28]
-          - [72, 28]
-          - [72, 72]
-          - [28, 72]
-          - [28, 28]
+          - [14, 42]
+          - [18, 26]
+          - [34, 14]
+          - [52, 10]
+          - [70, 14]
+          - [84, 28]
+          - [90, 46]
+          - [84, 66]
+          - [68, 82]
+          - [46, 86]
+          - [26, 78]
+          - [14, 60]
+          - [14, 42]
     regions:
+      # Nested lane arcs / Returning Span basin on the plateau.
       - id: returning-span
         entry: The Returning Span
         fill: "#4a6870"
         polygon:
-          - [36, 40]
-          - [64, 40]
-          - [64, 60]
-          - [36, 60]
-          - [36, 40]
+          - [32, 28]
+          - [68, 26]
+          - [76, 42]
+          - [68, 60]
+          - [48, 68]
+          - [30, 58]
+          - [28, 40]
+          - [32, 28]
     markers: []
 
   f380:
@@ -594,24 +664,44 @@ frequencies:
     land: "#5a4060"
     grid: [100, 100]
     landmasses:
+      # Five-current fan converging to the estuary (F380 Map V2).
       - id: climate-plate
         label: Climate plate
         polygon:
-          - [26, 24]
-          - [74, 24]
-          - [78, 72]
-          - [22, 72]
-          - [26, 24]
+          - [6, 26]
+          - [22, 16]
+          - [40, 12]
+          - [50, 10]
+          - [62, 12]
+          - [80, 18]
+          - [94, 28]
+          - [88, 48]
+          - [72, 70]
+          - [50, 90]
+          - [28, 70]
+          - [12, 48]
+          - [6, 26]
+      # Warm Current Holding Cove (lower-left side pool on V2).
+      - id: holding-cove
+        label: Warm Current Holding Cove
+        fill: "#6a3848"
+        polygon:
+          - [16, 66]
+          - [28, 64]
+          - [32, 74]
+          - [24, 82]
+          - [14, 76]
+          - [16, 66]
     regions:
       - id: bloomline
         entry: The Bloomline Estuary
         fill: "#6a5080"
         polygon:
-          - [34, 38]
-          - [66, 36]
-          - [68, 62]
-          - [32, 64]
-          - [34, 38]
+          - [36, 68]
+          - [64, 68]
+          - [58, 88]
+          - [42, 88]
+          - [36, 68]
     markers: []
 
   f610:
@@ -622,24 +712,36 @@ frequencies:
     land: "#486070"
     grid: [100, 100]
     landmasses:
+      # Stepped Glassfold ledge footprint (tiers drop toward lower-left).
       - id: reveal-band
         label: Reveal band
         polygon:
-          - [26, 28]
-          - [74, 28]
-          - [74, 72]
-          - [26, 72]
-          - [26, 28]
+          - [12, 34]
+          - [28, 18]
+          - [50, 12]
+          - [72, 16]
+          - [86, 28]
+          - [88, 44]
+          - [80, 58]
+          - [68, 72]
+          - [48, 84]
+          - [26, 78]
+          - [14, 60]
+          - [10, 44]
+          - [12, 34]
     regions:
+      # Surveyable ledge platform (Blind Basins sit on the lower shelf).
       - id: glassfold
         entry: The Glassfold Ledge
         fill: "#5a7888"
         polygon:
-          - [34, 36]
-          - [66, 36]
-          - [66, 64]
-          - [34, 64]
-          - [34, 36]
+          - [28, 40]
+          - [64, 30]
+          - [74, 46]
+          - [62, 68]
+          - [36, 70]
+          - [24, 54]
+          - [28, 40]
     markers: []
 
   f960:
@@ -650,22 +752,45 @@ frequencies:
     land: "#405048"
     grid: [100, 100]
     landmasses:
+      # Overall survey field from F960 Map V2 (scaffold, basin, delta, flats).
       - id: unfinished-field
         label: Unfinished field
         polygon:
-          - [28, 30]
-          - [72, 28]
-          - [74, 70]
-          - [26, 72]
-          - [28, 30]
+          - [8, 34]
+          - [22, 14]
+          - [46, 8]
+          - [70, 10]
+          - [88, 22]
+          - [94, 42]
+          - [90, 62]
+          - [76, 80]
+          - [52, 92]
+          - [28, 86]
+          - [12, 70]
+          - [6, 50]
+          - [8, 34]
+      # Ghost Quarter foundation lobe on the south rim.
+      - id: ghost-quarter
+        label: Ghost Quarter
+        fill: "#364840"
+        polygon:
+          - [34, 70]
+          - [66, 70]
+          - [74, 86]
+          - [50, 96]
+          - [26, 86]
+          - [34, 70]
     regions:
+      # Central excavated basin — The Unfinished.
       - id: unfinished
         entry: The Unfinished
         fill: "#506860"
         polygon:
-          - [36, 38]
-          - [64, 38]
-          - [64, 62]
-          - [36, 62]
-          - [36, 38]
+          - [34, 30]
+          - [56, 28]
+          - [64, 42]
+          - [58, 60]
+          - [40, 64]
+          - [28, 48]
+          - [34, 30]
     markers: []

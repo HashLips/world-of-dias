@@ -87,6 +87,8 @@ related:
   - Sella Orrow
   - Vitrin
   - Fork-Nests in Living Wood
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
 themes:
   - natural purity
   - serenity
@@ -169,6 +171,10 @@ Wabet is the **country of chosen calm**—wonderful to be in if you can match it
 ## Stories or Depictions
 
 *Map of Wabet* is treated as a canonical close-up representation of Wabet's established regional layout. Cosmology-flavored **The West That Chose Calm** offers a mythic *why* for the region’s persistent serenity without replacing ecological description.
+
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Wabet** → canopy, sands, isles, and roads (including approaches to **Quiet Well**). Wabet’s silence laws and reciprocity customs live on the place rung under F432; they are not a separate band.
 
 ## Notes
 

@@ -8,6 +8,13 @@ related:
   - Frequency as fundamental law
   - Climates of Dias
   - Stage Readiness of Dias
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Frequency realm is not a country
+  - Structure of Dias
+  - Established Frequency Realms of Dias
+  - Frequency Difference Primer of Dias
+  - Band Confusion Corrections
 themes:
   - frequency
   - orientation
@@ -50,5 +57,7 @@ Bands are climates of meaning. Travel between them is omenized, costly, or comic
 - Cross-frequency passages: exceptional; see Transport / Cross-Frequency Travel cultures.
 
 ## Notes
+
+For fundamental differences (matter / mood / meaning-physics / life), see Frequency Difference Primer of Dias and each realm’s **Unlike the others** section. Roster honesty: Established Frequency Realms of Dias.
 
 Forbidden here: Calibration/Harmonic/Lumen plot dump. Point to saga path docs only when a journey needs them.

@@ -16,6 +16,8 @@ related:
   - Meridian Soft Gathering Manners
   - Meridian Quiet Rib
   - Soft-Ray Breath Pulse
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
 themes:
   - corridor
   - habitation
@@ -50,6 +52,10 @@ Scholars from calmer frequencies sometimes call Aurel Meridian a **safety of sha
 ## Stories or Depictions
 
 Cartographers sometimes nickname the meridian **“the long peace”** because its chart outline—a rectangle inside a rectangle—resembles a **frame inside a frame**, as if the realm chose to make room for life by **drawing a hall of light** down its own length.
+
+### Nesting
+
+**Dias** → **F200 (frequency realm)** → **Aurel Meridian**. Luminosity-band geography/spine—not a province drawn next to Veloria on an F432 road map.
 
 ## Notes
 

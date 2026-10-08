@@ -8,6 +8,9 @@ related:
   - The Returning Span
   - Refrain Walkers
   - Time Splits
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Local phenomenon scope rule
 themes:
   - timing offset
   - recurrence variance
@@ -32,6 +35,10 @@ Most frequently logged on multi-pass corridors in The Returning Span after sever
 ## Cultural Interpretations
 
 Refrain Walkers treat quartermark drift as a caution against procedural arrogance. The saying "count the fourth mark twice" appears in training notes and traveler etiquette.
+
+### Nesting
+
+**Dias** → **F120 (frequency realm)** → **The Returning Span** (and related routes) → **Quartermark Drift** as timing phenomenon. Recurrence is realm character; the drift is the event pattern.
 
 ## Notes
 

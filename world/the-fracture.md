@@ -8,6 +8,9 @@ related:
   - The Present Age
   - Prime Relics
   - The Prime Bridge
+  - Prime and Fracture Knowledge of Dias
+  - Known Unknowns of Dias
+  - Known Eras and Markers
 themes:
   - shattering
   - resonance
@@ -20,11 +23,23 @@ status: canonical
 
 ## Overview
 
-The Fracture is the ancient event in which the Prime Realm shattered into the Frequencies.
+**The Fracture** is the ancient event in which the Prime Realm separated into the Frequencies.
+
+**Claim grade:** law/historical fact for the **separation**; unknown/disputed for the **cause**.
 
 ## Description
 
-During the Fracture, reality did not end—it separated into vibrational states of itself. Each resulting Frequency represents a different resonance of the original Prime Realm, and the laws of reality are not identical across all Frequencies as a result.
+### Plain definition
+
+The Fracture is when unified Prime reality became layered frequency reality. Reality did not end—it separated into vibrational states. Laws of behavior are not identical across all frequencies as a result.
+
+### Known vs unknown
+
+| Known | Unknown |
+| --- | --- |
+| Separation into frequencies happened | Exact cause |
+| Present Age follows | Exact dating |
+| Frequencies differ in behavior | Complete catalog of every frequency |
 
 Because each fragment vibrates differently, different Frequencies may exhibit:
 

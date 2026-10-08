@@ -7,6 +7,9 @@ related:
   - The Fracture
   - Prime Relics
   - The Prime Bridge
+  - Prime and Fracture Knowledge of Dias
+  - Known Eras and Markers
+  - Time Causality and Change of Dias
 themes:
   - lost history
   - ruins
@@ -19,13 +22,23 @@ status: canonical
 
 ## Overview
 
-The Prime Age is the name given to the time before the Fracture, when the Prime Realm was whole.
+**The Prime Age** is the modern name for the time before the Fracture, when the Prime Realm was whole.
 
 ## Description
 
-Very little is known of this era. No complete records survive, and what knowledge exists comes from aligned ruins, repeating symbols, and objects that behave inconsistently with modern reality.
+### Plain definition
 
-Remnants attributed to this era are commonly called **Prime Relics**.
+Prime Age = chronological label for pre-Fracture time. It is a Present-Age word for a poorly recorded era—not a surviving calendar people still run.
+
+### Known vs unknown
+
+| Known / consensus | Unknown |
+| --- | --- |
+| It ends at the Fracture | Duration in years |
+| Prime Relics are attributed to it | Complete chronicles |
+| Some ruins align across bands when compared | Full map of Prime cities |
+
+Very little is known. What exists comes from aligned ruins, repeating symbols, and objects that behave inconsistently with modern reality.
 
 ## Lore
 

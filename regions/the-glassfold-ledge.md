@@ -19,6 +19,8 @@ related:
   - Reveal Window Chime
   - Ledge Minute Timing Guild Manners
   - Shelf-Minute Clarity
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
 themes:
   - reveal intervals
   - reflective terrain
@@ -52,6 +54,10 @@ Navigation guilds time movement to "ledge minutes." Poor timing means traversing
 ## Stories or Depictions
 
 Cartographers often print dual overlays: base-terrain and reveal-phase in separate line weights.
+
+### Nesting
+
+**Dias** → **F610 (frequency realm)** → **The Glassfold Ledge** → shelves and basins. Reveal windows are timed phenomena; the ledge is the place that hosts survey.
 
 ## Notes
 

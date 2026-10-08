@@ -13,6 +13,10 @@ related:
   - Unsettled Listening Devices
   - F432 Taboo and Soft Words
   - Core harmonic classification rule
+  - Resonance Can and Cannot of Dias
+  - Soft Limits of Dias
+  - Complete-Reading Stall Collapse
+  - Resonance does not grant wishes
 themes:
   - restricted technology
   - taboo

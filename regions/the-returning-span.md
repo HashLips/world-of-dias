@@ -17,6 +17,8 @@ related:
   - Outer Lane Discipline Customs
   - Pass-Count Pegboard
   - Lane Offset Hush
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
 themes:
   - recurrence geography
   - route drift
@@ -50,6 +52,10 @@ Local charting uses "pass count" notation: first pass, second pass, and "differe
 ## Stories or Depictions
 
 Depictions often include paired bridge forms and twin towers with non-matching windows to signal "same shape, changed outcome."
+
+### Nesting
+
+**Dias** → **F120 (frequency realm)** → **The Returning Span** → lane rests and waysides. Near-return is realm character; Quartermark Drift and similar patterns are local phenomena hosted along the Span.
 
 ## Notes
 

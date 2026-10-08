@@ -19,6 +19,8 @@ related:
   - Persistence Naming Custom
   - Draft Pass Ledger
   - Foundation Ghost Persistence
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
 themes:
   - mapworthy incompletion
   - adaptive terrain
@@ -76,6 +78,10 @@ Communities here optimize for adaptation. Architecture is modular, tools are mul
 The region is often depicted as a map "caught mid-edit." **The Half-Made Atlas** is the primary disputed artifact linked to this region's mutable cartography.
 
 The **F960 Map V2** artwork is the primary current visualization of the region's sector layout (Scaffold Arc, Margin Flats, Revision Delta, Ghost Quarter, Erasure Verge) and pass-based scale language; prior *F960 Map* remains in lineage.
+
+### Nesting
+
+**Dias** → **F960 (frequency realm)** → **The Unfinished** → foundation courts and revision edges. Becoming is realm law-feel; edge drift is a phenomenon at the margins.
 
 ## Notes
 

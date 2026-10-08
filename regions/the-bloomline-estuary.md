@@ -15,6 +15,8 @@ related:
   - Holding Cove Tone-Share Custom
   - Hearttide Holding Cloth
   - Warm Current Convergence Ease
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
 themes:
   - emotional confluence
   - gradient terrain
@@ -50,6 +52,10 @@ Skilled guides track not only direction and depth but affective pressure. Settle
 ## Stories or Depictions
 
 Maps often annotate the same path with two recommended timings: "clear-day" and "heavy-day" transit.
+
+### Nesting
+
+**Dias** → **F380 (frequency realm)** → **The Bloomline Estuary** → holding coves and current-edges. Hearttide coupling is realm-scale; the estuary is where that coupling becomes walkable geography.
 
 ## Notes
 

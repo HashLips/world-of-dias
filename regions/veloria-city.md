@@ -49,6 +49,10 @@ related:
   - Glow More than Facade
   - Outer-Ring House Cutaway
   - Shade Cloth over Outer Market
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - F432 (frequency realm)
+  - Velorian Basin
 themes:
   - capital
   - concentric city
@@ -111,6 +115,10 @@ The contrast between the craft-era rim and the realm-powering core is central to
 ## Stories or Depictions
 
 *Poster of Veloria City* is treated as a canonical city-arrival depiction showing inhabitants entering Veloria by cart.
+
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Nauw** → **Velorian Basin** → **Veloria City** → rings, Softfruit halls, Calibration Row, and gates. The city can host bleed weather and measurement seams; those events do not promote Veloria into another frequency.
 
 ## Notes
 

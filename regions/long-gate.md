@@ -23,6 +23,9 @@ related:
   - Gate Wind Manners
   - Long Gate Niche Watcher
   - Seat, Rail, and a Water Skin
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - F432 (frequency realm)
 themes:
   - border
   - exile infrastructure
@@ -58,6 +61,10 @@ Open question: whose “yes” finally made the span walkable—and who still pr
 - [`stories/the-long-gate-south.md`](../stories/the-long-gate-south.md)
 - [`myths/the-long-gate-argument.md`](../myths/the-long-gate-argument.md)
 - Transport hub: [`world/transport-of-dias.md`](../world/transport-of-dias.md)
+
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Nauw** → **Long Gate**. A threshold landmark inside the home band. Travelers who name other frequencies as road destinations are corrected toward places, not ferries.
 
 ## Notes
 

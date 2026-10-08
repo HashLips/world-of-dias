@@ -52,7 +52,19 @@ related:
   - Frequency Zero
   - Cosmology of Dias
   - Resonance behavior soft limits
+  - Resonance and Echo of Dias
+  - Echo Vocabulary of Dias
+  - What an echo is
+  - Why everything leaves an echo
   - Structure of Dias
+  - Nesting and Scale of Dias
+  - Place-Type Vocabulary of Dias
+  - Dias nesting hierarchy
+  - Local phenomenon scope rule
+  - Frequency realm is not a country
+  - Stack Teaching Customs
+  - Established Frequency Realms of Dias
+  - Frequency Difference Primer of Dias
   - Resonant Artifacts
   - Resonant Shards
   - Echoforms
@@ -105,6 +117,8 @@ Alongside weightier tales, F432 in particular also carries **small, happy patter
 **Cosmology orientation:** for law vs theory vs taboo guess, soft limits, and planted unsettled pressures, see [`Cosmology of Dias`](cosmology-of-dias.md).
 
 **Structure orientation:** for realm roles, awareness channels, travel rarity, and structural anomalies, see [`Structure of Dias`](structure-of-dias.md).
+
+**Nesting orientation:** for Dias → frequency realm → region/place → local phenomenon, see [`Nesting and Scale of Dias`](nesting-and-scale-of-dias.md) and [`Dias nesting hierarchy`](../rules/dias-nesting-hierarchy.md).
 
 **Climate orientation:** for baselines, signature anomalies, and named weather, see [`Climates of Dias`](climates-of-dias.md).
 

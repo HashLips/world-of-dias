@@ -14,6 +14,9 @@ related:
   - Structure of Dias
   - History of Dias
   - Known Disputed Forgotten
+  - Time Causality and Change of Dias
+  - Frequency Comparison Ledger Leaf
+  - Prime and Fracture Knowledge of Dias
 themes:
   - chronology
   - soft history

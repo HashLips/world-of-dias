@@ -75,6 +75,8 @@ related:
   - The Vitrin Saga
   - The Peel and Bell
   - Fruit Road and Toll Travel
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
 themes:
   - trade routes
   - diversity of peoples
@@ -156,6 +158,10 @@ Heart triad with Wabet (chosen calm) and Sorel (second beginning): see also [`St
 ## Stories or Depictions
 
 *Map of Nauw* is treated as a canonical close-up representation of Nauw's established geography within F432. Recent expansive lore often clusters around **The Long Gate Argument** (the bridge to Hearthvale as moral infrastructure), **The Glasswater Mirror Lull** (eastern stillness and food-heart ritual), the observed macro-rhythm of **Brindle March stillness**, and, at Dias scale, **The Census Echoes of the Prime Mark** (a folktale linking numbered frequency bands to a mythic **Prime roll-call of resonances**—not of persons as property).
+
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Nauw** → places such as **Veloria City**, Long Gate, Brindle March, and Hollowmere. Nauw is major-region geography inside the home band; omens that bruise its sky remain local phenomena, not other frequencies redrawn as districts.
 
 ## Notes
 

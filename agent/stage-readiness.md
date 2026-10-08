@@ -4,12 +4,15 @@ Companion to [`world/stage-readiness-of-dias.md`](../world/stage-readiness-of-di
 
 ## Plan status
 
-Expansion plan Sections **1–35** marked done in [`agent/plan.md`](plan.md). This is a **stage-building** finish line, not a saga finale.
+Stage-building Sections **1–35** are complete (flesh-and-balance done; soft limits intact).
 
-Flesh-and-balance (post-Calibration leveling) is **complete**: lore categories ≥100 each, dashboard unresolved refs 0, soft limits intact. Plan file removed after close-out.
+**Active plan:** [`plan.md`](plan.md) — Book-series canon readiness (Volumes I–VI). Each book question is a phase. Run one phase at a time with full Story Architect diligence; add as many descriptive entries as needed (bulk stubs forbidden). Hand-authored lore only; definitional clarity required.
+
+**Volume I (Laws):** phases I.1–I.11 marked complete; volume status **ready for book draft** (publication gates still separate).
 
 ## Safe to write next
 
+- Phases from [`plan.md`](plan.md) when the human asks to run a volume/phase.  
 - Local arcs that pull hub webs (Softfruit, loft hail, Watch slate, Quiet Well path, Claimscar breakfast).  
 - Investigations using evidence genres (toll book + song calendar + forged handbill).  
 - Mystery *clues* that thicken without closing Frequency Zero.  

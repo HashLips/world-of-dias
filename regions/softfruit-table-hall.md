@@ -44,6 +44,10 @@ Joke: “If you can’t afford Softfruit, you’re not hungry yet—you’re jus
 
 Architectural proof of [`F432 Shared Table`](../cultures/f432-shared-table.md). Merchants settle small debts here before they harden into Pot Signal favors.
 
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Nauw** → **Veloria City** → **Softfruit Table Hall**. The hall is a local place of shared-table manners inside the capital stack. Table warmth and ladle customs are local resonance practice—not a frequency realm of their own.
+
 ## Notes
 
 Use for scenes of ordinary multi-kind mealtime.

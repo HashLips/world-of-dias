@@ -34,6 +34,8 @@ Frequency as fundamental law
 
 In Dias, **frequency** is a fundamental law of reality: different layers, beings, tools, and places can resonate differently, with consequences for what is possible there.
 
+**Claim grade:** law.
+
 ## Description
 
 Unusual abilities, environments, and technologies are not treated as unexplained magic. They are framed as **resonance behavior**—sometimes well mapped, sometimes barely named.

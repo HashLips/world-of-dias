@@ -14,6 +14,8 @@ related:
   - The Still Pot
   - Roadglow Shard
   - VEL Mark Trade Standard
+  - Resonance Can and Cannot of Dias
+  - Careful Partial Reading Hold
 themes:
   - everyday technology
   - wonder

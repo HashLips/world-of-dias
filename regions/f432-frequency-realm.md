@@ -1,4 +1,5 @@
 ---
+
 category: region
 name: F432 (frequency realm)
 place_type: realm
@@ -100,6 +101,11 @@ related:
   - F432 Civic Time
   - Climates of Dias
   - F432 span and travel distances
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Frequency Difference Primer of Dias
+  - Established Frequency Realms of Dias
+  - Frequency as fundamental law
 themes:
   - stability
   - trade
@@ -158,6 +164,24 @@ Other frequencies are known or suspected to host additional races not yet fully 
 The **Early F432 Survey Map** is treated as a canonical early-era depiction of the realm's broad layout (Wabet west, Nauw north-east, Sorel south-east), while remaining intentionally incomplete for future charting updates.
 
 **F432 Map V2** is the current macro chart for presentation and navigation; *F432 Map V1* is the prior clarity pass. *Map of Nauw*, *Map of Wabet*, and *Map of Sorel* are close-up regional representations derived from established F432 geography.
+
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → regions such as **Nauw**, **Wabet**, and **Sorel** → cities, roads, and landmarks → local phenomena (bleed-sky nights, stillness, residual seams) that visit places without becoming places. F432 is a frequency layer of Dias, not a country and not the whole of Dias. See Nesting and Scale of Dias.
+
+### Unlike the others
+
+F432’s fundamental difference is **material-like stability that still resonates**: cities, fruit, gates, and ledgers can persist long enough to love—and incomplete enough to wonder. It is the **home band**, emotionally between luminosity and null without being either.
+
+| Domain | F432 expectation |
+| --- | --- |
+| Matter / place | Soil, sea, timber, stone, roads, harbors—cartography that mostly behaves |
+| Mood | Mixed civic life: joy, manners, unease, cold conflict as weather among weathers |
+| Physics-of-meaning | Echoes and frequency still rule; soft limits keep wonder from omnipotence |
+| Life | High-contact peoples, animals, markets, Houses, Softfruit |
+| Contrast | Not F200’s pure held light; not F500’s anti-scenery; not F960’s perpetual draft; not F120’s near-return as default road law |
+
+Other bands arrive here as omen, bleed, ledger leaf, and story—rarely as commute.
 
 ## Notes
 

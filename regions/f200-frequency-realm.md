@@ -1,4 +1,5 @@
 ---
+
 category: region
 name: F200 (frequency realm)
 place_type: realm
@@ -31,6 +32,11 @@ related:
   - Soft-Ray Procession Hall
   - Meridian Soft Gathering Manners
   - Filament Cores of Aurel-kind
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Frequency Difference Primer of Dias
+  - Established Frequency Realms of Dias
+  - Frequency as fundamental law
 themes:
   - light
   - serenity
@@ -74,6 +80,24 @@ F432 does not “see” F200 the way it sees a coastline. Knowledge arrives as *
 Travelers’ tales from other frequencies often flatten F200 into a **single geometric icon** (triangle, circle, or line) in marginal diagrams—simplified emblems of **high purity and order**—while actual realm maps return to the **elongated rectangle** as the more faithful large-scale frame.
 
 The **F200 Map V2** artwork is the current **visual reference** for that large-scale frame, **Aurel Meridian** as the bright spine, and **Dias**-level context panels; see `assets/f200-map-v2.jpg` (prior: **F200 Map** / `assets/f200-map.jpg`).
+
+### Nesting
+
+**Dias** → **F200 (frequency realm)** → places such as **Aurel Meridian** → local phenomena such as alignment pressure and coherence aftertone. Lumen glow that leaks into F432 skies remains omen weather there—not a bright province drawn beyond the hills.
+
+### Unlike the others
+
+F200’s fundamental difference is **coherence-as-substance**: luminosity and held radiance, not F432 soil-and-harbor matter. Calm is not politeness; it is environmental pressure toward alignment.
+
+| Domain | F200 expectation |
+| --- | --- |
+| Matter / place | Filament, lens, standing-wave architecture; light-flow “terrain” |
+| Mood | Serenity that can feel absolute—peace with weight |
+| Physics-of-meaning | Coherence gates; pattern preservation; soft-ray processions |
+| Life | Energy-native beings and light-flow ecologies |
+| Contrast | Pole opposite F500’s null; not F432’s markets; not F380’s mood-weather (clarity ≠ emotion climate) |
+
+F432 meets F200 mostly as leaked glow, instrument jokes, and disputed indexes—not as a treaty coast.
 
 ## Notes
 

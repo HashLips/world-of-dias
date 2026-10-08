@@ -16,6 +16,8 @@ related:
   - Secrets of Dias
   - Relationships of Dias
   - Stage Readiness of Dias
+  - Known Unknowns of Dias
+  - Soft Limits of Dias
 themes:
   - mysteries
   - open doors

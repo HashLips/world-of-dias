@@ -10,6 +10,10 @@ related:
   - Partial spectrum publish rule
   - Reliable and Unreliable Records
   - F960 Disputed Line Etiquette
+  - Claim Grade Discipline
+  - Law Theory Observation of Dias
+  - Graded Principles of Dias
+  - House Claim Filing Customs
 themes:
   - epistemic discipline
   - uncertainty handling

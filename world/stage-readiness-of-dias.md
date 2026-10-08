@@ -58,4 +58,4 @@ Every chapter should still carry some mix of joy / wonder / unease / conflict—
 
 ## Notes
 
-Relationship web: [`Relationships of Dias`](relationships-of-dias.md). Plan log: [`agent/plan.md`](../agent/plan.md).
+Relationship web: [`Relationships of Dias`](relationships-of-dias.md). Active agent plan (book-series canon phases): [`agent/plan.md`](../agent/plan.md).

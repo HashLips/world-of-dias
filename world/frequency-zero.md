@@ -15,6 +15,9 @@ related:
   - Black Hole
   - Unseen
   - Mysteries of Dias
+  - Known Unknowns of Dias
+  - Soft Limits of Dias
+  - Resonance Can and Cannot of Dias
 themes:
   - open mystery
   - absence

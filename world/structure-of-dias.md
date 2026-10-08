@@ -32,6 +32,14 @@ related:
   - The Half-Made Atlas
   - Frequency Zero
   - Landmarks of Dias
+  - Nesting and Scale of Dias
+  - Place-Type Vocabulary of Dias
+  - Dias nesting hierarchy
+  - Local phenomenon scope rule
+  - Frequency realm is not a country
+  - Stack Teaching Customs
+  - Established Frequency Realms of Dias
+  - Frequency Difference Primer of Dias
 themes:
   - world structure
   - frequency roles
@@ -132,4 +140,4 @@ Anomalies should appear in stories as **texture and pressure**, not as a new cos
 
 ## Notes
 
-Read with [`dias.md`](dias.md) and [`cosmology-of-dias.md`](cosmology-of-dias.md). Realm detail stays in `regions/*-frequency-realm.md`. Atlas pins belong to lived F432 geography (`dashboard/map-registry.yaml`), not to abstract band polarity.
+Read with [`dias.md`](dias.md) and [`cosmology-of-dias.md`](cosmology-of-dias.md). For teachable scale rungs, see [`Nesting and Scale of Dias`](nesting-and-scale-of-dias.md); follow each place’s `parent_region` and nesting note for examples. Realm detail stays in `regions/*-frequency-realm.md`. Atlas pins belong to lived F432 geography (`dashboard/map-registry.yaml`), not to abstract band polarity.

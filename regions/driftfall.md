@@ -29,6 +29,9 @@ related:
   - Settlements of Dias
   - Claimscar Cookfire Circle
   - No-Captain Hour Pier
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - F432 (frequency realm)
 themes:
   - improvised settlements
   - personal autonomy
@@ -95,6 +98,10 @@ The guiding law of Driftfall is: "Freedom belongs to those who claim it."
 Inland of the hang-about beaches, **Mountain of Majestic Good Trade** marks Driftfall's quieter height—known for old fair-deal custom and for **Delci Beta**'s daily still hours on its sitting rock.
 
 **Frederick Lumens** and **The Lumen Saga** use Driftfall’s decks and shore pubs (including talk around **The Salt Ledger**) as the starting ground for a second long journey—orphan deck labor, a gifted True Blue, and theft that sends a dreamer onto a harder road.
+
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Sorel** → **Driftfall**. Harbor geography under Sorel. Beautiful wrong maps may paint null as an island beyond the piers; Driftfall itself stays a place in F432.
 
 ## Notes
 

@@ -16,6 +16,10 @@ related:
   - The Unraveled
   - Bleed-Sky Weather
   - Climates of Dias
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - F432 (frequency realm)
+  - Local phenomenon scope rule
 themes:
   - leaked resonance
   - imperfect awareness
@@ -54,6 +58,10 @@ More often reported in **open horizon contexts** (sea, long plains, high observa
 - **Folk / maritime reading:** a warning that **light and void still argue**, and the sea route you trust is only **one frequency thick**.
 - **Scholarly reading:** a **threshold artifact** of incomplete models—F432 is **not closed**, only **stably forgetful** of what sits beside it.
 - **Skeptical reading:** mass suggestion plus instrument calibration drift, salted by the **Partial Harmonic Index** rumor cycle.
+
+### Nesting
+
+Hosted as a **local phenomenon** inside **F432 (frequency realm)** inside **Dias**. It visits horizons and instruments; it is not a district, harbor, or frequency realm of its own.
 
 ## Notes
 

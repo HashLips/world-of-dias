@@ -52,6 +52,8 @@ related:
   - Architecture of Dias
   - Sorel Salvage Architecture
   - Hull Ribs and Claim Smoke
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
 themes:
   - exile
   - frontier survival
@@ -129,6 +131,10 @@ Sorel is the **country of the second beginning**—wonderful if you need remakin
 *Map of Sorel* is treated as a canonical close-up representation of Sorel, with clear emphasis on the Hearthvale-Driftfall split. Broad-scale storytelling often invokes **The Long Gate Argument** (the mythic history of the great Nauw crossing into Hearthvale) and **The Drift Hour with No Captain** (Driftfall’s void-hour founding tale).
 
 *3 Opinions* and the traveling trio **The Three Opinions** are recurring social depictions: unaligned gossip-bearers who unsettle towns without openly joining Hearthvale or Driftfall camps.
+
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Sorel** → Hearthvale, Driftfall, Flagweek country, and mountain yards. Sorel shares one home frequency with Nauw and Wabet; harbor cold and wrong maps do not make null into an island off its coast.
 
 ## Notes
 

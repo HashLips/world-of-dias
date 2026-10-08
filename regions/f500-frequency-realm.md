@@ -1,4 +1,5 @@
 ---
+
 category: region
 name: F500 (frequency realm)
 place_type: realm
@@ -31,6 +32,11 @@ related:
   - Forget-Texture Margin
   - Null-Distance Courtesy
   - Null-Proximity Warning Tag
+  - Nesting and Scale of Dias
+  - Dias nesting hierarchy
+  - Frequency Difference Primer of Dias
+  - Established Frequency Realms of Dias
+  - Frequency as fundamental law
 themes:
   - abyss
   - nothingness
@@ -78,6 +84,24 @@ F432’s hold on F500 is **almost entirely indirect**: **tavern myths**, **seale
 Frontier tavern lore claims that staring too long at an **empty corner** can “**tune**” a person toward F500, as if attention were a dial—another folk explanation for bad dreams and sudden cold rooms.
 
 The **F500 Map V2** artwork is the current **visual reference** for void-field presentation, **F200** contrast, and **Unraveled** marginalia as **rumor**; see `assets/f500-map-v2.jpg` (prior: **F500 Map** / `assets/f500-map.jpg`). It is framed as **warning cartography**, not a guarantee of safe routes.
+
+### Nesting
+
+**Dias** → **F500 (frequency realm)** → null concentrations and falsely stable pockets → approach phenomena such as continuity thinning and landmark starvation. Bleed that visits F432 skies remains a local phenomenon there—not a redraw of F500 as a Driftfall district.
+
+### Unlike the others
+
+F500’s fundamental difference is **null / inverse resonance**: absence that still weighs. It is anti-scenery—the mind reaches for a landmark and finds forgetting with teeth.
+
+| Domain | F500 expectation |
+| --- | --- |
+| Matter / place | Indefinite field; pockets that dissolve; warning cartography over friendly maps |
+| Mood | Dread, hush, careful naming; not cozy gothic night |
+| Physics-of-meaning | Negation proximity; stolen highlights; distance unmoored |
+| Life | Rumor more than taxonomy (Unraveled talk stays contested) |
+| Contrast | Pole opposite F200; not ordinary F432 darkness; not F840’s recovery quiet (hush ≠ rebuild warmth) |
+
+F432 treats F500 as a name to handle carefully—present in mood and sealed gossip, absent from treaty tables.
 
 ## Notes
 

@@ -9,7 +9,7 @@ related:
   - Driftfall
   - Garen Scar
   - Sprout Vent
-  - Claimscar Vent-Claim Rule
+  - Claimscar vent-claim rule
   - Hungry Dogs
   - Vexra Coil
   - Freebands of Sorel
@@ -56,7 +56,11 @@ This is not Good Trade mountain hospitality and not Delci’s dream path. It is 
 
 ## Lore
 
-Claimscar Vent-Claim Rule governs how long a mark holds and what happens when two crews paint the same sprout night. Breakfast can be shared; claims cannot.
+Claimscar vent-claim rule governs how long a mark holds and what happens when two crews paint the same sprout night. Breakfast can be shared; claims cannot.
+
+### Nesting
+
+**Dias** → **F432 (frequency realm)** → **Sorel** → **Driftfall** → **Claimscar Yard** → cookfire circles and vent claims. Yard politics and sprout-night weather are local; they do not redraw Driftfall as another frequency.
 
 ## Stories or Depictions
 
