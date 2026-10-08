@@ -89,6 +89,14 @@ related:
   - Fork-Nests in Living Wood
   - Nesting and Scale of Dias
   - Dias nesting hierarchy
+  - F432 Major Regions of Dias
+  - Regional Distinction Teaching
+  - Landforms of F432
+  - Fellgrove
+  - F432 Journey Routes of Dias
+  - Place Safety Classes of Dias
+  - Place Webs of Dias
+  - Seasons and Regional Weather of Dias
 themes:
   - natural purity
   - serenity
@@ -161,6 +169,17 @@ Recognized subregions include Aelwyn Canopy across the north (with limited exten
 Inside Aelwyn’s footprint, **Ashcalm Rise** is a little-visited grey mountain holding **Stillhollow**, where rumor places the exile **Vorrith Kael**. Most of Wabet never confirms the story; the region’s calm continues around the mountain as if the hollow were only another shade.
 
 Wabet is the **country of chosen calm**—wonderful to be in if you can match its volume; dangerous if you bring conquest energy and call it exploration.
+
+Comparison sheet: [`F432 Major Regions of Dias`](../world/f432-major-regions-of-dias.md).
+
+### Unlike Nauw and Sorel
+
+| Domain | Wabet (this region) |
+| --- | --- |
+| Job | Chosen calm—wilderness, fruit source, silence manners |
+| Terrain | Canopy, sands, clean coasts, sparse settle |
+| Architecture | Low listening timber |
+| Do not confuse with | Nauw’s crowded rings or Sorel’s salvage remaking |
 
 ### Leadership Structure
 

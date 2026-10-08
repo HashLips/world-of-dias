@@ -22,7 +22,7 @@ related:
   - The Passage Round
   - Claimscar Yard
   - Garen Scar
-  - Claimscar Vent-Claim Rule
+  - Claimscar vent-claim rule
   - Frederick Lumens
   - The Lumen Saga
   - Roadglow Shard
@@ -32,6 +32,10 @@ related:
   - Nesting and Scale of Dias
   - Dias nesting hierarchy
   - F432 (frequency realm)
+  - Driftfall Salvage Shore
+  - Landforms of F432
+  - Place Safety Classes of Dias
+  - Place Webs of Dias
 themes:
   - improvised settlements
   - personal autonomy

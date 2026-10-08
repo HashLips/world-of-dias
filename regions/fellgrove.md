@@ -2,29 +2,24 @@
 category: region
 name: Fellgrove
 place_type: landmark
-parent_region: Verdant Reach
+parent_region: That Forest
 region: Wabet
 culture:
 related:
-  - Verdant Reach
+  - That Forest
+  - Aelwyn Canopy
   - Wabet
-  - Jorin Fell
-  - Frederick Lumens
-  - Bram Orlen
-  - Apple Touch
-  - The Lumen Saga
-  - Fellgrove Will
-  - The Brightest Market
-  - Slow Apples
-  - The Fellgrove Hand
-  - Letter to Myself at the Crossing
-  - Rows on the Fellgrove Rise
+  - Landforms of F432
+  - Blue Litter Underwood
+  - Wabet Softfall
+  - Fellgrove Bark-Wolves
+  - Forest Listeners
+  - Climates of Dias
 themes:
-  - apple orchard
-  - inherited land
-  - market rivalry
-  - gift-fed abundance
-  - harvest covenant
+  - forest
+  - Wabet
+  - landform
+  - listening
 status: canonical
 ---
 
@@ -36,26 +31,24 @@ Fellgrove
 
 ## Overview
 
-Fellgrove is an apple orchard in **Verdant Reach** once held by **Jorin Fell**, then willed to **Frederick Lumens**, then **gifted to Bram Orlen** under a harvest covenant: Frederick still gives **Apple Touch** once before each harvest until he leaves F432, and shares apple profits to fund frequency-travel research.
+A named deep-stand inside That Forest—bark-wolf country and Listener paths—where Softfall sounds like a soft roof and silence is manners, not emptiness.
 
 ## Description
 
-Rows of apple wood on a gentle rise, with a low house, a tool shed, and a lane that meets Bram’s older ground. Before Frederick, Fellgrove was respectable and aging. Under Apple Touch it won markets with out-of-season brightness. After the Fellgrove Hand, the two apple grounds effectively share Frederick’s gift on covenant terms while legal ownership of Fellgrove sits with Bram.
+Older trunks, blue-litter hush underfoot, paths that prefer not to be shouted on. Keepers and Forest Listeners treat Fellgrove as a place you ask before you cut. Dusk can feel like the wood is finishing your sentence; that is weather-plus-manners, not a ferry into another frequency.
 
 ## Lore
 
-Open Hand talk still splits on whether Apple Touch skips season law. The later gift of the farm to the rival who once refused Frederick is told as either foolish mercy or the start of a crossing funded by fruit.
+Indexed under Landforms of F432. Complements Aelwyn Canopy (fruit-soft canopy) and Lumira Sands (hot silence)—three Wabet bodies, not one green blob. Dashboard atlas pin: Fellgrove.
 
-### Leadership Structure
+### Nesting
 
-| Governance Style | Influence Tier | Governing Group | Leadership Seat |
-|---|---:|---|---|
-| Private orchard | — | Owner | Bram Orlen (after The Fellgrove Hand) |
+**Dias** → **F432** → **Wabet** → **Verdant Reach** → **That Forest** → **Fellgrove**.
 
 ## Stories or Depictions
 
-Central orchard stage in The Lumen Saga’s apple chapters and the later handoff.
+Bark-wolf howls in road talk are usually “stay on the path,” not monster catalogs. Softfall beauty still applies; beauty does not cancel teeth.
 
 ## Notes
 
-Keep the harvest covenant active in tellings until Frederick’s disappearance after Stillhollow (*No More Apples*); thereafter Bram plants without Apple Touch.
+Sacred/restricted feeling for casual timber crews; Keepers say who may linger.

@@ -54,6 +54,14 @@ related:
   - Hull Ribs and Claim Smoke
   - Nesting and Scale of Dias
   - Dias nesting hierarchy
+  - F432 Major Regions of Dias
+  - Regional Distinction Teaching
+  - Landforms of F432
+  - Driftfall Salvage Shore
+  - F432 Journey Routes of Dias
+  - Place Safety Classes of Dias
+  - Place Webs of Dias
+  - Seasons and Regional Weather of Dias
 themes:
   - exile
   - frontier survival
@@ -119,6 +127,17 @@ Sorel forms the southern counterpart to Nauw and the south-eastern counterpart t
 Within Sorel, two major territories divide the land: Hearthvale lies on the west, and Driftfall on the east, with a rough north–south partition through the middle of the region so the two territories face each other across Sorel's interior. A long bridge spans from southern Nauw into northern Sorel (Hearthvale), tying that northern gate to Nauw without requiring travelers to cross Driftfall first.
 
 Sorel is the **country of the second beginning**—wonderful if you need remaking; hard if you expect the west’s quiet or the north’s fruit-rank comfort to follow you unchanged.
+
+Comparison sheet: [`F432 Major Regions of Dias`](../world/f432-major-regions-of-dias.md).
+
+### Unlike Nauw and Wabet
+
+| Domain | Sorel (this region) |
+| --- | --- |
+| Job | Second beginning—exile roads, salvage, Freebands |
+| Terrain | Hearthvale/Driftfall split, dust, salvage shore, vents |
+| Architecture | Salvage and smoke |
+| Do not confuse with | “Dirty Nauw” or empty parkland Wabet |
 
 ### Leadership Structure
 

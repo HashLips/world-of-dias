@@ -14,6 +14,12 @@ related:
   - Vorrith Kael
   - The One Who Cooks Quiet
   - Oryn Pell
+  - Aelwyn Drip Rivers
+  - Landforms of F432
+  - Place Webs of Dias
+  - Seasons and Regional Weather of Dias
+  - Wabet Softfall
+  - Eastbound Fruit Road
 themes:
   - jungle forests
   - elevated living

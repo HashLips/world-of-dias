@@ -30,6 +30,9 @@ related:
   - Brindle Thank-You Lean
   - Load-Share Clover
   - Three Thank-Yous Road Ease
+  - Brindle Cord Rivers
+  - Landforms of F432
+  - F432 Journey Routes of Dias
 themes:
   - overland travel
   - road networks
@@ -42,7 +45,7 @@ status: canonical
 
 ## Overview
 
-Brindle March is Nauw's central belt of roads and bridges, running between the Velorian Basin (north-west, around Veloria City) and the Glasswater Fields to the east. It also links Nauw to neighboring realms.
+Brindle March is Nauw's central belt of roads and bridges, running between the Velorian Basin (north-west, around Veloria City) and the Glasswater Fields to the east. It also links Nauw to neighboring F432 regions. The **Brindle Cord Rivers** braid freight water beside the road spine.
 
 ## Description
 

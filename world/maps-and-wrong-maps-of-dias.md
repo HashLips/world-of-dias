@@ -10,6 +10,10 @@ related:
   - The Half-Made Atlas
   - The Map That Must Stay Wrong
   - Bowl That Hides a Goldfish
+  - Objective and Unreliable Maps of Dias
+  - Atlas Map Levels of Dias
+  - Veloria Ring Walk Sketch
+  - F432 Map V2
 themes:
   - maps
   - mercy wrongness
@@ -27,6 +31,8 @@ status: canonical
 ## Core Premise
 
 Some maps must stay wrong to keep people safe. Kind wrongness still owes later honesty when peacetime follows.
+
+**Objective geography vs unreliable ink** is taught in [`Objective and Unreliable Maps of Dias`](objective-and-unreliable-maps-of-dias.md): coasts and gates can be re-found by many witnesses; single sheets may be partial, motivated, or mercy-wrong. Realm / regional / settlement levels: [`Atlas Map Levels of Dias`](atlas-map-levels-of-dias.md).
 
 ---
 

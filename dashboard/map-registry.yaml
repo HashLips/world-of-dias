@@ -259,10 +259,46 @@ frequencies:
         x: 50
         y: 34
         kind: place
+      - entry: Brindle Cord Rivers
+        x: 54
+        y: 33
+        kind: landmark
       - entry: Glasswater Fields
         x: 66
         y: 34
         kind: place
+      - entry: Driftfall Salvage Shore
+        x: 75
+        y: 71
+        kind: landmark
+      - entry: Outer Rim Keel Banks
+        x: 74
+        y: 12
+        kind: landmark
+      - entry: Glasswater Feed Channels
+        x: 64
+        y: 33
+        kind: landmark
+      - entry: Aelwyn Drip Rivers
+        x: 21
+        y: 24
+        kind: landmark
+      - entry: Lumira Glass Dune Flats
+        x: 23
+        y: 70
+        kind: landmark
+      - entry: Verdant Choir Meadows
+        x: 25
+        y: 46
+        kind: landmark
+      - entry: Hearthvale Emberslope
+        x: 49
+        y: 55
+        kind: landmark
+      - entry: Flagweek Dust Reach
+        x: 59
+        y: 61
+        kind: landmark
       - entry: Velorian Basin
         x: 58
         y: 28

@@ -53,6 +53,12 @@ related:
   - Dias nesting hierarchy
   - F432 (frequency realm)
   - Velorian Basin
+  - Veloria Walkable Atlas of Dias
+  - Veloria Ring Walk Sketch
+  - Rings of Veloria Primer
+  - Place Webs of Dias
+  - Place Safety Classes of Dias
+  - Atlas Map Levels of Dias
 themes:
   - capital
   - concentric city
@@ -99,6 +105,8 @@ Above the city, the phenomenon of the **Sky Drifters** still sets Veloria apart 
 | **Famous corners** | [Ringwash Baths](ringwash-baths.md), [Softfruit Table Hall](softfruit-table-hall.md), Pot Signal Lane, DEB Gate |
 
 A lived week: market morning, baths midday, table supper, Sky Drifter watch at dusk.
+
+Walkable atlas: [`Veloria Walkable Atlas of Dias`](../world/veloria-walkable-atlas-of-dias.md). Settlement plate: [`Veloria Ring Walk Sketch`](../artifacts/veloria-ring-walk-sketch.md). Ring glance: [`Rings of Veloria Primer`](../world/rings-of-veloria-primer.md).
 
 Full building dialect: [`Nauw Layered Civic Architecture`](../cultures/nauw-layered-civic-architecture.md). Uncanny corner: [`The Sketchy Gallery`](the-sketchy-gallery.md).
 

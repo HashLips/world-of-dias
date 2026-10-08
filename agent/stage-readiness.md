@@ -10,9 +10,13 @@ Stage-building Sections **1–35** are complete (flesh-and-balance done; soft li
 
 **Volume I (Laws):** phases I.1–I.11 marked complete; volume status **ready for book draft** (publication gates still separate).
 
+**Volume II (Atlas):** phases II.1–II.10 complete after deepen pass (settlement walks, landforms, seasons, place webs, map levels); volume status **ready for book draft**.
+
+**Volume III (Living World):** pending—start when the human asks.
+
 ## Safe to write next
 
-- Phases from [`plan.md`](plan.md) when the human asks to run a volume/phase.  
+- Phases from [`plan.md`](plan.md) when the human asks to run a volume/phase (Volume III next).  
 - Local arcs that pull hub webs (Softfruit, loft hail, Watch slate, Quiet Well path, Claimscar breakfast).  
 - Investigations using evidence genres (toll book + song calendar + forged handbill).  
 - Mystery *clues* that thicken without closing Frequency Zero.  

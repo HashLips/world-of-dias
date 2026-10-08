@@ -33,6 +33,10 @@ related:
   - F500 (frequency realm)
   - Lumen Stair
   - Distant lumen-abyss bleed
+  - Geographical Hierarchy of Dias
+  - Place-Type Vocabulary of Dias
+  - Atlas Hierarchy Teaching
+  - Eastbound Fruit Road
 themes:
   - landmarks
   - geography bones
@@ -45,11 +49,11 @@ status: canonical
 
 ## Overview
 
-**Landmarks of Dias** is the traveler’s bone-map: places that hold direction, ceremony, fear, or argument. It does not replace region entries; it teaches which stones a saga chapter can lean on.
+**Landmarks of Dias** is the traveler’s bone-map: places that hold direction, ceremony, fear, or argument. It does not replace region entries; it teaches which stones a saga chapter can lean on. For how landmarks sit under realms and regions, see Geographical Hierarchy of Dias.
 
 ## Core Premise
 
-A landmark earns its keep when a traveler can **stage a scene** there—arrival, bargain, vow, refusal, omen—without inventing a new cosmology mid-walk.
+A landmark earns its keep when a traveler can **stage a scene** there—arrival, bargain, vow, refusal, omen—without inventing a new cosmology mid-walk. Landmarks nest inside regions/territories (or as route bones under a region); they are not frequency realms.
 
 ### Classification key
 

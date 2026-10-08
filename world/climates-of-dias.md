@@ -30,6 +30,10 @@ related:
   - F960 (frequency realm)
   - Flora of Dias
   - Bleed-Sky Nightbloom
+  - Seasons and Regional Weather of Dias
+  - Environments Are Frequency Weather
+  - F432 Major Regions of Dias
+  - Landforms of F432
 themes:
   - climate
   - weather
@@ -85,6 +89,8 @@ Inside **F432**, climate is mostly recognizable: rain, heat, mist, wind, salt fo
 ## Global Lore
 
 Climate should help a reader **want to stand in a place**. Even Vent Haze and Bleed-Sky exist so the world’s body can show strain—while Softfall and gilding hour keep Dias worth loving.
+
+Season feel, work-season tables (Wetwake / Brightpass / Fruitcarry / Hushlean), and travel constraints: [`Seasons and Regional Weather of Dias`](seasons-and-regional-weather-of-dias.md). Band-as-weather cousin: Environments Are Frequency Weather. Do not paste F380 mood-weather into Nauw orchard rain.
 
 ## Notes
 

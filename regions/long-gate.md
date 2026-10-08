@@ -26,6 +26,13 @@ related:
   - Nesting and Scale of Dias
   - Dias nesting hierarchy
   - F432 (frequency realm)
+  - Place Webs of Dias
+  - Place Safety Classes of Dias
+  - F432 Journey Routes of Dias
+  - Hearthvale Emberslope
+  - Secondfire
+  - Exile Mutual Table
+  - Seasons and Regional Weather of Dias
 themes:
   - border
   - exile infrastructure
@@ -55,6 +62,10 @@ Unlike **Westfold Toll** (Sorel–Wabet supervised door), Long Gate is the shame
 Myth calls the building an argument that never fully ended ([`The Long Gate Argument`](../myths/the-long-gate-argument.md)). Civic Nauw treats it as an exit valve. Sorel treats arrivals as people who must learn yard manners. Active conflict lists keep it present-tense: belonging removed or refused often points here.
 
 Open question: whose “yes” finally made the span walkable—and who still pretends they never agreed.
+
+**Place web:** people (exile traffic; Concord shadow; Niche Watchers) · manners (Gate Wind Manners; assent cord; Sorel yard arrival) · craft (Long Gate Assent Cord; rest niche; water skin seat-rail) · story (*The Long Gate Argument*; *The Long Gate South*). South feet meet **Hearthvale Emberslope** before Secondfire bowls.
+
+**Safety class:** Dangerous / heavy at peak argument; walkable with escorts and manners. Not a band ferry.
 
 ## Stories or Depictions
 

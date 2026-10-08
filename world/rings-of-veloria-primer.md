@@ -11,6 +11,9 @@ related:
   - Why the Third Ring Leans
   - Personal Resonant Tech of Dias
   - Four Rings around the Core
+  - Veloria Walkable Atlas of Dias
+  - Veloria Ring Walk Sketch
+  - Atlas Map Levels of Dias
 themes:
   - Veloria
   - rings
@@ -51,4 +54,4 @@ Veloria is handmade capital: crooked, talkative, wary of core glow ownership.
 
 ## Notes
 
-Settlements / Landmarks hold wider place lists; this primer is Veloria ring texture for scene setup.
+Settlements / Landmarks hold wider place lists; this primer is Veloria ring texture for scene setup. Full walk day: Veloria Walkable Atlas of Dias. Settlement-level plate: Veloria Ring Walk Sketch.

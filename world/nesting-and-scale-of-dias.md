@@ -27,6 +27,8 @@ related:
   - Veloria City
   - Nest Mark of Dias
   - Scale Ladder Glyph
+  - Geographical Hierarchy of Dias
+  - Atlas Hierarchy Teaching
 themes:
   - hierarchy
   - orientation
@@ -39,7 +41,7 @@ status: canonical
 
 ## Overview
 
-**Nesting and Scale of Dias** is the plain-speech primer for how big things contain smaller things without lying about frequency. Use it beside [`Structure of Dias`](structure-of-dias.md) (map-of-maps) and [`Cosmology of Dias`](cosmology-of-dias.md) (law vs mystery). The binding rule is [`Dias nesting hierarchy`](../rules/dias-nesting-hierarchy.md).
+**Nesting and Scale of Dias** is the plain-speech primer for how big things contain smaller things without lying about frequency. Use it beside Structure of Dias (map-of-maps), Cosmology of Dias (law vs mystery), and Geographical Hierarchy of Dias (atlas parent chains and place-types). The binding rule is Dias nesting hierarchy.
 
 ## Core Premise
 

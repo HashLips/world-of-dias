@@ -14,6 +14,12 @@ related:
   - Lumira Silence Law
   - Quiet Well Map-Wrongness Rule
   - The Map That Must Stay Wrong
+  - Lumira Glass Dune Flats
+  - Landforms of F432
+  - Place Webs of Dias
+  - Place Safety Classes of Dias
+  - Seasons and Regional Weather of Dias
+  - Lumira Listening Heat
 themes:
   - desert calm
   - hidden water

@@ -18,6 +18,14 @@ related:
   - Dias nesting hierarchy
   - Wabet
   - F432 (frequency realm)
+  - Place Webs of Dias
+  - Place Safety Classes of Dias
+  - Lumira Glass Dune Flats
+  - Landforms of F432
+  - Objective and Unreliable Maps of Dias
+  - Silent Dune Keep
+  - Half-Made Atlas
+  - Bowl That Hides a Goldfish
 themes:
   - hidden oasis
   - deliberate misdirection
@@ -47,6 +55,10 @@ Night at Quiet Well is not mystical theater. It is the sound of people agreeing 
 The guiding tension: the land provides for those who respect its silence—and silence includes not publishing the well. Lucky Fruit caravans that try to shortcut through Lumira learn expensive lessons.
 
 **Story staging:** decoy oasis first; true water only after soft voices; a map that must stay wrong as moral climax. Pair with Listening Heat and Quietwell Serpent caution.
+
+**Place web:** people (Iskar Lüm; Keth Dunewalk; Silent Dune Keep) · manners (Lumira Silence Law; map-wrongness rule) · craft (false marks; teaching bowls; Half-Made Atlas cousins) · story (*The Map That Must Stay Wrong*; *Take It Easy*). Terrain approach: **Lumira Glass Dune Flats**.
+
+**Safety class:** Sacred + Restricted (Keep assent); mercy-wrong maps are manners, not Frequency Zero clues.
 
 ## Stories or Depictions
 

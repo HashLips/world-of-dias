@@ -27,6 +27,9 @@ related:
   - The Banana Draft
   - The Brindle Crawler
   - The Vitrin Saga
+  - F432 Journey Routes of Dias
+  - Place Safety Classes of Dias
+  - Soft Limits of Dias
 themes:
   - transportation
   - roads
@@ -43,6 +46,8 @@ status: canonical
 **Transport of Dias** is how bodies cross a layered world—fruit roads, spans, ferries, silence routes, exile bridges, and rare cross-frequency passages that are omenized, not subwayed.
 
 A journey chapter needs **logistics and poetry**. Both live in the entries below.
+
+Named route planner (constraints, sample day-chains): [`F432 Journey Routes of Dias`](f432-journey-routes-of-dias.md). Local ferry ≠ band ferry.
 
 ## Core Premise
 

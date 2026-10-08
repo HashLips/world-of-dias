@@ -77,6 +77,14 @@ related:
   - Fruit Road and Toll Travel
   - Nesting and Scale of Dias
   - Dias nesting hierarchy
+  - F432 Major Regions of Dias
+  - Regional Distinction Teaching
+  - Landforms of F432
+  - Brindle Cord Rivers
+  - F432 Journey Routes of Dias
+  - Place Safety Classes of Dias
+  - Place Webs of Dias
+  - Seasons and Regional Weather of Dias
 themes:
   - trade routes
   - diversity of peoples
@@ -147,7 +155,16 @@ On southern Nauw, a major bridge crosses the border into northern Sorel (Hearthv
 
 Nauw is the **country of the crowded heart**—wonderful to live in if you can afford belonging; sharp if the Concord decides you cannot.
 
-Heart triad with Wabet (chosen calm) and Sorel (second beginning): see also [`Structure of Dias`](../world/structure-of-dias.md) and [`Climates of Dias`](../world/climates-of-dias.md).
+Heart triad with Wabet (chosen calm) and Sorel (second beginning): see also [`Structure of Dias`](../world/structure-of-dias.md) and [`Climates of Dias`](../world/climates-of-dias.md). Comparison sheet: [`F432 Major Regions of Dias`](../world/f432-major-regions-of-dias.md).
+
+### Unlike Wabet and Sorel
+
+| Domain | Nauw (this region) |
+| --- | --- |
+| Job | Crowded heart—markets, rings, gates, fruit hunger |
+| Terrain | Basin, march, glasswater plains, outer rim seas |
+| Architecture | Layered rings and thresholds |
+| Do not confuse with | Wabet’s chosen calm or Sorel’s second-beginning salvage |
 
 ### Leadership Structure
 

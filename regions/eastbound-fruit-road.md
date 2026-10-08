@@ -1,7 +1,7 @@
 ---
 category: region
 name: Eastbound Fruit Road
-place_type: region
+place_type: landmark
 parent_region: Wabet
 region: F432 (frequency realm)
 culture:

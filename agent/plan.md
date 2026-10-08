@@ -340,13 +340,13 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 **Completion test:** Can someone plan a believable journey across F432, locate major destinations, and understand the environments they would encounter?
 
-**Volume status:** pending
+**Volume status:** ready for book draft
 
 ---
 
 ### Phase II.1 — Geographical hierarchy
 
-- [ ] Do we have a clear geographical hierarchy of realms, regions, settlements, and landmarks?
+- [x] Do we have a clear geographical hierarchy of realms, regions, settlements, and landmarks?
 
 **Starting points** (search further as needed): `world/`, `regions/`
 
@@ -360,7 +360,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase II.2 — F432 regions: Nauw, Wabet, Sorel
 
-- [ ] Can we accurately locate and distinguish the established regions of F432, including Nauw, Wabet, and Sorel?
+- [x] Can we accurately locate and distinguish the established regions of F432, including Nauw, Wabet, and Sorel?
 
 **Starting points** (search further as needed): `regions/`, `dashboard/map-registry.yaml`
 
@@ -374,7 +374,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase II.3 — Major cities (e.g. Veloria)
 
-- [ ] Are major cities such as Veloria sufficiently described, including their layout and surroundings?
+- [x] Are major cities such as Veloria sufficiently described, including their layout and surroundings?
 
 **Starting points** (search further as needed): `regions/`, `cultures/`, `inhabitants/`
 
@@ -388,7 +388,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase II.4 — Landforms
 
-- [ ] Have we established important mountains, rivers, seas, islands, forests, deserts, and other landforms?
+- [x] Have we established important mountains, rivers, seas, islands, forests, deserts, and other landforms?
 
 **Starting points** (search further as needed): `regions/`, `phenomena/`
 
@@ -402,7 +402,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase II.5 — Climate, seasons, environmental phenomena
 
-- [ ] Do we understand the climate, seasons, and characteristic environmental phenomena in each major region?
+- [x] Do we understand the climate, seasons, and characteristic environmental phenomena in each major region?
 
 **Starting points** (search further as needed): `phenomena/`, `regions/`, `world/`
 
@@ -416,7 +416,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase II.6 — Roads, bridges, ferries, trade routes, travel constraints
 
-- [ ] Are important roads, bridges, ferries, trade routes, and physical travel constraints documented?
+- [x] Are important roads, bridges, ferries, trade routes, and physical travel constraints documented?
 
 **Starting points** (search further as needed): `regions/`, `artifacts/`, `cultures/`, `rules/`
 
@@ -430,7 +430,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase II.7 — Safe, dangerous, sacred, restricted, unexplored
 
-- [ ] Do we know which places are safe, dangerous, sacred, restricted, or unexplored?
+- [x] Do we know which places are safe, dangerous, sacred, restricted, or unexplored?
 
 **Starting points** (search further as needed): `regions/`, `cultures/`, `rules/`, `myths/`
 
@@ -444,7 +444,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase II.8 — Objective geography vs unreliable maps
 
-- [ ] Can we distinguish objective geography from incomplete or unreliable maps created by inhabitants?
+- [x] Can we distinguish objective geography from incomplete or unreliable maps created by inhabitants?
 
 **Starting points** (search further as needed): `artifacts/`, `artworks/`, `world/`, `cultures/`
 
@@ -458,7 +458,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase II.9 — Locations linked to people, civilizations, artifacts, history
 
-- [ ] Have we linked important locations to their inhabitants, civilizations, artifacts, and historical significance?
+- [x] Have we linked important locations to their inhabitants, civilizations, artifacts, and historical significance?
 
 **Starting points** (search further as needed): `regions/` + cross-links to `inhabitants/`, `cultures/`, `artifacts/`, `world/`
 
@@ -472,7 +472,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase II.10 — Consistent maps (realm, regional, settlement)
 
-- [ ] Can we produce consistent maps at realm, regional, and settlement levels?
+- [x] Can we produce consistent maps at realm, regional, and settlement levels?
 
 **Starting points** (search further as needed): `artworks/`, `assets/`, `dashboard/map-registry.yaml`, `regions/`
 

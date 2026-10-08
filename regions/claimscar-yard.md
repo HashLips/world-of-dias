@@ -19,6 +19,14 @@ related:
   - Claimscar Vent-Claim Peg
   - Claimscar Breakfast Caller
   - Secondfire Claim Heat
+  - Place Webs of Dias
+  - Place Safety Classes of Dias
+  - Driftfall Salvage Shore
+  - F432 Settlement Walks of Dias
+  - Exile Mutual Table
+  - The Salt Ledger
+  - Landforms of F432
+  - Seasons and Regional Weather of Dias
 themes:
   - outlaw yards
   - vent sprout claims
@@ -57,6 +65,19 @@ This is not Good Trade mountain hospitality and not Delci’s dream path. It is 
 ## Lore
 
 Claimscar vent-claim rule governs how long a mark holds and what happens when two crews paint the same sprout night. Breakfast can be shared; claims cannot.
+
+### Walkable mental map
+
+1. Approach from Driftfall Salvage Shore / pier roads  
+2. Tarp edge and claim-paint uprights  
+3. Claimscar Cookfire Circle (breakfast manners)  
+4. Vent-claim peg lines toward Sprout Vent weather  
+5. Rival crew margins (teeth if double-painted)  
+6. Salt Ledger talk when shore business meets yard grit  
+
+**Place web:** people (Garen Scar; Freebands; scav crews; Vexra Coil politics) · manners (vent-claim rule; Exile Mutual Table cousins; breakfast caller) · craft (cookfire circle; claim pegs; salvage tools) · story (*Hungry Dogs*; Drift Hour cousins on the shore).
+
+**Safety class:** Mixed—safe by belonging; Dangerous for wrong claim / lone nights.
 
 ### Nesting
 

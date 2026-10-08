@@ -23,6 +23,9 @@ related:
   - Economy of Dias
   - Relationships of Dias
   - Stage Readiness of Dias
+  - Geographical Hierarchy of Dias
+  - Place-Type Vocabulary of Dias
+  - Atlas Hierarchy Teaching
 themes:
   - settlements
   - daily life
@@ -37,7 +40,11 @@ status: canonical
 
 **Settlements of Dias** tiers lived places—jobs, smells, jokes, and uneven safety—so a reader can spend a week in Veloria or a hard week in Sorel in their head.
 
-Regions remain the file of record. This page is the **settlement card** index.
+Regions remain the file of record. This page is the **settlement card** index. For how settlements sit under realms and regions, see Geographical Hierarchy of Dias.
+
+### Hierarchy note
+
+Settlements nest inside regions/territories, not inside frequency labels as skip parents. Example: Veloria City → Velorian Basin → Nauw → F432.
 
 ## Tier key
 
