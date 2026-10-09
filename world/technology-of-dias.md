@@ -16,6 +16,11 @@ related:
   - Valorian Operators
   - Architecture of Dias
   - Frequency as fundamental law
+  - Object and Artifact Classes of Dias
+  - Materials Energy and Making of Dias
+  - Resonant Tech Capabilities and Failures of Dias
+  - Restricted Rare and Taboo Inventions of Dias
+  - Personal Resonant Tech of Dias
 themes:
   - technology
   - echo-aware craft
@@ -41,6 +46,10 @@ Tech should answer **how do they live?** without breaking resonance rules. Every
 
 | Need | Entry |
 | --- | --- |
+| **V.1 taxonomy** | [Object and Artifact Classes of Dias](object-and-artifact-classes-of-dias.md) |
+| **V.2 materials / making** | [Materials Energy and Making of Dias](materials-energy-and-making-of-dias.md) |
+| **V.3 can / can’t / fail** | [Resonant Tech Capabilities and Failures of Dias](resonant-tech-capabilities-and-failures-of-dias.md) |
+| **V.9 restricted / taboo** | [Restricted Rare and Taboo Inventions of Dias](restricted-rare-and-taboo-inventions-of-dias.md) |
 | Maker ethic & craft stance | [Echo-Aware Craft](../cultures/echo-aware-craft.md) |
 | Ordinary wonder devices | [Everyday Resonant Tech](../cultures/everyday-resonant-tech.md) |
 | Clearance, seals, forbidden tools | [Restricted and Taboo Tech](../cultures/restricted-and-taboo-tech.md) |

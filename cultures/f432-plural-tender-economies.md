@@ -4,6 +4,7 @@ name: F432 Plural Tender Economies
 region: F432 (frequency realm)
 related:
   - Economy of Dias
+  - Laws Trade and Regional Economies of Dias
   - VEL Mark Trade Standard
   - Pot Signal Customs
   - F432 Travel Customs

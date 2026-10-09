@@ -19,6 +19,10 @@ related:
   - The Still Pot
   - Icebound Flame Cell
   - Evidence and Records of Dias
+  - Object and Artifact Classes of Dias
+  - Major Relics and Artifacts of Dias
+  - Artifact Illustration Briefs of Dias
+  - Domestic Tools and Instruments of Dias
 themes:
   - artifacts
   - objects
@@ -37,6 +41,8 @@ status: canonical
 ## Core Premise
 
 Class umbrella: [`Resonant Artifacts`](../artifacts/resonant-artifacts.md). Everyday wonder ≠ Prime Relic. Danger objects listen too hard or erase undo. Joy objects bind belonging.
+
+**Volume V sheets:** [Object and Artifact Classes of Dias](object-and-artifact-classes-of-dias.md) · [Major Relics and Artifacts of Dias](major-relics-and-artifacts-of-dias.md) · [Artifact Illustration Briefs of Dias](artifact-illustration-briefs-of-dias.md) · [Domestic Tools and Instruments of Dias](domestic-tools-and-instruments-of-dias.md)
 
 ---
 

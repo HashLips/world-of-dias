@@ -5,28 +5,39 @@ region: Cinder Nook
 related:
   - Flora of Dias
   - Cinder Nook
+  - Outer Rim Salt Fog Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - smoke
   - pest
   - flora
+  - medicinal
 status: canonical
 ---
 
 # Cinder Nook Tar-Herb
 
+## Name
+
+Cinder Nook Tar-Herb
+
 ## Overview
 
-**Cinder Nook Tar-Herb** is flora of **Cinder Nook**, used or noticed as **smoke / pest**. Keeps midges off drying racks.
+Tar-scented herb of Cinder Nook drying racks—smoke that keeps midges off nets and patience.
 
 ## Description
 
-Range and habit: **Cinder Nook**. Keeps midges off drying racks. Archive kind tag: *ordinary*.
+**Look:** dark sticky leaves; tar-sweet smoke; purple flower spikes ignored  
+**Where:** Cinder Nook racks, Outer Rim drying yards  
+**Habit:** burned as coil smoke; grows in cinder grit  
+**Tell:** pest smoke—not food tea
 
 ## Local Use
 
-Locals use it for: **smoke / pest**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Medicinal/pest smoke.** Coil against midges. Do not inhale as festival fun.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: medicinal.

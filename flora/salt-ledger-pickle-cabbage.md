@@ -5,27 +5,39 @@ region: The Salt Ledger
 related:
   - Flora of Dias
   - The Salt Ledger
+  - Driftfall
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - food
   - flora
+  - edible
+  - commercial
 status: canonical
 ---
 
 # Salt-Ledger Pickle-Cabbage
 
+## Name
+
+Salt-Ledger Pickle-Cabbage
+
 ## Overview
 
-**Salt-Ledger Pickle-Cabbage** is plant life of **Ledger gardens**, known to locals mainly as something you eat, drink, or cook with—brine culture twin.
+Cabbage brined at the Salt Ledger—shore accounting you can taste.
 
 ## Description
 
-Range and habit: **Ledger gardens**. Brine culture twin. Archive kind tag: *ordinary*.
+**Look:** dense cabbage; salt-stiff leaves; pickle crocks  
+**Where:** Salt Ledger kitchens, Driftfall shore stores  
+**Habit:** pickle seasons; ledger jokes  
+**Tell:** pickle cabbage—not Quiet Well dates
 
 ## Local Use
 
-Locals use it for: **food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible + commercial small.** Brine trade. Shorting a crock is ledger talk.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible, commercial.

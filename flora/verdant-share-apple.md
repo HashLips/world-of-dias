@@ -5,29 +5,41 @@ region: Verdant Reach
 related:
   - Flora of Dias
   - Verdant Reach
-  - Apple Touch
-  - Fellgrove
+  - Verdant Choir Meadow Habitat
+  - Open Hand Way
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - orchard staple
+  - food
+  - share
   - flora
+  - edible
+  - cultural
 status: canonical
 ---
 
 # Verdant Share-Apple
 
+## Name
+
+Verdant Share-Apple
+
 ## Overview
 
-**Verdant Share-Apple** is plant life of **Verdant Reach / Fellgrove**, known to locals mainly as something you eat, drink, or cook with—apple Touch history site.
+Apples of Verdant Reach meant for sharing—Open Hand orchards where greed tastes worse than tart.
 
 ## Description
 
-Range and habit: **Verdant Reach / Fellgrove**. Apple Touch history site. Archive kind tag: *ordinary*.
+**Look:** small mottled apples; sweet-tart; trees with low pickable limbs  
+**Where:** Verdant Choir Meadow Habitat edges, Open Hand orchards  
+**Habit:** share baskets first; markets second  
+**Tell:** share apple—not Market Banana apex politics
 
 ## Local Use
 
-Locals use it for: **orchard staple**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible + cultural share.** Pick for tables. Strip-tree vanity fails Open Hand.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible, cultural.

@@ -6,6 +6,7 @@ related:
   - Artifacts of Dias
   - Knowledge of Dias
   - Information of Dias
+  - Information Systems of Dias
   - Reliable and Unreliable Records
   - Span Toll Book
   - Outer Rim Song Calendar
@@ -35,6 +36,8 @@ status: canonical
 ## Core Premise
 
 Documents shape behavior even when wrong. Reliable records earn trust slowly. Wishful and forged sheets still move carts. External/physical papers keep Dias GUID discipline when they leave the repo.
+
+**V.6 systems sheet:** [Information Systems of Dias](information-systems-of-dias.md).
 
 Full entries below—indexes alone are not enough.
 

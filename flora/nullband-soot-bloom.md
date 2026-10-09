@@ -5,27 +5,37 @@ region: F500 (frequency realm)
 related:
   - Flora of Dias
   - F500 (frequency realm)
+  - Soft Limits of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - anti-flora
-  - omen fear
+  - else-green
+  - caution
   - flora
-status: unknown
+status: canonical
 ---
 
 # Nullband Soot-Bloom
 
+## Name
+
+Nullband Soot-Bloom
+
 ## Overview
 
-**Nullband Soot-Bloom** is associated with **F500 rumor** and leans beyond ordinary garden behavior. Petals like erased charcoal.
+Soot-bloom of F500 anti-habitat talk—forgetting-adjacent growth, not a park flower.
 
 ## Description
 
-Range and habit: **F500 rumor**. Petals like erased charcoal. Archive kind tag: *anti-flora*.
+**Look:** soot-dark brief blooms; hard to remember after  
+**Where:** F500 margins (survivor talk)  
+**Habit:** perforated witness  
+**Tell:** nullbloom—not Ringfair marigold
 
 ## Local Use
 
-Locals use it for: **omen fear**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Caution.** Do not catalog as complete wildlife. Soft limits.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `anti-flora`.
+Else-green / existential partial.

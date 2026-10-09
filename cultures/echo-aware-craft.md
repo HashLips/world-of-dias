@@ -11,6 +11,7 @@ related:
   - Valorian Operators
   - Ember Keepers
   - Everyday Resonant Tech
+  - Materials Energy and Making of Dias
 themes:
   - craft
   - makers

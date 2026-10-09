@@ -6,29 +6,40 @@ related:
   - Flora of Dias
   - Averra damp studios
   - Inkcaps and a Cheap Black Wash
+  - Averra Isle
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - craft
   - ink
   - observed
   - flora
+  - commercial
 status: canonical
 ---
 
 # Averra Inkcap Mushroom
 
+## Name
+
+Averra Inkcap Mushroom
+
 ## Overview
 
-**Averra Inkcap Mushroom** is flora of **Averra damp studios**, used or noticed as **ink / observed**. Black spore wash for cheap ink.
+Inkcap mushrooms of Averra damp studios—cheap black wash for sketches when true ink is dear.
 
 ## Description
 
-Range and habit: **Averra damp studios**. Black spore wash for cheap ink. Archive kind tag: *ordinary→craft*.
+**Look:** tall dissolving caps; black spore wash; smell of wet paper  
+**Where:** Averra damp studios, shaded studio yards  
+**Habit:** self-dissolves into inkish fluid; timing is craft  
+**Tell:** cheap wash—not House archival ink
 
 ## Local Use
 
-Locals use it for: **ink / observed**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial craft ink / observed.** Catch wash on scrap. Eating is a bad art-student dare.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary→craft`.
+Plant Use Classes: commercial. Caution: not food.

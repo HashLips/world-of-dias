@@ -1,31 +1,44 @@
 ---
 category: flora
-name: Hearth Laughter Bean
+name: Hearth-Laughter Bean
 region: Hearthvale
 related:
   - Flora of Dias
   - Hearthvale
+  - Hearth Laughter Week
+  - Hearthvale Rebuild Field Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - festival food
+  - food
   - flora
+  - edible
+  - cultural
 status: canonical
 ---
 
-# Hearth Laughter Bean
+# Hearth-Laughter Bean
+
+## Name
+
+Hearth-Laughter Bean
 
 ## Overview
 
-**Hearth Laughter Bean** is plant life of **Hearthvale gardens**, known to locals mainly as something you eat, drink, or cook with—planted for laughter week pots.
+Beans of Hearth Laughter Week pots—second-beginning protein with joke steam.
 
 ## Description
 
-Range and habit: **Hearthvale gardens**. Planted for laughter week pots. Archive kind tag: *ordinary*.
+**Look:** climbing beans; purple-flecked; dry well for Hushlean  
+**Where:** Hearthvale Rebuild Field Habitat, Secondfire gardens  
+**Habit:** laughter week thickens harvest talk  
+**Tell:** laughter bean—not Market Banana
 
 ## Local Use
 
-Locals use it for: **festival food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible + cultural.** Feast pots. Seed share is Compact manners.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible, cultural.

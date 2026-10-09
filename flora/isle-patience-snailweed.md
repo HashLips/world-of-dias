@@ -5,28 +5,35 @@ region: Elder Shelf
 related:
   - Flora of Dias
   - Elder Shelf
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - observed
-  - snail food
   - flora
 status: canonical
 ---
 
 # Isle Patience Snailweed
 
+## Name
+
+Isle Patience Snailweed
+
 ## Overview
 
-**Isle Patience Snailweed** is plant life of **Elder Shelf damp**, known to locals mainly as something you eat, drink, or cook with—shelf-snail host.
+Snailweed of Elder Shelf—slow green that teaches waiting.
 
 ## Description
 
-Range and habit: **Elder Shelf damp**. Shelf-snail host. Archive kind tag: *ordinary*.
+**Look:** trailing snailweed; mucus-shine joke  
+**Where:** Elder Shelf damp  
+**Habit:** slow growth  
+**Tell:** patience weed—not Freeband nettle
 
 ## Local Use
 
-Locals use it for: **observed / snail food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Do not rush harvest.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary.

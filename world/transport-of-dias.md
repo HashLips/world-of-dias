@@ -30,6 +30,7 @@ related:
   - F432 Journey Routes of Dias
   - Place Safety Classes of Dias
   - Soft Limits of Dias
+  - Vehicles and Transport Systems of Dias
 themes:
   - transportation
   - roads
@@ -61,6 +62,7 @@ Indexes alone are not enough—each major movement mode has its own entry.
 
 | Need | Entry |
 | --- | --- |
+| **V.5 vehicles / systems** | [Vehicles and Transport Systems of Dias](vehicles-and-transport-systems-of-dias.md) |
 | General manners of going | [F432 Travel Customs](../cultures/f432-travel-customs.md) |
 | Fruit roads & March tolls | [Fruit Road and Toll Travel](../cultures/fruit-road-and-toll-travel.md) |
 | Lumira / hush desert paths | [Desert Silence Routes](../cultures/desert-silence-routes.md) |

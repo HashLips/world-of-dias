@@ -5,28 +5,37 @@ region: Hallow Bay
 related:
   - Flora of Dias
   - Hallow Bay
-  - Isle of Calareth
+  - Promise Doves
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - observed
+  - nest
   - flora
 status: canonical
 ---
 
 # Promise Dove Nest-Straw
 
+## Name
+
+Promise Dove Nest-Straw
+
 ## Overview
 
-**Promise Dove Nest-Straw** is noted in the eaves and roof thatch around **Hallow Bay**. People watch it more than they take it. Local grass mix for dove nests.
+Soft straw-grass Promise Doves steal for nests—leave patches, gain calm.
 
 ## Description
 
-Range and habit: Hallow Bay eaves, guest-hall roof edges, and Rope Tree lee. Local grass mix for dove nests. Archive kind tag: *ordinary*.
+**Look:** pale hollow straw grass; dove-preferred lengths  
+**Where:** Hallow Bay margins, ribbon gardens  
+**Habit:** doves harvest; humans leave  
+**Tell:** nest straw—not Flagweek garland vine
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed / leave for doves.** Cutting whole patches is unkind.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary nest flora.

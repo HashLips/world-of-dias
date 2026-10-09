@@ -2,7 +2,7 @@
 category: inhabitant
 name: Yara Moss
 region: Hallow Bay
-culture:
+culture: Calareth Watch
 related:
   - Hallow Bay
   - Isle of Calareth
@@ -10,6 +10,7 @@ related:
   - Coris Vale
   - The Rope Tree
   - Calareth No-Moved-Stone Rule
+  - Named Inhabitant Profiles of Dias
 themes:
   - junior watch
   - ribbon enforcement
@@ -41,5 +42,15 @@ Children trust Yara. Rule-breakers underestimate Yara once.
 ## Narrative Role
 
 Island saga viewpoint that can grow from hospitality into hard threshold judgment.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Human; junior Watch runner |
+| **Origin** | Hallow Bay first-contact duty |
+| **Role** | Ribbon teaching; day-pass refusals; tide-pool teaching |
+| **Relationships** | Coris Vale; arrivals; Coral Strand children |
+| **Soft limit** | Smile-while-saying-no is care, not tourism brand |
 
 ## Notes

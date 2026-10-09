@@ -5,28 +5,39 @@ region: Fellgrove
 related:
   - Flora of Dias
   - Fellgrove
+  - That Forest
+  - Fellgrove Bark-Wolves
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - observed
-  - spider ally
+  - fiber
   - flora
+  - commercial
 status: canonical
 ---
 
 # Fellgrove Stitch-Silkweed
 
+## Name
+
+Fellgrove Stitch-Silkweed
+
 ## Overview
 
-**Fellgrove Stitch-Silkweed** is flora of **Fellgrove**, used or noticed as **observed / spider ally**. Host for stitch-spider webs.
+Silkweed of Fellgrove margins—fiber for trail stitch when Keepers allow cut.
 
 ## Description
 
-Range and habit: **Fellgrove**. Host for stitch-spider webs. Archive kind tag: *ordinary*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** tall silk-tufted weed; strong stem fiber; pale fluff  
+**Where:** Fellgrove path margins  
+**Habit:** fiber after seed; wolves ignore if you stay polite  
+**Tell:** stitch fiber—not Soft-Bear berry
 
 ## Local Use
 
-Locals use it for: **observed / spider ally**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial fiber (assent).** Stitch kits. Cutting deep stand without ask is teeth weather.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: commercial.

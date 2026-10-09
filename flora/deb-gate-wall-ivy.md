@@ -6,6 +6,9 @@ related:
   - Flora of Dias
   - DEB Gate of Veloria
   - Ordinary Ivy on Sandstone
+  - Deb Gate Watch-Geese
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - observed
@@ -16,18 +19,25 @@ status: canonical
 
 # Deb Gate Wall-Ivy
 
+## Name
+
+Deb Gate Wall-Ivy
+
 ## Overview
 
-**Deb Gate Wall-Ivy** is flora of **DEB Gate**, used or noticed as **observed / nest cover**. Clings to sandstone; ram-shade.
+Sandstone ivy of DEB Gate—nest cover for watch-geese shade and ordinary green on civic stone.
 
 ## Description
 
-Range and habit: **DEB Gate**. Clings to sandstone; ram-shade. Archive kind tag: *ordinary*.
+**Look:** dark climbing ivy; pale underside; roots that grip sandstone without cracking pride  
+**Where:** DEB Gate walls, approach arches  
+**Habit:** trimmed for clearance; never fully cleared  
+**Tell:** ordinary ivy—not a “living gate lock”
 
 ## Local Use
 
-Locals use it for: **observed / nest cover**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / nest cover.** Keepers trim for traffic. Stripping bare is ugly manners.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary observed.

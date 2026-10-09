@@ -5,27 +5,38 @@ region: Quiet Well
 related:
   - Flora of Dias
   - Quiet Well
+  - Quietwell Serpents
+  - Lumira Silence Law
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - medicine
+  - medicinal
   - flora
 status: canonical
 ---
 
 # Serpent-Hour Aloe
 
+## Name
+
+Serpent-Hour Aloe
+
 ## Overview
 
-**Serpent-Hour Aloe** is flora of **Quiet Well rings**, used or noticed as **medicine**. Bite-wait first aid; not antivenom alone.
+Aloe of Quiet Well approaches used after serpent-hour scrapes—medicine with silence manners.
 
 ## Description
 
-Range and habit: **Quiet Well rings**. Bite-wait first aid; not antivenom alone. Archive kind tag: *ordinary*.
+**Look:** thick aloe fans; cool gel; bitter latex edge  
+**Where:** Quiet Well true approaches (Keep), shade stone  
+**Habit:** cut sparingly; regrows slow  
+**Tell:** medicine—not a serpent ward charm for sale
 
 ## Local Use
 
-Locals use it for: **medicine**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Medicinal.** Gel for scrapes. Keep assent. Noise while harvesting is dangerous ecology.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: medicinal.

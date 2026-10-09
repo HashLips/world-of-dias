@@ -5,27 +5,36 @@ region: F200 (frequency realm)
 related:
   - Flora of Dias
   - F200 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - hazard
-  - observed
+  - else-green
+  - caution
   - flora
 status: canonical
 ---
 
 # Dimming Blight-Film
 
+## Name
+
+Dimming Blight-Film
+
 ## Overview
 
-**Dimming Blight-Film** is noted around **F200 dim zones**. People watch it more than they take it. Matte film near Dimming Leech talk.
+Film-growth that dulls luminous surfaces in F200 caution tales—visitor strain metaphor as much as plant.
 
 ## Description
 
-Range and habit: **F200 dim zones**. Matte film near Dimming Leech talk. Archive kind tag: *hazard*.
+**Look:** gray film; dulls shine; scrapes like regret  
+**Where:** F200 coherence-stress stories  
+**Habit:** partial catalog  
+**Tell:** caution film—not Nightledger roof lichen
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Caution / observed.** Not a dye. Not a ticket home.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `hazard`.
+Else-green caution.

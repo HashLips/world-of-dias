@@ -1,34 +1,42 @@
 ---
 category: flora
-name: Open-Hand Rose Companion
+name: Open Hand Rose-Companion
 region: Open Hand Way
 related:
   - Flora of Dias
   - Open Hand Way
   - A Rose for You
+  - The Open Hand and the Rose
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - symbol
-  - gift
-  - thorn lesson
+  - cultural
   - flora
 status: canonical
 ---
 
-# Open-Hand Rose Companion
+# Open Hand Rose-Companion
+
+## Name
+
+Open Hand Rose-Companion
 
 ## Overview
 
-**Open-Hand Rose Companion** is flora of **Open Hand Way**, used or noticed as **gift / thorn lesson**. Rose-for-you culture adjacent.
+Roses grown beside Open Hand teaching—gift and restraint, thorns included.
 
 ## Description
 
-Range and habit: **Open Hand Way**. Rose-for-you culture adjacent. Archive kind tag: *ordinary+symbol*.
+**Look:** soft roses; honest thorns; unfinished trellis edges  
+**Where:** Open Hand Way gardens  
+**Habit:** gift seasons; not conquest bouquets  
+**Tell:** rose companion—not Rose-Thorn Wolf thicket
 
 ## Local Use
 
-Locals use it for: **gift / thorn lesson**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural gift.** Give; do not strip.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary+symbol`.
+Plant Use Classes: cultural.

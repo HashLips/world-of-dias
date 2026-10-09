@@ -1,33 +1,39 @@
 ---
 category: flora
-name: Filament-Bloom
+name: Filament Bloom
 region: F200 (frequency realm)
 related:
   - Flora of Dias
   - F200 (frequency realm)
-  - Radiance Petals, No Soil
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - else-green
-  - beauty
-  - forage-of-light
   - flora
 status: canonical
 ---
 
-# Filament-Bloom
+# Filament Bloom
+
+## Name
+
+Filament Bloom
 
 ## Overview
 
-**Filament-Bloom** is reported in **F200**—growth that may not match F432 carbon flora, still described in plant words. No soil; radiance petals.
+Filament blooms of F200 light ecology—thread flowers Softfruit refuses to file as F432 orchids.
 
 ## Description
 
-Range and habit: **F200**. No soil; radiance petals. Archive kind tag: *else-green*.
+**Look:** hair-thin luminous filaments; brief bloom  
+**Where:** F200 approaches  
+**Habit:** thin known  
+**Tell:** filament—not canopy epiphyte orchid
 
 ## Local Use
 
-Locals use it for: **beauty / forage-of-light**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** No market crates.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Else-green.

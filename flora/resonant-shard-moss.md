@@ -1,31 +1,40 @@
 ---
 category: flora
-name: Resonant Shard Moss
+name: Resonant Shard-Moss
 region: F432 (frequency realm)
 related:
   - Flora of Dias
   - F432 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - magical-leaning
-  - observed
+  - ordinary
+  - teaching
   - flora
 status: canonical
 ---
 
-# Resonant Shard Moss
+# Resonant Shard-Moss
+
+## Name
+
+Resonant Shard-Moss
 
 ## Overview
 
-**Resonant Shard Moss** is noted around **near shard stores (rare)**. People watch it more than they take it. Hums faintly; Houses argue causation.
+Moss Softfruit uses near shard talk—teaching that resonance is not a wish plant.
 
 ## Description
 
-Range and habit: **near shard stores (rare)**. Hums faintly; Houses argue causation. Archive kind tag: *magical-leaning*. Low growth; soft or grit-trapping underfoot; often gathered by hand rather than blade.
+**Look:** soft moss near teaching bowls; ordinary green  
+**Where:** F432 Softfruit yards  
+**Habit:** teaching  
+**Tell:** shard moss—not wish-granting
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Teaching.** Resonance Does Not Grant Wishes cousin.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `magical-leaning`.
+Teaching flora.

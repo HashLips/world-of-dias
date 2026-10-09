@@ -5,6 +5,9 @@ region: Claimscar Yard
 related:
   - Flora of Dias
   - Claimscar Yard
+  - Driftfall Salvage Tide Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - observed
@@ -14,18 +17,25 @@ status: canonical
 
 # Claimscar Nail-Moss
 
+## Name
+
+Claimscar Nail-Moss
+
 ## Overview
 
-**Claimscar Nail-Moss** is noted around **Claimscar Yard**. People watch it more than they take it. Grows in wet filings.
+Moss that grows on claim nails and uprights—green that outlasts some paint.
 
 ## Description
 
-Range and habit: **Claimscar Yard**. Grows in wet filings. Archive kind tag: *ordinary*. Low growth; soft or grit-trapping underfoot; often gathered by hand rather than blade.
+**Look:** tiny moss cushions on iron and wood claims  
+**Where:** Claimscar Yard uprights  
+**Habit:** returns after scrap fights  
+**Tell:** nail moss—not Canopy drip-moss cisterns
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed.** Leave as yard weather. Scraping moss to “clean claims” is nervous vanity.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary yard.

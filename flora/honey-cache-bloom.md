@@ -5,27 +5,39 @@ region: Aelwyn Canopy
 related:
   - Flora of Dias
   - Aelwyn Canopy
+  - Aelwyn Softfall Canopy Habitat
+  - Canopy Soft-Bears
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - bee forage
+  - forage
   - flora
+  - edible
 status: canonical
 ---
 
 # Honey-Cache Bloom
 
+## Name
+
+Honey-Cache Bloom
+
 ## Overview
 
-**Honey-Cache Bloom** is flora of **Canopy clearings**, used or noticed as **bee forage**. Gilding-adjacent wildflower cousin inland.
+Pale bloom Soft-Bears and bees share near honey caches—walker forage only after leaving bear share.
 
 ## Description
 
-Range and habit: **Canopy clearings**. Gilding-adjacent wildflower cousin inland. Archive kind tag: *ordinary*.
+**Look:** cream tubular blooms; honey scent; sticky throat  
+**Where:** Aelwyn Softfall Canopy Habitat forks near caches  
+**Habit:** opens after Softfall; bees argue first  
+**Tell:** bear-share etiquette is the law
 
 ## Local Use
 
-Locals use it for: **bee forage**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible forage / cultural.** Taste after share. Strip-cache greed is canopy shame.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible, cultural.

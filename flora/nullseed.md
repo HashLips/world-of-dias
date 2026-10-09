@@ -4,30 +4,38 @@ name: Nullseed
 region: Dias
 related:
   - Flora of Dias
-  - Dias
+  - Soft Limits of Dias
   - Frequency Zero
-  - Cosmology of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - unsettled rumor
-  - observed claims only
+  - unsettled
+  - caution
   - flora
-status: rumor
+status: canonical
 ---
 
 # Nullseed
 
+## Name
+
+Nullseed
+
 ## Overview
 
-**Nullseed** is flora of **rumor / taboo**, used or noticed as **observed claims only**. Do not resolve; hazard filing.
+Seed rumor tied to null talk—unsettled, not a crop, not a Zero solve.
 
 ## Description
 
-Range and habit: **rumor / taboo**. Do not resolve; hazard filing. Archive kind tag: *unsettled rumor*. Descriptions disagree; do not treat any single witness as complete.
+**Look:** disputed seed stories; no stable plant body agreed  
+**Where:** rumor across bands  
+**Habit:** soft limits  
+**Tell:** nullseed—not Market Banana
 
 ## Local Use
 
-No casual harvest. Treat as rumor, taboo, or sealed talk—record carefully; do not farm.
+**Refuse catalog completion.** Clues only. Soft limits.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `unsettled rumor`.
+Unsettled. Soft limits.

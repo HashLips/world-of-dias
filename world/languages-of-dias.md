@@ -16,6 +16,7 @@ related:
   - Pot Signal Customs
   - Outer Rim Line Answer
   - Echo interpretation stances
+  - Speech Etiquette and Naming of Dias
 themes:
   - language
   - naming
@@ -43,6 +44,7 @@ No constructed grammar until cultures are stable. Prefer sticky phrases, naming 
 
 | Need | Entry |
 | --- | --- |
+| **IV.4 staging sheet** | [Speech Etiquette and Naming of Dias](speech-etiquette-and-naming-of-dias.md) |
 | Personal / place / crew names | [F432 Naming Patterns](../cultures/f432-naming-patterns.md) |
 | How to address people | [F432 Honorifics and Address](../cultures/f432-honorifics-and-address.md) |
 | Veloria & fruit-road talk | [Nauw Market Slang](../cultures/nauw-market-slang.md) |

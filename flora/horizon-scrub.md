@@ -5,28 +5,37 @@ region: Sorel
 related:
   - Flora of Dias
   - Sorel
+  - Hearthvale Emberslope
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - omen
-  - observed
+  - forage
   - flora
 status: canonical
 ---
 
 # Horizon Scrub
 
+## Name
+
+Horizon Scrub
+
 ## Overview
 
-**Horizon Scrub** is noted around **Southern Sorel**. People watch it more than they take it. Walker-silhouette country.
+Tough scrub of Sorel horizons—ember-dust leaves that teach exile eyes the south is not basin green.
 
 ## Description
 
-Range and habit: **Southern Sorel**. Walker-silhouette country. Archive kind tag: *ordinary+omen*.
+**Look:** gray-green scrub; dust-coated; sparse berries birds argue over  
+**Where:** Hearthvale Emberslope, open Sorel approaches  
+**Habit:** survives dust; little shade pride  
+**Tell:** horizon scrub—not Verdant meadow
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed / sparse forage.** Walk. Do not expect orchard manners.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary+omen`.
+Ordinary frontier.

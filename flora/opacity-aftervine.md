@@ -5,27 +5,35 @@ region: F610 (frequency realm)
 related:
   - Flora of Dias
   - F610 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - hazard adjacent
-  - observed
+  - else-green
   - flora
 status: canonical
 ---
 
 # Opacity Aftervine
 
+## Name
+
+Opacity Aftervine
+
 ## Overview
 
-**Opacity Aftervine** is noted around **F610 post-window**. People watch it more than they take it. Thickens when clarity ends.
+Vine that thickens opacity after long looks—glance discipline grown green.
 
 ## Description
 
-Range and habit: **F610 post-window**. Thickens when clarity ends. Archive kind tag: *hazard adjacent*.
+**Look:** vines dulling behind the eyes  
+**Where:** F610 opacity talk  
+**Habit:** stare-cost  
+**Tell:** aftervine—not Deb Gate ivy
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed.** Anti-stare manners.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `hazard adjacent`.
+Else-green.

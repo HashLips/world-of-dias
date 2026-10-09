@@ -3,6 +3,8 @@ category: world
 name: Bleed Source Mystery
 related:
   - Mysteries of Dias
+  - Mystery Boundaries of Dias
+  - Observation vs Speculation of Dias
   - Bleed-Sky Weather
   - Distant lumen-abyss bleed
   - Bleedweather Moths

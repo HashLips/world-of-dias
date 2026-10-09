@@ -6,28 +6,38 @@ related:
   - Flora of Dias
   - Brindle March
   - The Three Thank-Yous of Brindle
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - sacred-soft
   - thanks
   - omen
   - flora
+  - cultural
 status: canonical
 ---
 
 # Brindle Fork-Tree
 
+## Name
+
+Brindle Fork-Tree
+
 ## Overview
 
-**Brindle Fork-Tree** grows in relation to **Brindle March shrines** and carries etiquette: harvest and handling are bound by custom. Three-thank-you custom trees.
+Forked roadside trees of Brindle where travelers leave three thank-yous—sacred-soft, not lumber.
 
 ## Description
 
-Range and habit: **Brindle March shrines**. Three-thank-you custom trees. Archive kind tag: *sacred-soft*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** split trunk like a wishbone; bark rubbed smooth by thanks-hands; sparse high leaves  
+**Where:** Brindle March known forks, thank-you leans  
+**Habit:** grows slow; cutting one is social catastrophe  
+**Tell:** if it has only one trunk, it is not the thank-you tree—do not invent a new fork for convenience
 
 ## Local Use
 
-Locals use it for: **thanks / omen**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural / sacred-soft.** Leave thanks, not axes. Wood takes are taboo without March assent.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `sacred-soft`.
+Plant Use Classes: cultural. Sacred-soft harvest rules.

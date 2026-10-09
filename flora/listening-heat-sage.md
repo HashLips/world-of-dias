@@ -5,28 +5,41 @@ region: Lumira Sands
 related:
   - Flora of Dias
   - Lumira Sands
+  - Lumira Listening Heat
+  - Desert Silence Routes
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - tea
-  - hush aid
+  - silence
   - flora
+  - edible
+  - cultural
 status: canonical
 ---
 
 # Listening Heat Sage
 
+## Name
+
+Listening Heat Sage
+
 ## Overview
 
-**Listening Heat Sage** is plant life of **Lumira noon flats**, known to locals mainly as something you eat, drink, or cook with—encourages softer voices (placebo+scent).
+Sage burned or steeped when Listening Heat teaches silence—tea for soft voices, smoke for assent starts.
 
 ## Description
 
-Range and habit: **Lumira noon flats**. Encourages softer voices (placebo+scent). Archive kind tag: *ordinary*.
+**Look:** silver sage; resin scent; purple flower beads  
+**Where:** Lumira Silent Dune Habitat, Saltwhisper approaches  
+**Habit:** strongest scent at heat peak  
+**Tell:** silence manners plant—not a loud market spice alone
 
 ## Local Use
 
-Locals use it for: **tea / hush aid**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible tea / cultural smoke.** Soft voices. Selling as “heat immunity” is a dune lie.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible, cultural.

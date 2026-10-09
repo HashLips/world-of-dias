@@ -5,27 +5,38 @@ region: Lumira Sands
 related:
   - Flora of Dias
   - Lumira Sands
+  - Saltwhisper Road
+  - Desert Silence Routes
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - magical-leaning
-  - observed
+  - ordinary
+  - path
   - flora
 status: canonical
 ---
 
 # Saltwhisper Whisper-Reed
 
+## Name
+
+Saltwhisper Whisper-Reed
+
 ## Overview
 
-**Saltwhisper Whisper-Reed** is noted around **Dune edges**. People watch it more than they take it. Wind through reeds sounds like names—pareidolia disputed.
+Reeds that hiss soft along Saltwhisper—path companions that reward quiet feet.
 
 ## Description
 
-Range and habit: **Dune edges**. Wind through reeds sounds like names—pareidolia disputed. Archive kind tag: *magical-leaning*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** tall pale reeds; hush-hiss in wind; dry rattle if broken loud  
+**Where:** Saltwhisper Road margins  
+**Habit:** marks assent routes when left standing  
+**Tell:** path reed—not decoy oasis reed
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed path.** Walk soft. Breaking reeds for fun fails silence law.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `magical-leaning`.
+Ordinary path flora.

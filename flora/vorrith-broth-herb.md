@@ -1,31 +1,43 @@
 ---
 category: flora
-name: Vorrith Broth-Herb (rumor)
+name: Vorrith Broth-Herb
 region: Stillhollow
 related:
   - Flora of Dias
   - Stillhollow
+  - Vorrith Kael
+  - The One Who Cooks Quiet
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - rumor
-  - alleged pot herb
+  - ordinary
+  - food
   - flora
-status: rumor
+  - edible
+status: canonical
 ---
 
-# Vorrith Broth-Herb (rumor)
+# Vorrith Broth-Herb
+
+## Name
+
+Vorrith Broth-Herb
 
 ## Overview
 
-**Vorrith Broth-Herb (rumor)** is flora of **Stillhollow talk**, used or noticed as **alleged pot herb**. Never confirmed; do not catalogue as recipe.
+Herb tied to Vorrith’s quiet cooking—broth depth without loud fame.
 
 ## Description
 
-Range and habit: **Stillhollow talk**. Never confirmed; do not catalogue as recipe. Archive kind tag: *rumor*. Descriptions disagree; do not treat any single witness as complete.
+**Look:** dark leaf herb; deep broth scent; small flowers ignored  
+**Where:** Stillhollow approaches (rumor-stewarded)  
+**Habit:** quiet harvest  
+**Tell:** broth herb—not Softfruit stage mint
 
 ## Local Use
 
-Not a public recipe or field guide item. Saga and rumor only unless later canon confirms.
+**Edible.** Quiet pots. Pilgrim harvest without ask is rude.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `rumor`.
+Plant Use Classes: edible.

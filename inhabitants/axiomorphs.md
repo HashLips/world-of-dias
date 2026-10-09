@@ -11,6 +11,8 @@ related:
   - Nauw
   - Sorel
   - Lattice Step of an Axiomorph
+  - Peoples Physical Traits of Dias
+  - Peoples Places and Contact of Dias
 themes:
   - alien morphology
   - geometry
@@ -30,6 +32,12 @@ Axiomorphs are a dominant non-humanoid race in F432, known for bodies that expre
 Individuals may appear as polyhedral clusters, floating lattice forms, segmented arcs, or shape-shifting assemblies that maintain identity through pattern continuity rather than stable flesh outline.
 
 Common visual traits include hard-edged silhouettes, rotating facet planes, softly glowing seams, and motion that feels mathematically precise instead of muscle-driven. Some Axiomorphs hover continuously, while others "step" by reassembling shape position between moments.
+
+### Abilities and limits
+
+**Can:** maintain identity through pattern continuity; sense and negotiate systems with high precision; hover or reassemble position between moments.  
+**Cannot:** casually perform human micro-expressions; some cannot form a “smile” others expect; emotional reads fail if neighbors demand flesh cues.  
+**Cost:** reassembly and hover spend attention; mocking a host’s geometric plate pattern is worse than refusing food.
 
 ## Beliefs About Them
 

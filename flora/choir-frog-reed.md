@@ -5,28 +5,38 @@ region: Verdant Reach
 related:
   - Flora of Dias
   - Verdant Reach
+  - Verdant Choir-Frogs
+  - Verdant Choir Meadow Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - habitat
-  - whistle craft
   - flora
 status: canonical
 ---
 
 # Choir-Frog Reed
 
+## Name
+
+Choir-Frog Reed
+
 ## Overview
 
-**Choir-Frog Reed** is flora of **Verdant wetlands**, used or noticed as **habitat / whistle craft**. Frog chorus stems.
+Reeds choir-frogs use as evening stages—habitat plant more than craft crop.
 
 ## Description
 
-Range and habit: **Verdant wetlands**. Frog chorus stems. Archive kind tag: *ordinary*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** tall wet reeds; frog-perch bends; soft rattle  
+**Where:** Verdant Choir Meadow Habitat wet seams  
+**Habit:** frogs rehearse dusk; silence is storm omen  
+**Tell:** frog stage—not Saltwhisper reed
 
 ## Local Use
 
-Locals use it for: **habitat / whistle craft**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed habitat.** Leave stands. Clearing “for picnic views” ruins evenings.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary habitat flora.

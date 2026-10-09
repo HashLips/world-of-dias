@@ -5,28 +5,40 @@ region: Glasswater Fields
 related:
   - Flora of Dias
   - Glasswater Fields
+  - Glasswater Ag Channel Habitat
+  - Glasswater Feed Channels
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - mats
   - blinds
   - flora
+  - commercial
 status: canonical
 ---
 
 # Glasswater Mirror-Reed
 
+## Name
+
+Glasswater Mirror-Reed
+
 ## Overview
 
-**Glasswater Mirror-Reed** is flora of **Glasswater Fields**, used or noticed as **mats / blinds**. Lull-day rustle.
+Clacking reeds of Glasswater channels—woven into mats and blinds that whisper on lull days.
 
 ## Description
 
-Range and habit: **Glasswater Fields**. Lull-day rustle. Archive kind tag: *ordinary*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** tall jointed reeds; hollow click when wind runs; silver when water mirrors them  
+**Where:** Glasswater Ag Channel Habitat, feed-channel banks, Mirror Pool edges  
+**Habit:** loves steady water; brittle after long dry  
+**Tell:** sound of lull days—if silent in wind, reeds are wrong or cut
 
 ## Local Use
 
-Locals use it for: **mats / blinds**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial craft / mats.** Weave blinds. Cutting whole banks without farm assent is food-heart rudeness.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: commercial.

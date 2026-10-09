@@ -5,27 +5,38 @@ region: Nauw
 related:
   - Flora of Dias
   - Nauw
+  - Harmonic Echo-Rise
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - omen
   - observed
   - flora
+  - cultural
 status: canonical
 ---
 
 # Echo-Rise Thistle
 
+## Name
+
+Echo-Rise Thistle
+
 ## Overview
 
-**Echo-Rise Thistle** is noted around **Nauw routes in echo-rise**. People watch it more than they take it. Counts thicken with harmonic reports.
+Thistle folk say thickens when echo-rise talk rises—omen plant Softfruit tags without panicking markets.
 
 ## Description
 
-Range and habit: **Nauw routes in echo-rise**. Counts thicken with harmonic reports. Archive kind tag: *omen*.
+**Look:** silver thistle; purple crown; fluff that sticks to census cloaks  
+**Where:** Nauw basin berms and quiet yards in echo-rise seasons  
+**Habit:** noticed more in rumor weeks than botany weeks  
+**Tell:** omen humor/caution—not a resonance meter
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed / cultural omen.** Do not sell as “echo detector.” Leave Softfruit to tag weather.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `omen`.
+Plant Use Classes: cultural / observed.

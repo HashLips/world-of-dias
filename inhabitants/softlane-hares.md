@@ -9,6 +9,11 @@ related:
   - Brindle March
   - Animals of Dias
   - Veloria Lap-Cats
+  - Life Kinds of Dias
+  - Animal Role Classes of Dias
+  - Field Guide Pattern of Dias
+  - Redmile Striders
+  - Frequency and Life of Dias
 themes:
   - ordinary fauna
   - roadside life
@@ -30,6 +35,15 @@ They are roughly the size of a large domestic rabbit, with long soft ears that t
 ## Beliefs About Them
 
 Fruit-road children treat a Softlane Hare crossing ahead as a good travel omen. Teamsters say the hares 'know which mile is kind.'
+
+## Ecology
+
+**Feed:** berm herbs, spilled fruit peel, orchard-edge greens.  
+**Shelter:** lane edges, cart undersides at rest, quiet scrub away from Strider miles when they can.  
+**Reproduce:** roadside litters in softer Wetwake/Brightpass berms (ordinary; not tracked like House census).  
+**Interact:** omen-adjacent ordinary animals—opposite social weather to Redmile Striders; F432 civic load as gentle roadside life.
+
+**Life kind:** ordinary animal (omen-adjacent). Role class: wildlife (gentle).
 
 ## Narrative Role
 

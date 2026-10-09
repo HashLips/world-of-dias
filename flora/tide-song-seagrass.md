@@ -5,28 +5,37 @@ region: Songripe Isles
 related:
   - Flora of Dias
   - Songripe Isles
+  - Songripe Tide-Birds
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - habitat
-  - weave
   - flora
 status: canonical
 ---
 
 # Tide-Song Seagrass
 
+## Name
+
+Tide-Song Seagrass
+
 ## Overview
 
-**Tide-Song Seagrass** is flora of **Songripe shallows**, used or noticed as **habitat / weave**. Bird nest line.
+Seagrass that sings soft with Songripe tide—habitat for tide-birds and clean coasts.
 
 ## Description
 
-Range and habit: **Songripe shallows**. Bird nest line. Archive kind tag: *ordinary*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** long green ribbons; tide-hum; sand holdfasts  
+**Where:** Songripe Isles shallows  
+**Habit:** thrives in clean water; dies in scrap oil  
+**Tell:** tide song—not Outer Rim kelp noodles alone
 
 ## Local Use
 
-Locals use it for: **habitat / weave**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed habitat.** Leave beds. Boats that tear seagrass earn ribbon scorn.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary coastal.

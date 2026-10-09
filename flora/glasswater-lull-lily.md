@@ -7,29 +7,40 @@ related:
   - Glasswater Fields
   - The Glasswater Mirror Lull
   - Wide Lily on a Grounded Pool
+  - Glasswater Ag Channel Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - omen
   - beauty
   - calm omen
   - flora
+  - cultural
 status: canonical
 ---
 
 # Glasswater Lull-Lily
 
+## Name
+
+Glasswater Lull-Lily
+
 ## Overview
 
-**Glasswater Lull-Lily** is associated with **Glasswater pools** and leans beyond ordinary garden behavior. Opens widest on mirror-calm days.
+Wide water lily of Glasswater lull pools—beauty omen when pads hold still enough to mirror sky.
 
 ## Description
 
-Range and habit: **Glasswater pools**. Opens widest on mirror-calm days. Archive kind tag: *ordinary→omen*.
+**Look:** broad pads; cream blooms; quiet scent like cool starch  
+**Where:** Glasswater Fields calm pools, ag-channel backwaters  
+**Habit:** opens with mirror-calm; folds when carts shout nearby  
+**Tell:** beauty first; not a ferry flower—pads stay on water
 
 ## Local Use
 
-Locals use it for: **beauty / calm omen**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural / observed beauty.** Do not strip blooms for vanity dye. Watch, then leave.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary→omen`.
+Plant Use Classes: cultural / observed.

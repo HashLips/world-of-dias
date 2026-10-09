@@ -5,27 +5,37 @@ region: Mountain of Majestic Good Trade
 related:
   - Flora of Dias
   - Mountain of Majestic Good Trade
+  - The Still Hours on Good Trade
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - shade
+  - observed
   - flora
 status: canonical
 ---
 
 # Good Trade Scrub
 
+## Name
+
+Good Trade Scrub
+
 ## Overview
 
-**Good Trade Scrub** is flora of **Good Trade mountain**, used or noticed as **shade**. Clean-deal rock shade.
+Scrub of Good Trade mountain approaches—still-hour quiet green.
 
 ## Description
 
-Range and habit: **Good Trade mountain**. Clean-deal rock shade. Archive kind tag: *ordinary*.
+**Look:** low mountain scrub; resin quiet; goat-nibble  
+**Where:** Good Trade approaches  
+**Habit:** still hours hush even insects  
+**Tell:** mountain scrub—not Ashcalm heather fame
 
 ## Local Use
 
-Locals use it for: **shade**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Walk soft in still hours.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary mountain.

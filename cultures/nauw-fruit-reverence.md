@@ -9,6 +9,9 @@ related:
   - Two Ways
   - Flora of Dias
   - Lucky Fruit sharing-knife
+  - Cultures Customs and Expectations of Dias
+  - Softfruit Ways of Dias
+  - F432 Civic Time
 themes:
   - fruit devotion
   - banana primacy
@@ -32,6 +35,16 @@ An enduring cross-market belief concerns so-called **Lucky Fruits**: rare perfec
 ## Practices and Traditions
 
 Public markets, household meals, and social rituals often center fruit priority, especially banana preference. This culinary hierarchy is widely visible in behavior and art.
+
+### Scene beats (daily-life ready)
+
+| Beat | What happens |
+| --- | --- |
+| **Market open** | Stallers set fruit rank before coin argument; green crates stay quiet |
+| **Guest seat** | Host offers fruit share or Softfruit ladle before asking for news |
+| **Lucky Fruit talk** | Boons are whispered as hope, not sold as mechanism; restraint is taught to children |
+| **First Fruit Arrival** | When Wabet shipments thicken, rivalry and gratitude share the same table |
+| **Mistake** | Waste or banana-mock freezes friendly trade; repair is a public re-share, not a speech |
 
 ## Lore
 

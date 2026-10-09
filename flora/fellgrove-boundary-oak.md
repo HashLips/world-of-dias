@@ -5,29 +5,38 @@ region: Fellgrove
 related:
   - Flora of Dias
   - Fellgrove
+  - That Forest
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - sacred
   - boundary
-  - shade
   - flora
+  - cultural
 status: canonical
 ---
 
 # Fellgrove Boundary-Oak
 
+## Name
+
+Fellgrove Boundary-Oak
+
 ## Overview
 
-**Fellgrove Boundary-Oak** grows in relation to **Fellgrove** and carries etiquette: harvest and handling are bound by custom. Orchard warden lore trees.
+Oaks marking Fellgrove’s ask-before-cut boundary—trail manners grown tall.
 
 ## Description
 
-Range and habit: **Fellgrove**. Orchard warden lore trees. Archive kind tag: *ordinary→sacred*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** broad oaks with claw-smoothed lower bark; heavy shade  
+**Where:** Fellgrove approaches from Verdant  
+**Habit:** boundary known by habit more than fence  
+**Tell:** boundary oak—not Good Trade mountain
 
 ## Local Use
 
-Locals use it for: **boundary / shade**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural boundary.** Do not fell. Carving names is bark-wolf invitation humor.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary→sacred`.
+Cultural soft.

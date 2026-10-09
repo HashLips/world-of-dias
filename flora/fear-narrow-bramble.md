@@ -5,27 +5,36 @@ region: F380 (frequency realm)
 related:
   - Flora of Dias
   - F380 (frequency realm)
+  - Frequency Biology of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - hazard
-  - barrier
+  - else-green
   - flora
 status: canonical
 ---
 
 # Fear-Narrow Bramble
 
+## Name
+
+Fear-Narrow Bramble
+
 ## Overview
 
-**Fear-Narrow Bramble** appears around **F380 fear weather** and is handled with caution. Seems closer than it is.
+Bramble that seems to narrow paths when fear contagion rises—mood ecology, not Glasswater reed.
 
 ## Description
 
-Range and habit: **F380 fear weather**. Seems closer than it is. Archive kind tag: *hazard*.
+**Look:** bramble tunnels; tighter when fear talk thick  
+**Where:** F380 mood coasts (talk)  
+**Habit:** affect weather  
+**Tell:** fear bramble—not Rose-Thorn thicket of Wabet alone
 
 ## Local Use
 
-Locals use it for: **barrier**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed else-green.** Do not import to F432 as “fear fence.”
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `hazard`.
+Else-green.

@@ -11,6 +11,7 @@ related:
   - VEL Mark Trade Standard
   - Eastbound Fruit Road
   - Veloria Clerk Subculture
+  - Speech Etiquette and Naming of Dias
 themes:
   - slang
   - markets

@@ -5,28 +5,35 @@ region: F610 (frequency realm)
 related:
   - Flora of Dias
   - F610 (frequency realm)
-  - Transparent in the Window, No Face
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - else-green
-  - beauty
   - flora
 status: canonical
 ---
 
 # Reveal-Veil Laceleaf
 
+## Name
+
+Reveal-Veil Laceleaf
+
 ## Overview
 
-**Reveal-Veil Laceleaf** is reported in **F610**—growth that may not match F432 carbon flora, still described in plant words. Winglike leaves go transparent in windows.
+Laceleaf of brief clarity fronts—F610 fog-with-homework ecology.
 
 ## Description
 
-Range and habit: **F610**. Winglike leaves go transparent in windows. Archive kind tag: *else-green*.
+**Look:** lace leaves that crisp then soft  
+**Where:** F610 clarity fronts  
+**Habit:** brief  
+**Tell:** laceleaf—not Averra thyme
 
 ## Local Use
 
-Locals use it for: **beauty**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Not permanent omniscience tea.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Else-green.

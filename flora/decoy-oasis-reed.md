@@ -5,28 +5,39 @@ region: Lumira Sands
 related:
   - Flora of Dias
   - Lumira Sands
+  - Quiet Well
+  - Quiet Well map-wrongness rule
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - craft
-  - culture
-  - misdirection
+  - ordinary
+  - mercy
   - flora
+  - cultural
 status: canonical
 ---
 
 # Decoy Oasis Reed
 
+## Name
+
+Decoy Oasis Reed
+
 ## Overview
 
-**Decoy Oasis Reed** is flora of **Lumira false marks**, used or noticed as **misdirection**. Planted to sell wrong maps’ mercy.
+Reeds planted or spared at decoy oases—mercy cartography grown green so wrong maps can stay kind.
 
 ## Description
 
-Range and habit: **Lumira false marks**. Planted to sell wrong maps’ mercy. Archive kind tag: *craft/culture*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** ordinary-looking reeds around dry or shallow decoys; less insect hush than true well  
+**Where:** Lumira decoy oasis pockets  
+**Habit:** maintained by Keep craft  
+**Tell:** decoy tell is insect hush + Keep knowledge—not tourist guesses
 
 ## Local Use
 
-Locals use it for: **misdirection**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural mercy.** Do not “correct” decoys into published truth. Soft limits: not Zero.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `craft/culture`.
+Plant Use Classes: cultural. Map-wrong cousin.

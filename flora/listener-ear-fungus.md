@@ -1,30 +1,42 @@
 ---
 category: flora
-name: Listener Ear-Fungus
+name: Listener-Ear Fungus
 region: That Forest
 related:
   - Flora of Dias
   - That Forest
+  - That Forest Blue Underwood Habitat
+  - Forest Listeners
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - unsettled
+  - rumor soft
+  - observed
   - flora
-status: unknown
+status: canonical
 ---
 
-# Listener Ear-Fungus
+# Listener-Ear Fungus
+
+## Name
+
+Listener-Ear Fungus
 
 ## Overview
 
-**Listener Ear-Fungus** is noted around **That Forest**. People watch it more than they take it. Cup fungi that face speech; do not pick.
+Ear-shaped fungus of That Forest—folk say Listeners sit near it; status stays rumor-soft.
 
 ## Description
 
-Range and habit: **That Forest**. Cup fungi that face speech; do not pick. Archive kind tag: *unsettled*.
+**Look:** pale ear-lobed brackets on old trunks; soft underside  
+**Where:** That Forest Blue Underwood Habitat, Fellgrove edges  
+**Habit:** appears on quiet forks  
+**Tell:** rumor companion—not confirmed Listener food
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed / rumor manners.** Do not shout harvest. Bottling ban cousins apply to cruelty.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `unsettled`.
+Rumor-adjacent observed.

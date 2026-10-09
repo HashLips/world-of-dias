@@ -5,28 +5,39 @@ region: Rim-Rest
 related:
   - Flora of Dias
   - Rim-Rest
+  - Outer Rim Salt Fog Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - float craft
   - forage
   - flora
+  - commercial
 status: canonical
 ---
 
 # Rim-Rest Raftweed
 
+## Name
+
+Rim-Rest Raftweed
+
 ## Overview
 
-**Rim-Rest Raftweed** is flora of **Rim-Rest**, used or noticed as **float craft / forage**. Buoyant stems for small raft patches.
+Buoyant stemmed weed of Rim-Rest—raft patches and forage for people who sleep more on water than stone.
 
 ## Description
 
-Range and habit: **Rim-Rest**. Buoyant stems for small raft patches. Archive kind tag: *ordinary*.
+**Look:** hollow buoyant stems; pale joints; mats that float a child  
+**Where:** Rim-Rest raft edges, cove quiet water  
+**Habit:** grows in calm pockets; storm scatters mats  
+**Tell:** float craft—not Outer Rim keel timber
 
 ## Local Use
 
-Locals use it for: **float craft / forage**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial float craft / forage.** Patch rafts. Share mats; do not hoard storm cast from neighbors.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: commercial.

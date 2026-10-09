@@ -492,13 +492,13 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 **Completion test:** Can a reader open the book, recognize a creature or plant, understand where it lives, and learn what makes it special?
 
-**Volume status:** pending
+**Volume status:** ready for book draft
 
 ---
 
 ### Phase III.1 — Ordinary animals, extraordinary creatures, peoples, ambiguous life
 
-- [ ] Have we distinguished ordinary animals, extraordinary creatures, peoples, and ambiguous forms of life?
+- [x] Have we distinguished ordinary animals, extraordinary creatures, peoples, and ambiguous forms of life?
 
 **Starting points** (search further as needed): `inhabitants/`, `world/`
 
@@ -512,7 +512,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase III.2 — Major ecosystems and habitats
 
-- [ ] Have we established the major ecosystems and habitats across known regions and frequencies?
+- [x] Have we established the major ecosystems and habitats across known regions and frequencies?
 
 **Starting points** (search further as needed): `regions/`, `flora/`, `inhabitants/`, `phenomena/`, `world/`
 
@@ -526,7 +526,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase III.3 — Plants, trees, flowers, fungi, growth
 
-- [ ] Can we describe the major plants, trees, flowers, fungi, and other forms of growth in the world?
+- [x] Can we describe the major plants, trees, flowers, fungi, and other forms of growth in the world?
 
 **Starting points** (search further as needed): `flora/`, `world/flora-of-dias.md`
 
@@ -540,7 +540,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase III.4 — Edible, medicinal, dangerous, commercial, cultural plants
 
-- [ ] Do we understand which plants are edible, medicinal, dangerous, commercially important, or culturally significant?
+- [x] Do we understand which plants are edible, medicinal, dangerous, commercially important, or culturally significant?
 
 **Starting points** (search further as needed): `flora/`, `cultures/`, `artifacts/`
 
@@ -554,7 +554,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase III.5 — Wildlife, domesticates, working animals, dangerous species
 
-- [ ] Have we identified common wildlife, domesticated animals, working animals, and dangerous species?
+- [x] Have we identified common wildlife, domesticated animals, working animals, and dangerous species?
 
 **Starting points** (search further as needed): `inhabitants/`
 
@@ -568,7 +568,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase III.6 — Feeding, reproduction, migration, ecological interaction
 
-- [ ] Do we understand how major species feed, reproduce, migrate, and interact within their environments where known?
+- [x] Do we understand how major species feed, reproduce, migrate, and interact within their environments where known?
 
 **Starting points** (search further as needed): `inhabitants/`, `flora/`, `regions/`
 
@@ -582,7 +582,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase III.7 — Frequency influence on biology
 
-- [ ] Have we established how different frequencies influence biology and lifeforms?
+- [x] Have we established how different frequencies influence biology and lifeforms?
 
 **Starting points** (search further as needed): `rules/`, `inhabitants/`, `flora/`, `phenomena/`, `world/`
 
@@ -596,7 +596,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase III.8 — Appearance, size, behavior, identifying traits
 
-- [ ] Do important creatures have recognizable appearances, sizes, behaviors, and identifying characteristics?
+- [x] Do important creatures have recognizable appearances, sizes, behaviors, and identifying characteristics?
 
 **Starting points** (search further as needed): `inhabitants/`, `artworks/`
 
@@ -610,7 +610,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase III.9 — Confirmed species vs rumor/legend creatures
 
-- [ ] Have we distinguished confirmed species from creatures existing only in rumor or legend?
+- [x] Have we distinguished confirmed species from creatures existing only in rumor or legend?
 
 **Starting points** (search further as needed): `inhabitants/`, `myths/`, `stories/`
 
@@ -624,7 +624,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase III.10 — Illustrated field-guide capability
 
-- [ ] Can we create illustrated field-guide entries showing anatomy, habitat, scale, and distinguishing features?
+- [x] Can we create illustrated field-guide entries showing anatomy, habitat, scale, and distinguishing features?
 
 **Starting points** (search further as needed): `artworks/`, `assets/`, `flora/`, `inhabitants/`
 
@@ -644,13 +644,15 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 **Completion test:** Can a reader imagine what it would be like to live in Veloria, or another established settlement, and describe a normal day there?
 
-**Volume status:** pending
+**Volume status:** ready for book draft
+
+**Completion note:** IV.1–IV.10 closed with definition-first hubs (peoples traits/contact; customs/expectations; speech/naming; ordinary day; authorities/factions; regional law-trade; beliefs/rituals; named profiles; visual briefs) plus enrichments to major culture packs and civic inhabitant reference profiles. Publication gates still separate. Soft limits intact (no Zero solve; no band ferry).
 
 ---
 
 ### Phase IV.1 — Major intelligent peoples
 
-- [ ] Have we identified the major intelligent peoples and established their physical characteristics and abilities?
+- [x] Have we identified the major intelligent peoples and established their physical characteristics and abilities?
 
 **Starting points** (search further as needed): `inhabitants/`, `world/`, `cultures/`
 
@@ -664,7 +666,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase IV.2 — Where peoples live and how they interact
 
-- [ ] Do we know where these peoples predominantly live and how they interact?
+- [x] Do we know where these peoples predominantly live and how they interact?
 
 **Starting points** (search further as needed): `inhabitants/`, `regions/`, `cultures/`
 
@@ -678,7 +680,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase IV.3 — Cultures, customs, celebrations, traditions, expectations
 
-- [ ] Have we established major cultures, customs, celebrations, traditions, and social expectations?
+- [x] Have we established major cultures, customs, celebrations, traditions, and social expectations?
 
 **Starting points** (search further as needed): `cultures/`, `myths/`, `symbols/`
 
@@ -692,7 +694,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase IV.4 — Languages, naming, etiquette
 
-- [ ] Do we understand how people communicate, including languages, naming conventions, and etiquette?
+- [x] Do we understand how people communicate, including languages, naming conventions, and etiquette?
 
 **Starting points** (search further as needed): `cultures/`, `symbols/`, `artifacts/`
 
@@ -706,7 +708,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase IV.5 — Ordinary life (family, education, professions, food, entertainment)
 
-- [ ] Can we explain how ordinary life works, including family, education, professions, food, and entertainment?
+- [x] Can we explain how ordinary life works, including family, education, professions, food, and entertainment?
 
 **Starting points** (search further as needed): `cultures/`, `flora/`, `artifacts/`, `stories/`, `myths/`
 
@@ -720,7 +722,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase IV.6 — Governments, authorities, organizations, factions
 
-- [ ] Have we described the governments, authorities, organizations, and factions that influence societies?
+- [x] Have we described the governments, authorities, organizations, and factions that influence societies?
 
 **Starting points** (search further as needed): `cultures/`, `regions/`, `rules/`, `inhabitants/`
 
@@ -734,7 +736,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase IV.7 — Laws, trade, economies, political relationships
 
-- [ ] Do we understand how laws, trade, economies, and political relationships differ between regions?
+- [x] Do we understand how laws, trade, economies, and political relationships differ between regions?
 
 **Starting points** (search further as needed): `rules/`, `cultures/`, `artifacts/`, `regions/`
 
@@ -748,7 +750,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase IV.8 — Religions, beliefs, rituals, cultural readings of resonance
 
-- [ ] Have we identified the major religions, beliefs, rituals, and cultural interpretations of resonance?
+- [x] Have we identified the major religions, beliefs, rituals, and cultural interpretations of resonance?
 
 **Starting points** (search further as needed): `cultures/`, `symbols/`, `myths/`, `rules/`
 
@@ -762,7 +764,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase IV.9 — Named inhabitant reference profiles
 
-- [ ] Do important named inhabitants have consistent reference profiles covering identity, origin, role, and relationships?
+- [x] Do important named inhabitants have consistent reference profiles covering identity, origin, role, and relationships?
 
 **Starting points** (search further as needed): `inhabitants/`
 
@@ -776,7 +778,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase IV.10 — Visual culture (peoples, clothing, symbols, architecture, relationships)
 
-- [ ] Can we illustrate recognizable peoples, clothing, cultural symbols, architecture, and relationship diagrams?
+- [x] Can we illustrate recognizable peoples, clothing, cultural symbols, architecture, and relationship diagrams?
 
 **Starting points** (search further as needed): `artworks/`, `assets/`, `cultures/`, `symbols/`, `world/`
 
@@ -796,13 +798,15 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 **Completion test:** Can a reader equip an adventurer, choose a believable way to travel, and understand what everyday technologies are available without inventing new rules?
 
-**Volume status:** pending
+**Volume status:** ready for book draft
+
+**Completion note:** V.1–V.10 closed with definition-first hubs (object classes; materials/making; resonant can-can’t-fail; domestic tools; vehicles/systems; information systems; goods/distribution; major relics dossiers; restricted/rare/taboo; illustration briefs) plus links into existing artifact/tech/transport/economy canon. Soft limits intact (no wish tech; no band ferry products). Publication gates still separate.
 
 ---
 
 ### Phase V.1 — Classification of objects and artifacts
 
-- [ ] Have we classified common objects, tools, technologies, resonant devices, and rare artifacts?
+- [x] Have we classified common objects, tools, technologies, resonant devices, and rare artifacts?
 
 **Starting points** (search further as needed): `artifacts/`, `world/`
 
@@ -816,7 +820,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase V.2 — Materials, energy, manufacturing
 
-- [ ] Do we know what materials, energy sources, and manufacturing methods are used?
+- [x] Do we know what materials, energy sources, and manufacturing methods are used?
 
 **Starting points** (search further as needed): `artifacts/`, `cultures/`, `regions/`, `flora/`
 
@@ -830,7 +834,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase V.3 — Resonant technology: capabilities, limits, failures
 
-- [ ] Are the capabilities, limitations, and possible failures of resonant technology established?
+- [x] Are the capabilities, limitations, and possible failures of resonant technology established?
 
 **Starting points** (search further as needed): `artifacts/`, `rules/`, `phenomena/`
 
@@ -844,7 +848,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase V.4 — Domestic objects, tools, agriculture, clothing, instruments
 
-- [ ] Have we described common domestic objects, tools, agricultural equipment, clothing, and instruments?
+- [x] Have we described common domestic objects, tools, agricultural equipment, clothing, and instruments?
 
 **Starting points** (search further as needed): `artifacts/`, `cultures/`
 
@@ -858,7 +862,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase V.5 — Vehicles and transportation systems
 
-- [ ] Do we know which vehicles and transportation systems exist and how they operate?
+- [x] Do we know which vehicles and transportation systems exist and how they operate?
 
 **Starting points** (search further as needed): `artifacts/`, `regions/`, `cultures/`, `rules/`
 
@@ -872,7 +876,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase V.6 — Recording, delivering, preserving, communicating information
 
-- [ ] Can we explain how information is recorded, delivered, preserved, and communicated?
+- [x] Can we explain how information is recorded, delivered, preserved, and communicated?
 
 **Starting points** (search further as needed): `artifacts/`, `cultures/`, `symbols/`, `rules/`
 
@@ -886,7 +890,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase V.7 — Trade, currency, markets, manufacturing, distribution
 
-- [ ] Have we established how trade, currency, markets, manufacturing, and the distribution of goods work?
+- [x] Have we established how trade, currency, markets, manufacturing, and the distribution of goods work?
 
 **Starting points** (search further as needed): `cultures/`, `artifacts/`, `regions/`, `rules/`
 
@@ -900,7 +904,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase V.8 — Major relics and artifacts
 
-- [ ] Have we documented the major relics and artifacts, including their known origins and capabilities?
+- [x] Have we documented the major relics and artifacts, including their known origins and capabilities?
 
 **Starting points** (search further as needed): `artifacts/`, `myths/`, `world/`
 
@@ -914,7 +918,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase V.9 — Dangerous, restricted, rare, expensive, taboo inventions
 
-- [ ] Do we understand which inventions are dangerous, restricted, rare, expensive, or socially taboo?
+- [x] Do we understand which inventions are dangerous, restricted, rare, expensive, or socially taboo?
 
 **Starting points** (search further as needed): `artifacts/`, `rules/`, `cultures/`
 
@@ -928,7 +932,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase V.10 — Consistent illustration of artifacts and machines
 
-- [ ] Can we illustrate important artifacts and machines with sufficiently consistent shapes, materials, dimensions, and details?
+- [x] Can we illustrate important artifacts and machines with sufficiently consistent shapes, materials, dimensions, and details?
 
 **Starting points** (search further as needed): `artworks/`, `assets/`, `artifacts/`
 
@@ -948,13 +952,15 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 **Completion test:** Can a reader explain the broad history of Dias, recognize its most important events, and distinguish what is known from what is believed?
 
-**Volume status:** pending
+**Volume status:** ready for book draft
+
+**Completion note:** VI.1–VI.10 closed with definition-first hubs (eras/chronology; evidence grades; Fracture consequences; shaping events; historical legacies; history preservation; historical symbols/legends; observation vs speculation; mystery boundaries; annotated non-saga timeline). Soft limits intact—Frequency Zero and major mysteries stay bounded open. Publication gates (8) remain separate from lore phases.
 
 ---
 
 ### Phase VI.1 — Major historical eras and chronology
 
-- [ ] Have we established the major historical eras and their chronological relationships?
+- [x] Have we established the major historical eras and their chronological relationships?
 
 **Starting points** (search further as needed): `world/`, `rules/`, `cultures/`
 
@@ -968,7 +974,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase VI.2 — Documented vs disputed vs myth vs unknown
 
-- [ ] Can we distinguish documented historical events from disputed accounts, myths, and unknown events?
+- [x] Can we distinguish documented historical events from disputed accounts, myths, and unknown events?
 
 **Starting points** (search further as needed): `world/`, `myths/`, `stories/`, `artifacts/`
 
@@ -982,7 +988,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase VI.3 — Fracture and foundational event consequences
 
-- [ ] Have we described the established consequences of the Fracture and other foundational events?
+- [x] Have we described the established consequences of the Fracture and other foundational events?
 
 **Starting points** (search further as needed): `world/`, `rules/`, `regions/`, `cultures/`, `phenomena/`
 
@@ -996,7 +1002,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase VI.4 — Migrations, conflicts, discoveries, disasters
 
-- [ ] Do we know which migrations, conflicts, discoveries, and disasters shaped the current world?
+- [x] Do we know which migrations, conflicts, discoveries, and disasters shaped the current world?
 
 **Starting points** (search further as needed): `world/`, `regions/`, `cultures/`, `inhabitants/`, `myths/`
 
@@ -1010,7 +1016,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase VI.5 — Important historical figures and legacies
 
-- [ ] Have we identified important historical figures and their verified contributions or legacies?
+- [x] Have we identified important historical figures and their verified contributions or legacies?
 
 **Starting points** (search further as needed): `inhabitants/`, `world/`, `artifacts/`, `myths/`
 
@@ -1024,7 +1030,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase VI.6 — How history is preserved
 
-- [ ] Do we understand how history is preserved through monuments, artifacts, songs, documents, and traditions?
+- [x] Do we understand how history is preserved through monuments, artifacts, songs, documents, and traditions?
 
 **Starting points** (search further as needed): `artifacts/`, `cultures/`, `symbols/`, `regions/`, `myths/`
 
@@ -1038,7 +1044,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase VI.7 — Symbols, meanings, legends, beliefs tied to history
 
-- [ ] Have we documented the major symbols, meanings, legends, and beliefs associated with the world's history?
+- [x] Have we documented the major symbols, meanings, legends, and beliefs associated with the world's history?
 
 **Starting points** (search further as needed): `symbols/`, `myths/`, `cultures/`, `artworks/`
 
@@ -1052,7 +1058,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase VI.8 — Observed phenomena vs speculative causes
 
-- [ ] Are significant observed phenomena separated from speculation about their causes?
+- [x] Are significant observed phenomena separated from speculation about their causes?
 
 **Starting points** (search further as needed): `phenomena/`, `rules/`, `myths/`, `world/`
 
@@ -1066,7 +1072,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase VI.9 — Boundaries of unresolved mysteries (no forced solves)
 
-- [ ] Have we defined the known boundaries of each major unresolved mystery without unnecessarily revealing its solution?
+- [x] Have we defined the known boundaries of each major unresolved mystery without unnecessarily revealing its solution?
 
 **Starting points** (search further as needed): `world/`, `rules/`, [`secrets-pointer.md`](secrets-pointer.md) (author pressure only)
 
@@ -1080,7 +1086,7 @@ Each phase lists **starting points**—places to open first. They are **not** a 
 
 ### Phase VI.10 — Annotated timeline for non-saga readers
 
-- [ ] Can we construct an annotated timeline that makes history understandable without requiring readers to follow the sagas?
+- [x] Can we construct an annotated timeline that makes history understandable without requiring readers to follow the sagas?
 
 **Starting points** (search further as needed): `world/`, `artworks/`, `assets/`
 

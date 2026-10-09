@@ -5,28 +5,41 @@ region: Nauw Outer Rim Seas
 related:
   - Flora of Dias
   - Nauw Outer Rim Seas
+  - Human-Eyed Whales
+  - Singing Fishermen
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - food
   - line craft
   - flora
+  - edible
+  - commercial
 status: canonical
 ---
 
 # Whale-Road Kelp
 
+## Name
+
+Whale-Road Kelp
+
 ## Overview
 
-**Whale-Road Kelp** is plant life of **Outer Rim seas**, known to locals mainly as something you eat, drink, or cook with—dried in Hollowmere; song crews know beds.
+Long kelp of whale-road lanes—food and line craft for Singing Fishermen who keep ethics with eyes that watch back.
 
 ## Description
 
-Range and habit: **Outer Rim seas**. Dried in Hollowmere; song crews know beds. Archive kind tag: *ordinary*.
+**Look:** long olive straps; holdfast stone; sweet-brine when steamed  
+**Where:** Outer Rim whale-road shallows, known fisher lanes  
+**Habit:** seasonal cut under loft assent  
+**Tell:** food kelp—not a “whale leash”
 
 ## Local Use
 
-Locals use it for: **food / line craft**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible + line craft.** Steam, dry, braid. Harvest manners bound to whale ethics talk.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible, commercial.

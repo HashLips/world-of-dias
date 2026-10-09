@@ -5,6 +5,9 @@ region: Eastbound Fruit Road
 related:
   - Flora of Dias
   - Eastbound Fruit Road
+  - Fruit-Road Draft-Ponies
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - observed
@@ -15,18 +18,25 @@ status: canonical
 
 # Eastbound Peel-Vine
 
+## Name
+
+Eastbound Peel-Vine
+
 ## Overview
 
-**Eastbound Peel-Vine** is flora of **Eastbound Fruit Road**, used or noticed as **observed / fodder**. Climbs cart-shade frames.
+Vine that climbs fruit-cart shade frames—peel-scented leaves ponies nibble when stopped at tolls.
 
 ## Description
 
-Range and habit: **Eastbound Fruit Road**. Climbs cart-shade frames. Archive kind tag: *ordinary*.
+**Look:** twining vine; leaves sticky with fruit dust; small pale flowers ignored  
+**Where:** Eastbound Fruit Road cart frames, waystation posts  
+**Habit:** rides the road more than the soil  
+**Tell:** fodder nibble—not a second banana
 
 ## Local Use
 
-Locals use it for: **observed / fodder**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / fodder.** Let ponies trim. Do not sell as Lucky Fruit cousin.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary road flora.

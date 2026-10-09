@@ -5,30 +5,41 @@ region: Quiet Well
 related:
   - Flora of Dias
   - Quiet Well
-  - Lumira Silence Law
-  - A Date Palm and an Empty Court
+  - Lumira Silent Dune Habitat
+  - Silent Dune Keep
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - sacred-useful
+  - ordinary
   - food
-  - shade
+  - sacred-soft
   - flora
+  - edible
+  - cultural
 status: canonical
 ---
 
 # Quiet Well Date-Palm
 
+## Name
+
+Quiet Well Date-Palm
+
 ## Overview
 
-**Quiet Well Date-Palm** is plant life of **Quiet Well**, known to locals mainly as something you eat, drink, or cook with—silence harvest etiquette.
+Date palms of the true Quiet Well green node—food and shade under map-wrong mercy.
 
 ## Description
 
-Range and habit: **Quiet Well**. Silence harvest etiquette. Archive kind tag: *sacred-useful*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** tall date palms; sweet fruit; shade that insect-hushes  
+**Where:** Quiet Well true oasis (not decoys)  
+**Habit:** Keep-stewarded; public maps mislead toward cousins  
+**Tell:** true well shade—never publish GPS-brag
 
 ## Local Use
 
-Locals use it for: **food / shade**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible + sacred-soft.** Dates with soft voices. Stripping for export breaks Silence Law spirit.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `sacred-useful`.
+Plant Use Classes: edible, cultural. Restricted.

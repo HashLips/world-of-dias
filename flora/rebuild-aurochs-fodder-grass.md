@@ -5,27 +5,35 @@ region: F840 (frequency realm)
 related:
   - Flora of Dias
   - F840 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - ordinary analog
-  - fodder
+  - else-green
   - flora
 status: canonical
 ---
 
 # Rebuild Aurochs Fodder-Grass
 
+## Name
+
+Rebuild Aurochs Fodder-Grass
+
 ## Overview
 
-**Rebuild Aurochs Fodder-Grass** is flora of **F840**, used or noticed as **fodder**. Hardy haul-beast feed.
+Fodder grass for rebuild beasts in F840 ember logistics talk—thin biosphere note.
 
 ## Description
 
-Range and habit: **F840**. Hardy haul-beast feed. Archive kind tag: *ordinary analog*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** tough fodder grass; ash-tolerant  
+**Where:** F840 rebuild margins  
+**Habit:** ember pace  
+**Tell:** fodder—not Blackbridge hay twin as F432 import
 
 ## Local Use
 
-Locals use it for: **fodder**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** No band ferry seed sales.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary analog`.
+Else-green.

@@ -2,8 +2,10 @@
 category: inhabitant
 name: Marek Solon
 region: Nauw Outer Rim Seas
-culture:
+culture: Tide-Song Custodianship
 related:
+  - Named Inhabitant Profiles of Dias
+  - Tide-Song Custodianship
   - Nauw Outer Rim Seas
   - Singing Fishermen
   - Peck 1 (Marek Solon Portrait)
@@ -43,6 +45,16 @@ Some communities treat Marek as a sacred sign tied to old fracture remnants. Oth
 ## Narrative Role
 
 Marek represents living continuity between maritime governance and unresolved fracture history in F432.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Palewind Swarm lineage; Tide Warden; dual-form |
+| **Origin** | Outer Rim sea-route memory |
+| **Role** | Tide-Song custodianship; fisher survival law |
+| **Relationships** | Calen Brink; loft crews; Singing Fishermen |
+| **Soft limit** | Dual-form is not a ferry; Fracture grief stays unresolved |
 
 ## Notes
 

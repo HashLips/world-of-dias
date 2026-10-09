@@ -4,6 +4,7 @@ name: Echo Belief Stances
 region: Dias
 related:
   - Belief of Dias
+  - Beliefs Rituals and Resonance Readings of Dias
   - Echo interpretation stances
   - Everything resonates echo principle
   - Resonant Artifacts

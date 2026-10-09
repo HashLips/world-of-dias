@@ -11,6 +11,8 @@ related:
   - Nauw
   - Veloria City
   - Mirrored Gaze of a Veyrin
+  - Peoples Physical Traits of Dias
+  - Peoples Places and Contact of Dias
 themes:
   - signature traits
   - anomaly inheritance
@@ -30,6 +32,12 @@ Veyrin are a human-like race in F432 distinguished by one innate **signature tra
 Veyrin anatomy is broadly humanoid, but each person manifests a stable uncommon capacity (for example reflective memory, interval pattern sensing, pressureless balance, or tonal tracing). These traits are usually narrow and situational rather than unlimited power systems.
 
 Visually, many Veyrin pass as human at first glance, then show one persistent marker linked to their trait: mirrored irises, shifting vein-light, pattern-scored skin lines, or a subtle halo-like distortion around hands, voice, or gaze during focused use.
+
+### Abilities and limits
+
+**Can:** one stable personal signature trait (e.g. reflective memory, pressureless balance, tonal tracing)—narrow and situational.  
+**Cannot:** swap traits casually; wield unlimited “magic”; treat the trait as a carnival without social cost.  
+**Cost:** discipline over spectacle; asking “what’s your trick?” at table is rude—ask what they do.
 
 ## Beliefs About Them
 

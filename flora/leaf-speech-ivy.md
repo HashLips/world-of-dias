@@ -5,8 +5,11 @@ region: Aelwyn Canopy
 related:
   - Flora of Dias
   - Aelwyn Canopy
+  - When Trees Sing
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - magical-leaning
+  - ordinary
   - observed
   - flora
 status: canonical
@@ -14,18 +17,25 @@ status: canonical
 
 # Leaf-Speech Ivy
 
+## Name
+
+Leaf-Speech Ivy
+
 ## Overview
 
-**Leaf-Speech Ivy** is noted around **Deep canopy**. People watch it more than they take it. Rustle patterns locals read as weather talk.
+Ivy folk say “speaks” when Softfall drums leaves—observed omen plant, not a talking god-vine.
 
 ## Description
 
-Range and habit: **Deep canopy**. Rustle patterns locals read as weather talk. Archive kind tag: *magical-leaning*.
+**Look:** dark ivy with pale vein script-looking marks; wet-leaf voice in Softfall  
+**Where:** Aelwyn Canopy walkways, drip-river edges  
+**Habit:** noisiest in Softfall roofs  
+**Tell:** omen sound—not language lesson
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed.** Listen; do not cut for “speech charms.”
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `magical-leaning`.
+Observed cultural soft.

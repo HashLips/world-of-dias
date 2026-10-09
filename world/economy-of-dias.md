@@ -15,6 +15,9 @@ related:
   - Mountain of Majestic Good Trade
   - Pot Signal Customs
   - Settlements of Dias
+  - Laws Trade and Regional Economies of Dias
+  - Markets of Dias
+  - Goods Markets and Distribution of Dias
 themes:
   - economy
   - trade
@@ -42,12 +45,15 @@ Full entries below—indexes alone are not enough.
 
 | Need | Entry |
 | --- | --- |
+| **IV.7 regional law/trade sheet** | [Laws Trade and Regional Economies of Dias](laws-trade-and-regional-economies-of-dias.md) |
+| **V.7 merchant loop sheet** | [Goods Markets and Distribution of Dias](goods-markets-and-distribution-of-dias.md) |
 | Shared coin rules | [VEL Mark Trade Standard](../cultures/vel-mark-trade-standard.md) |
 | How tenders pluralize | [F432 Plural Tender Economies](../cultures/f432-plural-tender-economies.md) |
 | Jobs & work textures | [Labor Types of F432](../cultures/labor-types-of-f432.md) |
 | Kind vs crooked markets | [Kindness Markets and Black Markets](../cultures/kindness-markets-and-black-markets.md) |
 | Fruit as apex trade | [Fruit Trade Economy](../cultures/fruit-trade-economy.md) |
 | Salvage / claims / yards | [Salvage and Claim Economy](../cultures/salvage-and-claim-economy.md) |
+| Market manners | [Markets of Dias](markets-of-dias.md) |
 
 ---
 

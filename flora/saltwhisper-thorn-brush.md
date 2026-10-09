@@ -5,28 +5,37 @@ region: Saltwhisper Road
 related:
   - Flora of Dias
   - Saltwhisper Road
+  - Lumira Sands
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - barrier
-  - dye
+  - hazard soft
   - flora
 status: canonical
 ---
 
 # Saltwhisper Thorn-Brush
 
+## Name
+
+Saltwhisper Thorn-Brush
+
 ## Overview
 
-**Saltwhisper Thorn-Brush** is flora of **Saltwhisper Road**, used or noticed as **barrier / dye**. Ink-dark boil dye.
+Thorn brush flanking Saltwhisper—keeps loud shortcuts unpopular.
 
 ## Description
 
-Range and habit: **Saltwhisper Road**. Ink-dark boil dye. Archive kind tag: *ordinary*.
+**Look:** gray thorn scrub; hooked tips; catches cloth  
+**Where:** Saltwhisper Road shoulders  
+**Habit:** dense where false paths tempt  
+**Tell:** thorn manners—not Quietwell Serpent
 
 ## Local Use
 
-Locals use it for: **barrier / dye**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / soft hazard.** Stay on assent path. Clearing brush without Keep is trespass.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Soft hazard ordinary.

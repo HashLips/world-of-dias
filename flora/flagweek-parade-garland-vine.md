@@ -1,31 +1,42 @@
 ---
 category: flora
-name: Flagweek Parade-Garland Vine
+name: Flagweek Parade Garland-Vine
 region: Flagweek Strip
 related:
   - Flora of Dias
   - Flagweek Strip
+  - Flagweek Dust Reach
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - decoration
+  - festival
   - flora
+  - cultural
 status: canonical
 ---
 
-# Flagweek Parade-Garland Vine
+# Flagweek Parade Garland-Vine
+
+## Name
+
+Flagweek Parade Garland-Vine
 
 ## Overview
 
-**Flagweek Parade-Garland Vine** is flora of **Flagweek Strip**, used or noticed as **decoration**. Goat-proof almost.
+Vine woven into Flagweek garlands—cloth-weather green for poles and tables.
 
 ## Description
 
-Range and habit: **Flagweek Strip**. Goat-proof almost. Archive kind tag: *ordinary*.
+**Look:** fast vine; soft leaves; ties easy  
+**Where:** Flagweek Dust Reach margins, strip gardens  
+**Habit:** festival peak; sulks between weeks  
+**Tell:** garland vine—not Eastbound peel-vine
 
 ## Local Use
 
-Locals use it for: **decoration**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural festival.** Weave. Strip-fence greed before Flagweek is rude.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: cultural.

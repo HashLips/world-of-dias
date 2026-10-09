@@ -4,32 +4,45 @@ name: Market Banana
 region: Nauw
 related:
   - Flora of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
   - Nauw
   - Nauw Fruit Reverence
   - Hunger
   - Wabet
+  - Eastbound Fruit Road
+  - Aelwyn Softfall Canopy Habitat
+  - Lucky Fruit sharing-knife
 themes:
   - ordinary
   - cultural
   - food apex
   - flora
+  - commercial
 status: canonical
 ---
 
 # Market Banana
 
+## Name
+
+Market Banana
+
 ## Overview
 
-**Market Banana** is plant life of **Wabet→Nauw markets**, known to locals mainly as something you eat, drink, or cook with—imported staple; Fruit Reverence supreme rank.
+**Market Banana** is the supreme-rank fruit of Nauw food talk—grown mainly in Wabet canopy country, carried east on fruit roads, sold and shared under Fruit Reverence manners.
 
 ## Description
 
-Range and habit: **Wabet→Nauw markets**. Imported staple; Fruit Reverence supreme rank. Archive kind tag: *ordinary+cultural*. Clusters, scent, and market rank make it unmistakable in Nauw food talk even when the orchard itself sits in Wabet.
+**Look:** curved yellow-green to deep gold clusters; peel scent sweet-starch; hands of fruit stacked like soft bricks in crates.  
+**Where:** orchards and Lucky Farmer surveys in Wabet (Aelwyn Softfall Canopy Habitat); markets and Softfruit tables across Nauw; crates on Eastbound Fruit Road.  
+**Habit:** harvested in Wabet; rare as true local Nauw grove king—import is the honest story.  
+**Tell:** cultural apex rank—other fruit may be loved; banana is argued as highest class in Fruit Reverence speech.
 
 ## Local Use
 
-Locals use it for: **food apex**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible + cultural + commercial.** Cook, share, offer, pay toll manners with. Sharing-knife customs and Softfruit table etiquette apply. Stealing orchard fruit is not “market cleverness.”
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary+cultural`.
+Indexed in Flora of Dias. Kind: ordinary+cultural. Plant Use Classes: edible, commercial, cultural. Field-guide demonstrator for import honesty.

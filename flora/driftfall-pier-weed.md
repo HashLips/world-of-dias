@@ -5,28 +5,37 @@ region: Driftfall
 related:
   - Flora of Dias
   - Driftfall
+  - Driftfall Salvage Tide Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - observed
-  - crab cover
   - flora
 status: canonical
 ---
 
 # Driftfall Pier-Weed
 
+## Name
+
+Driftfall Pier-Weed
+
 ## Overview
 
-**Driftfall Pier-Weed** is flora of **Driftfall**, used or noticed as **observed / crab cover**. Rope-crab nursery green.
+Green weed between pier planks—marks wet living shore under salvage ribs.
 
 ## Description
 
-Range and habit: **Driftfall**. Rope-crab nursery green. Archive kind tag: *ordinary*.
+**Look:** slippery pier weed; bright in wet; stinks kind when crushed  
+**Where:** Driftfall piers, salvage shore  
+**Habit:** tide-fed; scraped for footing carefully  
+**Tell:** pier weed—not Songripe seagrass beds
 
 ## Local Use
 
-Locals use it for: **observed / crab cover**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Leave some green. Scraping all life off piers is lonely carpentry.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary shore.

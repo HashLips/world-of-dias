@@ -5,30 +5,36 @@ region: Songripe Isles
 related:
   - Flora of Dias
   - Songripe Isles
-  - The Isles Where Fruit Will Not Ripen
-  - Hard Green Fruit on a Rocky Shore
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - magical-leaning
-  - unripe fruit
-  - song time
+  - ordinary
+  - timber soft
   - flora
 status: canonical
 ---
 
 # Songripe Evergreen
 
+## Name
+
+Songripe Evergreen
+
 ## Overview
 
-**Songripe Evergreen** is associated with **Songripe Isles** and leans beyond ordinary garden behavior. Will not ripen; mercy pocket.
+Evergreens of Songripe—low listening timber cousin to Wabet quiet architecture.
 
 ## Description
 
-Range and habit: **Songripe Isles**. Will not ripen; mercy pocket. Archive kind tag: *magical-leaning*.
+**Look:** dark needles; resin clean-coast scent; wind-leaned crowns  
+**Where:** Songripe Isle ridges  
+**Habit:** slow growth; rare clear-cut  
+**Tell:** listening timber—not Concord ring stone
 
 ## Local Use
 
-Locals use it for: **unripe fruit / song time**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Craft timber (restraint).** Build low. Conquest logging fails west manners.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `magical-leaning`.
+Commercial soft restraint.

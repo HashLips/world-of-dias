@@ -5,6 +5,9 @@ region: Rim Rest
 related:
   - Flora of Dias
   - Rim Rest
+  - Outer Rim Salt Fog Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - craft
@@ -15,18 +18,25 @@ status: canonical
 
 # Rim Rest Glow-Lichen
 
+## Name
+
+Rim Rest Glow-Lichen
+
 ## Overview
 
-**Rim Rest Glow-Lichen** is flora of **Rim Rest cliffs**, used or noticed as **path mark**. Faint night mark with fireflies.
+Faint glow-lichen Rim-Rest uses as path mark on wet nights—craft cousin to ordinary lichen, still not a ferry lamp.
 
 ## Description
 
-Range and habit: **Rim Rest cliffs**. Faint night mark with fireflies. Archive kind tag: *ordinary→craft*.
+**Look:** pale lichen with soft night glow; cool light; dies if scraped into jars as “sold glow”  
+**Where:** Rim-Rest pier posts, cove path stones  
+**Habit:** glows damp nights; dulls in Brightpass noon  
+**Tell:** path mark—not Sky Drifter bait
 
 ## Local Use
 
-Locals use it for: **path mark**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Craft path mark.** Guide feet. Scraping for novelty lamps earns loft scorn.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary→craft`.
+Ordinary craft flora.

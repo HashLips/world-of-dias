@@ -2,10 +2,12 @@
 category: inhabitant
 name: Vailor Quentin
 region: F432 (frequency realm)
-culture:
+culture: Resonant Houses
 related:
   - F432 (frequency realm)
   - Resonant Houses
+  - Named Inhabitant Profiles of Dias
+  - Oriven Tal
   - Two Phase (Vailor Quentin Portrait)
   - The Red Sail Crown of Vailor
   - The Harmonic Saga
@@ -45,6 +47,16 @@ Two incompatible stories persist around his crown-standard: one says he seized i
 ## Narrative Role
 
 Vailor represents centralized realm power and the constant tension between unity and autonomy in F432.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Human; High Resonant |
+| **Origin** | Realm crown-standard politics (contested gift vs seizure stories) |
+| **Role** | Public order face of F432; short enforceable direction |
+| **Relationships** | Resonant Houses; Oriven Tal caution; local resistance minorities |
+| **Soft limit** | Crown origin unresolved; not a Zero oracle |
 
 ## Notes
 

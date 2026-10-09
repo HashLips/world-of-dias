@@ -5,27 +5,36 @@ region: Stillhollow
 related:
   - Flora of Dias
   - Stillhollow
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
+  - ordinary
   - observed
-  - rumor
   - flora
-status: rumor
+status: canonical
 ---
 
 # Stillhollow Mouth-Fern
 
+## Name
+
+Stillhollow Mouth-Fern
+
 ## Overview
 
-**Stillhollow Mouth-Fern** is noted around **Stillhollow entrance**. People watch it more than they take it. Greener than it should be in ash wind.
+Fern at Stillhollow’s mouth—marks the hush line where rumor thickens.
 
 ## Description
 
-Range and habit: **Stillhollow entrance**. Greener than it should be in ash wind. Archive kind tag: *observed / rumor*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape. Descriptions disagree; do not treat any single witness as complete.
+**Look:** large hush ferns; cool shade; spore dust  
+**Where:** Stillhollow entrance shade  
+**Habit:** marks approach  
+**Tell:** mouth fern—not Softfall picnic fern
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed boundary.** Do not clear for “better photos.”
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `observed / rumor`.
+Ordinary boundary.

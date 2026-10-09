@@ -1,31 +1,43 @@
 ---
 category: flora
-name: Exile Road Bittercress
+name: Exile-Road Bittercress
 region: Sorel
 related:
   - Flora of Dias
   - Sorel
+  - Hearthvale Rebuild Field Habitat
+  - Long Gate
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - emergency forage
+  - food
   - flora
+  - edible
 status: canonical
 ---
 
-# Exile Road Bittercress
+# Exile-Road Bittercress
+
+## Name
+
+Exile-Road Bittercress
 
 ## Overview
 
-**Exile Road Bittercress** is flora of **Exile roads**, used or noticed as **emergency forage**. Survives boot traffic.
+Bittercress of exile roads—first green chewed between Long Gate and first bowl.
 
 ## Description
 
-Range and habit: **Exile roads**. Survives boot traffic. Archive kind tag: *ordinary*.
+**Look:** small bitter leaves; roadside grit; white cross flowers  
+**Where:** exile roads into Hearthvale, Emberslope ditches  
+**Habit:** appears after rain; stolen by hunger fast  
+**Tell:** bitter mercy—not Softfruit garnish parsley
 
 ## Local Use
 
-Locals use it for: **emergency forage**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible mercy.** Eat to arrive. Romanticizing the chew is rude.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

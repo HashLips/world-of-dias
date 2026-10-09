@@ -5,28 +5,38 @@ region: Aelwyn Canopy
 related:
   - Flora of Dias
   - Aelwyn Canopy
+  - Aelwyn Softfall Canopy Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - beauty
   - observed
+  - beauty
   - flora
 status: canonical
 ---
 
 # Canopy Epiphyte Orchid
 
+## Name
+
+Canopy Epiphyte Orchid
+
 ## Overview
 
-**Canopy Epiphyte Orchid** is flora of **High Aelwyn**, used or noticed as **beauty / observed**. No harvest without Keeper assent.
+Epiphyte orchids on high Aelwyn limbs—beauty that Keepers prefer left uncollected.
 
 ## Description
 
-Range and habit: **High Aelwyn**. No harvest without Keeper assent. Archive kind tag: *ordinary*.
+**Look:** small spotted orchids; roots like pale fingers on bark; mist-fed  
+**Where:** high Aelwyn limbs, Softfall drip zones  
+**Habit:** never soil-rooted; dies in basin pots often  
+**Tell:** beauty observed—not market orchid crates
 
 ## Local Use
 
-Locals use it for: **beauty / observed**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / sacred-soft beauty.** Photograph with eyes. Taking whole clumps without Keeper assent is theft of calm.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Cultural soft / observed.

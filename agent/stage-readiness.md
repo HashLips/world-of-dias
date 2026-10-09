@@ -12,11 +12,19 @@ Stage-building Sections **1–35** are complete (flesh-and-balance done; soft li
 
 **Volume II (Atlas):** phases II.1–II.10 complete after deepen pass (settlement walks, landforms, seasons, place webs, map levels); volume status **ready for book draft**.
 
-**Volume III (Living World):** pending—start when the human asks.
+**Volume III (Living World):** phases III.1–III.10 marked complete; volume status **ready for book draft**. Flora deepen pass applied (field-guide Look/Where/Habit/Tell across `flora/`).
+
+**Volume IV (Peoples and Civilizations):** phases IV.1–IV.10 marked complete; volume status **ready for book draft**.
+
+**Volume V (Artifacts and Inventions):** phases V.1–V.10 marked complete; volume status **ready for book draft**.
+
+**Volume VI (Echoes and Mysteries):** phases VI.1–VI.10 marked complete; volume status **ready for book draft**.
+
+**Book-series lore phases (I–VI):** all 61 phases marked complete for repository readiness. **Publication gates** in `plan.md` remain separate (0 of 8).
 
 ## Safe to write next
 
-- Phases from [`plan.md`](plan.md) when the human asks to run a volume/phase (Volume III next).  
+- Publication-gate inventory / deepen passes if the human asks (maps, contradictions, glossary, commit pinning)—not casual Zero solves.  
 - Local arcs that pull hub webs (Softfruit, loft hail, Watch slate, Quiet Well path, Claimscar breakfast).  
 - Investigations using evidence genres (toll book + song calendar + forged handbill).  
 - Mystery *clues* that thicken without closing Frequency Zero.  

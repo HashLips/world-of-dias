@@ -5,6 +5,9 @@ region: Veloria City
 related:
   - Flora of Dias
   - Veloria City
+  - Veloria Festival Sky-Whales
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - craft
   - construct decor
@@ -14,18 +17,25 @@ status: canonical
 
 # Sky-Whale Festival Paperflower
 
+## Name
+
+Sky-Whale Festival Paperflower
+
 ## Overview
 
-**Sky-Whale Festival Paperflower** is flora of **Veloria fairs**, used or noticed as **construct decor**. Not wild; civic bloom on Sky-Whale frames.
+Paper-and-pith festival “flower” sold as decor when sky-whale talk peaks—craft construct more than garden species, archived with flora because markets sell it beside real blooms.
 
 ## Description
 
-Range and habit: **Veloria fairs**. Not wild; civic bloom on Sky-Whale frames. Archive kind tag: *craft*.
+**Look:** crepe and pith petals on wire; painted whale-eye centers; light enough for child strings  
+**Where:** Veloria festival stalls, ring-fair weeks, Sky Drifter watch parties  
+**Habit:** made, not grown; rain ruins a night’s work  
+**Tell:** no root, no seed—if a seller claims it “sprouts overnight,” walk away
 
 ## Local Use
 
-Locals use it for: **construct decor**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial craft decor.** Festival joy. Not edible. Not a band omen.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `craft`.
+Craft flora-adjacent. Keep distinct from living plants.

@@ -5,28 +5,36 @@ region: The Unfinished
 related:
   - Flora of Dias
   - The Unfinished
-  - Construction Lines, Not Words
+  - F960 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - else-green
-  - craft omen
+  - ordinary
   - flora
 status: canonical
 ---
 
 # Sketchleaf
 
+## Name
+
+Sketchleaf
+
 ## Overview
 
-**Sketchleaf** is associated with **F960 Unfinished** and leans beyond ordinary garden behavior. Construction lines in leaf.
+Leaf of Unfinished places—sketch margins that refuse final ink.
 
 ## Description
 
-Range and habit: **F960 Unfinished**. Construction lines in leaf. Archive kind tag: *else-green*.
+**Look:** leaf with unfinished veins; draft look  
+**Where:** The Unfinished / draft margins  
+**Habit:** revision cousins  
+**Tell:** sketchleaf—not Sketchy Gallery dustfern alone
 
 ## Local Use
 
-Locals use it for: **craft omen**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Honesty about unfinished.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Unfinished flora.

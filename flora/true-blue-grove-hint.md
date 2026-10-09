@@ -1,32 +1,42 @@
 ---
 category: flora
-name: True-Blue Grove Hint
+name: True Blue Grove Hint
 region: Ashcalm Rise
 related:
   - Flora of Dias
   - Ashcalm Rise
+  - Frederick Lumens
+  - The Lumen Saga
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - magical-leaning
-  - saga-tied
+  - rumor soft
   - observed
   - flora
 status: canonical
 ---
 
-# True-Blue Grove Hint
+# True Blue Grove Hint
+
+## Name
+
+True Blue Grove Hint
 
 ## Overview
 
-**True-Blue Grove Hint** is associated with **Ashcalm approaches** and leans beyond ordinary garden behavior. Rumor flora near Stillhollow climbs.
+Hint-plants folk tie to True Blue grove rumors near Ashcalm—thin proof, strong story.
 
 ## Description
 
-Range and habit: **Ashcalm approaches**. Rumor flora near Stillhollow climbs. Archive kind tag: *magical-leaning*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** uncertain blue-leaved scrub; witness disagree  
+**Where:** Ashcalm Rise rumor margins  
+**Habit:** saga-adjacent; not mapped hard  
+**Tell:** hint—not confirmed True Blue orchard
 
 ## Local Use
 
-Locals use it for: **saga-tied / observed**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Rumor / observed.** Do not sell tours as fact. Soft limits intact.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `magical-leaning`.
+Rumor soft.

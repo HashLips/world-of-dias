@@ -1,32 +1,45 @@
 ---
 category: flora
-name: Blue Banana (isle joke cultivar)
+name: Blue Banana
 region: Songripe Isles
 related:
   - Flora of Dias
   - Songripe Isles
+  - Market Banana
+  - Nauw Fruit Reverence
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - humor
-  - unripe joke food
+  - food
+  - rare
   - flora
+  - edible
+  - cultural
 status: canonical
 ---
 
-# Blue Banana (isle joke cultivar)
+# Blue Banana
+
+## Name
+
+Blue Banana
 
 ## Overview
 
-**Blue Banana (isle joke cultivar)** is plant life of **Songripe**, known to locals mainly as something you eat, drink, or cook with—named in Blue Banana humor.
+Rare blue-tinged banana of Songripe—cousin of Market Banana, never allowed to outrank it in Nauw speech.
 
 ## Description
 
-Range and habit: **Songripe**. Named in Blue Banana humor. Archive kind tag: *ordinary+humor*. Clusters, scent, and market rank make it unmistakable in Nauw food talk even when the orchard itself sits in Wabet.
+**Look:** blue-green peel blush; sweet pale flesh; small hands  
+**Where:** Songripe Isles orchards  
+**Habit:** rare fruitcarry; rumor thicker than crates  
+**Tell:** blue cousin—not apex over Market Banana
 
 ## Local Use
 
-Locals use it for: **unripe joke food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible rare.** Softfruit may share; Nauw rank politics stay banana-gold first.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary+humor`.
+Plant Use Classes: edible, cultural.

@@ -5,6 +5,9 @@ region: Veloria City
 related:
   - Flora of Dias
   - Veloria City
+  - Ringroad Dogs
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - observed
@@ -15,18 +18,25 @@ status: canonical
 
 # Ringroad Ditch-Daisy
 
+## Name
+
+Ringroad Ditch-Daisy
+
 ## Overview
 
-**Ringroad Ditch-Daisy** is flora of **Veloria ring roads**, used or noticed as **observed / child crown**. Dog-trampled resilient.
+Common white ditch daisy of Veloria ring berms—children braid crowns; dogs sneeze through them at dusk census.
 
 ## Description
 
-Range and habit: **Veloria ring roads**. Dog-trampled resilient. Archive kind tag: *ordinary*.
+**Look:** white rays, yellow eye, knee-high; stems that snap clean for crowns  
+**Where:** outer-ring ditches, cart berms, Basin Mist Orchard habitat road edges  
+**Habit:** returns after rain; crushed by fair crowds then returns anyway  
+**Tell:** no dye worth; if petals bruise black overnight, wrong flower
 
 ## Local Use
 
-Locals use it for: **observed / child crown**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / child play.** Crowns and “he-loves-me” games. Not a market crop.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary wildlife-adjacent flora of civic life.

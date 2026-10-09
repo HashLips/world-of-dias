@@ -5,26 +5,37 @@ region: Sprout Vent
 related:
   - Flora of Dias
   - Sprout Vent
+  - Sprout Vent Haze Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - hazard observed
+  - ordinary
+  - caution
   - flora
 status: canonical
 ---
 
 # Daughter-Vent Warmfern
 
+## Name
+
+Daughter-Vent Warmfern
+
 ## Overview
 
-**Daughter-Vent Warmfern** is noted around **Vent daughters**. People watch it more than they take it. Unfurls over warm mounds.
+Warmfern of daughter vents—likes heat edges, warns haze weeks with lush lies.
 
 ## Description
 
-Range and habit: **Vent daughters**. Unfurls over warm mounds. Archive kind tag: *hazard observed*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** lush warm fern; heat-loving; spore dust  
+**Where:** Sprout Vent Haze Habitat shoulders  
+**Habit:** lush before haze peaks  
+**Tell:** warmfern—not Softfall fern picnic
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed caution.** Beauty can precede Vent Haze chores.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `hazard observed`.
+Ordinary vent edge.

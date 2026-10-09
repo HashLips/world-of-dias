@@ -11,6 +11,8 @@ related:
   - Nauw Outer Rim Seas
   - Wabet
   - Pale Motes of a Palewind
+  - Peoples Physical Traits of Dias
+  - Peoples Places and Contact of Dias
 themes:
   - swarm personhood
   - distributed intelligence
@@ -30,6 +32,12 @@ Palewind Swarms are a dominant F432 race whose personhood is distributed across 
 A single Palewind individual may appear as a drifting veil of motes, filament clusters, or temporary gathered forms. They can partition for short tasks and reconverge without losing continuity of self.
 
 At rest, many appear as hovering clouds of pale particles with subtle internal currents; in social contexts, they often condense into rough humanoid or totemic silhouettes to ease interaction. Their visible "body" can thicken, thin, or branch as attention and intent shift.
+
+### Abilities and limits
+
+**Can:** partition for short tasks and reconverge without losing self; season shared steam with spice-motes; scout as veil.  
+**Cannot:** be counted as many citizens by mote-count—law treats continuity; anonymity myth is prejudice.  
+**Cost:** clerks who partition-count start fights; condensed silhouettes are courtesy, not “becoming human.”
 
 ## Beliefs About Them
 

@@ -6,27 +6,38 @@ related:
   - Flora of Dias
   - That Forest
   - Blue Litter Underwood
-  - Blue Litter Bottling Ban
+  - That Forest Blue Underwood Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - unsettled
+  - ordinary
+  - caution
   - flora
-status: unknown
+  - hazard soft
+status: canonical
 ---
 
 # Underwood Bluecap
 
+## Name
+
+Underwood Bluecap
+
 ## Overview
 
-**Underwood Bluecap** is noted around **Blue litter edges**. People watch it more than they take it. Tiny caps; bottling banned culture-adjacent.
+Bluecap mushrooms of blue-litter underwood—pretty, cautioned, not a Softfruit snack dare.
 
 ## Description
 
-Range and habit: **Blue litter edges**. Tiny caps; bottling banned culture-adjacent. Archive kind tag: *unsettled*.
+**Look:** small blue-gray caps; litter-dusted stems; cool smell  
+**Where:** That Forest Blue Underwood Habitat  
+**Habit:** follows blue litter pressure  
+**Tell:** caution flora—not kitchen blue
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed / caution.** Do not eat for “blue visions.” Extraction bans may apply.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `unsettled`.
+Hazard soft / observed.

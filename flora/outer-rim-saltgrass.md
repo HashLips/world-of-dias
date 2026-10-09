@@ -5,28 +5,39 @@ region: Nauw Outer Rim Seas
 related:
   - Flora of Dias
   - Nauw Outer Rim Seas
+  - Outer Rim Salt Fog Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - thatch
   - forage
   - flora
+  - commercial
 status: canonical
 ---
 
 # Outer Rim Saltgrass
 
+## Name
+
+Outer Rim Saltgrass
+
 ## Overview
 
-**Outer Rim Saltgrass** is flora of **Nauw Outer Rim**, used or noticed as **thatch / forage**. Holds dunes above high tide.
+Tough saltgrass of rim cliffs and cove tops—thatch and forage that laughs at basin soft herbs.
 
 ## Description
 
-Range and habit: **Nauw Outer Rim**. Holds dunes above high tide. Archive kind tag: *ordinary*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** wiry gray-green blades; salt crust at tips; roots that grip rock  
+**Where:** Outer Rim cove tops, Hollowmere upper tiers, Rim-Rest thatch yards  
+**Habit:** survives salt fog; burns hot if dried wrong  
+**Tell:** thatch grass—not Mist-Herb
 
 ## Local Use
 
-Locals use it for: **thatch / forage**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial thatch / forage.** Roof and beast nibble. Cutting sacred check-in slopes needs loft talk.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: commercial.

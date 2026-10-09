@@ -6,28 +6,40 @@ related:
   - Flora of Dias
   - Velorian Basin
   - The Sun-Sweet Afternoon
+  - Basin Mist Orchard Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - food
   - custom
   - flora
+  - edible
+  - cultural
 status: canonical
 ---
 
 # Sun-Sweet Sample-Melon
 
+## Name
+
+Sun-Sweet Sample-Melon
+
 ## Overview
 
-**Sun-Sweet Sample-Melon** is plant life of **Basin carts (seasonal)**, known to locals mainly as something you eat, drink, or cook with—cut larger on Sun-Sweet Afternoon.
+Small sweet melon of basin sample gardens—shared on sun-sweet afternoons when Softfruit wants joy without a whole feast.
 
 ## Description
 
-Range and habit: **Basin carts (seasonal)**. Cut larger on Sun-Sweet Afternoon. Archive kind tag: *ordinary*.
+**Look:** palm-sized striped melon; orange flesh; rind dusted with orchard pollen  
+**Where:** Velorian Basin sample plots, Softfruit courtesy gardens  
+**Habit:** ripens in Brightpass heat; rare after early frost jokes  
+**Tell:** sample size—not market crate melon; one melon, many slices
 
 ## Local Use
 
-Locals use it for: **food / custom**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible + cultural.** Share custom. Hoarding a sample plot for vanity fails Softfruit manners.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Linked to Sun-Sweet Afternoon custom.

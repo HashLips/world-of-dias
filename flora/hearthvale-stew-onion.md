@@ -4,28 +4,41 @@ name: Hearthvale Stew-Onion
 region: Hearthvale
 related:
   - Flora of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
   - Hearthvale
+  - Hearthvale Rebuild Field Habitat
+  - Secondfire
+  - Hearth Laughter Week
 themes:
   - ordinary
   - staple
   - flora
+  - edible
 status: canonical
 ---
 
 # Hearthvale Stew-Onion
 
+## Name
+
+Hearthvale Stew-Onion
+
 ## Overview
 
-**Hearthvale Stew-Onion** is plant life of **Hearthvale**, known to locals mainly as something you eat, drink, or cook with—exile winter keeper.
+A storage onion of Hearthvale rebuild gardens—exile winter keeper, first-bowl cousin, stew backbone when fruit-rank comfort did not follow south.
 
 ## Description
 
-Range and habit: **Hearthvale**. Exile winter keeper. Archive kind tag: *ordinary*.
+**Look:** fist-sized bulbs, copper skins, sharp when raw, sweet when long-stewed; greens used like chives in Brightpass.  
+**Where:** Hearthvale Rebuild Field Habitat; Secondfire courtyard gardens; Compact shared plots.  
+**Habit:** stores through Hushlean; bolts if left too proud in heat.  
+**Tell:** smell of Compact kitchens more than Nauw fruit stalls.
 
 ## Local Use
 
-Locals use it for: **staple**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible staple.** First bowls and Laughter Week pots. Sharing onions can be Mutual Table manners; hoarding seed bulbs without Compact talk earns side-eye.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Indexed in Flora of Dias. Plant Use Classes: edible. Second-beginning foodways plant.

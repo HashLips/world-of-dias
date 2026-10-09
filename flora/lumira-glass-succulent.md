@@ -5,9 +5,11 @@ region: Lumira Sands
 related:
   - Flora of Dias
   - Lumira Sands
+  - Lumira Glass Dune Flats
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - water craft
   - observed
   - flora
 status: canonical
@@ -15,18 +17,25 @@ status: canonical
 
 # Lumira Glass-Succulent
 
+## Name
+
+Lumira Glass-Succulent
+
 ## Overview
 
-**Lumira Glass-Succulent** is flora of **Lumira Sands**, used or noticed as **water craft / observed**. Translucent pads; lizard camouflage cousin.
+Succulent with glass-bright skin—stores Listening Heat patience more than water brag.
 
 ## Description
 
-Range and habit: **Lumira Sands**. Translucent pads; lizard camouflage cousin. Archive kind tag: *ordinary*.
+**Look:** translucent thick leaves; pink margins; cool gel  
+**Where:** Lumira Glass Dune Flats rock seams  
+**Habit:** stores through Brightpass; wrinkles in false oasis panic harvests  
+**Tell:** succulent gel—not a map to Quiet Well
 
 ## Local Use
 
-Locals use it for: **water craft / observed**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / emergency moisture.** Keep assent. Do not clear stands for vanity gels.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary desert.

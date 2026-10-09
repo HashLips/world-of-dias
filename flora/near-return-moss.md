@@ -5,27 +5,36 @@ region: The Returning Span
 related:
   - Flora of Dias
   - The Returning Span
+  - F120 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - else-green
-  - trail craft
+  - ordinary
   - flora
 status: canonical
 ---
 
 # Near-Return Moss
 
+## Name
+
+Near-Return Moss
+
 ## Overview
 
-**Near-Return Moss** is reported in **F120 lanes**—growth that may not match F432 carbon flora, still described in plant words. Grows where passes repeat.
+Moss that feels almost where you stepped before—refrain foot metaphor on Span approaches.
 
 ## Description
 
-Range and habit: **F120 lanes**. Grows where passes repeat. Archive kind tag: *else-green*. Low growth; soft or grit-trapping underfoot; often gathered by hand rather than blade.
+**Look:** soft moss with deja-vu green  
+**Where:** Returning Span near-return talk places  
+**Habit:** timing  
+**Tell:** near-return—not Aelwyn seven-path moss
 
 ## Local Use
 
-Locals use it for: **trail craft**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Label unknowns. No subway.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Span flora.

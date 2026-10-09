@@ -2,13 +2,15 @@
 category: inhabitant
 name: Garen Scar
 region: Claimscar Yard
-culture:
+culture: Freebands of Sorel
 related:
   - Claimscar Yard
   - Driftfall
   - Claimscar Vent-Claim Rule
   - Sprout Vent
   - Vexra Coil
+  - Freebands of Sorel
+  - Named Inhabitant Profiles of Dias
 themes:
   - free-captain
   - claim wars
@@ -40,5 +42,15 @@ Beach Driftfall calls Garen inland ugliness. Garen calls beaches decorative. Cre
 ## Narrative Role
 
 Dark Driftfall antagonist or hard protagonist—away from Good Trade/Delci paths.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Human; Free-Captain |
+| **Origin** | Claimscar vent-claim weather |
+| **Role** | Yard claim law; breakfast share; false-paint sink |
+| **Relationships** | Vexra Coil; Driftfall beach rivalry; kettle crews |
+| **Soft limit** | Hard law ≠ Concord boots; paint is not breakfast |
 
 ## Notes

@@ -5,27 +5,38 @@ region: Sorel
 related:
   - Flora of Dias
   - Sorel
+  - Blackbridge Watch-Hounds
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - fodder
   - flora
+  - commercial
 status: canonical
 ---
 
 # Blackbridge Guard-Hay
 
+## Name
+
+Blackbridge Guard-Hay
+
 ## Overview
 
-**Blackbridge Guard-Hay** is flora of **Bridge approaches**, used or noticed as **fodder**. Watch-Hound and mule feed.
+Hay stacked for Blackbridge watch—hounds and mules eat while shame and defiance braid at gates.
 
 ## Description
 
-Range and habit: **Bridge approaches**. Watch-Hound and mule feed. Archive kind tag: *ordinary*.
+**Look:** coarse hay cords; dust-sweet; stacked under lean-tos  
+**Where:** Sorel bridge approaches, Blackbridge yards  
+**Habit:** seasonal stacks; wetwake mold risk  
+**Tell:** guard hay—not Gatewarden barley twin exactly
 
 ## Local Use
 
-Locals use it for: **fodder**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial fodder.** Feed watch beasts. Theft is bridge crime.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: commercial.

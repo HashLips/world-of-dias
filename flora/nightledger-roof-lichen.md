@@ -5,6 +5,9 @@ region: Veloria City
 related:
   - Flora of Dias
   - Veloria City
+  - Nightledger Owls
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - observed
@@ -14,18 +17,25 @@ status: canonical
 
 # Nightledger Roof-Lichen
 
+## Name
+
+Nightledger Roof-Lichen
+
 ## Overview
 
-**Nightledger Roof-Lichen** is noted around **Veloria counting houses**. People watch it more than they take it. Pale on ledgers eaves; owl perches.
+Pale roof lichen clerks joke “keeps the night ledger”—observed more than harvested, gray lace on tile seams.
 
 ## Description
 
-Range and habit: **Veloria counting houses**. Pale on ledgers eaves; owl perches. Archive kind tag: *ordinary*.
+**Look:** ash-gray crustose lace; soft when wet; almost invisible at noon  
+**Where:** Veloria second/third-ring roofs, ledger-hall eaves, owl-favorite ledges  
+**Habit:** spreads slow; hates aggressive scrape-cleaning  
+**Tell:** if it glows, you have Rim-Rest craft lichen—or a liar
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed only.** Sweepers leave patches for “owl luck.” Scraping whole roofs bare is considered anxious architecture.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary observed flora. Not else-green.

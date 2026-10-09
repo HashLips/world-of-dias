@@ -21,6 +21,11 @@ related:
   - The Name That Thins the Room
   - The Pale Rope of Lumira
   - The Bells Against Redmile
+  - Life Kinds of Dias
+  - Animals of Dias
+  - Peoples of Dias
+  - Inhabitant Nature Vocabulary of Dias
+  - Soft Limits of Dias
 themes:
   - creatures
   - wonder
@@ -37,7 +42,9 @@ status: canonical
 
 **Creatures of Dias** classifies strange, feared, and magnificent beings beyond ordinary farm-and-pet life. It does not replace `inhabitants/` files. It teaches what to **hope to see** and what to **pray not to meet**—without turning Dias into a meat-grinder.
 
-Ordinary beloved animals live primarily in [`Animals of Dias`](animals-of-dias.md).
+**Life kind:** this hub is the **extraordinary creature** shelf of Life Kinds of Dias (wonder / hazard / rumor / existential). Do not file Softfruit neighbors here as monsters.
+
+Ordinary beloved animals live primarily in [`Animals of Dias`](animals-of-dias.md). Peoples: [`Peoples of Dias`](peoples-of-dias.md). Ambiguous life: Life Kinds honesty test.
 
 ## Core Premise
 

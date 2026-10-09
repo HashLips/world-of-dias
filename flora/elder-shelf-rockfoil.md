@@ -5,28 +5,35 @@ region: Elder Shelf
 related:
   - Flora of Dias
   - Elder Shelf
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - observed
-  - tea
   - flora
 status: canonical
 ---
 
 # Elder Shelf Rockfoil
 
+## Name
+
+Elder Shelf Rockfoil
+
 ## Overview
 
-**Elder Shelf Rockfoil** is plant life of **Elder Shelf**, known to locals mainly as something you eat, drink, or cook with—cliff goats nibble.
+Rockfoil of Elder Shelf—patience stone plant of isle talk.
 
 ## Description
 
-Range and habit: **Elder Shelf**. Cliff goats nibble. Archive kind tag: *ordinary*.
+**Look:** low rockfoil cushions; white beads  
+**Where:** Elder Shelf stone  
+**Habit:** slow  
+**Tell:** rockfoil—not Lumira glass succulent
 
 ## Local Use
 
-Locals use it for: **observed / tea**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Patience.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary.

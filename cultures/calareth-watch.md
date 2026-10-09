@@ -13,6 +13,7 @@ related:
   - Calareth No-Moved-Stone Rule
   - Organizations of Dias
   - Politics of Dias
+  - Cultures Customs and Expectations of Dias
 themes:
   - threshold hospitality
   - ribbon promise
@@ -40,6 +41,24 @@ Care is ceremony. Joy is allowed on schedule. Isolation is a resource, not a bra
 - Day passes for Elder Shelf
 - Tide-pool teaching at Coral Strand
 - Posted slate windows for safe passage
+
+### Scene beats (daily-life ready)
+
+| Beat | What happens |
+| --- | --- |
+| **Porch** | Visitor waits on porch until ribbon talk; gentle welcome is real |
+| **Ribbon** | First longer stay ties at the Rope Tree; assent is public |
+| **Day pass** | Elder Shelf and ferry windows run on posted slate, not charm |
+| **Mistake** | Moved stone, soil, or story without assent → belonging trial or bed refusal |
+| **Exit** | Leave on a ferry window; no souvenir shore, no broken ribbon smile |
+
+### Kindness practice
+
+Few beds, real rest—welcome that means the bed is kept.
+
+### Hard edge
+
+Ribbon broken → belonging revoked; threshold hospitality is not tourism extraction.
 
 ## Lore
 

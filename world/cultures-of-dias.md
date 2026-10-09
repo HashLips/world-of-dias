@@ -19,6 +19,11 @@ related:
   - Peoples of Dias
   - Architecture of Dias
   - Languages of Dias
+  - Cultures Customs and Expectations of Dias
+  - Festivals and Flagweeks of Dias
+  - First Fruit Arrival Customs
+  - Ring-Fair Lights Customs
+  - Hearth Laughter Week Customs
 themes:
   - cultures
   - living disagreement
@@ -58,6 +63,8 @@ Every major culture here has a **kindness practice** and a **hard edge**. Stance
 | [F432 Shared Table](../cultures/f432-shared-table.md) | Eat across kinds | Correct tax/witness prejudice |
 
 Cross-cutting manners: [F432 Hospitality, Gift, and Insult](../cultures/f432-hospitality-gift-and-insult.md), [F432 Mourning and Celebration](../cultures/f432-mourning-and-celebration.md).
+
+**Scene-ready customs / celebrations / expectations:** [Cultures Customs and Expectations of Dias](cultures-customs-and-expectations-of-dias.md). Festival tempo: [Festivals and Flagweeks of Dias](festivals-and-flagweeks-of-dias.md).
 
 Speech texture: [Languages of Dias](languages-of-dias.md). Meals: [Food of Dias](food-of-dias.md). Learning: [Knowledge of Dias](knowledge-of-dias.md). Meaning: [Belief of Dias](belief-of-dias.md).
 

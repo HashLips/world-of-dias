@@ -4,6 +4,7 @@ name: Freebands of Sorel
 region: Sorel
 related:
   - Organizations of Dias
+  - Authorities and Factions of Dias
   - Sorel Exile Compact
   - Carrow Vale
   - Claimscar Yard
@@ -45,6 +46,14 @@ Belonging is earned. Concord rank is not currency. Freedom without contribution 
 ### Variants
 
 Hearthvale Freeband culture trends restorative (Secondfire). Driftfall trends volatile and opportunistic. Exile Mutual Table tries to feed across crew lines without capturing them.
+
+### Offices, habits, limits
+
+| Office / seat | Habit | Cannot |
+| --- | --- | --- |
+| Free-Captain | Kettle payroll; paint honesty; flagweek breakfast hold | Concord-absorb a crew “for safety” |
+| Compact bowl host | Name before debt; wire for stew | Erase pact memory as convenience |
+| Mutual Table runner | Feed across crew lines | Capture crews under aid branding |
 
 ### Kindness practice
 

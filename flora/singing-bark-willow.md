@@ -1,33 +1,42 @@
 ---
 category: flora
-name: Singing Bark Willow
+name: Singing Bark-Willow
 region: Aelwyn Canopy
 related:
   - Flora of Dias
   - Aelwyn Canopy
-  - Ridged Willow in a Standing Forest
+  - When Trees Sing
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - magical-leaning
+  - ordinary
   - omen
-  - beauty
   - flora
+  - cultural
 status: canonical
 ---
 
-# Singing Bark Willow
+# Singing Bark-Willow
+
+## Name
+
+Singing Bark-Willow
 
 ## Overview
 
-**Singing Bark Willow** is associated with **When Trees Sing zones** and leans beyond ordinary garden behavior. Wind-tone bark; not speech.
+Willow whose bark hums faintly when canopy songs rise—omen beauty, not instrument lumber.
 
 ## Description
 
-Range and habit: **When Trees Sing zones**. Wind-tone bark; not speech. Archive kind tag: *magical-leaning*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** long leaf willow; bark with hairline resonance cracks; soft hum in song weather  
+**Where:** Aelwyn stream edges, drip-river bends  
+**Habit:** hums with When Trees Sing seasons  
+**Tell:** omen willow—not a ferry harp
 
 ## Local Use
 
-Locals use it for: **omen / beauty**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural / observed.** Leave standing. Cutting for “song wood” is canopy crime.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `magical-leaning`.
+Sacred-soft cultural.

@@ -2,14 +2,16 @@
 category: inhabitant
 name: Carrow Vale
 region: Sorel
-culture:
+culture: Sorel Exile Compact
 related:
   - Sorel
   - Hearthvale
   - Driftfall
+  - Sorel Exile Compact
+  - Freebands of Sorel
+  - Named Inhabitant Profiles of Dias
   - Ball Room (Carrow Vale Portrait)
   - The Mask Kept After Exile
-  - Ball Room (Carrow Vale Portrait)
   - Carrow's Mask
   - The Long Gate South
   - Calen Brink
@@ -43,6 +45,16 @@ To followers, Carrow gave the rejected a common voice. To enemies, Carrow conver
 ## Narrative Role
 
 Carrow embodies frontier legitimacy: authority earned by endurance, then maintained by reputation and controlled fear.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Human; First Exile; masked public face |
+| **Origin** | Dispossession → cross-camp protection pacts |
+| **Role** | Sorel Compact political center; Freeband weather |
+| **Relationships** | Calen (Movement Two path); Freebands; Long Gate memory |
+| **Soft limit** | Mask is instrument, not Zero answer; do not unmask as casual solve |
 
 ## Notes
 

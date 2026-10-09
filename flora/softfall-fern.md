@@ -6,28 +6,37 @@ related:
   - Flora of Dias
   - Aelwyn Canopy
   - Wabet Softfall
+  - Aelwyn Softfall Canopy Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - beauty
-  - marker
+  - observed
   - flora
 status: canonical
 ---
 
 # Softfall Fern
 
+## Name
+
+Softfall Fern
+
 ## Overview
 
-**Softfall Fern** is flora of **Aelwyn / Verdant**, used or noticed as **beauty / marker**. Frond-count games.
+Fern that unfurls like a second Softfall—fronds hold drips as temporary roofs for insects and quiet sitters.
 
 ## Description
 
-Range and habit: **Aelwyn / Verdant**. Frond-count games. Archive kind tag: *ordinary*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** broad soft fronds; silver underside beads; drip-cups  
+**Where:** Aelwyn Softfall Canopy Habitat understory  
+**Habit:** happiest in Softfall; crisp in Listening Heat weeks if transplanted south  
+**Tell:** Softfall plant—not Lumira sage
 
 ## Local Use
 
-Locals use it for: **beauty / marker**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / shade sit.** Sit under; do not clear for “better views.”
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary canopy flora.

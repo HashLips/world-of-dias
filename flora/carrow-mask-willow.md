@@ -5,27 +5,37 @@ region: Hearthvale
 related:
   - Flora of Dias
   - Hearthvale
+  - Carrow Vale
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - sacred-soft
-  - exile identity shade
+  - ordinary
+  - craft
   - flora
 status: canonical
 ---
 
 # Carrow Mask-Willow
 
+## Name
+
+Carrow Mask-Willow
+
 ## Overview
 
-**Carrow Mask-Willow** grows in relation to **Hearthvale edges** and carries etiquette: harvest and handling are bound by custom. First Exile reckoning talk trees.
+Willow used for light festival masks in Hearthvale—craft wit, not Concord ceremony.
 
 ## Description
 
-Range and habit: **Hearthvale edges**. First Exile reckoning talk trees. Archive kind tag: *sacred-soft*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** flexible willow; pale wands; easy peel  
+**Where:** Hearthvale stream margins  
+**Habit:** cut for masks with assent  
+**Tell:** mask willow—not singing bark willow
 
 ## Local Use
 
-Locals use it for: **exile identity shade**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Craft.** Masks for laughter. Clear-cutting banks is Compact shame.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `sacred-soft`.
+Commercial soft craft.

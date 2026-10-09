@@ -4,6 +4,7 @@ name: Nauw Concord
 region: Nauw
 related:
   - Organizations of Dias
+  - Authorities and Factions of Dias
   - Nauw
   - Serik Dovant
   - Resonant Houses
@@ -44,6 +45,14 @@ Order lets difference share tables. Order also creates exile roads. Concord clai
 ### Soft power venues
 
 DEB Gate manners, Span Toll cooperation, Softfruit civic peace, clerk stamps that can end a life’s belonging.
+
+### Offices, habits, limits
+
+| Office | Habit | Cannot |
+| --- | --- | --- |
+| High Steward | Keep markets open; speak exile risk before it hardens | Treat Sorel boots-as-rank as legal currency |
+| Toll marshals | Span continuity; VEL-clean counts | Sell gate poetry as delay sport |
+| Concord clerks | Soft address; form once | Stamp exile on a lie for career theater |
 
 ### Kindness practice
 

@@ -10,6 +10,9 @@ related:
   - Slow Dark Initiatives
   - The Quiet Unbinding
   - Maker-Hand Sol
+  - Artifact Illustration Briefs of Dias
+  - Restricted Rare and Taboo Inventions of Dias
+  - Resonant Tech Capabilities and Failures of Dias
 themes:
   - danger
   - forced final
@@ -34,6 +37,10 @@ Opposite of open hand, steady line. Quiet Unbinding pressure made handheld.
 ## Usage
 
 Antagonist craft; seized by Calibration Row ethics fights; teaching what not to build.
+
+### Illustration brief
+
+Bench-scale ugly alloy clamp/vise; no revision band; teeth scar where a seam should show. Looks finished in the wrong way—sealed, not cared-for.
 
 ## Notes
 

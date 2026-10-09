@@ -5,27 +5,37 @@ region: Aelwyn Canopy
 related:
   - Flora of Dias
   - Aelwyn Canopy
+  - Aelwyn Path of the Season
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - trail mark
+  - path
   - flora
 status: canonical
 ---
 
 # Aelwyn Seven-Path Moss
 
+## Name
+
+Aelwyn Seven-Path Moss
+
 ## Overview
 
-**Aelwyn Seven-Path Moss** is flora of **Aelwyn routes**, used or noticed as **trail mark**. Season-rotated path tags.
+Moss that marks seasonal path choices under Aelwyn—seven soft greens walkers argue about politely.
 
 ## Description
 
-Range and habit: **Aelwyn routes**. Season-rotated path tags. Archive kind tag: *ordinary*. Low growth; soft or grit-trapping underfoot; often gathered by hand rather than blade.
+**Look:** patchwork moss tones; cooler green on true soft paths  
+**Where:** Aelwyn seasonal paths, drip-river fords  
+**Habit:** shifts with season wet  
+**Tell:** path hint—not a map that must stay wrong
 
 ## Local Use
 
-Locals use it for: **trail mark**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed path craft.** Follow; do not paint false moss to trick rivals.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary path flora.

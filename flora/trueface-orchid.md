@@ -5,27 +5,36 @@ region: F610 (frequency realm)
 related:
   - Flora of Dias
   - F610 (frequency realm)
+  - Veil Scribes
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - omen
-  - observed
+  - else-green
   - flora
 status: canonical
 ---
 
 # Trueface Orchid
 
+## Name
+
+Trueface Orchid
+
 ## Overview
 
-**Trueface Orchid** is noted around **F610**. People watch it more than they take it. Blooms during uncomfortable honesty talk—correlation.
+Orchid Veil Scribes joke reveals “true faces” if stared too long—stare-cost parable plant.
 
 ## Description
 
-Range and habit: **F610**. Blooms during uncomfortable honesty talk—correlation. Archive kind tag: *omen*.
+**Look:** orchid with too-steady eye marks  
+**Where:** F610 halls (talk)  
+**Habit:** anti-stare manners  
+**Tell:** trueface—not canopy epiphyte
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Cultural else-green caution.** Do not stare gardens into ferry tickets.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `omen`.
+Else-green.

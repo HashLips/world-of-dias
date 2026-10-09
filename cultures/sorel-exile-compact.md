@@ -9,6 +9,9 @@ related:
   - Driftfall
   - Masked
   - Behind the Masked
+  - Cultures Customs and Expectations of Dias
+  - F432 Mourning and Celebration
+  - Claimscar and Secondfire Resource Board
 themes:
   - exile solidarity
   - earned legitimacy
@@ -31,6 +34,17 @@ People are judged by what they carry, keep, and return to the collective under s
 ## Practices and Traditions
 
 Pact language, masked identity signaling, camp-to-camp oath carrying, and negotiated protection lines are common social practices across both Hearthvale and Driftfall variants.
+
+### Scene beats (daily-life ready)
+
+| Beat | What happens |
+| --- | --- |
+| **Arrival** | One bowl and a spoken name before anyone asks which crew the newcomer will owe |
+| **Kettle** | Wire, wood, or useful news buys stew; pretty gifts without use earn cold smiles |
+| **Pact mark** | Debt memory is spoken aloud once; silence after that means the mark is held |
+| **Hearthvale lean** | Second-beginning meals after slate erase; restorative talk preferred |
+| **Driftfall lean** | Claim paint honesty; mourning hang-about refuses jokes for one evening |
+| **Mistake** | Concord name-drop as rank, or pact-break → exile-within-exile until make-good |
 
 ## Lore
 

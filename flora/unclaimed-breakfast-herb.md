@@ -6,28 +6,38 @@ related:
   - Flora of Dias
   - Wabet
   - Wabet's Unclaimed Breakfast
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - culture
-  - shared food
+  - food
   - flora
+  - edible
+  - cultural
 status: canonical
 ---
 
 # Unclaimed Breakfast Herb
 
+## Name
+
+Unclaimed Breakfast Herb
+
 ## Overview
 
-**Unclaimed Breakfast Herb** is plant life of **Wabet kindness tables**, known to locals mainly as something you eat, drink, or cook with—left for strangers; not owned.
+Herb of unclaimed breakfast kindness—picked for strangers without invoice.
 
 ## Description
 
-Range and habit: **Wabet kindness tables**. Left for strangers; not owned. Archive kind tag: *ordinary+culture*.
+**Look:** soft green herb; egg-friendly scent; roadside patches  
+**Where:** Wabet quiet margins, Softfall edges  
+**Habit:** breakfast morality plant  
+**Tell:** unclaimed—not Freeband nettle sting
 
 ## Local Use
 
-Locals use it for: **shared food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible + cultural.** Feed strangers. Fencing every patch kills the custom.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary+culture`.
+Plant Use Classes: edible, cultural.

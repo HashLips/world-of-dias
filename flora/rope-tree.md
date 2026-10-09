@@ -1,36 +1,42 @@
 ---
 category: flora
-name: Rope Tree
+name: The Rope Tree
 region: Hallow Bay
 related:
   - Flora of Dias
   - Hallow Bay
   - The Rope Tree
-  - Isle of Calareth
-  - Calareth Watch
-  - Rings, Worn Lines, and Plain Blue Ribbons
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - sacred
+  - sacred-soft
   - vow
-  - mooring
   - flora
+  - cultural
 status: canonical
 ---
 
-# Rope Tree
+# The Rope Tree
+
+## Name
+
+The Rope Tree
 
 ## Overview
 
-**Rope Tree** grows in relation to **Hallow Bay** and carries etiquette: harvest and handling are bound by custom. Ribbon rite landmark.
+Named rope-hung tree of Hallow Bay approaches—vows and ribbons, not lumber.
 
 ## Description
 
-Range and habit: **Hallow Bay**. Ribbon rite landmark. Archive kind tag: *sacred*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** broad coastal tree; ropes and ribbons in limbs; bark polished by hands  
+**Where:** Hallow Bay / Rope Tree landmark  
+**Habit:** sacred-soft; cutting unthinkable  
+**Tell:** vow tree—not Brindle fork twin exactly
 
 ## Local Use
 
-Locals use it for: **vow / mooring**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural / sacred-soft.** Tie vows; never axe.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `sacred`.
+Plant Use Classes: cultural. File may duplicate landmark—plant aspect.

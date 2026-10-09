@@ -5,27 +5,36 @@ region: F200 (frequency realm)
 related:
   - Flora of Dias
   - F200 (frequency realm)
+  - Aurel-kind
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - else-green
-  - pattern play
   - flora
 status: canonical
 ---
 
 # Coherence Clover
 
+## Name
+
+Coherence Clover
+
 ## Overview
 
-**Coherence Clover** is reported in **F200**—growth that may not match F432 carbon flora, still described in plant words. Children of energy-kind count panes.
+Clover-like growth in F200 field talk—alignment fatigue footfalls, not basin ditch daisy.
 
 ## Description
 
-Range and habit: **F200**. Children of energy-kind count panes. Archive kind tag: *else-green*.
+**Look:** pale clover mats; too-even symmetry  
+**Where:** F200 luminous field approaches  
+**Habit:** visitor noticing  
+**Tell:** coherence—not Verdant third-chair moss
 
 ## Local Use
 
-Locals use it for: **pattern play**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Do not pocket as luck charm ferry.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Else-green.

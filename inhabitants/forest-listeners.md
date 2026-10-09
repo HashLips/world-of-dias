@@ -7,6 +7,9 @@ related:
   - That Forest
   - Wabet
   - When Trees Sing
+  - Life Kinds of Dias
+  - Creatures of Dias
+  - Fellgrove
 themes:
   - eavesdropping fauna
   - forest awareness
@@ -20,6 +23,8 @@ nature: creature
 ## Overview
 
 Forest Listeners are rumored owl-sized beings in That Forest whose ear-tufts turn toward secrets, jokes, and unfinished sentences alike.
+
+**Life kind:** **ambiguous / rumor creature**—trail ethics are real; taxonomy stays thin on purpose (`status: rumor`).
 
 ## Description
 

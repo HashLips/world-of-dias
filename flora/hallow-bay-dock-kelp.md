@@ -5,28 +5,38 @@ region: Hallow Bay
 related:
   - Flora of Dias
   - Hallow Bay
+  - Promise Doves
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - mulch
-  - craft
+  - food
   - flora
+  - edible
 status: canonical
 ---
 
 # Hallow Bay Dock-Kelp
 
+## Name
+
+Hallow Bay Dock-Kelp
+
 ## Overview
 
-**Hallow Bay Dock-Kelp** is flora of **Hallow Bay**, used or noticed as **mulch / craft**. Green dory shade.
+Dock kelp of Hallow Bay—ribbon hospitality kitchens steam it for guests who kept soft voices.
 
 ## Description
 
-Range and habit: **Hallow Bay**. Green dory shade. Archive kind tag: *ordinary*.
+**Look:** short dock kelp; sweet brine; ribbon-tied drying lines  
+**Where:** Hallow Bay docks, Calareth approach cousins  
+**Habit:** guest seasons thicken drying  
+**Tell:** hospitality kelp—not whale-road industrial cut
 
 ## Local Use
 
-Locals use it for: **mulch / craft**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible.** Guest pots. Strip-dock greed fails ribbon rules.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

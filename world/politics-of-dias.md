@@ -4,6 +4,7 @@ name: Politics of Dias
 related:
   - Dias
   - Organizations of Dias
+  - Authorities and Factions of Dias
   - Nauw Concord
   - Freebands of Sorel
   - Silent Dune Keep
@@ -42,6 +43,7 @@ Full entries below.
 
 | Need | Entry |
 | --- | --- |
+| **IV.6 offices / factions sheet** | [Authorities and Factions of Dias](authorities-and-factions-of-dias.md) |
 | Regional power weathers | [Regional Power Weathers](../cultures/regional-power-weathers.md) |
 | Soft power map | [Soft Power Venues](../cultures/soft-power-venues.md) |
 | Pressures not yet war | [Slow Dark Initiatives](../cultures/slow-dark-initiatives.md) |

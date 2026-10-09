@@ -5,6 +5,7 @@ region: F432 (frequency realm)
 related:
   - Languages of Dias
   - F432 Honorifics and Address
+  - Speech Etiquette and Naming of Dias
   - Nauw
   - Wabet
   - Sorel
@@ -75,6 +76,16 @@ Exile often brings a second name. Secondfire slate culture treats remaking names
 
 Census houses prefer stable tags; poets prefer true ones. F432 lives in the argument between them.
 
+### Naming scene beats
+
+| Situation | Correct | Rude |
+| --- | --- | --- |
+| New Softfruit guest | Ask preferred table-name; use regional pattern | Rename them for a joke |
+| Palewind ledger | Continuity-name once | List partitions as separate citizens |
+| Exile arrival | Accept second name; don’t steal it for comedy | Demand their “real” Concord name |
+| Draftkin season | “Still your name this draft?” | Freeze a draft name as mockery |
+| Loft shout | Two-beat name that survives wind | Pretty name that breaks under First Line |
+
 ## Notes
 
-When inventing a new character, pick a regional pattern first, then the syllable music. Hub: [`Languages of Dias`](../world/languages-of-dias.md).
+When inventing a new character, pick a regional pattern first, then the syllable music. Hub: [`Languages of Dias`](../world/languages-of-dias.md). Staging: [`Speech Etiquette and Naming of Dias`](../world/speech-etiquette-and-naming-of-dias.md).

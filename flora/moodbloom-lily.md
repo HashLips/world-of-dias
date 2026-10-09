@@ -5,27 +5,35 @@ region: The Bloomline Estuary
 related:
   - Flora of Dias
   - The Bloomline Estuary
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - else-green
-  - healer garden
+  - ordinary
   - flora
 status: canonical
 ---
 
 # Moodbloom Lily
 
+## Name
+
+Moodbloom Lily
+
 ## Overview
 
-**Moodbloom Lily** is reported in **F380 Bloomline**—growth that may not match F432 carbon flora, still described in plant words. Color tracks mood weather.
+Lily that opens with mood fronts on Bloomline—beauty tagged carefully.
 
 ## Description
 
-Range and habit: **F380 Bloomline**. Color tracks mood weather. Archive kind tag: *else-green*.
+**Look:** lily with color that seems to follow crowd feeling  
+**Where:** Bloomline Estuary  
+**Habit:** affect weather  
+**Tell:** moodbloom—not Glasswater lull lily
 
 ## Local Use
 
-Locals use it for: **healer garden**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed cultural soft.** Not pharmacy.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Estuary flora.

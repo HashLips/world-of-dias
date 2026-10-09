@@ -14,6 +14,11 @@ related:
   - An Exile First Bowl in Sorel
   - A Watch Runner Shift on Calareth
   - A Loft Evening in Hollowmere
+  - Ordinary Day of Dias
+  - F432 Family and Household
+  - F432 Learning Paths
+  - Labor Types of F432
+  - Entertainment of F432
 themes:
   - daily life
   - ordinary joy
@@ -38,7 +43,11 @@ Institutions and frequencies matter, but so do Lap-Cats, Softfruit ladles, rope 
 
 | Need | Entry |
 | --- | --- |
+| **IV.5 hour-by-hour sheet** | [Ordinary Day of Dias](ordinary-day-of-dias.md) |
+| Family & household | [F432 Family and Household](../cultures/f432-family-and-household.md) |
 | Objects, greetings, bedtime, games | [F432 Domestic and Play](../cultures/f432-domestic-and-play.md) |
+| Learning / professions | [F432 Learning Paths](../cultures/f432-learning-paths.md); [Labor Types of F432](../cultures/labor-types-of-f432.md) |
+| Food / entertainment | [Food of Dias](food-of-dias.md); [Entertainment of F432](../cultures/entertainment-of-f432.md) |
 | Hub joy checklist | [Happiness Infrastructure Checklist](../cultures/happiness-infrastructure-checklist.md) |
 | Ordinary-day unease | [Tiny Unsettled Day Details](../cultures/tiny-unsettled-day-details.md) |
 

@@ -5,28 +5,38 @@ region: Westfold Toll
 related:
   - Flora of Dias
   - Westfold Toll
+  - Freeband Camp-Nettle
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - fiber
-  - sting lesson
+  - food
   - flora
+  - edible
 status: canonical
 ---
 
 # Westfold Toll Nettles
 
+## Name
+
+Westfold Toll Nettles
+
 ## Overview
 
-**Westfold Toll Nettles** is flora of **Westfold Toll**, used or noticed as **fiber / sting lesson**. Queue-side; children learn once.
+Nettles of Westfold Toll—border soup between Hearthvale and Wabet manners.
 
 ## Description
 
-Range and habit: **Westfold Toll**. Queue-side; children learn once. Archive kind tag: *ordinary*.
+**Look:** sting nettle; border ditches; soup after blanch  
+**Where:** Westfold Toll margins  
+**Habit:** sting first, soup second  
+**Tell:** toll nettle—not Saltwhisper thorn brush
 
 ## Local Use
 
-Locals use it for: **fiber / sting lesson**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible.** Blanch. Border manners apply to harvest arguments.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

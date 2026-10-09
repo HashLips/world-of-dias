@@ -5,27 +5,36 @@ region: F432 (frequency realm)
 related:
   - Flora of Dias
   - F432 (frequency realm)
+  - Bleed-Sky Weather
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - omen
-  - observed
   - flora
 status: canonical
 ---
 
 # Frequency-Bleed Mothwort
 
+## Name
+
+Frequency-Bleed Mothwort
+
 ## Overview
 
-**Frequency-Bleed Mothwort** is noted around **wrong-sky verges**. People watch it more than they take it. Moth clusters; bitter smell.
+Mothwort folk notice after bleed-sky—omen roadside, not a farm row.
 
 ## Description
 
-Range and habit: **wrong-sky verges**. Moth clusters; bitter smell. Archive kind tag: *omen*.
+**Look:** gray mothwort; dust wings joke  
+**Where:** F432 rare after Bleed-Sky  
+**Habit:** omen weeks  
+**Tell:** mothwort—not Bleed-Sky Nightbloom itself
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed omen.** Softfruit tags. No drug trade.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `omen`.
+Omen ordinary.

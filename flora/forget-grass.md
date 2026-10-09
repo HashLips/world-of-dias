@@ -5,27 +5,36 @@ region: F500 (frequency realm)
 related:
   - Flora of Dias
   - F500 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - anti-flora
-  - observed claims
+  - else-green
+  - caution
   - flora
-status: unknown
+status: canonical
 ---
 
 # Forget-Grass
 
+## Name
+
+Forget-Grass
+
 ## Overview
 
-**Forget-Grass** is reported in **F500 rumor**—growth that may not match F432 carbon flora, still described in plant words. Cannot keep in memory; may be metaphor.
+Grass that survivor accounts forget mid-sentence—anti-habitat metaphor with green shape.
 
 ## Description
 
-Range and habit: **F500 rumor**. Cannot keep in memory; may be metaphor. Archive kind tag: *anti-flora*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** ordinary-looking grass until memory slips  
+**Where:** F500 approach stories  
+**Habit:** perforation  
+**Tell:** forget-grass—not Brindle berm apple
 
 ## Local Use
 
-Locals use it for: **observed claims**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Caution.** Not a spice. Soft limits.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `anti-flora`.
+Else-green.

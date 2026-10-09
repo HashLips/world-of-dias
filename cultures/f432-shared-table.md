@@ -18,6 +18,9 @@ related:
   - Sorel
   - Veloria City
   - Lumira Silence Law
+  - Peoples Places and Contact of Dias
+  - Peoples Physical Traits of Dias
+  - Cultures Customs and Expectations of Dias
 themes:
   - coexistence
   - daily life
@@ -72,6 +75,16 @@ Wabet adds silence etiquette. Nauw adds loud negotiation. Sorel adds salvage fai
 - Shared fruit on Wabet trails.
 - Bell-trains on Nauw redmiles that refuse to leave a rear cart—any race—alone.
 - Sorel repair circles where the one who brings wire eats, whatever their outline.
+
+### Scene beats (daily-life ready)
+
+| Beat | What happens |
+| --- | --- |
+| **Seat** | Ask name before frequency or kind; plate geometry respected if Axiomorph-hosted |
+| **Meal** | Chew between Choirglass pulses; do not count Palewind motes as diners |
+| **Clerk edge** | Correct tax-as-many or witness-erasure before dessert gossip |
+| **Mistake** | Exoticize a guest’s band; refuse repair → table apology or cold isolation |
+| **Exit** | Thank the cook; leave prejudice unstamped |
 
 ## Lore
 

@@ -5,28 +5,36 @@ region: F960 (frequency realm)
 related:
   - Flora of Dias
   - F960 (frequency realm)
-  - One Fruit, Half Ripe and Half Drawn
+  - The Half-Made Atlas
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - unsettled wonder
-  - observed
+  - else-green
   - flora
-status: unknown
+status: canonical
 ---
 
 # Half-Made Fruit
 
+## Name
+
+Half-Made Fruit
+
 ## Overview
 
-**Half-Made Fruit** is noted around **F960**. People watch it more than they take it. Edible only on decided side.
+Fruit that stays half-made—draftkin kitchen joke and warning against false completion.
 
 ## Description
 
-Range and habit: **F960**. Edible only on decided side. Archive kind tag: *unsettled wonder*.
+**Look:** fruit with unfinished sides; sweet where finished  
+**Where:** F960 tables (talk)  
+**Habit:** revision hunger  
+**Tell:** half-made—not Market Banana
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Cultural else-green metaphor / rare taste talk.** Soft limits.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `unsettled wonder`.
+Else-green.

@@ -5,27 +5,37 @@ region: The Salt Ledger
 related:
   - Flora of Dias
   - The Salt Ledger
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - garnish
+  - food
   - flora
+  - edible
 status: canonical
 ---
 
 # Brineleaf
 
+## Name
+
+Brineleaf
+
 ## Overview
 
-**Brineleaf** is plant life around **The Salt Ledger** in Driftfall, known to locals mainly as something you eat, drink, or cook with—trough-tolerant.
+Salt-loving leaf greens of ledger kitchens—brine bite in every Freeband breakfast argument.
 
 ## Description
 
-Range and habit: pub yards and salt-stained trough edges near The Salt Ledger. Trough-tolerant. Archive kind tag: *ordinary*.
+**Look:** fleshy salt leaves; crunch; white crystal tips  
+**Where:** Salt Ledger gardens, salvage shore seeps  
+**Habit:** loves salt air  
+**Tell:** brineleaf—not basin rivercress
 
 ## Local Use
 
-Locals use it for: **garnish**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible.** Pot greens. Overharvest seeps for export fails shore manners.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

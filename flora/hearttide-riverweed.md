@@ -5,27 +5,36 @@ region: The Bloomline Estuary
 related:
   - Flora of Dias
   - The Bloomline Estuary
+  - F380 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - else-green
-  - otter play cover
+  - ordinary
   - flora
 status: canonical
 ---
 
 # Hearttide Riverweed
 
+## Name
+
+Hearttide Riverweed
+
 ## Overview
 
-**Hearttide Riverweed** is reported in **F380 banks**—growth that may not match F432 carbon flora, still described in plant words. Soft empathy banks.
+Riverweed of Bloomline estuary hearttide—mood-water green where F380 talk meets water.
 
 ## Description
 
-Range and habit: **F380 banks**. Soft empathy banks. Archive kind tag: *else-green*.
+**Look:** dark riverweed; pulse-seeming sway  
+**Where:** Bloomline Estuary  
+**Habit:** mood tides  
+**Tell:** hearttide—not Glasswater mirror reed
 
 ## Local Use
 
-Locals use it for: **otter play cover**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Do not paste onto Glasswater farms.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Estuary flora.

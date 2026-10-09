@@ -16,6 +16,12 @@ related:
   - Draftkin
   - Echoforms
   - Creatures of Dias
+  - Life Kinds of Dias
+  - Animals of Dias
+  - Inhabitant Nature Vocabulary of Dias
+  - Life Kind Teaching
+  - Peoples Physical Traits of Dias
+  - Peoples Places and Contact of Dias
 themes:
   - personhood
   - coexistence
@@ -29,6 +35,8 @@ status: canonical
 ## Overview
 
 **Peoples of Dias** clarifies who counts as a neighbor—not a bestiary of people. Creature dread lives in [`Creatures of Dias`](creatures-of-dias.md). This page is for citizens, travelers, and kinds you can share a table with.
+
+**Life kind:** this hub is the **people / peoples** shelf of Life Kinds of Dias. Table test first. Strange body ≠ prey class.
 
 ## Core Premise
 

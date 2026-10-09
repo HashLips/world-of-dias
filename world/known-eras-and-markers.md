@@ -17,6 +17,8 @@ related:
   - Time Causality and Change of Dias
   - Frequency Comparison Ledger Leaf
   - Prime and Fracture Knowledge of Dias
+  - Historical Eras and Chronology of Dias
+  - Annotated Timeline of Dias
 themes:
   - chronology
   - soft history

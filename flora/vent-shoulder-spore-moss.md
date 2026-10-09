@@ -5,28 +5,39 @@ region: Sprout Vent
 related:
   - Flora of Dias
   - Sprout Vent
+  - Sproutvent Spore-Mites
   - Sorel Vent Haze
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - hazard craft
-  - filter stuffing
+  - ordinary
+  - caution
   - flora
+  - hazard soft
 status: canonical
 ---
 
 # Vent-Shoulder Spore-Moss
 
+## Name
+
+Vent-Shoulder Spore-Moss
+
 ## Overview
 
-**Vent-Shoulder Spore-Moss** appears around **Sprout Vent** and is handled with caution. Haze weeks.
+Spore-moss on vent shoulders—mite country, haze cousin, not Softfruit tea moss.
 
 ## Description
 
-Range and habit: **Sprout Vent**. Haze weeks. Archive kind tag: *hazard craft*. Low growth; soft or grit-trapping underfoot; often gathered by hand rather than blade.
+**Look:** olive spore-moss; dusts boots; sweet-rot hint  
+**Where:** Sprout Vent shoulders  
+**Habit:** thickens in sprout seasons  
+**Tell:** spore caution—not Band-Answer Moss teaching
 
 ## Local Use
 
-Locals use it for: **filter stuffing**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Caution.** Mask manners in haze. Do not sell as “vent medicine.”
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `hazard craft`.
+Hazard soft.

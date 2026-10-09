@@ -5,29 +5,36 @@ region: The Ashen Hearthline
 related:
   - Flora of Dias
   - The Ashen Hearthline
-  - Trace-Heat Green, Grit in the Mat
+  - F840 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - else-green
-  - rest mark
-  - pack
+  - ordinary
   - flora
 status: canonical
 ---
 
 # Ash-Hardy Moss
 
+## Name
+
+Ash-Hardy Moss
+
 ## Overview
 
-**Ash-Hardy Moss** is reported in **F840 Hearthline**—growth that may not match F432 carbon flora, still described in plant words. Trace-heat green.
+Moss hardy in ashen hearthline talk—ember recovery green.
 
 ## Description
 
-Range and habit: **F840 Hearthline**. Trace-heat green. Archive kind tag: *else-green*. Low growth; soft or grit-trapping underfoot; often gathered by hand rather than blade.
+**Look:** ash-tolerant moss; warm grit  
+**Where:** Ashen Hearthline approaches  
+**Habit:** recovery  
+**Tell:** ash moss—not Vent spore moss
 
 ## Local Use
 
-Locals use it for: **rest mark / pack**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Shelter-first.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Hearthline flora.

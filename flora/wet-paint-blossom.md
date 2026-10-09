@@ -5,27 +5,35 @@ region: F960 (frequency realm)
 related:
   - Flora of Dias
   - F960 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - else-green
-  - beauty
   - flora
 status: canonical
 ---
 
 # Wet-Paint Blossom
 
+## Name
+
+Wet-Paint Blossom
+
 ## Overview
 
-**Wet-Paint Blossom** is reported in **F960**—growth that may not match F432 carbon flora, still described in plant words. Color revises hourly.
+Blossoms that look freshly painted forever—draft beauty, unfinished on purpose.
 
 ## Description
 
-Range and habit: **F960**. Color revises hourly. Archive kind tag: *else-green*.
+**Look:** wet-shine petals; color shifts; never dry  
+**Where:** F960 draft gardens (talk)  
+**Habit:** revision weather  
+**Tell:** wet-paint—not Flagweek dye flower
 
 ## Local Use
 
-Locals use it for: **beauty**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Do not sell as eternal dye in F432 markets.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Else-green.

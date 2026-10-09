@@ -1,33 +1,43 @@
 ---
 category: flora
-name: Two-Ways Fork-Olive
+name: Two Ways Fork-Olive
 region: Wabet
 related:
   - Flora of Dias
   - Wabet
-  - Olives Over a Quiet Fork
+  - Two Ways
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - sacred-soft
-  - shade
-  - argument tree
+  - ordinary
+  - food
+  - omen
   - flora
+  - edible
 status: canonical
 ---
 
-# Two-Ways Fork-Olive
+# Two Ways Fork-Olive
+
+## Name
+
+Two Ways Fork-Olive
 
 ## Overview
 
-**Two-Ways Fork-Olive** grows in relation to **Wabet/Nauw thought borders** and carries etiquette: harvest and handling are bound by custom. Talks under olives stay cooler.
+Olive at two-ways forks—choose path, share oil, argue kindly.
 
 ## Description
 
-Range and habit: **Wabet/Nauw thought borders**. Talks under olives stay cooler. Archive kind tag: *sacred-soft*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** small olives; silver leaf; fork-planted  
+**Where:** Wabet path forks  
+**Habit:** oil and omen together  
+**Tell:** fork olive—not Brindle thank-you tree
 
 ## Local Use
 
-Locals use it for: **shade / argument tree**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible oil / cultural fork.** Share. Do not fell for “clear sightlines.”
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `sacred-soft`.
+Plant Use Classes: edible, cultural.

@@ -5,28 +5,40 @@ region: Nauw Outer Rim Seas
 related:
   - Flora of Dias
   - Nauw Outer Rim Seas
+  - Outer Rim Salt Fog Habitat
+  - Hollowmere
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - observed
   - poultice
   - flora
+  - medicinal
 status: canonical
 ---
 
 # Drift-Song Bladderwrack
 
+## Name
+
+Drift-Song Bladderwrack
+
 ## Overview
 
-**Drift-Song Bladderwrack** is flora of **Outer Rim rocks**, used or noticed as **observed / poultice**. Pops under boots; mild burn salve.
+Bladderwrack of Outer Rim drift lines—poultice weed loft apprentices learn after salt burns.
 
 ## Description
 
-Range and habit: **Outer Rim rocks**. Pops under boots; mild burn salve. Archive kind tag: *ordinary*.
+**Look:** olive fronds with float bladders; iodine-sea smell; slippery under boot  
+**Where:** Outer Rim Salt Fog Habitat, Hollowmere strand lines, Rim-Rest edges  
+**Habit:** washes in after storms; dries to black ribbons  
+**Tell:** poultice plant—not kelp noodle without cook know-how
 
 ## Local Use
 
-Locals use it for: **observed / poultice**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Medicinal poultice / observed.** Softens salt burn. Take storm-cast; do not strip living beds bare.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: medicinal.

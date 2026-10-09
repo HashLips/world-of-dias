@@ -5,28 +5,37 @@ region: Flagweek Strip
 related:
   - Flora of Dias
   - Flagweek Strip
+  - Mir Weekly
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - ordinary humor
-  - wrap paper
-  - observed
+  - ordinary
+  - humor
   - flora
 status: canonical
 ---
 
 # Mir Weekly Newsleaf
 
+## Name
+
+Mir Weekly Newsleaf
+
 ## Overview
 
-**Mir Weekly Newsleaf** is flora of **Strip stalls**, used or noticed as **wrap paper / observed**. Oily leaf used to wrap gossip sheets.
+Leaf folk joke carries Mir Weekly gossip—pressed leaves as mock broadsheets.
 
 ## Description
 
-Range and habit: **Strip stalls**. Oily leaf used to wrap gossip sheets. Archive kind tag: *ordinary humor*.
+**Look:** broad soft leaf; takes charcoal scribbles; wilts in a day  
+**Where:** Flagweek Strip tables, Mir Weekly jokes  
+**Habit:** humor plant  
+**Tell:** newsleaf—not true ledger paper
 
 ## Local Use
 
-Locals use it for: **wrap paper / observed**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Humor / cultural.** Scribble jokes. Not evidence genre alone.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary humor`.
+Cultural humor.

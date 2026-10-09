@@ -5,6 +5,8 @@ region: F432 (frequency realm)
 related:
   - Knowledge of Dias
   - Labor Types of F432
+  - Ordinary Day of Dias
+  - F432 Family and Household
   - Wabet Orchard-Kid Subculture
   - Veloria Clerk Subculture
   - Outer Rim Sailor Subculture

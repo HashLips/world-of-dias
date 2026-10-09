@@ -5,6 +5,7 @@ related:
   - Dias
   - Belief of Dias
   - Politics of Dias
+  - Authorities and Factions of Dias
   - Resonant Houses
   - Valorian Operators
   - The Open Hand of Making
@@ -37,6 +38,8 @@ status: canonical
 ## Core Premise
 
 For each major org: **purpose, method, public face, private fear, relationship to echoes**. New factions fill empty pressure niches only. Relationship pass: [`Relationships of Dias`](relationships-of-dias.md). This page keeps a light alliance/rivalry sketch.
+
+**IV.6 offices / competing influences sheet:** [Authorities and Factions of Dias](authorities-and-factions-of-dias.md).
 
 Individual cards live as culture/inhabitant entries linked below—indexes alone are not enough.
 

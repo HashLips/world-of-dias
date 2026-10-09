@@ -4,6 +4,7 @@ name: Silent Dune Keep
 region: Lumira Sands
 related:
   - Organizations of Dias
+  - Authorities and Factions of Dias
   - Lumira Silence Law
   - Iskar Lüm
   - Quiet Well
@@ -42,6 +43,14 @@ Noise is advertisement. Accurate public water charts are extraction technology. 
 ### Relation to Calareth Watch
 
 Restraint cousins: ribbon assent vs dune assent—different land, shared suspicion of boast travel.
+
+### Offices, habits, limits
+
+| Office | Habit | Cannot |
+| --- | --- | --- |
+| Dune Keeper | Assent routes; decoy marks; soft-step schools | Publish accurate public well charts “to help” |
+| Keep guide | Path-only gifts; turnback before blood | Labor-tax as spectacle entertainment |
+| Night camp lead | Speech below water-sound | Oasis jokes as tavern sport |
 
 ### Kindness practice
 

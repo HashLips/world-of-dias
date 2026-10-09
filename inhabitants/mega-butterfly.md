@@ -11,6 +11,10 @@ related:
   - The Carrying Wings of Nauw
   - Creatures of Dias
   - Animals of Dias
+  - Field Guide Pattern of Dias
+  - Ecosystems and Habitats of Dias
+  - Glasswater Ag Channel Habitat
+  - Animal Role Classes of Dias
 themes:
   - annual migration
   - giant winged creature
@@ -44,6 +48,15 @@ Because of these incidents, families and travelers are warned not to remain in o
 ## Cultural Touchstone
 
 Nauw’s signature wonder: people plan calendars around hope of a distant silhouette and fear of an open-road lift. Children learn to clap once for luck when a wing-shadow crosses the yard—then get indoors.
+
+## Ecology
+
+**Feed / energy:** unclear beyond migration fueling—nectar talk exists; do not force Earth butterfly wiki.  
+**Migrate:** Averra emergence talk → east across Nauw → Glasswater freshwater rest → cycle reset.  
+**Scale:** roughly ten× ordinary butterflies; largest can lift a person (hazard).  
+**Interact:** wing-shadow cools carts; downdraft knocks fruit; open-road exposure is the human risk.
+
+**Life kind:** extraordinary (wonder + hazard). Confirmed seasonal spectacle.
 
 ## Narrative Role
 

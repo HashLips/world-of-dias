@@ -5,27 +5,38 @@ region: Driftfall
 related:
   - Flora of Dias
   - Driftfall
+  - Driftfall Salvage Tide Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - cordage
+  - fiber
   - flora
+  - commercial
 status: canonical
 ---
 
 # Scrap-Rope Hemp
 
+## Name
+
+Scrap-Rope Hemp
+
 ## Overview
 
-**Scrap-Rope Hemp** is flora of **Salvage yards**, used or noticed as **cordage**. Reclaimed fiber patches.
+Hemp of Driftfall scrap yards—rope from salvage manners, not fancy Open Hand unfinished pride alone.
 
 ## Description
 
-Range and habit: **Salvage yards**. Reclaimed fiber patches. Archive kind tag: *ordinary*.
+**Look:** tough hemp; salt-tolerant; fiber blackened by yard smoke  
+**Where:** Driftfall Salvage Tide Habitat edges, Claimscar margins  
+**Habit:** fiber for claims and piers  
+**Tell:** scrap hemp—not Calareth ribbon lichen
 
 ## Local Use
 
-Locals use it for: **cordage**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial fiber.** Rope and claims. Steal a drying rack and yard teeth answer.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: commercial.

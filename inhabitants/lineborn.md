@@ -11,6 +11,8 @@ related:
   - Wabet
   - Nauw
   - Flip Plane of a Lineborn
+  - Peoples Physical Traits of Dias
+  - Peoples Places and Contact of Dias
 themes:
   - planar bodies
   - sketch ontology
@@ -30,6 +32,12 @@ Lineborn are a dominant F432 race whose bodies present as thin-plane or sketch-l
 They can resemble living ink cuts, chalk silhouettes, or layered contour figures. Despite planar appearance, Lineborn are fully embodied persons with stable identity, language, and social organization.
 
 Most Lineborn present as narrow profiles with calligraphic edges, high-contrast outlines, and interior texture that reads like sketch shading, parchment grain, or charcoal crosshatch. In motion, they often "flip" between near-invisible side angles and richly detailed frontal planes.
+
+### Abilities and limits
+
+**Can:** work with edge and profile precision (maps, copy, quiet trail reading); flip between near-invisible side and detailed front.  
+**Cannot:** be treated as ghosts or paper—they are material; side-on near-invisibility is body geometry, not spirit travel.  
+**Cost:** witness-seat prejudice (“not fully there”); good halls seat them front-facing.
 
 ## Beliefs About Them
 

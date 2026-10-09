@@ -1,31 +1,41 @@
 ---
 category: flora
-name: Half-Made Atlas Leaf (F960 bleed talk)
+name: Half-Made Atlas Leaf
 region: F432 (frequency realm)
 related:
   - Flora of Dias
-  - F432 (frequency realm)
+  - The Half-Made Atlas
+  - Maps and Wrong Maps of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - rumor
-  - observed anomaly
+  - ordinary
+  - cultural
   - flora
-status: rumor
+status: canonical
 ---
 
-# Half-Made Atlas Leaf (F960 bleed talk)
+# Half-Made Atlas Leaf
+
+## Name
+
+Half-Made Atlas Leaf
 
 ## Overview
 
-**Half-Made Atlas Leaf (F960 bleed talk)** is flora of **sketchbooks in F432**, used or noticed as **observed anomaly**. Leaves that sketch themselves—usually tired eyes.
+Leaf pressed in half-made atlases—mercy blank green, not a completed coast.
 
 ## Description
 
-Range and habit: **sketchbooks in F432**. Leaves that sketch themselves—usually tired eyes. Archive kind tag: *rumor*. Descriptions disagree; do not treat any single witness as complete.
+**Look:** leaf bookmarks in unfinished atlases; veins like incomplete rivers  
+**Where:** F432 teaching tables  
+**Habit:** mercy cartography cousin  
+**Tell:** atlas leaf—not decoy oasis reed
 
 ## Local Use
 
-Locals use it for: **observed anomaly**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural teaching.** Keep blanks honest.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `rumor`.
+Cultural.

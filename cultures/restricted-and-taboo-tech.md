@@ -17,6 +17,8 @@ related:
   - Soft Limits of Dias
   - Complete-Reading Stall Collapse
   - Resonance does not grant wishes
+  - Restricted Rare and Taboo Inventions of Dias
+  - Resonant Tech Capabilities and Failures of Dias
 themes:
   - restricted technology
   - taboo

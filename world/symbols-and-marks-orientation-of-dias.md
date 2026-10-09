@@ -10,6 +10,8 @@ related:
   - DEB Gate Touch
   - Wabet Open Hand
   - Glassfold Phase-Stamp
+  - Visual Culture Briefs of Dias
+  - Historical Symbols and Legends of Dias
 themes:
   - symbols
   - marks
@@ -39,6 +41,8 @@ A mark is compressed manners. Misusing a mark as a subway ticket is Softfruit co
 | Wabet Open Hand | Maker ethic | [Wabet Open Hand](../symbols/wabet-open-hand.md) |
 | Glassfold Phase-Stamp | Timed glance | [Glassfold Phase-Stamp](../symbols/glassfold-phase-stamp.md) |
 | Grid / Vel / others | Wider set | browse `symbols/` |
+
+**VI.7 history-tied symbols/legends:** [Historical Symbols and Legends of Dias](historical-symbols-and-legends-of-dias.md).
 
 ## Notes
 

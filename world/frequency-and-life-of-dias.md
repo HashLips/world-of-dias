@@ -20,6 +20,9 @@ related:
   - Veil Scribes
   - Aurel-kind
   - Softlane Hares
+  - Frequency Biology of Dias
+  - Life Kinds of Dias
+  - Ecosystems and Habitats of Dias
 themes:
   - life
   - frequency
@@ -70,6 +73,8 @@ Home-band F432 peoples carry ordinary resonance as mixed civic load. Visitors to
 ## Global Lore
 
 Life inherits band habit is the rule spine. Softlane Hares and kitchen animals teach F432 load; cross-band exemplars stay partial where soft limits require. Flora companions (Band-Answer Moss and kin) show growth answering the same law.
+
+Concrete species/habitat grid: [`Frequency Biology of Dias`](frequency-biology-of-dias.md).
 
 ## Notes
 

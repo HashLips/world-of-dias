@@ -5,27 +5,35 @@ region: F380 (frequency realm)
 related:
   - Flora of Dias
   - F380 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - else-green
-  - beauty
   - flora
 status: canonical
 ---
 
 # Relief-Widen Blossom
 
+## Name
+
+Relief-Widen Blossom
+
 ## Overview
 
-**Relief-Widen Blossom** is reported in **F380 kind fronts**—growth that may not match F432 carbon flora, still described in plant words. Petals literally broaden in relief climate.
+Blooms that seem to widen space when relief spreads—Tideheart weather cousin.
 
 ## Description
 
-Range and habit: **F380 kind fronts**. Petals literally broaden in relief climate. Archive kind tag: *else-green*.
+**Look:** open bright blossoms; path feels wider  
+**Where:** F380 relief fronts  
+**Habit:** mood ecology  
+**Tell:** relief blossom—not Sun-Sweet melon
 
 ## Local Use
 
-Locals use it for: **beauty**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Not a pharmaceutical.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Else-green.

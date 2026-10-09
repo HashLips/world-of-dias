@@ -5,27 +5,37 @@ region: F500 (frequency realm)
 related:
   - Flora of Dias
   - F500 (frequency realm)
+  - Soft Limits of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
+  - else-green
   - rumor
-  - observed claims
   - flora
-status: rumor
+status: canonical
 ---
 
 # Unraveled Pale-Weed
 
+## Name
+
+Unraveled Pale-Weed
+
 ## Overview
 
-**Unraveled Pale-Weed** is flora of **F500 talk**, used or noticed as **observed claims**. Almost-plant shapes.
+Pale weed in Unraveled remnant talk—partial taxonomy only.
 
 ## Description
 
-Range and habit: **F500 talk**. Almost-plant shapes. Archive kind tag: *rumor*. Descriptions disagree; do not treat any single witness as complete.
+**Look:** pale unraveling stems; witness disagree  
+**Where:** F500 / Unraveled rumor edges  
+**Habit:** do not complete catalog  
+**Tell:** pale weed—not Stillhollow mouth fern
 
 ## Local Use
 
-Locals use it for: **observed claims**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Rumor / partial.** No settled species farm.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `rumor`.
+Soft limits.

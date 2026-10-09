@@ -18,6 +18,8 @@ related:
   - Stage Readiness of Dias
   - Known Unknowns of Dias
   - Soft Limits of Dias
+  - Mystery Boundaries of Dias
+  - Observation vs Speculation of Dias
 themes:
   - mysteries
   - open doors
@@ -44,6 +46,8 @@ A **mystery** is a public open question the world itself keeps asking. A **secre
 4. Each card lists **what life it currently affects**—mystery is not only mood.
 
 ---
+
+**VI.9 boundaries sheet:** [Mystery Boundaries of Dias](mystery-boundaries-of-dias.md). **VI.8 observation vs guess:** [Observation vs Speculation of Dias](observation-vs-speculation-of-dias.md).
 
 ## Crown
 

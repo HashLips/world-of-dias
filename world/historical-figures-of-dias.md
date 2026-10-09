@@ -3,6 +3,7 @@ category: world
 name: Historical Figures of Dias
 related:
   - History of Dias
+  - Historical Legacies of Dias
   - Sereth Gatewright
   - Tollwright Ansa
   - Lumen of Softfruit
@@ -28,6 +29,8 @@ status: canonical
 ## Overview
 
 **Historical Figures of Dias** are names places still argue about—remembered through institutions, songs, and scars. Distinct from living saga casts (Calen, Frederick, Coris, Hanna Kiln, etc.).
+
+**VI.5 verified vs attributed sheet:** [Historical Legacies of Dias](historical-legacies-of-dias.md).
 
 ## Archetype key
 

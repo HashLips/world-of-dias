@@ -11,6 +11,8 @@ related:
   - Driftfall Vent-Crew Subculture
   - Wabet Orchard-Kid Subculture
   - Valorian Operators
+  - Ordinary Day of Dias
+  - F432 Learning Paths
 themes:
   - labor
   - work

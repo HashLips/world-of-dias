@@ -2,10 +2,12 @@
 category: inhabitant
 name: Oriven Tal
 region: Veloria City
-culture:
+culture: Velorian Ring Protocol
 related:
   - Veloria City
   - Vailor Quentin
+  - Named Inhabitant Profiles of Dias
+  - Velorian Ring Protocol
   - Familiar Face (Oriven Tal Portrait)
   - The Familiar Regent Who May Not Be One
   - Resonant Houses
@@ -43,6 +45,16 @@ Among Ring Council observers, a frequent claim is that Vailor treats Oriven with
 ## Narrative Role
 
 Oriven represents invisible governance and the fear that power can be strongest when it is least visible.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Lineborn; Ring Regent (Tier 1 influence) |
+| **Origin** | Veloria closed operational channels |
+| **Role** | Ring continuity; gate cycles; core admin timing |
+| **Relationships** | Vailor (caution); Calen audience; House systems |
+| **Soft limit** | Identity rumor stays open; no casual “constructed person” solve |
 
 ## Notes
 

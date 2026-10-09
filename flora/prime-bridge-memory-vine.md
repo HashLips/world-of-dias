@@ -1,31 +1,40 @@
 ---
 category: flora
-name: Prime-Bridge Memory Vine (myth)
+name: Prime Bridge Memory-Vine
 region: Dias
 related:
   - Flora of Dias
-  - Dias
+  - Soft Limits of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - myth flora
-  - story only
+  - unsettled
+  - myth soft
   - flora
-status: rumor
+status: canonical
 ---
 
-# Prime-Bridge Memory Vine (myth)
+# Prime Bridge Memory-Vine
+
+## Name
+
+Prime Bridge Memory-Vine
 
 ## Overview
 
-**Prime-Bridge Memory Vine (myth)** is flora of **ruin talk**, used or noticed as **story only**. Said to grow where bridge echoes linger.
+Vine in Prime Bridge memory talk—myth-soft growth, not a climbable ferry.
 
 ## Description
 
-Range and habit: **ruin talk**. Said to grow where bridge echoes linger. Archive kind tag: *myth flora*. Descriptions disagree; do not treat any single witness as complete.
+**Look:** vine-of-stories; no agreed leaf  
+**Where:** myth and memory talk  
+**Habit:** unknown  
+**Tell:** memory vine—not Returning Span moss
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Myth soft / unknown.** Do not invent botany closure.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `myth flora`.
+Unsettled.

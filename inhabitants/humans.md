@@ -12,6 +12,8 @@ related:
   - Wabet
   - Sorel
   - Four Humans at a Work Bench
+  - Peoples Physical Traits of Dias
+  - Peoples Places and Contact of Dias
 themes:
   - adaptability
   - cultural plurality
@@ -31,6 +33,12 @@ Humans are one of the most widespread and institutionally visible races in F432,
 F432 humans show broad variation in appearance, language, belief systems, and social customs. They are generally bipedal, tool-using, and community-structured, with high capacity to integrate cross-kind practices from the wider peoples of Dias.
 
 Typical appearance shows wide variation in hair texture, facial structure, height, body shape, and dress traditions tied to local cultures across F432.
+
+### Abilities and limits
+
+**Can:** form clubs and civic systems quickly; rebuild after disruption; integrate cross-kind practices; argue and iterate policy in public.  
+**Cannot (innate):** claim a born signature trait like Veyrin, swarm partition like Palewind, or lattice reassembly like Axiomorphs—humans train what others may be born into.  
+**Cost:** speed of institution-building often means internal disagreement; Wabet silence is learned the hard way.
 
 ## Beliefs About Them
 

@@ -5,27 +5,38 @@ region: Pot Signal Lane
 related:
   - Flora of Dias
   - Pot Signal Lane
+  - Pot Signal Customs
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - kitchen
   - flora
+  - edible
 status: canonical
 ---
 
 # Pot-Signal Steam-Basil
 
+## Name
+
+Pot-Signal Steam-Basil
+
 ## Overview
 
-**Pot-Signal Steam-Basil** is plant life of **Pot Signal Lane**, known to locals mainly as something you eat, drink, or cook with—loves warm pot steam.
+Basil that loves pot-signal steam—kitchen plant of the third-ring lane where warm arrays make leaves greedy.
 
 ## Description
 
-Range and habit: **Pot Signal Lane**. Loves warm pot steam. Archive kind tag: *ordinary*.
+**Look:** glossy basil; purple-stem variants common; steam-fat leaves  
+**Where:** Pot Signal Lane window boxes, tea-house edges  
+**Habit:** leans toward warm pots; bolts if arrays go cold weeks  
+**Tell:** smells like lunch and signal oil mixed—still food
 
 ## Local Use
 
-Locals use it for: **kitchen**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible kitchen.** Tear late onto noodles. Do not plant inside sealed array housings.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

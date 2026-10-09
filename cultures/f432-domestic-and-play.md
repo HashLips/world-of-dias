@@ -4,6 +4,8 @@ name: F432 Domestic and Play
 region: F432 (frequency realm)
 related:
   - Daily Life of Dias
+  - Ordinary Day of Dias
+  - F432 Family and Household
   - F432 Shared Table
   - Languages of Dias
   - Animals of Dias

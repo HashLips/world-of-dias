@@ -27,6 +27,10 @@ related:
   - Songripe Nest-Finches
   - Human-Eyed Whales
   - Mega Butterfly
+  - Life Kinds of Dias
+  - Creatures of Dias
+  - Peoples of Dias
+  - Inhabitant Nature Vocabulary of Dias
 themes:
   - animals
   - ordinary life
@@ -40,7 +44,9 @@ status: canonical
 
 ## Overview
 
-**Animals of Dias** indexes the **ordinary and beloved** living layer—companions, work beasts, food animals, pests, gentle wilds, and seasonal visitors. Strange predators and existential horrors are listed lightly here and deepened under Creatures & Monsters staging; full files live in `inhabitants/`.
+**Animals of Dias** indexes the **ordinary and beloved** living layer—companions, work beasts, food animals, pests, gentle wilds, and seasonal visitors. Strange predators and existential horrors are listed lightly here and deepened under Creatures of Dias; full files live in `inhabitants/`.
+
+**Life kind:** this hub is the **ordinary animal** shelf of Life Kinds of Dias. Peoples are not filed here. Ambiguous sky/gallery life is not forced into pet taxonomy.
 
 ## Core Premise
 

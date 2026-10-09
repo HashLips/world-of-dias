@@ -6,28 +6,38 @@ related:
   - Flora of Dias
   - Span Toll
   - Figs and Strokes That Are Not Letters
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - snack
   - shade
   - flora
+  - edible
 status: canonical
 ---
 
 # Span Toll Shade-Fig
 
+## Name
+
+Span Toll Shade-Fig
+
 ## Overview
 
-**Span Toll Shade-Fig** is flora of **Span Toll**, used or noticed as **snack / shade**. Small figs by chalk tallies.
+Shade figs at Span Toll—snack fruit under which clerks make strokes that are not letters while waiting payment speech.
 
 ## Description
 
-Range and habit: **Span Toll**. Small figs by chalk tallies. Archive kind tag: *ordinary*.
+**Look:** small purple figs; sticky milk if cut green; leaves like open hands  
+**Where:** Span Toll shade courts, payment-queue trees  
+**Habit:** crops with crowd season; shade matters more than yield some weeks  
+**Tell:** snack figs—not ledger ink trees
 
 ## Local Use
 
-Locals use it for: **snack / shade**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible snack.** Queue manners. Shaking figs onto unpaid carts is a known joke-crime.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

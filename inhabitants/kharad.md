@@ -11,6 +11,8 @@ related:
   - Wabet
   - Sorel
   - Granite Stance of a Kharad
+  - Peoples Physical Traits of Dias
+  - Peoples Places and Contact of Dias
 themes:
   - durability
   - craft labor
@@ -30,6 +32,12 @@ Kharad are a dominant F432 race known for dense, materially stable bodies and st
 Kharad morphology ranges from stone-like to metal-grain tissue textures, with high load tolerance and low instability under environmental stress. Many Kharad lineages specialize in long-horizon construction, repair, and risk forecasting.
 
 They are often broad-framed with dense limb structure, mineral-like skin patterns, and layered surface tones that resemble granite, basalt, copper patina, or hammered iron. Movement tends to be deliberate and grounded, with posture that emphasizes balance and load awareness.
+
+### Abilities and limits
+
+**Can:** high load tolerance; long-horizon construction, repair, and risk forecasting; work heat and grit that soft hands avoid.  
+**Cannot:** be reduced to heavy-infantry stereotypes—many are artists and planners; soft-step in Lumira must be trained, not assumed.  
+**Cost:** deliberate pace; soft-step cultures may read them as loud until craft manners land.
 
 ## Beliefs About Them
 

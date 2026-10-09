@@ -5,27 +5,36 @@ region: F960 (frequency realm)
 related:
   - Flora of Dias
   - F960 (frequency realm)
+  - Draftkin
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - hazard
-  - barrier
+  - else-green
   - flora
 status: canonical
 ---
 
 # Revision Thorn
 
+## Name
+
+Revision Thorn
+
 ## Overview
 
-**Revision Thorn** appears around **F960** and is handled with caution. Wounds look briefly redrawn.
+Thorns Draftkin joke revise overnight—becoming-as-baseline flora talk.
 
 ## Description
 
-Range and habit: **F960**. Wounds look briefly redrawn. Archive kind tag: *hazard*.
+**Look:** thorns that change count between glances  
+**Where:** F960 draft scaffolds  
+**Habit:** revision urge cousins  
+**Tell:** revision thorn—not Saltwhisper brush
 
 ## Local Use
 
-Locals use it for: **barrier**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed else-green.** Not F432 hedge.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `hazard`.
+Else-green.

@@ -1,31 +1,40 @@
 ---
 category: flora
-name: Roadglow Wayside (absence)
+name: Roadglow Wayside
 region: F432 (frequency realm)
 related:
   - Flora of Dias
   - F432 (frequency realm)
+  - Roadglow Shard
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - observed gap
-  - observed
+  - ordinary
   - flora
 status: canonical
 ---
 
-# Roadglow Wayside (absence)
+# Roadglow Wayside
+
+## Name
+
+Roadglow Wayside
 
 ## Overview
 
-**Roadglow Wayside (absence)** is noted around **roads after shard tales**. People watch it more than they take it. Some say flowers lean toward carriers—unproven.
+Wayside plant that catches roadglow talk—ordinary green with saga glitter nearby.
 
 ## Description
 
-Range and habit: **roads after shard tales**. Some say flowers lean toward carriers—unproven. Archive kind tag: *observed gap*.
+**Look:** dusty wayside herb; faint evening catch-light  
+**Where:** F432 roads with Roadglow lore  
+**Habit:** saga-adjacent  
+**Tell:** roadglow wayside—not Rim glow lichen craft
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed.** Do not sell as shard fertilizer.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `observed gap`.
+Ordinary wayside.

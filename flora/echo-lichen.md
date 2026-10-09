@@ -5,27 +5,38 @@ region: The Returning Span
 related:
   - Flora of Dias
   - The Returning Span
+  - Band-Answer Moss
+  - Frequency and Life of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - else-green
-  - omen mark
+  - ordinary
+  - teaching
   - flora
 status: canonical
 ---
 
 # Echo-Lichen
 
+## Name
+
+Echo-Lichen
+
 ## Overview
 
-**Echo-Lichen** is associated with **F120 Returning Span** and leans beyond ordinary garden behavior. Double patch slightly wrong.
+Lichen of Returning Span waysides—remainder-talk cousin to Band-Answer Moss, not a ticket stamp.
 
 ## Description
 
-Range and habit: **F120 Returning Span**. Double patch slightly wrong. Archive kind tag: *else-green*.
+**Look:** pale echo-pattern lichen; cool stone  
+**Where:** Returning Span waysides  
+**Habit:** teaching remnant  
+**Tell:** echo-lichen—not Band-Answer Moss kitchen walls alone
 
 ## Local Use
 
-Locals use it for: **omen mark**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Teaching / observed.** Softfruit may compare; no ferry claim.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Teaching flora.

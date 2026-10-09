@@ -5,29 +5,35 @@ region: F432 (frequency realm)
 related:
   - Flora of Dias
   - F432 (frequency realm)
-  - The light after shared laughter
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - rumor
-  - soft
-  - observed
+  - ordinary
   - flora
-status: rumor
+status: canonical
 ---
 
 # Laughlight Seedgrass
 
+## Name
+
+Laughlight Seedgrass
+
 ## Overview
 
-**Laughlight Seedgrass** is noted around **plazas after shared laughter**. People watch it more than they take it. Said to sprout thicker after genuine laughs.
+Seedgrass that catches laughlight in gilding talk—joy ordinary, not weaponized.
 
 ## Description
 
-Range and habit: **plazas after shared laughter**. Said to sprout thicker after genuine laughs. Archive kind tag: *rumor/soft*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape. Descriptions disagree; do not treat any single witness as complete.
+**Look:** seedgrass with evening glitter dust  
+**Where:** F432 basin joy weeks  
+**Habit:** gilding cousins  
+**Tell:** laughlight—not Bleed-Sky
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed joy.** Softfruit.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `rumor/soft`.
+Ordinary.

@@ -5,27 +5,37 @@ region: Sorel
 related:
   - Flora of Dias
   - Sorel
+  - Sorel Dust-Bison
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - grazing
+  - habitat
   - flora
 status: canonical
 ---
 
 # Dust-Bison Prairie Grass
 
+## Name
+
+Dust-Bison Prairie Grass
+
 ## Overview
 
-**Dust-Bison Prairie Grass** is flora of **Sorel grasslands**, used or noticed as **grazing**. Herd weather.
+Prairie grass dust-bison graze—horizon ecology, not Flagweek lawn.
 
 ## Description
 
-Range and habit: **Sorel grasslands**. Herd weather. Archive kind tag: *ordinary*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** tall dust-tipped grass; bison paths pressed  
+**Where:** southern Sorel open reaches  
+**Habit:** bison weather moves it  
+**Tell:** prairie—not Flagweek dust reach cloth
 
 ## Local Use
 
-Locals use it for: **grazing**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed habitat.** Leave herds. Fencing for vanity fails Freeband talk.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary habitat.

@@ -5,28 +5,37 @@ region: Open Hand Way
 related:
   - Flora of Dias
   - Open Hand Way
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - fiber
-  - rope
   - flora
+  - commercial
 status: canonical
 ---
 
 # Openhand Craft-Hemp
 
+## Name
+
+Openhand Craft-Hemp
+
 ## Overview
 
-**Openhand Craft-Hemp** is flora of **Open Hand Way**, used or noticed as **fiber / rope**. Makers’ cordage.
+Hemp of Open Hand workshops—honest unfinished rope and cloth edges.
 
 ## Description
 
-Range and habit: **Open Hand Way**. Makers’ cordage. Archive kind tag: *ordinary*.
+**Look:** tall hemp; strong fiber; seed for birds  
+**Where:** Open Hand Way craft margins  
+**Habit:** fiber seasons; unfinished edges proud  
+**Tell:** craft hemp—not Freeband camp nettle sting
 
 ## Local Use
 
-Locals use it for: **fiber / rope**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial fiber.** Make; share. Conquest acreage dreams fail Open Hand.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: commercial.

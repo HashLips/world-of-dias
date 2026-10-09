@@ -5,27 +5,38 @@ region: Isle of Calareth
 related:
   - Flora of Dias
   - Isle of Calareth
+  - Calareth Watch
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - sacred-soft
-  - do not transplant
+  - ordinary
+  - path
   - flora
+  - cultural
 status: canonical
 ---
 
 # Calareth No-Move Moss
 
+## Name
+
+Calareth No-Move Moss
+
 ## Overview
 
-**Calareth No-Move Moss** grows in relation to **Isle paths** and carries etiquette: harvest and handling are bound by custom. Moving mats ≈ moving stone spirit.
+Moss Calareth Watch uses to teach “no move” stillness—step soft or stay off.
 
 ## Description
 
-Range and habit: **Isle paths**. Moving mats ≈ moving stone spirit. Archive kind tag: *sacred-soft*. Low growth; soft or grit-trapping underfoot; often gathered by hand rather than blade.
+**Look:** velvet moss paths; footprints shame-visible  
+**Where:** Calareth hush courtyards  
+**Habit:** punishes stomping with bald patches  
+**Tell:** stillness teaching—not F200 clover
 
 ## Local Use
 
-Locals use it for: **do not transplant**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Cultural path manners.** Walk soft. Racing on moss fails Watch.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `sacred-soft`.
+Cultural ordinary.

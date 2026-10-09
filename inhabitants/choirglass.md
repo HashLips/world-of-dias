@@ -11,6 +11,8 @@ related:
   - Nauw
   - Veloria City
   - Facet Light of a Choirglass
+  - Peoples Physical Traits of Dias
+  - Peoples Places and Contact of Dias
 themes:
   - resonance
   - faceted consciousness
@@ -30,6 +32,12 @@ Choirglass are a dominant F432 race with faceted bodies and resonance-based cogn
 Their presence is commonly described as prism-like and chordal: posture, speech, and mood can register as layered tonal structures as much as visible movement. Communication may combine voice, overtone, and refractive signaling.
 
 Choirglass bodies are typically translucent or semi-translucent, built from faceted planes that catch ambient light into color bands. Facial regions may be smooth or multi-paneled rather than flesh-featured, with expression conveyed by brightness shifts, harmonic vibration, and refractive pulse patterns.
+
+### Abilities and limits
+
+**Can:** communicate via voice, overtone, and refractive signaling; host tone-meals paced to soft harmonics; mediate when translation is the work.  
+**Cannot:** be assumed oracles or automatic sages; single-channel listeners miss half the speech.  
+**Cost:** misread as serene adjudicators when they are ordinary neighbors who speak in light.
 
 ## Beliefs About Them
 

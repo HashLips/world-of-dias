@@ -1,31 +1,42 @@
 ---
 category: flora
-name: Garen Scar Bloodroot (folk name)
+name: Garen Scar Bloodroot
 region: Claimscar Yard
 related:
   - Flora of Dias
   - Claimscar Yard
+  - Garen Scar
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - folk medicine
-  - styptic talk
+  - ordinary
+  - caution
+  - dye soft
   - flora
 status: canonical
 ---
 
-# Garen Scar Bloodroot (folk name)
+# Garen Scar Bloodroot
+
+## Name
+
+Garen Scar Bloodroot
 
 ## Overview
 
-**Garen Scar Bloodroot (folk name)** is flora of **Claim edges**, used or noticed as **styptic talk**. Name worse than plant; mild astringent.
+Bloodroot tied to Garen Scar yard talk—red sap for claim marks, caution in the mouth.
 
 ## Description
 
-Range and habit: **Claim edges**. Name worse than plant; mild astringent. Archive kind tag: *folk medicine*.
+**Look:** red-sap root; single leaf; shade plant  
+**Where:** Claimscar Yard shade scrap  
+**Habit:** sap for marks; not candy  
+**Tell:** bloodroot caution—not hearth bean
 
 ## Local Use
 
-Locals use it for: **styptic talk**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Craft mark / caution.** Dye claims. Do not chew as dare.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `folk medicine`.
+Commercial soft / caution.

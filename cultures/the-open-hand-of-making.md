@@ -11,6 +11,8 @@ related:
   - Echo interpretation stances
   - Everything resonates echo principle
   - Resonant Artifacts
+  - Cultures Customs and Expectations of Dias
+  - Open Hand Ways of Dias
 themes:
   - revision ethics
   - humility
@@ -38,6 +40,16 @@ status: canonical
 Members keep layered records showing decision lineage rather than only final output. Public works include visible revision bands so future maintainers inherit process knowledge, not just surface geometry.
 
 Apprenticeship includes "clean undo" training: how to reverse a harmful change without collapsing the whole structure.
+
+### Scene beats (daily-life ready)
+
+| Beat | What happens |
+| --- | --- |
+| **Workshop entry** | Host shows revision bands and names prior hands before tool talk |
+| **Shared hold** | Commons work leaves process visible; “done” is contextual |
+| **Clean undo drill** | Apprentices reverse a harmful change without collapsing the whole |
+| **Mistake** | Sealed “perfection” that hides harm, or attribution theft → hard refusal |
+| **Exit** | Leave the line open for the next maker; closed perfection is the insult |
 
 ## Lore
 

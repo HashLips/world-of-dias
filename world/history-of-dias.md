@@ -15,6 +15,13 @@ related:
   - F432 Civic Time
   - Myth Cycles of Fracture and Kin
   - Historical Figures of Dias
+  - Historical Eras and Chronology of Dias
+  - Evidence Grades of History of Dias
+  - Fracture Consequences of Dias
+  - Shaping Events of Dias
+  - Historical Legacies of Dias
+  - History Preservation of Dias
+  - Annotated Timeline of Dias
 themes:
   - history
   - timeline
@@ -55,7 +62,14 @@ Cross-frequency “wars” and Distant Companies remain rumor-grade after-echo, 
 
 | Need | Entry |
 | --- | --- |
-| Certainty grades | [Known Disputed Forgotten](../cultures/known-disputed-forgotten.md) |
+| **VI.1 eras** | [Historical Eras and Chronology of Dias](historical-eras-and-chronology-of-dias.md) |
+| **VI.2 grades** | [Evidence Grades of History of Dias](evidence-grades-of-history-of-dias.md); [Known Disputed Forgotten](../cultures/known-disputed-forgotten.md) |
+| **VI.3 Fracture effects** | [Fracture Consequences of Dias](fracture-consequences-of-dias.md) |
+| **VI.4 shaping events** | [Shaping Events of Dias](shaping-events-of-dias.md) |
+| **VI.5 legacies** | [Historical Legacies of Dias](historical-legacies-of-dias.md); [Historical Figures of Dias](historical-figures-of-dias.md) |
+| **VI.6 preservation** | [History Preservation of Dias](history-preservation-of-dias.md) |
+| **VI.10 timeline spine** | [Annotated Timeline of Dias](annotated-timeline-of-dias.md) |
+| Soft markers | [Known Eras and Markers](known-eras-and-markers.md) |
 | Unbind / unmake rumors | [Unmaking Pattern Rumors](../cultures/unmaking-pattern-rumors.md) |
 | Nauw past texture | [Nauw Civic Memory](../cultures/nauw-civic-memory.md) |
 | Wabet past texture | [Wabet Restraint Memory](../cultures/wabet-restraint-memory.md) |

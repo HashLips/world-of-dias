@@ -5,27 +5,37 @@ region: Flagweek Strip
 related:
   - Flora of Dias
   - Flagweek Strip
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - festival dye
+  - dye
   - flora
+  - commercial
 status: canonical
 ---
 
 # Flagweek Dye-Flower
 
+## Name
+
+Flagweek Dye-Flower
+
 ## Overview
 
-**Flagweek Dye-Flower** is flora of **Flagweek Strip**, used or noticed as **festival dye**. Stains outlast allegiances.
+Dye flowers of Flagweek allegiance cloth—color that outlasts some loyalties.
 
 ## Description
 
-Range and habit: **Flagweek Strip**. Stains outlast allegiances. Archive kind tag: *ordinary*.
+**Look:** bright dye blooms; color baths; stained fingers  
+**Where:** Flagweek Strip gardens  
+**Habit:** festival dye weeks  
+**Tell:** dye flower—not Ringfair marigold twin exactly
 
 ## Local Use
 
-Locals use it for: **festival dye**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial dye.** Cloth weather. Selling “eternal allegiance dye” is a joke with teeth.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: commercial.

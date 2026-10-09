@@ -16,6 +16,8 @@ related:
   - Nauw
   - Wabet
   - Sorel
+  - Peoples Physical Traits of Dias
+  - Peoples Places and Contact of Dias
 themes:
   - coexistence
   - migration

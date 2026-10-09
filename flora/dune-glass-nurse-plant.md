@@ -1,31 +1,42 @@
 ---
 category: flora
-name: Dune-Glass Nurse Plant
+name: Dune-Glass Nurse-Plant
 region: Lumira Sands
 related:
   - Flora of Dias
   - Lumira Sands
+  - Lumira Silent Dune Habitat
+  - Lumira Glass Dune Flats
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - ecology
+  - nurse
   - flora
 status: canonical
 ---
 
-# Dune-Glass Nurse Plant
+# Dune-Glass Nurse-Plant
+
+## Name
+
+Dune-Glass Nurse-Plant
 
 ## Overview
 
-**Dune-Glass Nurse Plant** is flora of **Lumira**, used or noticed as **ecology**. Shade for Dune-Glass Lizard insect hunts.
+Low nurse plant of glass dune flats—shelters seedlings and lizards through Listening Heat.
 
 ## Description
 
-Range and habit: **Lumira**. Shade for Dune-Glass Lizard insect hunts. Archive kind tag: *ordinary*.
+**Look:** spreading gray-green mat; glassy leaf tips; shade pockets underneath  
+**Where:** Lumira Glass Dune Flats, silent dune habitat  
+**Habit:** anchors sand; dies if stamped for sport  
+**Tell:** nurse—not forage feast
 
 ## Local Use
 
-Locals use it for: **ecology**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / ecology.** Step around. Crushing mats for “shortcuts” earns Keep scorn.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Habitat keystone ordinary.

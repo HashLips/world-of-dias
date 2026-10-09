@@ -11,6 +11,7 @@ related:
   - Lumira Silence Law
   - Calareth No-Moved-Stone Rule
   - Resonant Houses
+  - Speech Etiquette and Naming of Dias
 themes:
   - taboo
   - soft words

@@ -5,29 +5,36 @@ region: Claimscar Yard
 related:
   - Flora of Dias
   - Claimscar Yard
-  - Magenta on the Slag
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - first green
-  - garland
+  - colonizer
   - flora
 status: canonical
 ---
 
 # Scrapyard Fireweed
 
+## Name
+
+Scrapyard Fireweed
+
 ## Overview
 
-**Scrapyard Fireweed** is flora of **Claimscar / Secondfire**, used or noticed as **first green / garland**. Magenta on slag.
+Fireweed of scrap burns—first pink after ugly heat, Freeband metaphor plant.
 
 ## Description
 
-Range and habit: **Claimscar / Secondfire**. Magenta on slag. Archive kind tag: *ordinary*.
+**Look:** tall pink fireweed; colonizes ash  
+**Where:** Claimscar burn scars, Driftfall scrap fires  
+**Habit:** first after fire  
+**Tell:** fireweed—not Bleed-Sky nightbloom
 
 ## Local Use
 
-Locals use it for: **first green / garland**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed metaphor / soft forage.** Young shoots sometimes eaten; know your burn.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary colonizer.

@@ -2,13 +2,14 @@
 category: inhabitant
 name: Hanna Kiln
 region: Secondfire
-culture:
+culture: Sorel Exile Compact
 related:
   - Secondfire
   - Hearthvale
   - Hearthvale Second-Beginning Craft
   - The Exile Who Refused Second Beginning
   - Alwen Rusk
+  - Named Inhabitant Profiles of Dias
 themes:
   - kiln teaching
   - second chances
@@ -40,5 +41,15 @@ Compact stewards trust Hanna’s fires. Refusers fear Hanna’s questions more t
 ## Narrative Role
 
 Warm Hearthvale saga center; can host the exile who refuses second beginning without becoming a sermon.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Human; kiln teacher |
+| **Origin** | Secondfire remaking craft |
+| **Role** | Second-beginning heat; slate names; refuse costume remaking |
+| **Relationships** | Alwen Rusk; Compact stewards; Nauw shame-cases |
+| **Soft limit** | Warmth is not forced remaking |
 
 ## Notes

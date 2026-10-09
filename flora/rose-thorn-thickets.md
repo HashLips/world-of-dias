@@ -5,30 +5,37 @@ region: Wabet
 related:
   - Flora of Dias
   - Wabet
-  - Wine-Dark Thorns, No Animals
+  - Rose-Thorn Wolves
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - feared
-  - barrier
-  - signal
+  - hazard soft
   - flora
 status: canonical
 ---
 
 # Rose-Thorn Thickets
 
+## Name
+
+Rose-Thorn Thickets
+
 ## Overview
 
-**Rose-Thorn Thickets** is flora of **Wabet deep margins**, used or noticed as **barrier / signal**. Wolf country; wine-dark.
+Wild rose thickets that shelter Rose-Thorn Wolves—beauty with teeth weather.
 
 ## Description
 
-Range and habit: **Wabet deep margins**. Wolf country; wine-dark. Archive kind tag: *ordinary+feared*.
+**Look:** dense wild rose; hooked thorns; hips in Fruitcarry  
+**Where:** Wabet wild margins near wolf country  
+**Habit:** wolves first; walkers second  
+**Tell:** thicket hazard—not Open Hand garden rose
 
 ## Local Use
 
-Locals use it for: **barrier / signal**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / soft hazard.** Detour. Clearing for “safety” without Keep/Open Hand talk is arrogance.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary+feared`.
+Soft hazard.

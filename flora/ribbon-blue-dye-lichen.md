@@ -1,31 +1,42 @@
 ---
 category: flora
-name: Ribbon-Blue Dye Lichen
+name: Ribbon-Blue Dye-Lichen
 region: Isle of Calareth
 related:
   - Flora of Dias
   - Isle of Calareth
+  - Calareth Ribbon-Light Architecture
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - craft
-  - ribbon dye
+  - ordinary
+  - dye
   - flora
+  - commercial
 status: canonical
 ---
 
-# Ribbon-Blue Dye Lichen
+# Ribbon-Blue Dye-Lichen
+
+## Name
+
+Ribbon-Blue Dye-Lichen
 
 ## Overview
 
-**Ribbon-Blue Dye Lichen** is flora of **Calareth**, used or noticed as **ribbon dye**. Watch-approved harvest only.
+Blue dye lichen of Calareth—ribbon-light craft color under Watch assent.
 
 ## Description
 
-Range and habit: **Calareth**. Watch-approved harvest only. Archive kind tag: *craft*.
+**Look:** blue-gray lichen crusts; dye bath sky-soft  
+**Where:** Isle of Calareth stone and timber  
+**Habit:** assent harvest; slow regrow  
+**Tell:** ribbon blue—not Bleed-Sky fake dye
 
 ## Local Use
 
-Locals use it for: **ribbon dye**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial dye (assent).** Watch manners. Overharvest fades island light talk.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `craft`.
+Plant Use Classes: commercial.

@@ -5,27 +5,38 @@ region: Lumira Sands
 related:
   - Flora of Dias
   - Lumira Sands
+  - Lumira Silent Dune Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - food
   - flora
+  - edible
 status: canonical
 ---
 
 # Lumira Night-Cool Melon
 
+## Name
+
+Lumira Night-Cool Melon
+
 ## Overview
 
-**Lumira Night-Cool Melon** is plant life of **Hidden oases**, known to locals mainly as something you eat, drink, or cook with—harvested soft-voice only.
+Melon that cools after dusk in Lumira—day heat jail, night gift for Keep-assented harvest.
 
 ## Description
 
-Range and habit: **Hidden oases**. Harvested soft-voice only. Archive kind tag: *ordinary*.
+**Look:** small pale melon; cool flesh after dark; bitter if cut at noon  
+**Where:** Lumira oasis edges under Keep assent  
+**Habit:** night harvest only in practice  
+**Tell:** night-cool—not Market Banana
 
 ## Local Use
 
-Locals use it for: **food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible (assent).** Keep paths. Noon cutting is foolish and sometimes forbidden.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible. Restricted manners.

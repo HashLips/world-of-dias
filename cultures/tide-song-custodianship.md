@@ -7,6 +7,9 @@ related:
   - Marek Solon
   - Singing Fishermen
   - Human-Eyed Whales
+  - Cultures Customs and Expectations of Dias
+  - Outer Rim Sailor Subculture
+  - Outer Rim Line Answer
 themes:
   - maritime stewardship
   - ritual memory
@@ -27,6 +30,16 @@ The culture treats sea knowledge as inherited duty rather than private advantage
 ## Practices and Traditions
 
 Communities maintain chant-guided route recall, whale-path respect customs, and season-specific pause practices intended to prevent collapse of local marine cycles.
+
+### Scene beats (daily-life ready)
+
+| Beat | What happens |
+| --- | --- |
+| **Loft welcome** | Hammock offered with check-in teaching—not free lodging without the call |
+| **First Line** | Storm Choir or loft call must be answered; pretty excuses do not count |
+| **Route stanza** | One true route chant taught as gift; apprentices answer before they argue myth |
+| **Catch pause** | Season restraint named aloud when greed threatens the cycle |
+| **Mistake** | Missed storm check-in → public shame, then a make-good stanza before exit |
 
 ## Lore
 

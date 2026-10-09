@@ -6,6 +6,7 @@ related:
   - Languages of Dias
   - F432 Shared Table
   - F432 Honorifics and Address
+  - Speech Etiquette and Naming of Dias
   - Peoples of Dias
   - Choirglass
   - Palewind Swarms

@@ -5,6 +5,9 @@ region: The Sketchy Gallery
 related:
   - Flora of Dias
   - The Sketchy Gallery
+  - Sketchshade Cats
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - observed
@@ -14,18 +17,25 @@ status: canonical
 
 # Sketchy Gallery Dustfern
 
+## Name
+
+Sketchy Gallery Dustfern
+
 ## Overview
 
-**Sketchy Gallery Dustfern** is noted around **Sketchy Gallery eaves**. People watch it more than they take it. Ink-dust loving; artists swear it edits itself.
+Dust-loving fern under Sketchy Gallery eaves—artists swear it edits itself; Softfruit says it just likes ink dust.
 
 ## Description
 
-Range and habit: **Sketchy Gallery eaves**. Ink-dust loving; artists swear it edits itself. Archive kind tag: *ordinary*. Reads as stand or fringe vegetation—sound and motion matter as much as leaf shape.
+**Look:** ash-dusted fronds; soft spore; grows where canvases shed  
+**Where:** Sketchy Gallery eaves, ink-table shade  
+**Habit:** thrives on neglect and dust  
+**Tell:** observed uncanny joke—not a living eraser for crimes
 
 ## Local Use
 
-No casual harvest. Record, avoid, or ask a local authority (Keeper, Watch, House, freeband elder) before touching.
+**Observed only.** Leave for gallery mood. Sweeping it all away is considered artistically anxious.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ambiguous humor flora; still ordinary plant.

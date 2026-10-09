@@ -5,27 +5,38 @@ region: Veloria City
 related:
   - Flora of Dias
   - Veloria City
+  - Softfruit Table Hall
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - kitchen
   - flora
+  - edible
 status: canonical
 ---
 
 # Veloria Pocket-Parsley
 
+## Name
+
+Veloria Pocket-Parsley
+
 ## Overview
 
-**Veloria Pocket-Parsley** is plant life of **Veloria markets**, known to locals mainly as something you eat, drink, or cook with—stall bunches; Grin-Pig garnish steal.
+Flat-leaf parsley kept in apron pockets and sill pots—finishes Softfruit stews and market fried fish.
 
 ## Description
 
-Range and habit: **Veloria markets**. Stall bunches; Grin-Pig garnish steal. Archive kind tag: *ordinary*.
+**Look:** flat green leaflets; sharp green scent; stems that wilt in a hot pocket by noon  
+**Where:** Veloria kitchens, Softfruit halls, outer-market herb cups  
+**Habit:** loves steam; bolts if ignored in Brightpass heat  
+**Tell:** curly “show parsley” is for garnish vanity; pocket-parsley is the cook’s plant
 
 ## Local Use
 
-Locals use it for: **kitchen**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible kitchen.** Chop late. Hosts share sprigs; stealing a whole pot is petty theft with social heat.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

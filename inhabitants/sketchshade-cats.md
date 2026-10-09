@@ -7,6 +7,9 @@ related:
   - The Sketchy Gallery
   - Veloria City
   - Nauw
+  - Life Kinds of Dias
+  - Animals of Dias
+  - Veloria Lap-Cats
 themes:
   - art-district fauna
   - half-seen
@@ -20,6 +23,8 @@ nature: creature
 ## Overview
 
 Sketchshade Cats are rumored gallery cats whose outlines look incomplete in certain light, as if drawn and not fully inked.
+
+**Life kind:** **ambiguous / rumor**—may be ordinary strays plus tired eyes, or gallery-kept uncanny. Do not force a collar or a monster stamp.
 
 ## Description
 

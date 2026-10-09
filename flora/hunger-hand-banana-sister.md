@@ -5,28 +5,40 @@ region: Wabet
 related:
   - Flora of Dias
   - Wabet
-  - Nauw Fruit Reverence
+  - Hunger
+  - Market Banana
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - food
+  - caution
   - flora
+  - edible
 status: canonical
 ---
 
 # Hunger-Hand Banana Sister
 
+## Name
+
+Hunger-Hand Banana Sister
+
 ## Overview
 
-**Hunger-Hand Banana Sister** is plant life of **Wabet east orchards**, known to locals mainly as something you eat, drink, or cook with—bulk banana strains feeding Nauw.
+Banana-sister plant of hunger talk—feeds when Market Banana politics feel cruel.
 
 ## Description
 
-Range and habit: **Wabet east orchards**. Bulk banana strains feeding Nauw. Archive kind tag: *ordinary*. Clusters, scent, and market rank make it unmistakable in Nauw food talk even when the orchard itself sits in Wabet.
+**Look:** smaller banana hands; starchier; less rank pride  
+**Where:** Wabet hunger gardens, Softfall edges  
+**Habit:** hunger mercy crop  
+**Tell:** sister—not apex Market Banana
 
 ## Local Use
 
-Locals use it for: **food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible mercy.** Feed first. Do not rebrand as supreme rank to cheat reverence.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

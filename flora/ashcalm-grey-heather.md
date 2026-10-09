@@ -5,28 +5,37 @@ region: Ashcalm Rise
 related:
   - Flora of Dias
   - Ashcalm Rise
+  - Stillhollow
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - observed
-  - tea bitter
   - flora
 status: canonical
 ---
 
 # Ashcalm Grey-Heather
 
+## Name
+
+Ashcalm Grey-Heather
+
 ## Overview
 
-**Ashcalm Grey-Heather** is plant life of **Ashcalm Rise**, known to locals mainly as something you eat, drink, or cook with—mute-country scrub.
+Grey heather of Ashcalm Rise—quiet color that refuses tourist glow.
 
 ## Description
 
-Range and habit: **Ashcalm Rise**. Mute-country scrub. Archive kind tag: *ordinary*.
+**Look:** low grey-lilac heather; ash grit in roots  
+**Where:** Ashcalm Rise slopes  
+**Habit:** little-visited; rumor-dense  
+**Tell:** rise heather—not rim glow lichen
 
 ## Local Use
 
-Locals use it for: **observed / tea bitter**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Walk soft near Stillhollow talk. Do not burn for “clear views.”
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary quiet.

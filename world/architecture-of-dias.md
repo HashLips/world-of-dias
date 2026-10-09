@@ -26,6 +26,7 @@ related:
   - Ringwash Baths
   - Softfruit Table Hall
   - Bay-Ribbon Guest Hall
+  - Visual Culture Briefs of Dias
 themes:
   - architecture
   - regional dialects

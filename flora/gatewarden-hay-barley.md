@@ -5,27 +5,38 @@ region: DEB Gate of Veloria
 related:
   - Flora of Dias
   - DEB Gate of Veloria
+  - Gatewarden Rams
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - fodder
   - flora
+  - commercial
 status: canonical
 ---
 
 # Gatewarden Hay-Barley
 
+## Name
+
+Gatewarden Hay-Barley
+
 ## Overview
 
-**Gatewarden Hay-Barley** is flora of **Deb Gate stores**, used or noticed as **fodder**. Rams and geese feed.
+Barley stacked as gatewarden fodder—rams and watch beasts eat before speeches finish.
 
 ## Description
 
-Range and habit: **Deb Gate stores**. Rams and geese feed. Archive kind tag: *ordinary*.
+**Look:** golden stacked sheaves; awns that itch collars; dust that smells like summer roads  
+**Where:** DEB Gate fodder yards, approach barns  
+**Habit:** seasonal stacks; Wetwake spoils careless piles  
+**Tell:** fodder first—not bread barley for Softfruit cakes without mill talk
 
 ## Local Use
 
-Locals use it for: **fodder**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Commercial fodder.** Feed rams/geese. Theft is gate crime.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: commercial.

@@ -4,29 +4,42 @@ name: Basin Mist-Herb
 region: Velorian Basin
 related:
   - Flora of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
   - Velorian Basin
+  - Basin Mist Orchard Habitat
+  - Velorian Basin gilding hour
+  - Softfruit Table Hall
 themes:
   - ordinary
   - tea
   - garnish
   - flora
+  - edible
 status: canonical
 ---
 
 # Basin Mist-Herb
 
+## Name
+
+Basin Mist-Herb
+
 ## Overview
 
-**Basin Mist-Herb** is plant life of **Velorian Basin**, known to locals mainly as something you eat, drink, or cook with—gilding-hour cups; soft mint ditches.
+A soft mint-family ditch herb of the Velorian Basin—picked for gilding-hour cups and quiet garnish when mist still holds the road.
 
 ## Description
 
-Range and habit: **Velorian Basin**. Gilding-hour cups; soft mint ditches. Archive kind tag: *ordinary*.
+**Look:** low paired leaves, pale green, crushed scent like cool mint with wet stone; small white flower-specks in Brightpass.  
+**Where:** Basin Mist Orchard Habitat—ditches, garden edges, Softfruit courtyard pots.  
+**Habit:** loves morning wet; fades sharp in dry wind weeks.  
+**Tell:** tastes cleaner after gilding hour than at noon market heat; Softfruit jokes that the herb “waits for permission light.”
 
 ## Local Use
 
-Locals use it for: **tea / garnish**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible**—tea and garnish. Not a medicine claim. Children may pick with host assent; stripping a ditch bare for novelty is poor basin care.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Indexed in Flora of Dias. Kind: ordinary. Plant Use Classes: edible. Habitat link for III.2/III.3 crosswalk.

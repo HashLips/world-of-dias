@@ -6,29 +6,38 @@ related:
   - Flora of Dias
   - That Forest
   - Blue Litter Underwood
-  - Winter-Bare Over Blue Litter
+  - The Blue Litter Husk
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - unsettled
-  - observed
-  - hazard listen
+  - caution
   - flora
-status: unknown
+  - hazard
+status: canonical
 ---
 
 # Blue-Host Grovewood
 
+## Name
+
+Blue-Host Grovewood
+
 ## Overview
 
-**Blue-Host Grovewood** appears around **That Forest litter zones** and is handled with caution. Winter-skeletal over Blue Litter.
+Grovewood folk say hosts blue litter—unsettled growth underwood pressure, not lumber pride.
 
 ## Description
 
-Range and habit: **That Forest litter zones**. Winter-skeletal over Blue Litter. Archive kind tag: *unsettled*. Woody presence: shade, boundary, or vow-site more than a single harvest clip.
+**Look:** wood with blue-dust seams; heavy hush nearby  
+**Where:** That Forest deep stands  
+**Habit:** avoid casual cut; rumor of litter preference  
+**Tell:** unsettled—not Aelwyn drip willow
 
 ## Local Use
 
-Locals use it for: **observed / hazard listen**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Caution / refuse casual harvest.** Open Hand over extraction. Soft limits: not Zero.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `unsettled`.
+Hazard / unsettled.

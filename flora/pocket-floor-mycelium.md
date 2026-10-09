@@ -1,31 +1,40 @@
 ---
 category: flora
-name: Pocket-Floor Mycelium (rumor)
+name: Pocket Floor Mycelium
 region: F500 (frequency realm)
 related:
   - Flora of Dias
   - F500 (frequency realm)
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - rumor
-  - itch lore
+  - else-green
+  - caution
   - flora
-status: rumor
+status: canonical
 ---
 
-# Pocket-Floor Mycelium (rumor)
+# Pocket Floor Mycelium
+
+## Name
+
+Pocket Floor Mycelium
 
 ## Overview
 
-**Pocket-Floor Mycelium (rumor)** is flora of **F500 pockets**, used or noticed as **itch lore**. With pocket mites talk.
+Mycelium of pocket-floor mite stories—existential adjacent, not Softfruit kitchen mushroom.
 
 ## Description
 
-Range and habit: **F500 pockets**. With pocket mites talk. Archive kind tag: *rumor*. Descriptions disagree; do not treat any single witness as complete.
+**Look:** white thread under wrong floors; memory itch  
+**Where:** F500 pocket-floor talk  
+**Habit:** thin proof  
+**Tell:** pocket mycelium—not Averra inkcap
 
 ## Local Use
 
-Locals use it for: **itch lore**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Caution rumor.** Do not cultivate.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `rumor`.
+Else-green caution.

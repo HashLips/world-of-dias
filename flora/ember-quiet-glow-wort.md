@@ -1,31 +1,40 @@
 ---
 category: flora
-name: Ember Quiet Glow-Wort
+name: Ember-Quiet Glow-Wort
 region: F840 (frequency realm)
 related:
   - Flora of Dias
   - F840 (frequency realm)
+  - Ember Keepers
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - else-green
-  - path micro-light
   - flora
 status: canonical
 ---
 
-# Ember Quiet Glow-Wort
+# Ember-Quiet Glow-Wort
+
+## Name
+
+Ember-Quiet Glow-Wort
 
 ## Overview
 
-**Ember Quiet Glow-Wort** is reported in **F840**—growth that may not match F432 carbon flora, still described in plant words. With glow-ants.
+Glow-wort of ember-quiet recovery—shelter-first plant talk of F840.
 
 ## Description
 
-Range and habit: **F840**. With glow-ants. Archive kind tag: *else-green*.
+**Look:** soft ember glow in leaf cups; warm quiet  
+**Where:** F840 shelter approaches  
+**Habit:** recovery pace  
+**Tell:** ember wort—not Cinder lantern cap craft
 
 ## Local Use
 
-Locals use it for: **path micro-light**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed else-green.** Not F432 party lamp.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Else-green.

@@ -6,6 +6,8 @@ related:
   - Flora of Dias
   - Cinder Nook
   - Cinder Nook Lantern Cap
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - craft
   - tiny light
@@ -15,18 +17,25 @@ status: canonical
 
 # Cinder Lantern Cap (fungus)
 
+## Name
+
+Cinder Lantern Cap (fungus)
+
 ## Overview
 
-**Cinder Lantern Cap (fungus)** is flora of **Cinder Nook F840 talk**, used or noticed as **tiny light**. Beetle-adjacent glow culture.
+Tiny fungus caps Cinder Nook strings as weak lanterns—craft light for net mending, not city lamps.
 
 ## Description
 
-Range and habit: **Cinder Nook F840 talk**. Beetle-adjacent glow culture. Archive kind tag: *craft*.
+**Look:** small pale caps; faint cool glow; strings of ten for a loft hour  
+**Where:** Cinder Nook shade wood, damp rack undersides  
+**Habit:** glows hours then fades; rain helps  
+**Tell:** tiny light—not Bleed-Sky bloom
 
 ## Local Use
 
-Locals use it for: **tiny light**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Craft light.** Mend nets. Selling as “eternal lantern” is a pier lie.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `craft`.
+Craft flora. Not hazard omen.

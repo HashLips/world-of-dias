@@ -5,27 +5,38 @@ region: Veloria City
 related:
   - Flora of Dias
   - Veloria City
+  - VEL Mark Trade Standard
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary humor
   - tea
   - flora
+  - edible
 status: canonical
 ---
 
 # VEL-Mark Mint (joke cultivar)
 
+## Name
+
+VEL-Mark Mint (joke cultivar)
+
 ## Overview
 
-**VEL-Mark Mint (joke cultivar)** is plant life of **money desks**, known to locals mainly as something you eat, drink, or cook with—clerks name any mint this.
+Mint joke-cultivar clerks claim “smells like a VEL Mark”—actually just good mint with a stamp story; tea for ledger headaches.
 
 ## Description
 
-Range and habit: **money desks**. Clerks name any mint this. Archive kind tag: *ordinary humor*.
+**Look:** bright mint leaves; sometimes a clay stamp poked in the pot soil as a joke  
+**Where:** Calibration Row cousins, Softfruit tea shelves, clerk windowsills  
+**Habit:** invasively cheerful in damp pots  
+**Tell:** does not mint currency—House jokes aside
 
 ## Local Use
 
-Locals use it for: **tea**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible tea.** Humor cultivar. Selling it as “money plant” is a fine Softfruit bit until someone believes it.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary humor`.
+Ordinary humor kitchen flora.

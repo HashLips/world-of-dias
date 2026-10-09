@@ -8,6 +8,7 @@ related:
   - The Fracture
   - Echo interpretation stances
   - Myth Cycles of Fracture and Kin
+  - Evidence Grades of History of Dias
 themes:
   - historiography
   - certainty

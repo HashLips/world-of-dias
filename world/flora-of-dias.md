@@ -32,6 +32,10 @@ related:
   - F500 (frequency realm)
   - Vitrin
   - The Vitrin Saga
+  - Ecosystems and Habitats of Dias
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
+  - Life Kinds of Dias
 themes:
   - flora
   - orchards
@@ -49,11 +53,29 @@ status: canonical
 
 **Flora of Dias** is the living plant index of the archive. Each named plant has its own entry in [`flora/`](../flora/). Heavy behaviors may also appear as phenomena (Apple Touch, Blue Litter, Bleed-Sky Nightbloom).
 
-**Count:** **149** named key flora — one file each in [`flora/`](../flora/).
+**Count:** named key flora live one file each in [`flora/`](../flora/).
+
+**Field-guide deepen pass:** Entries use Look / Where / Habit / Tell / Local Use blocks (Field Guide Pattern of Dias). Else-green and omen plants stay thin-honest on soft limits—no band-ferry seeds, no Zero botany.
+
+**Companions:** Plant Use Classes of Dias (edible / medicinal / dangerous / commercial / cultural); Field Guide Pattern of Dias; Ecosystems and Habitats of Dias (biome placement).
 
 ## Core Premise
 
 Locals use most plants. A minority are watched, feared, sung about, or refused. Magical-leaning does not mean “spell slot”—it means the plant answers frequency, omen, or pocket law in ways gardens usually do not.
+
+### Habitat crosswalk (major F432)
+
+| Habitat | Example flora |
+| --- | --- |
+| Basin Mist Orchard | Basin Mist-Herb; Market Banana (sold); Calibration Corner-Mint |
+| Outer Rim Salt Fog | Hollowmere Net-Moss; Rim-Rest Raftweed |
+| Glasswater Ag Channel | Glasswater Mirror-Reed; Tubehold Grease-Cress |
+| Aelwyn Softfall Canopy | Canopy Soft-Bear Berry; Eastbound Peel-Vine |
+| Lumira Silent Dune | oasis restraint plants; Quiet Well approach greens (Keep) |
+| That Forest Blue Underwood | Blue Litter pressure flora; hush underwood |
+| Hearthvale Rebuild Field | Hearthvale Stew-Onion; doorstep garden greens |
+| Driftfall Salvage Tide / camps | Freeband Camp-Nettle; pier weeds |
+| Rare omen | Bleed-Sky Nightbloom |
 
 ### Kind key
 

@@ -13,6 +13,7 @@ related:
   - Cultures of Dias
   - Creatures of Dias
   - Frequency Zero
+  - Beliefs Rituals and Resonance Readings of Dias
 themes:
   - belief
   - mythology
@@ -40,6 +41,7 @@ Full entries below.
 
 | Need | Entry |
 | --- | --- |
+| **IV.8 rituals / readings sheet** | [Beliefs Rituals and Resonance Readings of Dias](beliefs-rituals-and-resonance-readings-of-dias.md) |
 | Echo as meaning | [Echo Belief Stances](../cultures/echo-belief-stances.md) |
 | Ribbons, silence, fruit, hearth | [Sacred Local Practices](../cultures/sacred-local-practices.md) |
 | Fracture / whale / gate / ash myths | [Myth Cycles of Fracture and Kin](../cultures/myth-cycles-of-fracture-and-kin.md) |

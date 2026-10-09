@@ -2,10 +2,13 @@
 category: inhabitant
 name: Serik Dovant
 region: Nauw
-culture:
+culture: Nauw Concord
 related:
   - Nauw
   - Brindle March
+  - Nauw Concord
+  - Named Inhabitant Profiles of Dias
+  - Authorities and Factions of Dias
   - Green 1 (Serik Dovant Portrait)
   - The Steward at the Crossing Tables
   - Brindle Compensation Chit
@@ -39,6 +42,16 @@ Supporters see him as Nauw's stabilizer. Critics say he bends too often toward V
 ## Narrative Role
 
 Serik embodies middle-layer governance where peace depends on negotiation more than force.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Human; addressed High Steward |
+| **Origin** | Brindle March route arbitration |
+| **Role** | Nauw Concord civic continuity; trade and exile pressure |
+| **Relationships** | Markets; Veloria priorities (criticized lean); Long Gate consequences |
+| **Soft limit** | Not a war-default crown; not Concord boots as Sorel law |
 
 ## Notes
 

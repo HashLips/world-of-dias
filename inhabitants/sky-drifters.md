@@ -13,6 +13,9 @@ related:
   - Calmness of Floating
   - Eye in the Sky
   - Outer-Ring Chalk Count
+  - Life Kinds of Dias
+  - Creatures of Dias
+  - Animals of Dias
 themes:
   - watchers
   - frequency overlap (speculation)
@@ -26,6 +29,8 @@ nature: unknown
 ## Overview
 
 Sky Drifters are humanoid-shaped entities that drift endlessly in the skies above Veloria City. They never descend to the ground.
+
+**Life kind:** **ambiguous** (Life Kinds of Dias). Confirmed presence; refused species collar. Not ordinary animals, not Softfruit table-neighbors, not a solved frequency ferry.
 
 ## Description
 

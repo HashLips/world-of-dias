@@ -1,33 +1,43 @@
 ---
 category: flora
-name: Lucky Fruit forms
+name: Lucky Fruit Forms
 region: Wabet
 related:
   - Flora of Dias
   - Wabet
-  - Nauw Fruit Reverence
   - Lucky Fruit sharing-knife
+  - Aelwyn Softfall Canopy Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - magical-leaning
-  - omen food
+  - ordinary
+  - cultural
   - flora
+  - edible
 status: canonical
 ---
 
-# Lucky Fruit forms
+# Lucky Fruit Forms
+
+## Name
+
+Lucky Fruit Forms
 
 ## Overview
 
-**Lucky Fruit forms** is plant life of **Wabet orchards (rare)**, known to locals mainly as something you eat, drink, or cook with—perfect symmetry; disputed boons.
+Near-perfect fruit forms among Wabet growth—Lucky Fruit belief, shared carefully.
 
 ## Description
 
-Range and habit: **Wabet orchards (rare)**. Perfect symmetry; disputed boons. Archive kind tag: *magical-leaning*.
+**Look:** fruit of ordinary species with uncanny symmetry; same scent as cousins  
+**Where:** Wabet orchards and canopy surveys  
+**Habit:** anecdotal luck; unproven science  
+**Tell:** lucky form—not a different species file alone
 
 ## Local Use
 
-Locals use it for: **omen food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible + cultural.** Share-knife manners. Hoarding “luck” fails Softfruit.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `magical-leaning`.
+Plant Use Classes: edible, cultural.

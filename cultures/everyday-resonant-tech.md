@@ -16,6 +16,9 @@ related:
   - VEL Mark Trade Standard
   - Resonance Can and Cannot of Dias
   - Careful Partial Reading Hold
+  - Object and Artifact Classes of Dias
+  - Domestic Tools and Instruments of Dias
+  - Resonant Tech Capabilities and Failures of Dias
 themes:
   - everyday technology
   - wonder

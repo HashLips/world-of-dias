@@ -2,10 +2,13 @@
 category: inhabitant
 name: Iskar Lüm
 region: Lumira Sands
-culture:
+culture: Silent Dune Keep
 related:
   - Lumira Sands
   - Wabet
+  - Silent Dune Keep
+  - Lumira Silence Law
+  - Named Inhabitant Profiles of Dias
   - Senses 1 (Iskar Lüm Portrait)
   - The Drifting Face of the Dunes
 themes:
@@ -37,6 +40,16 @@ Locals treat Iskar as a necessary desert custodian. Outsiders often read him as 
 ## Narrative Role
 
 Iskar represents desert stewardship through altered embodiment and disciplined secrecy.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Axiomorph; Dune Keeper |
+| **Origin** | Lumira survival knowledge; shifting form |
+| **Role** | Silence Law enforcement; hidden water ethics |
+| **Relationships** | Keep guides; Quiet Well emblem; fruit-money map pressure |
+| **Soft limit** | Not a monster omen by default; wrong maps stay mercy |
 
 ## Notes
 

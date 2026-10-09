@@ -4,6 +4,7 @@ name: Kindness Markets and Black Markets
 region: F432 (frequency realm)
 related:
   - Economy of Dias
+  - Laws Trade and Regional Economies of Dias
   - F432 Plural Tender Economies
   - F432 Shared Table
   - Pot Signal Customs

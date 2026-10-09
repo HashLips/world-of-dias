@@ -5,6 +5,7 @@ region: F432 (frequency realm)
 related:
   - Languages of Dias
   - F432 Naming Patterns
+  - Speech Etiquette and Naming of Dias
   - Velorian Ring Protocol
   - Calareth Watch
   - Tide-Song Custodianship
@@ -64,6 +65,16 @@ At DEB Gate and lesser arches, protocol favors short compliance phrases: destina
 
 At Hallow Bay, address the Watch by role until ribboned; then names open.
 
+### Polite vs rude exchange seeds
+
+| Setting | Polite | Rude |
+| --- | --- | --- |
+| Softfruit Hall | “Neighbor—ladle first?” | “Operator, stamp my favor.” (wrong register) |
+| DEB Gate | Destination ring + companion count, short | Poetry delay or House swagger over the oath |
+| Hallow Bay | Role-address Watch until ribboned | First-name the Watch before assent |
+| Claimscar | “Sit, bowl—wire or news?” | “Steward says…” as Concord rank |
+| Choirglass desk | Wait a pulse; use handle | “Say it like a person.” |
+
 ## Kindness practice
 
 Default to the local soft address (**neighbor**, **hand**, **loft**) until invited higher or closer.
@@ -74,4 +85,4 @@ Refuse honorifics that launder harm (“Steward” used to silence a witness). C
 
 ## Notes
 
-Pairs with [`Multi-Kind Speech Etiquette`](multi-kind-speech-etiquette.md).
+Pairs with [`Multi-Kind Speech Etiquette`](multi-kind-speech-etiquette.md). Staging: [`Speech Etiquette and Naming of Dias`](../world/speech-etiquette-and-naming-of-dias.md).

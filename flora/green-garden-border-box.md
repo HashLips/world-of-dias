@@ -5,6 +5,9 @@ region: Green Garden Border Lanes
 related:
   - Flora of Dias
   - Green Garden Border Lanes
+  - Green Garden
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - hedge
@@ -15,18 +18,25 @@ status: canonical
 
 # Green Garden Border-Box
 
+## Name
+
+Green Garden Border-Box
+
 ## Overview
 
-**Green Garden Border-Box** is flora of **Green Garden Border Lanes**, used or noticed as **hedge / scent**. Clipped lanes; ant highways.
+Clipped box hedge of Green Garden border lanes—scent border between garden manners and road dust.
 
 ## Description
 
-Range and habit: **Green Garden Border Lanes**. Clipped lanes; ant highways. Archive kind tag: *ordinary*.
+**Look:** dense evergreen box; clipped geometry; green pepper-leaf scent when cut  
+**Where:** Green Garden Border Lanes  
+**Habit:** keeps shape under keeper shears; wilds if abandoned  
+**Tell:** hedge manners—not That Forest
 
 ## Local Use
 
-Locals use it for: **hedge / scent**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed / hedge craft.** Keepers clip. Vandals who carve names earn garden scorn.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Ordinary civic hedge.

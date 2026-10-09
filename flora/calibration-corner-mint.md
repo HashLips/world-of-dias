@@ -5,27 +5,38 @@ region: Calibration Row
 related:
   - Flora of Dias
   - Calibration Row
+  - Basin Mist Orchard Habitat
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - focus pots
   - flora
+  - edible
 status: canonical
 ---
 
 # Calibration Corner-Mint
 
+## Name
+
+Calibration Corner-Mint
+
 ## Overview
 
-**Calibration Corner-Mint** is flora of **Calibration Row**, used or noticed as **focus pots**. Sill pots; flea and ledger joke.
+Sill mint of Calibration Row—focus pots for operators and Softfruit cousins who need a green pause between measurements.
 
 ## Description
 
-Range and habit: **Calibration Row**. Sill pots; flea and ledger joke. Archive kind tag: *ordinary*.
+**Look:** compact mint; clean scent; pots chalk-numbered by joke  
+**Where:** Calibration Row sills, Softfruit corner pots  
+**Habit:** hates neglect; thrives on steam gossip  
+**Tell:** focus plant—not a resonance amplifier; no “mint for better echo” sales
 
 ## Local Use
 
-Locals use it for: **focus pots**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible tea / focus pots.** Kitchen and pause. Not tech.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

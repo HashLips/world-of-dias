@@ -2,10 +2,13 @@
 category: inhabitant
 name: Coris Vale
 region: Isle of Calareth
-culture:
+culture: Calareth Watch
 related:
   - Isle of Calareth
   - Wabet
+  - Calareth Watch
+  - Yara Moss
+  - Named Inhabitant Profiles of Dias
   - Loyalty 1 (Coris Vale Portrait)
   - The Warden Who Closed the Reefs
 themes:
@@ -37,6 +40,16 @@ Pilgrims and preservationists praise Coris as a guardian. Trade circles view her
 ## Narrative Role
 
 Coris represents uncompromising boundary authority in an ecologically fragile island zone.
+
+### Reference profile
+
+| Field | Content |
+| --- | --- |
+| **Identity** | Human; Isle Warden |
+| **Origin** | Shore-watch lineages; anti-smuggler reef clearing |
+| **Role** | Calareth threshold law; ribbon assent; no-moved-stone |
+| **Relationships** | Yara Moss (first contact); Watch juniors; trade circles as hard barrier |
+| **Soft limit** | Not a secret cult; public strict hospitality |
 
 ## Notes
 

@@ -10,6 +10,8 @@ related:
   - Keth Dunewalk
   - Quiet Well Map-Wrongness Rule
   - The Map That Must Stay Wrong
+  - Cultures Customs and Expectations of Dias
+  - Wabet Silence-as-Speech
 themes:
   - silence as survival
   - water ethics
@@ -37,6 +39,16 @@ The land provides for those who respect its silence. Noise is not only volume—
 - Night camps keep speech below water-sound
 - Caravans without Keep assent receive labor-tax or turnback
 - Children learn decoy dunes before true oases
+
+### Scene beats (daily-life ready)
+
+| Beat | What happens |
+| --- | --- |
+| **Approach** | Soft steps; guide answers shout with hush, not volume |
+| **Teaching** | Decoy dunes before true oases; map-wrongness is moral craft |
+| **Camp** | Speech below water-sound; silence can be the gift |
+| **Mistake** | Accurate public well-talk → turnback or labor-tax |
+| **Exit** | Leave without publishing the route; soft apology if noise was made |
 
 ## Lore
 

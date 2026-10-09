@@ -11,6 +11,8 @@ related:
   - F432 Shared Table
   - Everyday Resonant Tech
   - Notched Ladle, Bowl, and Green Crate
+  - Artifact Illustration Briefs of Dias
+  - Domestic Tools and Instruments of Dias
 themes:
   - joy
   - everyday resonance
@@ -35,6 +37,10 @@ Lumen of Softfruit’s habit made civic. Multi-kind meals begin with the ladle�
 ## Usage
 
 Hall service; teaching children ladle-before-stamp; settling small quarrels before Pot Signal debts.
+
+### Illustration brief
+
+Hand-scale deep bowl spoon; wood darkened by citrus/banana mash; visible fee notches; no chrome. Behavior tell is pour refusal—not glowing runes.
 
 ## Notes
 

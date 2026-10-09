@@ -5,27 +5,35 @@ region: The Glassfold Ledge
 related:
   - Flora of Dias
   - The Glassfold Ledge
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
-  - else-green
-  - timing cue
+  - ordinary
   - flora
 status: canonical
 ---
 
 # Pane-Moss
 
+## Name
+
+Pane-Moss
+
 ## Overview
 
-**Pane-Moss** is reported in **F610 Glassfold**—growth that may not match F432 carbon flora, still described in plant words. Visible in reveal windows.
+Moss of Glassfold ledge panes—opacity and clarity homework underfoot.
 
 ## Description
 
-Range and habit: **F610 Glassfold**. Visible in reveal windows. Archive kind tag: *else-green*. Low growth; soft or grit-trapping underfoot; often gathered by hand rather than blade.
+**Look:** moss in pane seams; cool green  
+**Where:** Glassfold Ledge  
+**Habit:** stare-cost cousins  
+**Tell:** pane moss—not Nightledger roof lichen
 
 ## Local Use
 
-Locals use it for: **timing cue**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed.** Softfruit tags; no ferry.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `else-green`.
+Ledge flora.

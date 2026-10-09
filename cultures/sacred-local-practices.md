@@ -4,6 +4,7 @@ name: Sacred Local Practices
 region: F432 (frequency realm)
 related:
   - Belief of Dias
+  - Beliefs Rituals and Resonance Readings of Dias
   - Calareth Watch
   - Lumira Silence Law
   - Nauw Fruit Reverence

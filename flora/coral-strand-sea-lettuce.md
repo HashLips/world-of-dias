@@ -5,27 +5,38 @@ region: Coral Strand
 related:
   - Flora of Dias
   - Coral Strand
+  - Hallow Bay
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - food
   - flora
+  - edible
 status: canonical
 ---
 
 # Coral Strand Sea-Lettuce
 
+## Name
+
+Coral Strand Sea-Lettuce
+
 ## Overview
 
-**Coral Strand Sea-Lettuce** is plant life of **Coral Strand**, known to locals mainly as something you eat, drink, or cook with—lantern-fish shallows forage.
+Sea lettuce of Coral Strand—clean coast salad under ribbon manners.
 
 ## Description
 
-Range and habit: **Coral Strand**. Lantern-fish shallows forage. Archive kind tag: *ordinary*.
+**Look:** bright sea lettuce sheets; clean brine  
+**Where:** Coral Strand shallows  
+**Habit:** clean water  
+**Tell:** sea lettuce—not Driftfall pier weed
 
 ## Local Use
 
-Locals use it for: **food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible.** Guest pots. Scrap oil kills it—and hospitality.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.

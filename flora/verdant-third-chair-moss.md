@@ -5,28 +5,37 @@ region: Verdant Reach
 related:
   - Flora of Dias
   - Verdant Reach
+  - Open Hand Way
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
-  - culture
-  - soft seat custom
+  - hospitality
   - flora
 status: canonical
 ---
 
 # Verdant Third-Chair Moss
 
+## Name
+
+Verdant Third-Chair Moss
+
 ## Overview
 
-**Verdant Third-Chair Moss** is flora of **Verdant hospitality spots**, used or noticed as **soft seat custom**. Third-chair rule companion green.
+Moss Open Hand jokes is a “third chair”—soft sit-spot for guests who arrive without furniture pride.
 
 ## Description
 
-Range and habit: **Verdant hospitality spots**. Third-chair rule companion green. Archive kind tag: *ordinary+culture*. Low growth; soft or grit-trapping underfoot; often gathered by hand rather than blade.
+**Look:** cushion moss circles; cool sit; tea-stain jokes  
+**Where:** Verdant Reach rest nooks, Open Hand waysides  
+**Habit:** kept soft by use and Softfall  
+**Tell:** hospitality moss—not Averra inkcap
 
 ## Local Use
 
-Locals use it for: **soft seat custom**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Observed hospitality.** Sit; do not harvest for Veloria pillows.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary+culture`.
+Cultural soft ordinary.

@@ -5,27 +5,38 @@ region: Open Hand Way
 related:
   - Flora of Dias
   - Open Hand Way
+  - Eastbound Fruit Road
+  - Plant Use Classes of Dias
+  - Field Guide Pattern of Dias
 themes:
   - ordinary
   - food
   - flora
+  - edible
 status: canonical
 ---
 
 # Waystation Soup-Carrot
 
+## Name
+
+Waystation Soup-Carrot
+
 ## Overview
 
-**Waystation Soup-Carrot** is plant life of **Open Hand Way**, known to locals mainly as something you eat, drink, or cook with—orange travel staple.
+Carrots of Open Hand waystations—soup for reciprocity travelers.
 
 ## Description
 
-Range and habit: **Open Hand Way**. Orange travel staple. Archive kind tag: *ordinary*.
+**Look:** orange stout carrots; sweet after frost jokes  
+**Where:** Open Hand waystation gardens  
+**Habit:** soup pots first  
+**Tell:** soup carrot—not Softfruit banana politics
 
 ## Local Use
 
-Locals use it for: **food**. Match etiquette of the place—silence laws, Watch assent, orchard share rules, or yard custom may apply.
+**Edible.** Feed travelers. Hoarding seed without share talk is rude.
 
 ## Notes
 
-Indexed in [`Flora of Dias`](../world/flora-of-dias.md). Kind: `ordinary`.
+Plant Use Classes: edible.
