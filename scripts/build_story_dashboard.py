@@ -4,7 +4,7 @@ Generate an interactive world atlas dashboard from markdown lore files.
 
 Extracts full frontmatter metadata, document sections, summaries, assets and
 typed relationships from every lore entry, then renders a self-contained
-multi-tab HTML dashboard (graph, map, explorer, gallery, themes, hierarchy,
+multi-tab HTML dashboard (graph, map, timeline, explorer, gallery, hierarchy,
 insights) with a rich detail panel per entry.
 
 Map positions are authored in dashboard/map-registry.yaml and compiled in.
@@ -660,6 +660,7 @@ TEMPLATE = r"""<!doctype html>
     display: inline-flex; align-items: center; gap: 6px;
   }
   .pill.on { border-color: color-mix(in srgb, var(--c, var(--accent)) 60%, transparent); color: var(--ink); background: color-mix(in srgb, var(--c, var(--accent)) 13%, transparent); }
+  #exp-cat-pills { display: inline-flex; flex-wrap: wrap; gap: 8px; align-items: center; }
   .result-count { color: var(--faint); font-size: 0.76rem; margin-left: auto; }
 
   /* ---------- explorer cards ---------- */
@@ -705,34 +706,6 @@ TEMPLATE = r"""<!doctype html>
   .gal-cap b { display: block; font-size: 0.82rem; font-weight: 600; }
   .gal-cap span { display: block; color: var(--faint); font-size: 0.7rem; margin-top: 2px; }
 
-  /* ---------- themes ---------- */
-  #tab-themes.active { display: grid; grid-template-columns: 300px 1fr; height: 100%; }
-  #theme-list-col {
-    border-right: 1px solid var(--line-soft);
-    overflow: auto;
-    padding: 14px;
-    display: flex; flex-direction: column; gap: 4px;
-    background: rgba(13,14,20,0.6);
-  }
-  #theme-list-col input {
-    background: var(--panel); border: 1px solid var(--line); border-radius: 9px;
-    color: var(--ink); padding: 7px 11px; font-size: 0.82rem; outline: none; margin-bottom: 8px;
-  }
-  .theme-row {
-    display: flex; align-items: center; gap: 8px;
-    padding: 6px 10px;
-    border-radius: 8px;
-    font-size: 0.82rem;
-    color: var(--muted);
-    cursor: pointer;
-  }
-  .theme-row:hover { background: rgba(255,255,255,0.05); color: var(--ink); }
-  .theme-row.sel { background: rgba(143,169,255,0.14); color: var(--ink); outline: 1px solid rgba(143,169,255,0.4); }
-  .theme-row .count { margin-left: auto; color: var(--faint); font-size: 0.72rem; }
-  #theme-entries { overflow: auto; padding: 18px 20px 40px; }
-  #theme-entries h2 { margin: 0 0 4px; font-size: 1.1rem; }
-  #theme-entries .sub { color: var(--faint); font-size: 0.8rem; margin-bottom: 16px; }
-
   /* ---------- hierarchy ---------- */
   #tab-hierarchy .scroll-inner { max-width: 860px; }
   .hier-root, .hier-children { list-style: none; margin: 0; padding: 0; }
@@ -747,6 +720,7 @@ TEMPLATE = r"""<!doctype html>
     font-size: 0.88rem;
   }
   .hier-row:hover { background: rgba(143,169,255,0.10); }
+  .hier-row.miss { opacity: 0.38; }
   .hier-toggle {
     width: 18px; height: 18px;
     border: 1px solid rgba(255,255,255,0.18);
@@ -1284,12 +1258,11 @@ TEMPLATE = r"""<!doctype html>
     <button data-tab="timeline">Timeline</button>
     <button data-tab="explorer">Explorer</button>
     <button data-tab="gallery">Gallery</button>
-    <button data-tab="themes">Themes</button>
     <button data-tab="hierarchy">Hierarchy</button>
     <button data-tab="insights">Insights</button>
   </nav>
   <div class="header-search">
-    <input id="global-search" placeholder="Search the atlas..." autocomplete="off" />
+    <input id="global-search" placeholder="Search names and lore..." autocomplete="off" />
     <div id="search-results"></div>
   </div>
 </header>
@@ -1457,18 +1430,6 @@ TEMPLATE = r"""<!doctype html>
     </div>
   </section>
 
-  <section id="tab-themes" class="tab">
-    <div id="theme-list-col">
-      <input type="text" id="theme-search" placeholder="Filter themes..." />
-      <div id="theme-list"></div>
-    </div>
-    <div id="theme-entries">
-      <h2 id="theme-title">Themes</h2>
-      <div class="sub" id="theme-sub">Select a theme to see every entry that carries it.</div>
-      <div class="card-grid" id="theme-grid"></div>
-    </div>
-  </section>
-
   <section id="tab-hierarchy" class="tab">
     <div class="scroll-tab">
       <div class="toolbar">
@@ -1560,6 +1521,42 @@ for (const n of nodes) {
     if (!themeMap.has(t)) themeMap.set(t, []);
     themeMap.get(t).push(n.id);
   }
+}
+const sortedThemes = [...themeMap.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
+
+let atlasQuery = '';
+const searchBlob = new Map();
+for (const n of nodes) {
+  const bits = [n.label, n.category, n.status, n.summary || ''];
+  if (n.themes && n.themes.length) bits.push(n.themes.join('\n'));
+  if (n.meta) {
+    for (const v of Object.values(n.meta)) if (v) bits.push(String(v));
+  }
+  if (n.sections) {
+    for (const s of n.sections) {
+      if (s.h) bits.push(s.h);
+      if (s.t) bits.push(s.t);
+    }
+  }
+  searchBlob.set(n.id, bits.join('\n').toLowerCase());
+}
+function entryMatches(n, q) {
+  const query = q == null ? atlasQuery : String(q).trim().toLowerCase();
+  if (!query) return true;
+  const blob = searchBlob.get(n.id) || '';
+  for (const part of query.split(/\s+/)) {
+    if (part && !blob.includes(part)) return false;
+  }
+  return true;
+}
+function refreshAtlas() {
+  applyGraphFilters();
+  renderExplorer();
+  renderGallery();
+  renderTimeline();
+  renderHierarchy();
+  renderInsights();
+  if (window.DiasMap && window.DiasMap.redraw) window.DiasMap.redraw();
 }
 
 function esc(s) {
@@ -1780,45 +1777,24 @@ window.addEventListener('keydown', (e) => {
 /* ============ global search ============ */
 const searchInput = document.getElementById('global-search');
 const searchResults = document.getElementById('search-results');
-function runSearch(q) {
-  const query = q.trim().toLowerCase();
-  if (!query) { searchResults.classList.remove('open'); return; }
-  const scored = [];
-  for (const n of nodes) {
-    const name = n.label.toLowerCase();
-    let score = -1;
-    if (name === query) score = 0;
-    else if (name.startsWith(query)) score = 1;
-    else if (name.includes(query)) score = 2;
-    else if (n.themes.some(t => t.toLowerCase().includes(query))) score = 3;
-    else if (n.category.includes(query) || n.status.includes(query)) score = 4;
-    else if (n.summary.toLowerCase().includes(query)) score = 5;
-    if (score >= 0) scored.push([score, n]);
-  }
-  scored.sort((a, b) => a[0] - b[0] || a[1].label.localeCompare(b[1].label));
-  const top = scored.slice(0, 14);
-  if (!top.length) { searchResults.classList.remove('open'); return; }
-  searchResults.innerHTML = top.map(([, n]) =>
-    `<div class="search-item" data-open="${esc(n.id)}">` +
-    `<span class="dot" style="background:${catColor(n.category)}"></span>` +
-    `<span>${esc(n.label)}</span><span class="cat-mini">${esc(n.category)}</span></div>`
-  ).join('');
-  searchResults.classList.add('open');
+let atlasTimer = 0;
+function applyAtlasQuery(raw) {
+  atlasQuery = String(raw || '').trim().toLowerCase();
+  searchResults.classList.remove('open');
+  clearTimeout(atlasTimer);
+  atlasTimer = setTimeout(refreshAtlas, 60);
 }
-searchInput.addEventListener('input', () => runSearch(searchInput.value));
+function selectTheme(t) {
+  searchInput.value = t;
+  applyAtlasQuery(t);
+  searchInput.focus();
+}
+searchInput.addEventListener('input', () => applyAtlasQuery(searchInput.value));
 searchInput.addEventListener('keydown', (e) => {
-  if (e.key === 'Enter') {
-    const first = searchResults.querySelector('[data-open]');
-    if (first) { openEntry(first.dataset.open); searchResults.classList.remove('open'); searchInput.blur(); }
+  if (e.key === 'Escape') {
+    searchInput.value = '';
+    applyAtlasQuery('');
   }
-  if (e.key === 'Escape') searchResults.classList.remove('open');
-});
-searchResults.addEventListener('click', (e) => {
-  const item = e.target.closest('[data-open]');
-  if (item) { openEntry(item.dataset.open); searchResults.classList.remove('open'); searchInput.value = ''; }
-});
-document.addEventListener('click', (e) => {
-  if (!e.target.closest('.header-search')) searchResults.classList.remove('open');
 });
 
 /* ============ graph tab ============ */
@@ -2044,10 +2020,10 @@ const labelEls = nodes.map((n) => {
 function graphVisibleSet() {
   let vis = new Set(
     nodes
-      .filter(n => selectedCats.has(n.category) && (selectedSpace === 'all' || n.space === selectedSpace))
+      .filter(n => selectedCats.has(n.category) && (selectedSpace === 'all' || n.space === selectedSpace) && entryMatches(n))
       .map(n => n.id)
   );
-  if (focusMode && selectedId) {
+  if (!atlasQuery && focusMode && selectedId) {
     const hood = new Set([selectedId]);
     for (const l of adj.get(selectedId) || []) hood.add(l.id);
     vis = new Set([...vis].filter(id => hood.has(id)));
@@ -2066,7 +2042,7 @@ function applyGraphFilters() {
     el.classList.toggle('sel', n.id === selectedId);
   }
   for (const [n, el] of labelEls) {
-    const v = vis.has(n.id) && showLabels;
+    const v = vis.has(n.id) && (showLabels || !!atlasQuery);
     el.style.display = v ? '' : 'none';
     el.classList.toggle('dim', v && hood ? !hood.has(n.id) : false);
   }
@@ -2425,15 +2401,7 @@ function cardHtml(n) {
 
 function renderExplorer() {
   const q = expSearch.value.trim().toLowerCase();
-  let list = nodes.filter(n => expCats.has(n.category));
-  if (q) {
-    list = list.filter(n =>
-      n.label.toLowerCase().includes(q) ||
-      n.summary.toLowerCase().includes(q) ||
-      n.themes.some(t => t.toLowerCase().includes(q)) ||
-      (n.meta.region || '').toLowerCase().includes(q)
-    );
-  }
+  let list = nodes.filter(n => expCats.has(n.category) && entryMatches(n) && (!q || entryMatches(n, q)));
   const sort = expSort.value;
   if (sort === 'name') list.sort((a, b) => a.label.localeCompare(b.label));
   else if (sort === 'connections') list.sort((a, b) => b.degree - a.degree);
@@ -2460,14 +2428,7 @@ const galleryNodes = nodes.filter(n => n.assets.length > 0);
 
 function renderGallery() {
   const q = galSearch.value.trim().toLowerCase();
-  let list = galleryNodes;
-  if (q) {
-    list = list.filter(n =>
-      n.label.toLowerCase().includes(q) ||
-      (n.meta.region || '').toLowerCase().includes(q) ||
-      n.themes.some(t => t.toLowerCase().includes(q))
-    );
-  }
+  const list = galleryNodes.filter(n => entryMatches(n) && (!q || entryMatches(n, q)));
   galCount.textContent = `${list.length} pieces`;
   galGrid.innerHTML = list.map(n =>
     `<div class="gal-item" data-open="${esc(n.id)}">` +
@@ -2482,48 +2443,6 @@ galGrid.addEventListener('click', (e) => {
   if (item) openEntry(item.dataset.open);
 });
 renderGallery();
-
-/* ============ themes tab ============ */
-const themeListEl = document.getElementById('theme-list');
-const themeSearchEl = document.getElementById('theme-search');
-const themeTitleEl = document.getElementById('theme-title');
-const themeSubEl = document.getElementById('theme-sub');
-const themeGridEl = document.getElementById('theme-grid');
-let activeTheme = null;
-const sortedThemes = [...themeMap.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
-
-function renderThemeList() {
-  const q = themeSearchEl.value.trim().toLowerCase();
-  themeListEl.innerHTML = sortedThemes
-    .filter(([t]) => !q || t.toLowerCase().includes(q))
-    .map(([t, ids]) =>
-      `<div class="theme-row${t === activeTheme ? ' sel' : ''}" data-t="${esc(t)}">` +
-      `<span>${esc(t)}</span><span class="count">${ids.length}</span></div>`
-    ).join('');
-}
-function selectTheme(t) {
-  activeTheme = t;
-  switchTab('themes');
-  renderThemeList();
-  const ids = themeMap.get(t) || [];
-  themeTitleEl.textContent = t;
-  themeSubEl.textContent = `${ids.length} entr${ids.length === 1 ? 'y' : 'ies'} carry this theme`;
-  themeGridEl.innerHTML = ids.map(id => cardHtml(nodesById.get(id))).join('');
-  const row = themeListEl.querySelector('.theme-row.sel');
-  if (row) row.scrollIntoView({ block: 'nearest' });
-}
-themeSearchEl.addEventListener('input', renderThemeList);
-themeListEl.addEventListener('click', (e) => {
-  const row = e.target.closest('[data-t]');
-  if (row) selectTheme(row.dataset.t);
-});
-themeGridEl.addEventListener('click', (e) => {
-  const themeEl = e.target.closest('[data-theme]');
-  if (themeEl) { selectTheme(themeEl.dataset.theme); return; }
-  const card = e.target.closest('[data-open]');
-  if (card) openEntry(card.dataset.open);
-});
-renderThemeList();
 
 /* ============ timeline tab ============ */
 const TL_ERAS = [
@@ -2597,12 +2516,13 @@ function renderTlSpanPills() {
 function renderTimeline() {
   const q = (tlSearchEl.value || '').trim().toLowerCase();
   const tagged = tlTaggedNodes();
+  const filtering = !!(atlasQuery || q);
   const visible = tagged.filter(n => {
     if (!tlEraOn.has(tlEraOf(n))) return false;
     if (!tlCatOn.has(n.category)) return false;
     if (!tlSpanOn.has(tlSpanOf(n))) return false;
-    if (q && !(n.label.toLowerCase().includes(q) || n.category.toLowerCase().includes(q) ||
-               (n.summary || '').toLowerCase().includes(q))) return false;
+    if (!entryMatches(n)) return false;
+    if (q && !entryMatches(n, q)) return false;
     return true;
   });
   const byEra = new Map(TL_ERAS.map(e => [e.id, []]));
@@ -2613,7 +2533,7 @@ function renderTimeline() {
   for (const list of byEra.values()) {
     list.sort((a, b) => a.category.localeCompare(b.category) || a.label.localeCompare(b.label));
   }
-  tlTrackEl.innerHTML = TL_ERAS.filter(e => tlEraOn.has(e.id)).map(e => {
+  tlTrackEl.innerHTML = TL_ERAS.filter(e => tlEraOn.has(e.id) && (!filtering || (byEra.get(e.id) || []).length)).map(e => {
     const list = byEra.get(e.id) || [];
     const cards = list.length
       ? `<div class="tl-era-list">` + list.map(n =>
@@ -2803,19 +2723,36 @@ const collapsed = new Set();
 
 function renderHierarchy() {
   hierRootEl.innerHTML = '';
+  const matchMemo = new Map();
+  function subtreeMatches(id) {
+    if (!atlasQuery) return true;
+    if (matchMemo.has(id)) return matchMemo.get(id);
+    const n = nodesById.get(id);
+    let ok = !!(n && entryMatches(n));
+    if (!ok) {
+      for (const kid of childrenOf.get(id) || []) {
+        if (subtreeMatches(kid)) { ok = true; break; }
+      }
+    }
+    matchMemo.set(id, ok);
+    return ok;
+  }
   function renderNode(id, ul) {
+    if (!subtreeMatches(id)) return;
     const n = nodesById.get(id);
     const kids = childrenOf.get(id) || [];
+    const forcedOpen = !!atlasQuery;
     const li = document.createElement('li');
     ul.appendChild(li);
     const row = document.createElement('div');
-    row.className = 'hier-row';
+    row.className = 'hier-row' + (atlasQuery && !entryMatches(n) ? ' miss' : '');
     li.appendChild(row);
 
     const toggle = document.createElement('button');
     if (kids.length) {
       toggle.className = 'hier-toggle';
-      toggle.textContent = collapsed.has(id) ? '+' : '\u2212';
+      const closed = !forcedOpen && collapsed.has(id);
+      toggle.textContent = closed ? '+' : '\u2212';
       toggle.addEventListener('click', (e) => {
         e.stopPropagation();
         if (collapsed.has(id)) collapsed.delete(id); else collapsed.add(id);
@@ -2840,7 +2777,7 @@ function renderHierarchy() {
     row.appendChild(meta);
     row.addEventListener('click', () => openEntry(id));
 
-    if (kids.length && !collapsed.has(id)) {
+    if (kids.length && (forcedOpen || !collapsed.has(id))) {
       const nested = document.createElement('ul');
       nested.className = 'hier-children';
       li.appendChild(nested);
@@ -2857,22 +2794,45 @@ document.getElementById('hier-collapse').addEventListener('click', () => {
 renderHierarchy();
 
 /* ============ insights tab ============ */
-(function renderInsights() {
+function renderInsights() {
   const statCards = document.getElementById('stat-cards');
   const grid = document.getElementById('insight-grid');
-  const totalWords = nodes.reduce((a, n) => a + n.words, 0);
-  const withImages = nodes.filter(n => n.assets.length).length;
-  const orphans = nodes.filter(n => n.degree === 0);
-  const unresolvedNodes = nodes.filter(n => n.unresolved.length);
+  const pool = atlasQuery ? nodes.filter(n => entryMatches(n)) : nodes;
+  const poolIds = new Set(pool.map(n => n.id));
+  const poolEdges = atlasQuery ? edges.filter(e => poolIds.has(e.source) && poolIds.has(e.target)) : edges;
+  const totalWords = pool.reduce((a, n) => a + n.words, 0);
+  const withImages = pool.filter(n => n.assets.length).length;
+  const orphans = pool.filter(n => n.degree === 0);
+  const unresolvedNodes = pool.filter(n => n.unresolved.length);
   const unresolvedTotal = unresolvedNodes.reduce((a, n) => a + n.unresolved.length, 0);
+  let shownThemes = 0;
+  for (const ids of themeMap.values()) {
+    if (ids.some(id => poolIds.has(id))) shownThemes++;
+  }
+  const shownCats = new Set(pool.map(n => n.category)).size;
+  const timeTagged = pool.filter(n => n.meta && n.meta.time_era).length;
+  const pinnedIds = new Set();
+  const mapFreqs = (DATA.map && DATA.map.frequencies) || {};
+  for (const freq of Object.values(mapFreqs)) {
+    for (const m of freq.markers || []) if (m.entry_id) pinnedIds.add(m.entry_id);
+    for (const r of freq.regions || []) if (r.entry_id) pinnedIds.add(r.entry_id);
+  }
+  const onMap = pool.filter(n => pinnedIds.has(n.id)).length;
+  const avgLinks = pool.length ? (pool.reduce((a, n) => a + n.degree, 0) / pool.length) : 0;
 
-  statCards.innerHTML = [
-    [nodes.length, 'entries'],
-    [edges.length, 'links'],
-    [categories.length, 'categories'],
-    [themeMap.size, 'themes'],
+  const note = atlasQuery
+    ? `<div class="empty-note" style="grid-column:1/-1">Showing entries that match the search.</div>`
+    : '';
+  statCards.innerHTML = note + [
+    [pool.length, 'entries'],
+    [poolEdges.length, 'links'],
+    [shownCats, 'categories'],
+    [shownThemes, 'themes'],
     [totalWords.toLocaleString(), 'words of lore'],
     [withImages, 'illustrated'],
+    [timeTagged, 'time-tagged'],
+    [onMap, 'on the map'],
+    [avgLinks.toFixed(1), 'avg links'],
   ].map(([v, l]) => `<div class="stat-card"><b>${v}</b><span>${l}</span></div>`).join('');
 
   function barsPanel(title, rows, colorFn, clickAttr) {
@@ -2887,12 +2847,17 @@ renderHierarchy();
     return html + '</div>';
   }
 
-  const catRows = categories.map(c => [c, catCounts.get(c)]).sort((a, b) => b[1] - a[1]);
+  const catCount = new Map();
+  for (const n of pool) catCount.set(n.category, (catCount.get(n.category) || 0) + 1);
+  const catRows = categories.map(c => [c, catCount.get(c) || 0]).filter(r => r[1]).sort((a, b) => b[1] - a[1]);
   const statusCounts = new Map();
-  for (const n of nodes) statusCounts.set(n.status, (statusCounts.get(n.status) || 0) + 1);
+  for (const n of pool) statusCounts.set(n.status, (statusCounts.get(n.status) || 0) + 1);
   const statusRows = [...statusCounts.entries()].sort((a, b) => b[1] - a[1]);
-  const themeRows = sortedThemes.slice(0, 18).map(([t, ids]) => [t, ids.length]);
-  const topConnected = [...nodes].sort((a, b) => b.degree - a.degree).slice(0, 12);
+  const themeRows = sortedThemes
+    .map(([t, ids]) => [t, ids.filter(id => poolIds.has(id)).length])
+    .filter(([, count]) => count)
+    .slice(0, 18);
+  const topConnected = [...pool].sort((a, b) => b.degree - a.degree).slice(0, 12);
 
   let html = '';
   html += barsPanel('Entries by category', catRows, catColor);
@@ -2922,19 +2887,74 @@ renderHierarchy();
       : '<div class="empty-note">All related references resolve to existing entries.</div>') +
     '</div>';
 
+  const eraColor = {
+    prime: '#c9a66b', fracture: '#e07070', settling: '#7ec8a0',
+    formative: '#6eb6d4', present: '#8fa9ff', near: '#d48cff', unknown: '#8a93a6'
+  };
+  const eraOrder = ['prime', 'fracture', 'settling', 'formative', 'present', 'near', 'unknown'];
+  const eraCounts = new Map(eraOrder.map(id => [id, 0]));
+  const spanCounts = new Map();
+  for (const n of pool) {
+    const era = (n.meta && n.meta.time_era) || 'unknown';
+    eraCounts.set(era, (eraCounts.get(era) || 0) + 1);
+    const span = (n.meta && n.meta.time_span) || 'untagged';
+    spanCounts.set(span, (spanCounts.get(span) || 0) + 1);
+  }
+  const eraRows = eraOrder.filter(id => eraCounts.get(id)).map(id => [id, eraCounts.get(id)]);
+  const spanRows = [...spanCounts.entries()].sort((a, b) => b[1] - a[1]);
+  html += barsPanel('Time era', eraRows, (name) => eraColor[name] || '#8a93a6');
+  html += barsPanel('Time span', spanRows, () => 'rgba(126,200,160,0.85)');
+
+  const longest = [...pool].sort((a, b) => b.words - a.words).slice(0, 10);
+  html += `<div class="panel"><h3>Longest entries</h3>` + longest.map(n =>
+    `<div class="rank-item" data-open="${esc(n.id)}">` +
+    `<span class="dot" style="background:${catColor(n.category)}"></span>` +
+    `<span>${esc(n.label)}</span><span class="num">${n.words} words</span></div>`
+  ).join('') + '</div>';
+
+  const inbound = new Map();
+  for (const n of pool) {
+    const inc = (adj.get(n.id) || []).filter(l => l.dir === 'in' && (!atlasQuery || poolIds.has(l.id))).length;
+    inbound.set(n.id, inc);
+  }
+  const mostReferenced = [...pool].sort((a, b) => (inbound.get(b.id) || 0) - (inbound.get(a.id) || 0)).slice(0, 10);
+  html += `<div class="panel"><h3>Most referenced</h3>` + mostReferenced.map(n =>
+    `<div class="rank-item" data-open="${esc(n.id)}">` +
+    `<span class="dot" style="background:${catColor(n.category)}"></span>` +
+    `<span>${esc(n.label)}</span><span class="num">${inbound.get(n.id) || 0} in</span></div>`
+  ).join('') + '</div>';
+
+  const regionCounts = new Map();
+  for (const n of pool) {
+    const region = n.meta && n.meta.region;
+    if (!region) continue;
+    regionCounts.set(region, (regionCounts.get(region) || 0) + 1);
+  }
+  const regionRows = [...regionCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12);
+  if (regionRows.length) html += barsPanel('Busiest regions', regionRows, () => 'rgba(143,169,255,0.75)');
+
+  const pinnedByCat = new Map();
+  for (const n of pool) {
+    if (!pinnedIds.has(n.id)) continue;
+    pinnedByCat.set(n.category, (pinnedByCat.get(n.category) || 0) + 1);
+  }
+  const pinRows = [...pinnedByCat.entries()].sort((a, b) => b[1] - a[1]);
+  if (pinRows.length) html += barsPanel('On the map by category', pinRows, catColor);
+
   html += `<div class="panel"><h3>About</h3>` +
     `<div class="empty-note">Generated ${esc(DATA.generated)} from lore markdown frontmatter and bodies.<br>` +
     `Map positions come from <code style="background:rgba(255,255,255,0.07);border-radius:5px;padding:1px 5px">dashboard/map-registry.yaml</code>.<br>` +
     `Regenerate with <code style="background:rgba(255,255,255,0.07);border-radius:5px;padding:1px 5px">python3 scripts/build_story_dashboard.py</code></div></div>`;
 
   grid.innerHTML = html;
-  grid.addEventListener('click', (e) => {
-    const themeEl = e.target.closest('[data-theme]');
-    if (themeEl) { selectTheme(themeEl.dataset.theme); return; }
-    const openEl = e.target.closest('[data-open]');
-    if (openEl) openEntry(openEl.dataset.open);
-  });
-})();
+}
+document.getElementById('insight-grid').addEventListener('click', (e) => {
+  const themeEl = e.target.closest('[data-theme]');
+  if (themeEl) { selectTheme(themeEl.dataset.theme); return; }
+  const openEl = e.target.closest('[data-open]');
+  if (openEl) openEntry(openEl.dataset.open);
+});
+renderInsights();
 
 /* ============ world map (canvas) ============ */
 window.DiasMap = (function initWorldMap() {
@@ -3215,8 +3235,8 @@ window.DiasMap = (function initWorldMap() {
 
     noteEl.textContent = freq.note || '';
     const resolvedMarkers = (freq.markers || []).filter(m => m.entry_id).length;
-    statsEl.textContent =
-      `${(freq.regions || []).length} regions · ${(freq.markers || []).length} pins · ${resolvedMarkers} linked`;
+    let shownRegions = 0;
+    let shownPins = 0;
 
     for (const lm of freq.landmasses || []) {
       drawPoly(lm.polygon, w, h, lm.fill || freq.land, 'rgba(255,255,255,0.22)');
@@ -3224,6 +3244,12 @@ window.DiasMap = (function initWorldMap() {
 
     if (layers.regions.checked) {
       for (const reg of freq.regions || []) {
+        if (atlasQuery) {
+          const node = reg.entry_id ? nodesById.get(reg.entry_id) : null;
+          const name = (reg.entry || reg.id || '').toLowerCase();
+          if (node ? !entryMatches(node) : !name.includes(atlasQuery)) continue;
+        }
+        shownRegions++;
         drawPoly(reg.polygon, w, h, reg.fill || 'rgba(255,255,255,0.12)', 'rgba(255,255,255,0.18)');
         // centroid label
         let cx = 0, cy = 0;
@@ -3246,6 +3272,12 @@ window.DiasMap = (function initWorldMap() {
     const markerSize = Math.max(3, Math.min(7, 4 * view.scale));
     for (const m of freq.markers || []) {
       if (!layerOn(m.kind)) continue;
+      if (atlasQuery) {
+        const node = m.entry_id ? nodesById.get(m.entry_id) : null;
+        const name = (m.label || m.entry || '').toLowerCase();
+        if (node ? !entryMatches(node) : !name.includes(atlasQuery)) continue;
+      }
+      shownPins++;
       const p = worldToScreen(m.x, m.y, w, h);
       drawPixelMarker(p.x, p.y, m.kind, markerSize);
       hitList.push({
@@ -3255,6 +3287,10 @@ window.DiasMap = (function initWorldMap() {
         x: m.x, y: m.y, r: markerSize + 2
       });
     }
+
+    statsEl.textContent = atlasQuery
+      ? `${shownRegions} regions · ${shownPins} pins match the search`
+      : `${(freq.regions || []).length} regions · ${(freq.markers || []).length} pins · ${resolvedMarkers} linked`;
 
     if (hoverHit) {
       const p = worldToScreen(hoverHit.x, hoverHit.y, w, h);
@@ -3381,7 +3417,7 @@ window.DiasMap = (function initWorldMap() {
 /* ============ boot ============ */
 scheduleFit();
 applyGraphFilters();
-const TAB_NAMES = ['graph', 'map', 'timeline', 'explorer', 'gallery', 'themes', 'hierarchy', 'insights'];
+const TAB_NAMES = ['graph', 'map', 'timeline', 'explorer', 'gallery', 'hierarchy', 'insights'];
 function applyHash() {
   const h = decodeURIComponent((location.hash || '').replace('#', ''));
   if (TAB_NAMES.includes(h)) { switchTab(h); return; }
