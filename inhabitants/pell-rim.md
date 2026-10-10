@@ -13,6 +13,8 @@ themes:
   - informal power
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Pell Rim

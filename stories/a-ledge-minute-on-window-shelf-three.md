@@ -15,6 +15,8 @@ themes:
   - anti-linger
 status: canonical
 story_type: side journey
+time_era: present
+time_span: point
 ---
 
 # A Ledge Minute on Window Shelf Three

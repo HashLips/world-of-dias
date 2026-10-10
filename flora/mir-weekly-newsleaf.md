@@ -13,6 +13,9 @@ themes:
   - humor
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Mir Weekly Newsleaf

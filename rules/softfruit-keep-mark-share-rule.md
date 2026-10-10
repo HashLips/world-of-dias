@@ -14,6 +14,8 @@ themes:
   - reciprocity
   - market craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Softfruit keep bowls and fruit-road share crates
 ---
 

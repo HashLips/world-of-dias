@@ -13,6 +13,8 @@ themes:
   - fairness
   - noticing
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Ladle Queue Manners

@@ -11,6 +11,8 @@ themes:
   - lure hooks
   - hollow hunger
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Fishing for Conflict

@@ -12,6 +12,8 @@ themes:
   - recovery logistics
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Ashen Relay Ponies

@@ -15,6 +15,8 @@ themes:
   - craft
   - joy under pressure
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Driftfall outlaw yard sprout and salvage claims
 ---
 

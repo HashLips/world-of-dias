@@ -16,6 +16,8 @@ themes:
   - truth intervals
 status: canonical
 nature: reveal-phase archivists
+time_era: present
+time_span: ongoing
 ---
 
 # Veil Scribes

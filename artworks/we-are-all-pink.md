@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Three pale pink figures marked with red rest on a dark green hill under a slate sky: a large seated figure at left, one lying with legs raised in the middle, one small and seated in the distance on a red pool
+time_era: present
+time_span: ongoing
 ---
 
 # We Are All Pink

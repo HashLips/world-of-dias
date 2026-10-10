@@ -13,6 +13,9 @@ themes:
   - evidence
   - Softfruit
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # False-Balance Tip Itch

@@ -16,6 +16,8 @@ themes:
   - restorative order
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Hearthvale emergency and settlement law
 ---
 

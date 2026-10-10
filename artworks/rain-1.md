@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Borderland weather over changing flags
+time_era: present
+time_span: recurring
 ---
 
 # Rain 1

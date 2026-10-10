@@ -17,6 +17,8 @@ themes:
   - institutional unease
 status: unknown
 story_type: archival fragment
+time_era: present
+time_span: ongoing
 ---
 
 # Ledger of the still march

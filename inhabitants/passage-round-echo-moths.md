@@ -14,6 +14,8 @@ themes:
   - disorientation
 status: rumor
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Passage Round Echo-Moths

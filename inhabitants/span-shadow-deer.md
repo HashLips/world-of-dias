@@ -11,6 +11,8 @@ themes:
   - soft mystery
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Span-Shadow Deer

@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: The Brindle Crawler as a stout riveted engine throwing a black smoke plume, three low wooden cars behind, on weedy bolted track that ends at a raised timber depot platform with a stair.
+time_era: present
+time_span: ongoing
 ---
 
 # Black Sneeze on the Spur

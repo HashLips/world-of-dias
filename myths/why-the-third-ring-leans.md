@@ -16,6 +16,8 @@ themes:
   - beauty
   - handmade capital
 status: rumor
+time_era: formative
+time_span: point
 ---
 
 # Why the Third Ring Leans

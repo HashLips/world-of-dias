@@ -14,6 +14,8 @@ themes:
   - publish ethics
   - offshore courtesy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Offshore-Ink Margin Line

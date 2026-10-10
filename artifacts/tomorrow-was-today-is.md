@@ -16,6 +16,8 @@ themes:
   - shared rearrangement
   - dusk shadows
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Tomorrow Was Today Is

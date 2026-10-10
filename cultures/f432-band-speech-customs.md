@@ -16,6 +16,8 @@ themes:
   - frequency
   - folk culture
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Band Speech Customs

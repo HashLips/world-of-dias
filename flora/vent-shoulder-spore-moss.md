@@ -15,6 +15,9 @@ themes:
   - flora
   - hazard soft
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Vent-Shoulder Spore-Moss

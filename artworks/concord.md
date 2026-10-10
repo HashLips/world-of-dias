@@ -12,6 +12,8 @@ themes:
   - black horned fall
   - canopy accord cost
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

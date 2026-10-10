@@ -26,6 +26,8 @@ themes:
   - nest
   - failed vault
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Spectrum Frame

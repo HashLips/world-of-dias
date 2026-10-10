@@ -11,6 +11,8 @@ themes:
   - thigh-seat care
   - anti-face demand
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Giants

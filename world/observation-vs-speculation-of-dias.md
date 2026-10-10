@@ -16,6 +16,8 @@ themes:
   - phenomena
   - scholarly disagreement
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Observation vs Speculation of Dias

@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Rgb B as three stacked elongated cobalt-blue humanoids on cream—crawling, reclining, and kneeling—with white slit eyes and limbs ending in long fluid tendril-fingers
+time_era: present
+time_span: ongoing
 ---
 
 # Rgb B

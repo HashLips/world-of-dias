@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A long dark arm with clawed fingers reaches out of a round hole in a tilted dark-green tower toward a neighboring roof, watched by a small figure sitting on the tower's edge, with red poles and dark red strands across an orange and blue sky
+time_era: present
+time_span: ongoing
 ---
 
 # What We Need

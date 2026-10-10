@@ -15,6 +15,8 @@ themes:
   - night fishing
   - release untold
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Untold Tail

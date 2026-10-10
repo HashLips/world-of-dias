@@ -12,6 +12,9 @@ themes:
   - L-stand tend
   - dim tablet
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Light

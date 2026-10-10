@@ -15,6 +15,8 @@ themes:
   - mercy maps
   - rescue
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Beacon That Called the Wrong Shore

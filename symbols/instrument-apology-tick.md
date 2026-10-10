@@ -14,6 +14,8 @@ themes:
   - craft
   - instruments
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Instrument-Apology Tick

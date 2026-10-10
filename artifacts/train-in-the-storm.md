@@ -15,6 +15,8 @@ themes:
   - no car alone
   - walking the aisle
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Train in the Storm

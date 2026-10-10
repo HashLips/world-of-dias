@@ -12,6 +12,8 @@ themes:
   - dual weather face
   - dignified change
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hairloss

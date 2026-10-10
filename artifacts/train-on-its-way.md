@@ -15,6 +15,8 @@ themes:
   - no car left behind
   - platform duty
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Train on Its Way

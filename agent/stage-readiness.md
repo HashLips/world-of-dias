@@ -22,8 +22,11 @@ Stage-building Sections **1–35** are complete (flesh-and-balance done; soft li
 
 **Book-series lore phases (I–VI):** all 61 phases marked complete for repository readiness. **Publication gates** in `plan.md` remain separate (0 of 8).
 
+**Timeline backfill:** [`timeline-backfill-plan.md`](timeline-backfill-plan.md) — **complete** (T.0–T.17). All **2889** lore entries have `time_era` + `time_span`. Dashboard Timeline tab rebuilt.
+
 ## Safe to write next
 
+- New entries must always include both timeline fields ([`timeline-metadata.md`](timeline-metadata.md)). **Read before tagging**—no Python/script assignment of times.  
 - Publication-gate inventory / deepen passes if the human asks (maps, contradictions, glossary, commit pinning)—not casual Zero solves.  
 - Local arcs that pull hub webs (Softfruit, loft hail, Watch slate, Quiet Well path, Claimscar breakfast).  
 - Investigations using evidence genres (toll book + song calendar + forged handbill).  

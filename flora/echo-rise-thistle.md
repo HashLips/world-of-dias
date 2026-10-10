@@ -14,6 +14,9 @@ themes:
   - flora
   - cultural
 status: canonical
+time_era: near
+time_span: recurring
+
 ---
 
 # Echo-Rise Thistle

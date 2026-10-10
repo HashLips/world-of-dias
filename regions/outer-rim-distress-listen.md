@@ -20,6 +20,8 @@ themes:
   - tide ethics
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Outer Rim Distress Listen

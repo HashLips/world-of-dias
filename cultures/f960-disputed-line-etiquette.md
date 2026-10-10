@@ -13,6 +13,8 @@ themes:
   - unfinished
   - catalog caution
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F960 Disputed Line Etiquette

@@ -12,6 +12,8 @@ themes:
   - hidden truth
   - memory fracture
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Golden Tears of Averra

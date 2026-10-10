@@ -16,6 +16,9 @@ themes:
   - flora
   - medicinal
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Drift-Song Bladderwrack

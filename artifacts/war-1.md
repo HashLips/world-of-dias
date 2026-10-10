@@ -16,6 +16,8 @@ themes:
   - earned headcloth
   - no rank
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # War

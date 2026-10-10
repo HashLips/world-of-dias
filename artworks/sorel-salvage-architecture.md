@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: A Sorel salvage yard with patched tarps stretched over scarred hull ribs, patchwork brick and plank uprights flying ragged flags, a squat kiln-brick building, smoke, and a stone cookfire ring in the open ground.
+time_era: present
+time_span: ongoing
 ---
 
 # Hull Ribs and Claim Smoke

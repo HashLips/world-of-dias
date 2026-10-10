@@ -13,6 +13,8 @@ themes:
   - layered green hills
   - lone bird
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

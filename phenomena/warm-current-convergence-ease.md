@@ -13,6 +13,9 @@ themes:
   - consent climate
   - confluence
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Warm Current Convergence Ease

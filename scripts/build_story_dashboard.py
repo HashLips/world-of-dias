@@ -53,6 +53,8 @@ META_KEYS = [
     "edition",
     "year",
     "based_on",
+    "time_era",
+    "time_span",
 ]
 
 ASSET_REGEX = re.compile(
@@ -431,9 +433,9 @@ TEMPLATE = r"""<!doctype html>
     border: 1px solid transparent;
     background: transparent;
     color: var(--muted);
-    padding: 7px 13px;
+    padding: 7px 10px;
     border-radius: 9px;
-    font-size: 0.84rem;
+    font-size: 0.8rem;
     cursor: pointer;
     transition: color .15s, background .15s;
   }
@@ -443,7 +445,7 @@ TEMPLATE = r"""<!doctype html>
     background: rgba(143, 169, 255, 0.13);
     border-color: rgba(143, 169, 255, 0.32);
   }
-  .header-search { margin-left: auto; position: relative; width: min(330px, 30vw); }
+  .header-search { margin-left: auto; position: relative; width: min(300px, 26vw); flex: 0 1 300px; }
   .header-search input {
     width: 100%;
     background: var(--panel);
@@ -466,7 +468,9 @@ TEMPLATE = r"""<!doctype html>
     overflow: auto;
     display: none;
     box-shadow: 0 18px 48px rgba(0,0,0,0.55);
+    scrollbar-width: none;
   }
+  #search-results::-webkit-scrollbar { display: none; width: 0; height: 0; }
   #search-results.open { display: block; }
   .search-item {
     display: flex; align-items: center; gap: 9px;
@@ -476,8 +480,6 @@ TEMPLATE = r"""<!doctype html>
   }
   .search-item:hover { background: rgba(143,169,255,0.10); }
   .search-item .cat-mini { margin-left: auto; color: var(--faint); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; }
-  .header-stats { display: flex; gap: 14px; color: var(--faint); font-size: 0.74rem; white-space: nowrap; }
-  .header-stats b { color: var(--muted); font-weight: 600; }
 
   /* ---------- layout ---------- */
   #app { height: calc(100vh - var(--header-h)); position: relative; }
@@ -992,6 +994,227 @@ TEMPLATE = r"""<!doctype html>
     image-rendering: pixelated;
     box-shadow: inset 0 0 0 1px rgba(255,255,255,0.15);
   }
+
+  /* ---------- timeline tab ---------- */
+  #tab-timeline { display: none; grid-template-columns: 240px minmax(0, 1fr); height: 100%; overflow: hidden; }
+  #tab-timeline.active { display: grid; }
+  #tl-rail {
+    border-right: 1px solid var(--line-soft);
+    background: rgba(13, 14, 20, 0.65);
+    padding: 14px;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  #tl-rail::-webkit-scrollbar { display: none; width: 0; height: 0; }
+  #tl-main {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    max-width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  #tl-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--line-soft);
+    flex-wrap: wrap;
+  }
+  #tl-toolbar input[type="text"] {
+    width: min(280px, 40vw);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    color: var(--ink);
+    padding: 8px 12px;
+    font-size: 0.85rem;
+    outline: none;
+  }
+  #tl-toolbar input[type="text"]:focus { border-color: rgba(143,169,255,0.5); }
+  .tl-span-pills { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tl-span-pill {
+    border: 1px solid var(--line);
+    background: var(--panel);
+    color: var(--muted);
+    border-radius: 999px;
+    padding: 4px 10px;
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  .tl-span-pill.on {
+    color: var(--ink);
+    border-color: rgba(143,169,255,0.55);
+    background: rgba(143,169,255,0.12);
+  }
+  #tl-coverage { margin-left: auto; color: var(--faint); font-size: 0.74rem; }
+  #tl-coverage b { color: var(--muted); font-weight: 600; }
+  #tl-scroll {
+    flex: 1;
+    min-width: 0;
+    min-height: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 16px 18px 12px;
+    cursor: grab;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    overscroll-behavior-x: contain;
+  }
+  #tl-scroll::-webkit-scrollbar { display: none; width: 0; height: 0; }
+  #tl-scroll.dragging {
+    cursor: grabbing;
+    user-select: none;
+  }
+  #tl-scroll.dragging .tl-card { pointer-events: none; }
+  #tl-track {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+    height: 100%;
+    width: max-content;
+    min-width: 100%;
+    position: relative;
+  }
+  #tl-track::before {
+    content: '';
+    position: absolute;
+    left: 0; right: 0;
+    top: 54px;
+    height: 2px;
+    background: linear-gradient(90deg, rgba(143,169,255,0.15), rgba(143,169,255,0.45), rgba(143,169,255,0.15));
+    pointer-events: none;
+    z-index: 2;
+  }
+  .tl-era {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    width: 252px;
+    min-width: 252px;
+    max-width: 252px;
+    height: 100%;
+    min-height: 0;
+    padding: 0 10px;
+    border-right: 1px solid rgba(255,255,255,0.04);
+    flex: 0 0 252px;
+  }
+  .tl-era:last-child { border-right: none; }
+  .tl-era-head {
+    position: relative;
+    flex: 0 0 auto;
+    z-index: 3;
+    padding-top: 4px;
+    padding-bottom: 22px;
+    background: linear-gradient(180deg, rgba(7,7,11,0.98) 70%, rgba(7,7,11,0));
+  }
+  .tl-era-head .tl-dot {
+    position: absolute;
+    left: 0;
+    top: 46px;
+    width: 12px; height: 12px;
+    border-radius: 99px;
+    background: var(--era, var(--accent));
+    box-shadow: 0 0 0 3px rgba(10,11,16,0.9), 0 0 12px color-mix(in srgb, var(--era, #8fa9ff) 45%, transparent);
+    z-index: 1;
+  }
+  .tl-era-label {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--era, var(--muted));
+    font-weight: 600;
+  }
+  .tl-era-sub {
+    margin-top: 4px;
+    font-size: 0.78rem;
+    color: var(--faint);
+  }
+  .tl-era-body {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 4px 4px 16px 0;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    overscroll-behavior-y: contain;
+    mask-image: linear-gradient(180deg, transparent 0, #000 12px, #000 calc(100% - 16px), transparent 100%);
+    -webkit-mask-image: linear-gradient(180deg, transparent 0, #000 12px, #000 calc(100% - 16px), transparent 100%);
+  }
+  .tl-era-body::-webkit-scrollbar { display: none; width: 0; height: 0; }
+  .tl-card {
+    width: 100%;
+    height: 84px;
+    min-height: 84px;
+    max-height: 84px;
+    flex: 0 0 84px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid var(--line);
+    background: color-mix(in srgb, var(--era, #8fa9ff) 6%, var(--panel));
+    border-radius: 12px;
+    padding: 12px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: border-color 0.15s ease, background 0.15s ease;
+  }
+  .tl-card:hover {
+    border-color: color-mix(in srgb, var(--era, #8fa9ff) 55%, transparent);
+    background: color-mix(in srgb, var(--era, #8fa9ff) 12%, var(--panel));
+  }
+  .tl-card-top {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+  }
+  .tl-card-title {
+    flex: 1;
+    min-width: 0;
+    font-size: 0.88rem;
+    color: var(--ink);
+    line-height: 1.25;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .tl-card-meta {
+    display: flex;
+    gap: 6px;
+    flex-wrap: nowrap;
+    min-width: 0;
+    overflow: hidden;
+  }
+  .tl-card-meta .chip {
+    font-size: 0.65rem;
+    padding: 2px 7px;
+    max-width: 55%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .tl-empty {
+    color: var(--faint);
+    font-size: 0.78rem;
+    padding: 8px 2px;
+  }
+  .tl-hint {
+    padding: 0 16px 12px;
+    color: var(--faint);
+    font-size: 0.72rem;
+  }
 </style>
 </head>
 <body>
@@ -1000,6 +1223,7 @@ TEMPLATE = r"""<!doctype html>
   <nav id="tabs-nav">
     <button data-tab="graph" class="active">Graph</button>
     <button data-tab="map">Map</button>
+    <button data-tab="timeline">Timeline</button>
     <button data-tab="explorer">Explorer</button>
     <button data-tab="gallery">Gallery</button>
     <button data-tab="themes">Themes</button>
@@ -1010,7 +1234,6 @@ TEMPLATE = r"""<!doctype html>
     <input id="global-search" placeholder="Search the atlas..." autocomplete="off" />
     <div id="search-results"></div>
   </div>
-  <div class="header-stats" id="header-stats"></div>
 </header>
 
 <div id="app">
@@ -1106,6 +1329,46 @@ TEMPLATE = r"""<!doctype html>
       <canvas id="world-map" width="1200" height="900"></canvas>
       <div id="map-hover"></div>
       <div id="map-hint">scroll to zoom &middot; drag to pan &middot; hover for lore &middot; click to open</div>
+    </div>
+  </section>
+
+  <section id="tab-timeline" class="tab">
+    <div id="tl-rail">
+      <div class="rail-group">
+        <h3>Eras</h3>
+        <div id="tl-era-filters"></div>
+        <div class="btn-row">
+          <button class="ghost-btn" id="tl-eras-all">All</button>
+          <button class="ghost-btn" id="tl-eras-none">None</button>
+        </div>
+      </div>
+      <div class="rail-group">
+        <h3>Categories</h3>
+        <div id="tl-cat-filters"></div>
+        <div class="btn-row">
+          <button class="ghost-btn" id="tl-cats-all">All</button>
+          <button class="ghost-btn" id="tl-cats-none">None</button>
+        </div>
+      </div>
+      <div class="rail-group">
+        <h3>About</h3>
+        <div class="empty-note" style="font-size:0.72rem;line-height:1.45">
+          Soft chronology from <code style="background:rgba(255,255,255,0.07);border-radius:5px;padding:1px 5px">time_era</code>
+          / <code style="background:rgba(255,255,255,0.07);border-radius:5px;padding:1px 5px">time_span</code>.
+          Column width follows how many tagged entries sit in each shelf.
+        </div>
+      </div>
+    </div>
+    <div id="tl-main">
+      <div id="tl-toolbar">
+        <input type="text" id="tl-search" placeholder="Filter timeline..." />
+        <div class="tl-span-pills" id="tl-span-pills"></div>
+        <span id="tl-coverage"></span>
+      </div>
+      <div id="tl-scroll">
+        <div id="tl-track"></div>
+      </div>
+      <div class="tl-hint">drag to pan the spine &middot; mouse wheel scrolls an era list &middot; click an entry for the detail panel</div>
     </div>
   </section>
 
@@ -1306,12 +1569,6 @@ tabsNav.addEventListener('click', (e) => {
   if (btn) switchTab(btn.dataset.tab);
 });
 
-/* ============ header stats ============ */
-document.getElementById('header-stats').innerHTML =
-  `<span><b>${nodes.length}</b> entries</span>` +
-  `<span><b>${edges.length}</b> links</span>` +
-  `<span><b>${themeMap.size}</b> themes</span>`;
-
 /* ============ drawer ============ */
 const drawer = document.getElementById('drawer');
 const drawerScroll = document.getElementById('drawer-scroll');
@@ -1367,8 +1624,13 @@ function openEntry(id, opts = {}) {
   html += '<div class="drawer-body">';
   html += `<div class="chips" style="display:flex;gap:6px;flex-wrap:wrap;">` +
     `<span class="chip cat" style="--c:${catColor(n.category)}">${esc(n.category)}</span>` +
-    `<span class="chip status" style="color:${statusColor(n.status)};border-color:color-mix(in srgb,${statusColor(n.status)} 40%,transparent)">${esc(n.status)}</span>` +
-    `</div>`;
+    `<span class="chip status" style="color:${statusColor(n.status)};border-color:color-mix(in srgb,${statusColor(n.status)} 40%,transparent)">${esc(n.status)}</span>`;
+  if (n.meta && n.meta.time_era) {
+    html += `<span class="chip">${esc(n.meta.time_era)}` +
+      (n.meta.time_span ? ` · ${esc(n.meta.time_span)}` : '') +
+      `</span>`;
+  }
+  html += `</div>`;
   html += `<h2>${esc(n.label)}</h2>`;
   if (n.summary) html += `<p class="drawer-summary">${esc(n.summary)}</p>`;
 
@@ -2203,6 +2465,223 @@ themeGridEl.addEventListener('click', (e) => {
 });
 renderThemeList();
 
+/* ============ timeline tab ============ */
+const TL_ERAS = [
+  { id: 'prime', label: 'Prime', blurb: 'Before the Fracture' },
+  { id: 'fracture', label: 'Fracture', blurb: 'The hinge event' },
+  { id: 'settling', label: 'Settling', blurb: 'Bands finding shape' },
+  { id: 'formative', label: 'Formative', blurb: 'Civic thickening' },
+  { id: 'present', label: 'Present', blurb: 'Lived world' },
+  { id: 'near', label: 'Near', blurb: 'Recent pressure' },
+  { id: 'unknown', label: 'Unknown', blurb: 'Unplaced' },
+];
+const TL_ERA_COLORS = {
+  prime: '#c9a66b',
+  fracture: '#e07070',
+  settling: '#7ec8a0',
+  formative: '#6eb6d4',
+  present: '#8fa9ff',
+  near: '#d48cff',
+  unknown: '#8a93a6',
+};
+const TL_SPANS = ['point', 'ongoing', 'recurring'];
+const tlEraOn = new Set(TL_ERAS.map(e => e.id));
+const tlCatOn = new Set(nodes.map(n => n.category));
+const tlSpanOn = new Set(TL_SPANS);
+const tlSearchEl = document.getElementById('tl-search');
+const tlTrackEl = document.getElementById('tl-track');
+const tlCoverageEl = document.getElementById('tl-coverage');
+const tlEraFiltersEl = document.getElementById('tl-era-filters');
+const tlCatFiltersEl = document.getElementById('tl-cat-filters');
+const tlSpanPillsEl = document.getElementById('tl-span-pills');
+
+function tlEraOf(n) {
+  return (n.meta && n.meta.time_era) ? n.meta.time_era : '';
+}
+function tlSpanOf(n) {
+  return (n.meta && n.meta.time_span) ? n.meta.time_span : '';
+}
+function tlTaggedNodes() {
+  return nodes.filter(n => tlEraOf(n) && tlSpanOf(n));
+}
+
+function renderTlEraFilters() {
+  const counts = new Map(TL_ERAS.map(e => [e.id, 0]));
+  for (const n of tlTaggedNodes()) {
+    const e = tlEraOf(n);
+    if (counts.has(e)) counts.set(e, counts.get(e) + 1);
+  }
+  tlEraFiltersEl.innerHTML = TL_ERAS.map(e =>
+    `<label class="cat-row"><input type="checkbox" data-tl-era="${e.id}"${tlEraOn.has(e.id) ? ' checked' : ''}/>` +
+    `<span class="dot" style="background:${TL_ERA_COLORS[e.id]}"></span>` +
+    `<span>${esc(e.label)}</span><span class="count">${counts.get(e.id)}</span></label>`
+  ).join('');
+}
+function renderTlCatFilters() {
+  const cats = [...new Set(nodes.map(n => n.category))].sort();
+  const tagged = tlTaggedNodes();
+  const counts = new Map();
+  for (const n of tagged) counts.set(n.category, (counts.get(n.category) || 0) + 1);
+  tlCatFiltersEl.innerHTML = cats.filter(c => counts.get(c)).map(c =>
+    `<label class="cat-row"><input type="checkbox" data-tl-cat="${esc(c)}"${tlCatOn.has(c) ? ' checked' : ''}/>` +
+    `<span class="dot" style="background:${catColor(c)}"></span>` +
+    `<span>${esc(c)}</span><span class="count">${counts.get(c) || 0}</span></label>`
+  ).join('');
+}
+function renderTlSpanPills() {
+  tlSpanPillsEl.innerHTML = TL_SPANS.map(s =>
+    `<button type="button" class="tl-span-pill${tlSpanOn.has(s) ? ' on' : ''}" data-tl-span="${s}">${s}</button>`
+  ).join('');
+}
+
+function renderTimeline() {
+  const q = (tlSearchEl.value || '').trim().toLowerCase();
+  const tagged = tlTaggedNodes();
+  const visible = tagged.filter(n => {
+    if (!tlEraOn.has(tlEraOf(n))) return false;
+    if (!tlCatOn.has(n.category)) return false;
+    if (!tlSpanOn.has(tlSpanOf(n))) return false;
+    if (q && !(n.label.toLowerCase().includes(q) || n.category.toLowerCase().includes(q) ||
+               (n.summary || '').toLowerCase().includes(q))) return false;
+    return true;
+  });
+  const byEra = new Map(TL_ERAS.map(e => [e.id, []]));
+  for (const n of visible) {
+    const e = tlEraOf(n);
+    if (byEra.has(e)) byEra.get(e).push(n);
+  }
+  for (const list of byEra.values()) {
+    list.sort((a, b) => a.category.localeCompare(b.category) || a.label.localeCompare(b.label));
+  }
+  tlTrackEl.innerHTML = TL_ERAS.filter(e => tlEraOn.has(e.id)).map(e => {
+    const list = byEra.get(e.id) || [];
+    const cards = list.length
+      ? list.map(n =>
+          `<div class="tl-card" data-open="${esc(n.id)}" style="--era:${TL_ERA_COLORS[e.id]}">` +
+          `<div class="tl-card-top"><span class="dot" style="background:${catColor(n.category)}"></span>` +
+          `<span class="tl-card-title" title="${esc(n.label)}">${esc(n.label)}</span></div>` +
+          `<div class="tl-card-meta">` +
+          `<span class="chip cat" style="--c:${catColor(n.category)}">${esc(n.category)}</span>` +
+          `<span class="chip">${esc(tlSpanOf(n))}</span>` +
+          `</div></div>`
+        ).join('')
+      : `<div class="tl-empty">No tagged entries</div>`;
+    return `<div class="tl-era" style="--era:${TL_ERA_COLORS[e.id]}">` +
+      `<div class="tl-era-head"><div class="tl-era-label">${esc(e.label)}</div>` +
+      `<div class="tl-era-sub">${esc(e.blurb)} · ${list.length}</div>` +
+      `<span class="tl-dot"></span></div>` +
+      `<div class="tl-era-body">${cards}</div></div>`;
+  }).join('');
+  tlCoverageEl.innerHTML =
+    `<b>${visible.length}</b> shown · <b>${tagged.length}</b> tagged · <b>${nodes.length - tagged.length}</b> untagged`;
+}
+
+tlEraFiltersEl.addEventListener('change', (e) => {
+  const box = e.target.closest('input[data-tl-era]');
+  if (!box) return;
+  if (box.checked) tlEraOn.add(box.dataset.tlEra); else tlEraOn.delete(box.dataset.tlEra);
+  renderTimeline();
+});
+tlCatFiltersEl.addEventListener('change', (e) => {
+  const box = e.target.closest('input[data-tl-cat]');
+  if (!box) return;
+  if (box.checked) tlCatOn.add(box.dataset.tlCat); else tlCatOn.delete(box.dataset.tlCat);
+  renderTimeline();
+});
+document.getElementById('tl-eras-all').addEventListener('click', () => {
+  TL_ERAS.forEach(e => tlEraOn.add(e.id));
+  renderTlEraFilters();
+  renderTimeline();
+});
+document.getElementById('tl-eras-none').addEventListener('click', () => {
+  tlEraOn.clear();
+  renderTlEraFilters();
+  renderTimeline();
+});
+document.getElementById('tl-cats-all').addEventListener('click', () => {
+  nodes.forEach(n => tlCatOn.add(n.category));
+  renderTlCatFilters();
+  renderTimeline();
+});
+document.getElementById('tl-cats-none').addEventListener('click', () => {
+  tlCatOn.clear();
+  renderTlCatFilters();
+  renderTimeline();
+});
+tlSpanPillsEl.addEventListener('click', (e) => {
+  const pill = e.target.closest('[data-tl-span]');
+  if (!pill) return;
+  const s = pill.dataset.tlSpan;
+  if (tlSpanOn.has(s)) tlSpanOn.delete(s); else tlSpanOn.add(s);
+  renderTlSpanPills();
+  renderTimeline();
+});
+tlSearchEl.addEventListener('input', renderTimeline);
+const tlScrollEl = document.getElementById('tl-scroll');
+let tlDrag = null;
+let tlSuppressClick = false;
+tlScrollEl.addEventListener('pointerdown', (e) => {
+  if (e.button !== 0) return;
+  if (e.target.closest('input, button, select, a, .tl-span-pill')) return;
+  const body = e.target.closest('.tl-era-body');
+  tlDrag = {
+    pointerId: e.pointerId,
+    x: e.clientX,
+    y: e.clientY,
+    left: tlScrollEl.scrollLeft,
+    top: body ? body.scrollTop : 0,
+    body,
+    axis: null,
+    moved: false,
+  };
+  tlScrollEl.setPointerCapture(e.pointerId);
+  tlScrollEl.classList.add('dragging');
+});
+tlScrollEl.addEventListener('pointermove', (e) => {
+  if (!tlDrag || e.pointerId !== tlDrag.pointerId) return;
+  const dx = e.clientX - tlDrag.x;
+  const dy = e.clientY - tlDrag.y;
+  if (!tlDrag.axis && (Math.abs(dx) > 4 || Math.abs(dy) > 4)) {
+    tlDrag.axis = (tlDrag.body && Math.abs(dy) > Math.abs(dx)) ? 'y' : 'x';
+    tlDrag.moved = true;
+  }
+  if (tlDrag.axis === 'y' && tlDrag.body) {
+    tlDrag.body.scrollTop = tlDrag.top - dy;
+  } else if (tlDrag.axis === 'x') {
+    tlScrollEl.scrollLeft = tlDrag.left - dx;
+  }
+});
+function endTlDrag(e) {
+  if (!tlDrag || (e && e.pointerId !== tlDrag.pointerId)) return;
+  if (tlDrag.moved) tlSuppressClick = true;
+  tlDrag = null;
+  tlScrollEl.classList.remove('dragging');
+}
+tlScrollEl.addEventListener('pointerup', endTlDrag);
+tlScrollEl.addEventListener('pointercancel', endTlDrag);
+tlScrollEl.addEventListener('wheel', (e) => {
+  // Wheel = vertical list scroll only. Horizontal pan is click-drag (and native deltaX).
+  if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) return;
+  if (e.deltaY === 0) return;
+  const body = e.target.closest('.tl-era-body') ||
+    (e.target.closest('.tl-era') && e.target.closest('.tl-era').querySelector('.tl-era-body'));
+  if (!body) {
+    e.preventDefault();
+    return;
+  }
+  body.scrollTop += e.deltaY;
+  e.preventDefault();
+}, { passive: false });
+tlTrackEl.addEventListener('click', (e) => {
+  if (tlSuppressClick) { tlSuppressClick = false; e.preventDefault(); e.stopPropagation(); return; }
+  const card = e.target.closest('[data-open]');
+  if (card) openEntry(card.dataset.open);
+});
+renderTlEraFilters();
+renderTlCatFilters();
+renderTlSpanPills();
+renderTimeline();
+
 /* ============ hierarchy tab ============ */
 const hierRootEl = document.getElementById('hier-root');
 const ROOT_ID = '__root__';
@@ -2766,7 +3245,7 @@ window.DiasMap = (function initWorldMap() {
 /* ============ boot ============ */
 scheduleFit();
 applyGraphFilters();
-const TAB_NAMES = ['graph', 'map', 'explorer', 'gallery', 'themes', 'hierarchy', 'insights'];
+const TAB_NAMES = ['graph', 'map', 'timeline', 'explorer', 'gallery', 'themes', 'hierarchy', 'insights'];
 function applyHash() {
   const h = decodeURIComponent((location.hash || '').replace('#', ''));
   if (TAB_NAMES.includes(h)) { switchTab(h); return; }

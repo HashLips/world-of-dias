@@ -17,6 +17,8 @@ themes:
   - claims
   - exile speech
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sorel Ledger and Pact Jargon

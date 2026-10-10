@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A large slate-dark hand reaches down from a pale blue sleeve to grip a wide crescent of red watermelon with green rind, yellow seeds scattering off to the right against pale sky blue
+time_era: present
+time_span: ongoing
 ---
 
 # Tributes

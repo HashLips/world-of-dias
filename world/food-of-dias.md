@@ -25,6 +25,8 @@ themes:
   - hunger
   - feasting
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Food of Dias

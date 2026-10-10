@@ -16,6 +16,9 @@ themes:
   - recurrence variance
   - route risk
 status: unknown
+time_era: present
+time_span: recurring
+
 ---
 
 # Quartermark Drift

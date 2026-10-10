@@ -13,6 +13,8 @@ themes:
   - wild-adjacent
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Open-Hand Mule-Deer

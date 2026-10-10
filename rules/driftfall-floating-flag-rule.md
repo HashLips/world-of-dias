@@ -14,6 +14,8 @@ themes:
   - volatile legitimacy
   - rumor
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Driftfall crew compacts and port claims
 ---
 

@@ -16,6 +16,8 @@ themes:
   - dangerous preservation
   - handler cost
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Icebound Flame Cell

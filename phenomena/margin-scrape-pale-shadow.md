@@ -14,6 +14,9 @@ themes:
   - clerk craft
   - evidence
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Margin-Scrape Pale Shadow

@@ -15,6 +15,8 @@ themes:
   - echo
   - clerical manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Scrape Not Erase Custom

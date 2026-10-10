@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: a Claimscar Vent-Claim Peg as one wooden stake at a runoff ditch, plain paint, a wet darker band, and frayed rope in the mud
+time_era: present
+time_span: ongoing
 ---
 
 # Stake and Frayed Rope at the Ditch

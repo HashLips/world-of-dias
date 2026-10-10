@@ -17,6 +17,8 @@ themes:
   - earned legitimacy
   - anti-institutional order
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sorel Exile Compact

@@ -12,6 +12,8 @@ themes:
   - chorus caution
   - singular seat
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bar

@@ -14,6 +14,8 @@ themes:
   - contested origin
   - realm identity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Red Sail Crown-Standard

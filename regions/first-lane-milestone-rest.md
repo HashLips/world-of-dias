@@ -20,6 +20,8 @@ themes:
   - outer lane discipline
   - gentle unease
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # First Lane Milestone Rest

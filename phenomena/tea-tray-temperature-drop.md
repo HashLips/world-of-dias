@@ -13,6 +13,9 @@ themes:
   - Veloria
   - joy cousin
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Tea-Tray Temperature Drop

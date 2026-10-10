@@ -17,6 +17,8 @@ themes:
   - gossip
   - civic rest
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ringwash Baths

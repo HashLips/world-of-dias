@@ -23,6 +23,8 @@ themes:
   - orchard
   - mix untaught
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Mix Orchard

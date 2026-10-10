@@ -14,6 +14,8 @@ themes:
   - shared table
 status: legendary
 nature: historical figure
+time_era: formative
+time_span: point
 ---
 
 # Lumen of Softfruit

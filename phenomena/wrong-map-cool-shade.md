@@ -14,6 +14,9 @@ themes:
   - Quiet Well
   - beauty
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Wrong-Map Cool Shade

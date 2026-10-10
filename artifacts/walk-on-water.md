@@ -16,6 +16,8 @@ themes:
   - testing beauty
   - night game
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Walk on Water

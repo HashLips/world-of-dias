@@ -17,6 +17,8 @@ themes:
   - pass language
   - becoming
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Draft Pass Ledger

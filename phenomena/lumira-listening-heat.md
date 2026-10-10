@@ -17,6 +17,9 @@ themes:
   - attentive weather
   - travel caution
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Lumira Listening Heat

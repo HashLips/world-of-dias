@@ -14,6 +14,8 @@ themes:
   - joy
   - Flagweek
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Sky-Whale Lantern Mark

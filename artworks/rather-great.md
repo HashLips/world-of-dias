@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Rather Great as a chest-up portrait with face split magenta and royal purple, cyan nose stripe, orange bob hair, pale lavender smile, teal brows, and cyan garment with yellow triangular V-neck on saturated blue
+time_era: present
+time_span: ongoing
 ---
 
 # Rather Great

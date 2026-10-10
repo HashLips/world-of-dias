@@ -12,6 +12,8 @@ themes:
   - anti-private fate
   - table pause
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Game with Destiny

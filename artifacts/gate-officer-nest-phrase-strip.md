@@ -14,6 +14,8 @@ themes:
   - correction
   - travel manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Gate Officer Nest Phrase Strip

@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Split as a black-and-white linocut chest-up portrait with blank almond white eyes, thin white face lines, one undulating crown cord, vertical black-and-white striped garment, and a solid white narrow center hanging shape
+time_era: present
+time_span: ongoing
 ---
 
 # Split

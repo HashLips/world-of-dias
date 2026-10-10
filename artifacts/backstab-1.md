@@ -13,6 +13,8 @@ themes:
   - open-box tools
   - announced cuts
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Backstab

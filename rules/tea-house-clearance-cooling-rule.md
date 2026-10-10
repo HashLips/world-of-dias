@@ -13,6 +13,8 @@ themes:
   - Veloria
   - tea
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Third-Ring Tea House during ring-block quarrels
 ---
 

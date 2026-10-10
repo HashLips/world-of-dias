@@ -19,6 +19,8 @@ themes:
   - teaching
   - structure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nesting Structure Comparison Plate

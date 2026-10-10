@@ -14,6 +14,8 @@ themes:
   - water survival
   - desert ethic
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Map That Must Stay Wrong

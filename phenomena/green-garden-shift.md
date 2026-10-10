@@ -15,6 +15,9 @@ themes:
   - synchronized motion
   - restorative observation
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Green Garden Shift

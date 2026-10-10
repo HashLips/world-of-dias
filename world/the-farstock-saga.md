@@ -29,6 +29,8 @@ themes:
   - no purchased ease
   - open mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Farstock Saga

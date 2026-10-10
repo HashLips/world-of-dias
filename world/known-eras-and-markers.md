@@ -24,6 +24,8 @@ themes:
   - soft history
   - living memory
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Known Eras and Markers

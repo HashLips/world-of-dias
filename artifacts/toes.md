@@ -15,6 +15,8 @@ themes:
   - sleeping on a claim
   - yard humor
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Toes

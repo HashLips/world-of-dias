@@ -13,6 +13,9 @@ themes:
   - caution
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Daughter-Vent Warmfern

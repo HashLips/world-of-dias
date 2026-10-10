@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Realize as three tan featureless walkers on a dark brown arch before an orange-red sun semicircle, each casting long jagged cyan ribbons down over a hidden jagged white colossal face on dark teal, with a vertical brown bisect and tan ground band
+time_era: present
+time_span: ongoing
 ---
 
 # Realize

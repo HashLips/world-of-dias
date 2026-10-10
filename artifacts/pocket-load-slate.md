@@ -16,6 +16,8 @@ themes:
   - measurement
   - clerk craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Pocket Load Slate

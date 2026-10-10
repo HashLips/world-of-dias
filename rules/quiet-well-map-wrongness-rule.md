@@ -16,6 +16,8 @@ themes:
   - mystery
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Lumira oasis cartography and public route marks
 ---
 

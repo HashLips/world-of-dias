@@ -16,6 +16,8 @@ themes:
   - shelter
   - Hearthvale
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # First-Bowl Stew Mark

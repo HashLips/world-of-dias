@@ -15,6 +15,8 @@ themes:
   - joyful work
   - body timing
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Time Never Fails

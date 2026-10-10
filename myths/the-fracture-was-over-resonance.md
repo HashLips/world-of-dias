@@ -12,6 +12,8 @@ themes:
   - transformation
   - thresholds
 status: myth
+time_era: fracture
+time_span: point
 ---
 
 # The Fracture Was Over-Resonance

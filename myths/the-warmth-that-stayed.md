@@ -12,6 +12,8 @@ themes:
   - care
   - continuity after loss
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Warmth That Stayed

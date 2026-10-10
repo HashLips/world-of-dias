@@ -14,6 +14,8 @@ themes:
   - anti-rush
   - Softfruit
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # Why the Ladle Comes Before the Stamp

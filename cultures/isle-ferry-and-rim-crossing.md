@@ -18,6 +18,8 @@ themes:
   - maritime travel
   - intentional arrival
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Isle Ferry and Rim Crossing

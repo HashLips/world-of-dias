@@ -19,6 +19,8 @@ themes:
   - leaning cart
 status: rumor
 story_type: side journey
+time_era: present
+time_span: point
 ---
 
 # The Refused Coat

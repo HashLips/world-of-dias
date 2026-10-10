@@ -16,6 +16,8 @@ medium:
 edition:
 year:
 based_on: Neris Hale (inhabitant lore)
+time_era: present
+time_span: ongoing
 ---
 
 # Timer Never Rest (Neris Hale Portrait)

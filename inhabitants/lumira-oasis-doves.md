@@ -15,6 +15,8 @@ themes:
   - seasonal soft
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Lumira Oasis-Doves

@@ -15,6 +15,8 @@ themes:
   - city life
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Veloria Lap-Cats

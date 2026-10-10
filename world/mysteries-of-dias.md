@@ -26,6 +26,8 @@ themes:
   - curiosity
   - saga fuel
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Mysteries of Dias

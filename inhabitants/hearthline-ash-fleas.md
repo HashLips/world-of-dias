@@ -13,6 +13,8 @@ themes:
   - aftermath
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Hearthline Ash-Fleas

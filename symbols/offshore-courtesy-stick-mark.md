@@ -14,6 +14,8 @@ themes:
   - offshore courtesy
   - travel
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Offshore-Courtesy Stick Mark

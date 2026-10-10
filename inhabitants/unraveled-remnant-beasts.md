@@ -12,6 +12,8 @@ themes:
   - dread
 status: unknown
 nature: creature
+time_era: unknown
+time_span: ongoing
 ---
 
 # Unraveled Remnant-Beasts

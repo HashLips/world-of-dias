@@ -10,6 +10,9 @@ themes:
   - single shared line
   - aftercare of spill
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Concord

@@ -13,6 +13,8 @@ themes:
   - teal stir-rod
   - readable tip
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Lipstick

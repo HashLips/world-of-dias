@@ -41,6 +41,8 @@ themes:
   - refusal
   - shop wonder
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Farstock

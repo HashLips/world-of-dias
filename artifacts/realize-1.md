@@ -13,6 +13,8 @@ themes:
   - arch walk
   - admitted shape
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Realize

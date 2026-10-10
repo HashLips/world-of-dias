@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A profile face built of layered brown, olive, blue, orange, and red planes and outlined in white tilts slightly down as a dark hand with white fingertips reaches from behind to rest on the head, beside an orange horizontal bar and a red vertical post
+time_era: present
+time_span: ongoing
 ---
 
 # Trent

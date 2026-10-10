@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: A white silhouette wheel with spokes and hanging gondolas tilts across a black sky above a lattice tower rising from a white hillside
+time_era: present
+time_span: ongoing
 ---
 
 # The Big Wheel

@@ -11,6 +11,8 @@ themes:
   - alternating swim
   - path-mark courtesy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ducklings

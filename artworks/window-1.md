@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A yellow figure in profile with a blue eye slit stands in a broad slanting yellow beam of window light, a wavy blue line behind, while a framed portrait silhouette on the dark wall is crossed by a black diagonal bar at the same angle
+time_era: present
+time_span: ongoing
 ---
 
 # Window

@@ -14,6 +14,8 @@ themes:
   - honesty
 status: canonical
 nature: people / hosts
+time_era: present
+time_span: ongoing
 ---
 
 # Spur Rest Keepers

@@ -14,6 +14,9 @@ themes:
   - nurse
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Dune-Glass Nurse-Plant

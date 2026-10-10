@@ -14,6 +14,8 @@ themes:
   - filing
   - claim grades
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # House Claim Filing Customs

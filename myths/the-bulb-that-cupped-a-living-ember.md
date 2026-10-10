@@ -16,6 +16,8 @@ themes:
   - mystery
   - containment
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Bulb That Cupped a Living Ember

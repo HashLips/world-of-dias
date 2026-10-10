@@ -24,6 +24,8 @@ themes:
   - silence
   - dialogue texture
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Languages of Dias

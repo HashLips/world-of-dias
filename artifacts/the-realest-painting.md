@@ -15,6 +15,8 @@ themes:
   - studio manners
   - realness
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Realest Painting

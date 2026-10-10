@@ -12,6 +12,8 @@ themes:
   - hunt tension
   - motion
 status: canonical
+time_era: present
+time_span: ongoing
 medium:
 edition:
 year:

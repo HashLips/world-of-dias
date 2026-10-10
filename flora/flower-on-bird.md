@@ -11,6 +11,9 @@ themes:
   - avian table care
   - yellow vase keep
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Flower on Bird

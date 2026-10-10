@@ -24,6 +24,8 @@ themes:
   - echo
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide recollection behavior under frequency
 ---
 

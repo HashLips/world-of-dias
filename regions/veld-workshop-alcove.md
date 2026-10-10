@@ -24,6 +24,8 @@ themes:
   - craft
   - unfinished stewardship
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Veld Workshop Alcove

@@ -17,6 +17,9 @@ themes:
   - edible
   - cultural
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Quiet Well Date-Palm

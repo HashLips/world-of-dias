@@ -15,6 +15,8 @@ themes:
   - resilient growth
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F840 environmental and social recovery behavior
 ---
 

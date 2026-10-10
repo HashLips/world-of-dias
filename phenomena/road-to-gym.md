@@ -12,6 +12,9 @@ themes:
   - orange upright
   - focused lift
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Road to Gym

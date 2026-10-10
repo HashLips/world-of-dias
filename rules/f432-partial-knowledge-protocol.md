@@ -20,6 +20,8 @@ themes:
   - practical governance
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F432 civic and scholarly institutions
 ---
 

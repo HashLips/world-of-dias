@@ -13,6 +13,8 @@ themes:
   - rider hat marks
   - chart-dot route
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Living on Craze

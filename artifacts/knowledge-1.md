@@ -13,6 +13,8 @@ themes:
   - open teach start
   - unchecked mouth rest
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Knowledge

@@ -14,6 +14,8 @@ themes:
   - recovery
   - Forced-Final warning
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F840 recovery practice and unfinished scaffold cousins
 ---
 

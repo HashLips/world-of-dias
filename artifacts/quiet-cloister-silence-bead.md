@@ -15,6 +15,8 @@ themes:
   - manners
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Quiet Cloister Silence Bead

@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Reveal-Veil Laceleaf as winglike leaves gone transparent in a window, with no face
+time_era: present
+time_span: ongoing
 ---
 
 # Transparent in the Window, No Face

@@ -13,6 +13,9 @@ themes:
   - rhythm
   - gathering
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Soft-Ray Breath Pulse

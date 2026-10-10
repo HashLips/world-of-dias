@@ -19,6 +19,8 @@ themes:
   - classification
   - weather of meaning
 status: canonical
+time_era: present
+time_span: ongoing
 scope: When an occurrence is a local phenomenon rather than a place or realm
 ---
 

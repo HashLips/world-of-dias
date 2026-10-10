@@ -18,6 +18,8 @@ themes:
   - not the end
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # The Man Who Would Not Come Back

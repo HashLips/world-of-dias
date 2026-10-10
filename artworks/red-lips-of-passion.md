@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Red Lips of Passion as an orange shoulder-up bust on pale pink, face marked by intersecting black cross-lines, small bright red lips, vibrant red wavy head-cover and darker maroon cylindrical bun
+time_era: present
+time_span: ongoing
 ---
 
 # Red Lips of Passion

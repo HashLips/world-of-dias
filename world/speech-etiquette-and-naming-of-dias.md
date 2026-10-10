@@ -21,6 +21,8 @@ themes:
   - dialogue
   - politeness
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Speech Etiquette and Naming of Dias

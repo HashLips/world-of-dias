@@ -14,6 +14,8 @@ themes:
   - social tone governance
 status: rumor
 story_type: civic rumor fragment
+time_era: present
+time_span: recurring
 ---
 
 # Whispers Before Signing

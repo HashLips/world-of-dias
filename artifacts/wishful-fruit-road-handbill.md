@@ -16,6 +16,8 @@ themes:
   - wishful
   - fruit road
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Wishful Fruit-Road Handbill

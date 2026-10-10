@@ -14,6 +14,8 @@ themes:
   - shelter
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hearthvale Shelter Ways of Dias

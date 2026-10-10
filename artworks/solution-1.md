@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Solution as a vertical black claw-hammer silhouette with a bright red floppy bow on the handle, six bright blue nails scattered at its base casting white light-streaks, before an off-white irregular disc on mint-over-gray
+time_era: present
+time_span: ongoing
 ---
 
 # Solution

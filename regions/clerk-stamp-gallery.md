@@ -18,6 +18,8 @@ themes:
   - soft power
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Clerk Stamp Gallery

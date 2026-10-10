@@ -50,6 +50,8 @@ themes:
   - travel rarity
   - structural anomalies
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Structure of Dias

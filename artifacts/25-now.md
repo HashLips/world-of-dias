@@ -12,6 +12,8 @@ themes:
   - twin reading
   - board and screen
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # 25 Now

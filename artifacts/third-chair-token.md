@@ -15,6 +15,8 @@ themes:
   - everyday resonance
   - hospitality
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Third-Chair Token

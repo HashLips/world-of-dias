@@ -15,6 +15,8 @@ themes:
   - second beginning
 status: canonical
 story_type: side journey
+time_era: present
+time_span: point
 ---
 
 # Long Gate Rest Niche Evening

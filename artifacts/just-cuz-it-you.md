@@ -13,6 +13,8 @@ themes:
   - named hold
   - blue band seal
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Just Cuz It You

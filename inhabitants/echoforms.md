@@ -27,6 +27,8 @@ themes:
   - expandable taxonomy
 status: canonical
 nature: entity class
+time_era: present
+time_span: ongoing
 ---
 
 # Echoforms

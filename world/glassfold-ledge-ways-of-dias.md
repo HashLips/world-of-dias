@@ -14,6 +14,8 @@ themes:
   - reveal manners
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Glassfold Ledge Ways of Dias

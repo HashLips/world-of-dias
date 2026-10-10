@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Five white cut-paper figures stand in a row on dark navy, wedge-shaped walkers at each end and three thin figures between, casting long green shadows down to the left
+time_era: present
+time_span: recurring
 ---
 
 # Tomorrow Was Today Is

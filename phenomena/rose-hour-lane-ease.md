@@ -13,6 +13,9 @@ themes:
   - travel
   - manners
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Rose-Hour Lane Ease

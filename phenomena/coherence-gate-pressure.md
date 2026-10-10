@@ -13,6 +13,9 @@ themes:
   - drama pressure
   - weather feel
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Coherence-Gate Pressure

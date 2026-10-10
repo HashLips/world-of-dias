@@ -14,6 +14,8 @@ themes:
   - exchange continuity
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Basin trade mediation and dispute handling
 ---
 

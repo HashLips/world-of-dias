@@ -12,6 +12,8 @@ themes:
   - return of opacity
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Opacity Serpents

@@ -23,6 +23,8 @@ themes:
   - working animals
   - danger
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Animal Role Classes of Dias

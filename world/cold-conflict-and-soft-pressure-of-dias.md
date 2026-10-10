@@ -14,6 +14,8 @@ themes:
   - soft pressure
   - wonder over war
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Cold Conflict and Soft Pressure of Dias

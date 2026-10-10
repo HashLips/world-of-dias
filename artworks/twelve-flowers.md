@@ -16,6 +16,8 @@ medium:
 edition:
 year:
 based_on: Veloria street flower pot culture (lore)
+time_era: present
+time_span: ongoing
 ---
 
 # Twelve Flowers

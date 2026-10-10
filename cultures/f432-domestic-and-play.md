@@ -17,6 +17,8 @@ themes:
   - bedtime
   - games
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Domestic and Play

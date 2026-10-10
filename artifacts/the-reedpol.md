@@ -17,6 +17,8 @@ themes:
   - pole boat
   - slow water
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Reedpol

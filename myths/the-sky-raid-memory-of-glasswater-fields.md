@@ -13,6 +13,8 @@ themes:
   - communal memory
   - night protection
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Sky-Raid Memory of Glasswater Fields

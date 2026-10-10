@@ -17,6 +17,8 @@ themes:
   - softfruit
   - teaching
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Cross-Frequency Manners

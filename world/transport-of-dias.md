@@ -38,6 +38,8 @@ themes:
   - travel
   - logistics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Transport of Dias

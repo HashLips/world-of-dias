@@ -15,6 +15,9 @@ themes:
   - recurrence
   - frequency
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Near-Return Reed

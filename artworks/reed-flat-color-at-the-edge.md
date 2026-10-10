@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Bloomline Hold Sitting Mat as a woven reed mat laid flat, with a color-thread edge, and empty
+time_era: present
+time_span: ongoing
 ---
 
 # Reed Flat, Color at the Edge

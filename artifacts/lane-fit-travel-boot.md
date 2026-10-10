@@ -15,6 +15,8 @@ themes:
   - craft
   - fruit-road
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Lane-Fit Travel Boot

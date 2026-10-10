@@ -13,6 +13,8 @@ themes:
   - caution
   - abyss
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Null-Proximity Slash

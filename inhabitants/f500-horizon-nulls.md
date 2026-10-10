@@ -20,6 +20,8 @@ themes:
   - fear icon
 status: unknown
 nature: creature
+time_era: unknown
+time_span: ongoing
 ---
 
 # F500 Horizon-Nulls

@@ -14,6 +14,8 @@ themes:
   - manners
   - cloister
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Quiet Cloister practice rooms and Between Repetitions sessions
 ---
 

@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A light blue hand and a golden hand cup a clock face built from a purple square over a rust circle and blue square, its white hands pointing up-right and down, on black
+time_era: present
+time_span: ongoing
 ---
 
 # Then

@@ -14,6 +14,8 @@ themes:
   - flow regulation
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Bloomline gathering and transition zones
 ---
 

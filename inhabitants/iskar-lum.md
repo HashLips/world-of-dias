@@ -17,6 +17,8 @@ themes:
   - hidden water ethics
 status: canonical
 nature: otherworldly being
+time_era: present
+time_span: ongoing
 ---
 
 # Iskar Lüm

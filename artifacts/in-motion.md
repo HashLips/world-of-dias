@@ -14,6 +14,8 @@ themes:
   - grey follow veils
   - row reset
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # In Motion

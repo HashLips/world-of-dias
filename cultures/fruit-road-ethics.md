@@ -16,6 +16,8 @@ themes:
   - sharing
   - restore what you take
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Fruit-Road Ethics

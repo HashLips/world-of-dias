@@ -11,6 +11,9 @@ themes:
   - speech measure
   - vase-kept stem
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Flower Lips

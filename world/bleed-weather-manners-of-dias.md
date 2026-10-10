@@ -15,6 +15,8 @@ themes:
   - shutters
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bleed Weather Manners of Dias

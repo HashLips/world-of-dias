@@ -15,6 +15,8 @@ themes:
   - desert fear
   - avoidance custom
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Pale Rope of Lumira

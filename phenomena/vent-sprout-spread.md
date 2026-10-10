@@ -15,6 +15,9 @@ themes:
   - omen geology
   - daughter vents
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Vent-sprout spread

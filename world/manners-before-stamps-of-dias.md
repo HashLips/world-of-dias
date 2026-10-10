@@ -15,6 +15,8 @@ themes:
   - clerk craft
   - orientation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Manners Before Stamps of Dias

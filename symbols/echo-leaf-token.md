@@ -14,6 +14,8 @@ themes:
   - teaching
   - phenomenon vs place
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Echo Leaf Token

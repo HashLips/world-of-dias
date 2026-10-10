@@ -14,6 +14,8 @@ themes:
   - patience
   - sandals on the step
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Waiting

@@ -14,6 +14,9 @@ themes:
   - honest beacon
   - water memory
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Why Lights Are Green

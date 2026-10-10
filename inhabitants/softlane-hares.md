@@ -20,6 +20,8 @@ themes:
   - gentle presence
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Softlane Hares

@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A blue-and-white striped ball with a red cap sits on an orange floor in a bright teal room, a pink door frame with a dark red door between it and a darker room where a pale figure sits on the floor looking up
+time_era: present
+time_span: recurring
 ---
 
 # Waiting on Friday

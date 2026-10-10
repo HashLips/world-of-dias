@@ -14,6 +14,8 @@ themes:
   - navy floor bands
   - V-red formal
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Lady with No Shoes

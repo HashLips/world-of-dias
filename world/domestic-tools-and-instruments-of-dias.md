@@ -21,6 +21,8 @@ themes:
   - clothing
   - instruments
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Domestic Tools and Instruments of Dias

@@ -11,6 +11,9 @@ themes:
   - cream growing ground
   - yellow guide-lines
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Farming Streets

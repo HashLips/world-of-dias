@@ -19,6 +19,8 @@ themes:
   - nonfinal selves
 status: canonical
 nature: process-native beings
+time_era: present
+time_span: ongoing
 ---
 
 # Draftkin

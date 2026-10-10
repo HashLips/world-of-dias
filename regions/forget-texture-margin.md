@@ -17,6 +17,8 @@ themes:
   - map invalidation
   - uncertainty
 status: unknown
+time_era: unknown
+time_span: ongoing
 ---
 
 # Forget-Texture Margin

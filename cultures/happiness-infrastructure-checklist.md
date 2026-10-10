@@ -16,6 +16,8 @@ themes:
   - settlements
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Happiness Infrastructure Checklist

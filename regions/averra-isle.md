@@ -34,6 +34,8 @@ themes:
   - rumored magic teachers
   - hidden council rumor
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Averra Isle

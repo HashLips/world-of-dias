@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: The Hipspoon at rest on a round cobbled terrace: a polished tin scoop at the front like a serving spoon, a riveted boiler-plate body, a single seat perched high on the hip, a small rear box, stacked electric lamps, and a leather-wrapped tiller, on wheels set at a bias.
+time_era: present
+time_span: ongoing
 ---
 
 # Spoon Hull on Biased Wheels

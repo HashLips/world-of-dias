@@ -15,6 +15,8 @@ themes:
   - freedom
 status: legendary
 nature: historical figure
+time_era: formative
+time_span: point
 ---
 
 # Drift-Captain Void

@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate suit-up.jpg brought into assets for Suit Up.
+time_era: present
+time_span: ongoing
 ---
 
 # Suit Up

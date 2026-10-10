@@ -17,6 +17,8 @@ themes:
   - Row mornings
 status: canonical
 nature: animal
+time_era: present
+time_span: ongoing
 ---
 
 # Filament Snails

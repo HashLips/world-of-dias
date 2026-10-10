@@ -15,6 +15,8 @@ themes:
   - paper and lightwood
   - not a living whale
 status: canonical
+time_era: present
+time_span: recurring
 medium: digital image
 edition:
 year:

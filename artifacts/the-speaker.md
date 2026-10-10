@@ -15,6 +15,8 @@ themes:
   - listener consent
   - tuned ribbon
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Speaker

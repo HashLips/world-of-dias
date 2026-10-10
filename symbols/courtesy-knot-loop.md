@@ -14,6 +14,8 @@ themes:
   - border manners
   - dignity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Courtesy-Knot Loop

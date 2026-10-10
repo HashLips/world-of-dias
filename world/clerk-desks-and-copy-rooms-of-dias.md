@@ -14,6 +14,8 @@ themes:
   - paper craft
   - publish ethics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Clerk Desks and Copy Rooms of Dias

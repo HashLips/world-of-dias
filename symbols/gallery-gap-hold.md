@@ -14,6 +14,8 @@ themes:
   - gallery
   - looking manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Gallery-Gap Hold

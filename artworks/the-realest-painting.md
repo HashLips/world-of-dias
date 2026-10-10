@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A red figure in a dark angular hat and a red-masked figure with blue hair and gray coat stand behind a brown panel painted with a pale sun, as a pale green long-necked bird walks across the front of it
+time_era: present
+time_span: ongoing
 ---
 
 # The Realest Painting

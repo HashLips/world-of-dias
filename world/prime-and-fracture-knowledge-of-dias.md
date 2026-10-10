@@ -20,6 +20,8 @@ themes:
   - claim grades
   - teaching
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Prime and Fracture Knowledge of Dias

@@ -14,6 +14,8 @@ themes:
   - load sharing
   - travel
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Brindle March Ways of Dias

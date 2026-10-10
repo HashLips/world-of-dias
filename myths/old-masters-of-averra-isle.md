@@ -14,6 +14,8 @@ themes:
   - diffusion of power
   - island mystery
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # Old Masters of Averra Isle

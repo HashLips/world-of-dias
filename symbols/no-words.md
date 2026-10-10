@@ -11,6 +11,8 @@ themes:
   - green echo
   - warm disc
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # No Words

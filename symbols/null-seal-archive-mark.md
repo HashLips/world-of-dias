@@ -14,6 +14,8 @@ themes:
   - archive
   - null caution
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Null-Seal Archive Mark

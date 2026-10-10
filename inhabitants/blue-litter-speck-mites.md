@@ -14,6 +14,8 @@ themes:
   - blue litter
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Blue-Litter Speck-Mites

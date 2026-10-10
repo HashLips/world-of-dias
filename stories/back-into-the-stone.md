@@ -24,6 +24,8 @@ themes:
   - unexplained way
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Back into the Stone

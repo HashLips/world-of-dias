@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A shadow figure at a teal doorway holds out a small red flask on an open palm while a pale figure, drawn three times, reaches for it, sniffs it, and lies fallen with the flask dropped, before a large salmon circle
+time_era: present
+time_span: ongoing
 ---
 
 # The Loan

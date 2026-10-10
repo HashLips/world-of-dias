@@ -15,6 +15,8 @@ themes:
   - recovery tools
   - ember labor
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Emberfile Workshops

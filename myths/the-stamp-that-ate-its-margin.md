@@ -16,6 +16,8 @@ themes:
   - stamps
   - publish ethics
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Stamp That Ate Its Margin

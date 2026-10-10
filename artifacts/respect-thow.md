@@ -13,6 +13,8 @@ themes:
   - spiked ground
   - careful sound
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Respect Thrown

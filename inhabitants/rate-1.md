@@ -13,6 +13,8 @@ themes:
   - counted presence
 status: canonical
 nature: non-human
+time_era: present
+time_span: ongoing
 ---
 
 # Rate

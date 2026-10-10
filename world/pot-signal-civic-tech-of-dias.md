@@ -15,6 +15,8 @@ themes:
   - civic tech
   - everyday resonant tech
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Pot-Signal Civic Tech of Dias

@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Sprout Vent as a modest inland cluster with one central throat, shoulder sprouts, steam, and faint dusk warmth.
+time_era: present
+time_span: ongoing
 ---
 
 # The Inland Throat of Sprout Vent

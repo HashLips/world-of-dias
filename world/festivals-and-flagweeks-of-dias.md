@@ -21,6 +21,8 @@ themes:
   - joy
   - entertainment
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Festivals and Flagweeks of Dias

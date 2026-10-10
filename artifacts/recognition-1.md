@@ -13,6 +13,8 @@ themes:
   - observer back
   - counted ask
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Recognition

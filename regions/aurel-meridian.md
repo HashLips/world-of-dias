@@ -24,6 +24,8 @@ themes:
   - harmonic order
   - golden light
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Aurel Meridian

@@ -21,6 +21,8 @@ themes:
   - first leaving of Sorel
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Skipped Water

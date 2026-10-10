@@ -13,6 +13,8 @@ themes:
   - barely controlled joy
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Flagweek Strip Bullocks

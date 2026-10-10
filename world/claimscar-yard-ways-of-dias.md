@@ -13,6 +13,8 @@ themes:
   - claims
   - cold conflict
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Claimscar Yard Ways of Dias

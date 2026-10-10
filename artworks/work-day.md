@@ -21,6 +21,8 @@ medium: lino cut (35-panel grid composition)
 edition:
 year:
 based_on: Solven Wetch grid-capture practice and Driftfall shore witness lore
+time_era: present
+time_span: point
 ---
 
 # Workday

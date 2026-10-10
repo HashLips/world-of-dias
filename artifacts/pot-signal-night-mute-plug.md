@@ -16,6 +16,8 @@ themes:
   - manners
   - pot-signal
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Pot-Signal Night Mute Plug

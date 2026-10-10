@@ -17,6 +17,8 @@ themes:
   - reveal discipline
   - saga continuation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Harmonic Saga — Movement Three

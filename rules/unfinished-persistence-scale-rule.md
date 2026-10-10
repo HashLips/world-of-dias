@@ -17,6 +17,8 @@ themes:
   - revision literacy
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: The Unfinished sector mapping and route confidence
 ---
 

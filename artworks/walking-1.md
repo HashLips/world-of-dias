@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Close-up of two walkers mid-stride: coral-pink legs in mint-green slip-on shoes with white soles, and a pale gray leg in a coral shoe with a green sole, on a dark floor against gray
+time_era: present
+time_span: ongoing
 ---
 
 # Walking

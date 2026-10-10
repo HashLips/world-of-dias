@@ -11,6 +11,8 @@ themes:
   - open drawer
   - not a road instrument
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

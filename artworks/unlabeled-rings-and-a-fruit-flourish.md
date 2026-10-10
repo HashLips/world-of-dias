@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Veloria ring-fair token as a pressed disk with unlabeled concentric rings and a fruit flourish, with no motto and not as currency
+time_era: present
+time_span: recurring
 ---
 
 # Unlabeled Rings and a Fruit Flourish

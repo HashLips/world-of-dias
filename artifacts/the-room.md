@@ -14,6 +14,8 @@ themes:
   - offshore courtesy
   - unknown interiors
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Room

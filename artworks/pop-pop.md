@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Pop Pop as an elongated purple neck with a white center stripe holding three red drips, a fragmented head of red, purple, and cyan shapes with a large almond eye and a smaller floating white eye, rising from a light-pink mound on olive green
+time_era: present
+time_span: ongoing
 ---
 
 # Pop Pop

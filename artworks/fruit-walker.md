@@ -16,6 +16,8 @@ themes:
   - lucky fruit folklore
   - uncertain witness truth
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

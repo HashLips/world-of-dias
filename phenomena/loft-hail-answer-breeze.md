@@ -13,6 +13,9 @@ themes:
   - coastal craft
   - listening
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Loft-Hail Answer Breeze

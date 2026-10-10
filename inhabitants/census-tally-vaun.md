@@ -16,6 +16,8 @@ themes:
   - prime mark
 status: rumor
 nature: historical figure
+time_era: prime
+time_span: point
 ---
 
 # Census Tally Vaun

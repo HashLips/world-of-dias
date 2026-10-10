@@ -12,6 +12,8 @@ themes:
   - leaping white
   - gold skyline
 status: canonical
+time_era: present
+time_span: recurring
 medium: digital image
 edition:
 year:

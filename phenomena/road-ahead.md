@@ -12,6 +12,9 @@ themes:
   - yellow horizon
   - dashed care
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Road Ahead

@@ -12,6 +12,8 @@ themes:
   - tiny industry
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Guide-Mark Beetles

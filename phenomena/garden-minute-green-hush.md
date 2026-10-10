@@ -13,6 +13,9 @@ themes:
   - timed care
   - beauty
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Garden-Minute Green Hush

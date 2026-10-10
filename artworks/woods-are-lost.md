@@ -13,6 +13,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate woods-are-lost.jpg brought into assets for Woods Are Lost.
+time_era: present
+time_span: ongoing
 ---
 
 # Woods Are Lost

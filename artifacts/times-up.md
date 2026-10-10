@@ -15,6 +15,8 @@ themes:
   - soft-limit ethics
   - fixed grin
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Times Up

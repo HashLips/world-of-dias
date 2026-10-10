@@ -13,6 +13,8 @@ themes:
   - threshold wonder
 status: unknown
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Lumen Stair Light-Serpents

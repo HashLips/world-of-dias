@@ -13,6 +13,9 @@ themes:
   - tough herb
   - exile roads
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Long Gate Wind-Thyme

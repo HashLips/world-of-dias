@@ -36,6 +36,8 @@ themes:
   - claim grades
   - cosmology
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Graded Principles of Dias

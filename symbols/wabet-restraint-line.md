@@ -14,6 +14,8 @@ themes:
   - restraint
   - reciprocity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Wabet-Restraint Line

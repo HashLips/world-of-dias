@@ -27,6 +27,8 @@ themes:
   - offices
   - soft power
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Authorities and Factions of Dias

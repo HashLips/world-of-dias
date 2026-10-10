@@ -14,6 +14,9 @@ themes:
   - night watch
   - anti-stare
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Mirror-Pool Night Lull

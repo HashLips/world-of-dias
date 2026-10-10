@@ -14,6 +14,8 @@ themes:
   - hospitality
   - garden manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Verdant Reach Ways of Dias

@@ -15,6 +15,8 @@ themes:
   - Quiet Well
   - manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Quiet Places of Dias

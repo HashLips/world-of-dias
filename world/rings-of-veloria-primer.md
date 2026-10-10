@@ -20,6 +20,8 @@ themes:
   - civic geography
   - orientation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Rings of Veloria Primer

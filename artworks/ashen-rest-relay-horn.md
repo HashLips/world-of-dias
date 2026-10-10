@@ -15,6 +15,8 @@ themes:
   - ash and brass
   - not a panic trumpet
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

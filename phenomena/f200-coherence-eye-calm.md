@@ -18,6 +18,9 @@ themes:
   - calm
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F200 Coherence Eye Calm

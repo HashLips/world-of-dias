@@ -13,6 +13,8 @@ themes:
   - central unease
 status: unknown
 nature: otherworldly being
+time_era: unknown
+time_span: ongoing
 ---
 
 # Watching Absence

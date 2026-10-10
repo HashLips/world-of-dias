@@ -19,6 +19,8 @@ themes:
   - timeline
   - teaching
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Frequency Comparison Ledger Leaf

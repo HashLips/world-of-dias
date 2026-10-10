@@ -15,6 +15,8 @@ themes:
   - resource ethics
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Lumira water route and oasis conduct
 ---
 

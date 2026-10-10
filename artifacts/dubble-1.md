@@ -12,6 +12,8 @@ themes:
   - second echo
   - spill caution
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Double Echo

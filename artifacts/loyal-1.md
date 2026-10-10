@@ -13,6 +13,8 @@ themes:
   - profile watch
   - cyan clear air
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Loyal

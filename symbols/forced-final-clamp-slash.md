@@ -14,6 +14,8 @@ themes:
   - recovery
   - Forced-Final
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Forced-Final Clamp Slash

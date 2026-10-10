@@ -15,6 +15,8 @@ themes:
   - borders
   - open door
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Long-Gate Beast Mystery

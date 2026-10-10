@@ -13,6 +13,8 @@ themes:
   - admitted pierce
   - calm crossing
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Running Over Nails

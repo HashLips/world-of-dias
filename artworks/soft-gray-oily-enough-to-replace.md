@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Core Approach Elbow Cloth as a soft gray cloth with one measure-mark stitch, oily enough to be replaced, and no monogram
+time_era: present
+time_span: ongoing
 ---
 
 # Soft Gray, Oily Enough to Replace

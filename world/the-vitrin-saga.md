@@ -32,6 +32,8 @@ themes:
   - road still matters
   - open mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Vitrin Saga

@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: A seated figure in a pale hood and white collar is painted in blue-violet washes, face tired and steady, with a black tree-like shape at the upper left and sweeping black strokes across the lap
+time_era: present
+time_span: ongoing
 ---
 
 # War

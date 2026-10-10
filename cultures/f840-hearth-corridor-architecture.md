@@ -13,6 +13,8 @@ themes:
   - shelter corridors
   - ash continuity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F840 Hearth-Corridor Architecture

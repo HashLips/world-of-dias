@@ -13,6 +13,9 @@ themes:
   - cloister
   - manners
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Silence-Bead Breath Gap

@@ -15,6 +15,8 @@ themes:
   - exile authority
   - frontier symbol
 status: canonical
+time_era: formative
+time_span: point
 ---
 
 # Exile Mask of Carrow Vale

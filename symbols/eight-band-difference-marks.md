@@ -13,6 +13,8 @@ themes:
   - frequency
   - teaching
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Eight-Band Difference Marks

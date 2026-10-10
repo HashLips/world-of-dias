@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Road to Gym as a white lunging profile figure with a black eye-slit gripping a black-and-white disc-bar among scattered black-disc white-bar weights on a light gray diagonal floor, dark teal field, purple slash, and mustard-orange vertical bar
+time_era: present
+time_span: ongoing
 ---
 
 # Road to Gym

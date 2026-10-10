@@ -22,6 +22,8 @@ themes:
   - contested legitimacy
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Vailor Quentin

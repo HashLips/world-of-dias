@@ -17,6 +17,8 @@ themes:
   - no building inside the ring
   - naming ceremonies
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Elder Shelf

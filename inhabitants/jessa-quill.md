@@ -16,6 +16,8 @@ themes:
   - cove coordination
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Jessa Quill

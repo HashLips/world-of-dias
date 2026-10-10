@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A figure in dark clothing stands in the aisle of a train carriage, face half lit, between rows of pale storm-white windows and dark red trim
+time_era: present
+time_span: ongoing
 ---
 
 # Train in the Storm

@@ -24,6 +24,8 @@ themes:
   - orientation narrative
 status: canonical
 story_type: onboarding vignette
+time_era: present
+time_span: point
 ---
 
 # First Day in Veloria

@@ -14,6 +14,9 @@ themes:
   - load noise
   - Operator adjacency
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Scrap-Static After Stamp

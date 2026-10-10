@@ -17,6 +17,9 @@ themes:
   - hazard with texture
   - salvage air
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Sorel Vent Haze

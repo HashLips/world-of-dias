@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: White star-shaped lily blooms on bent stems and long white leaves rise from an orange pot on an olive table against a dark green wall, two fallen white leaves lying beside it
+time_era: present
+time_span: ongoing
 ---
 
 # White Lily

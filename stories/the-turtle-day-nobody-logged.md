@@ -14,6 +14,8 @@ themes:
   - wonder
 status: canonical
 story_type: folklore vignette
+time_era: present
+time_span: point
 ---
 
 # The Turtle Day Nobody Logged

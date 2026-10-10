@@ -15,6 +15,8 @@ themes:
   - haulage
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Nauw Ring-Ox Draughts

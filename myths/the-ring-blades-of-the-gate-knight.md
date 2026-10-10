@@ -12,6 +12,8 @@ themes:
   - knight lineage
   - gate defense
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Ring Blades of the Gate Knight

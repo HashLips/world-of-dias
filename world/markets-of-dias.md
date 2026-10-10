@@ -17,6 +17,8 @@ themes:
   - Softfruit
   - daily life
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Markets of Dias

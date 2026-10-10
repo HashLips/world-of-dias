@@ -26,6 +26,8 @@ themes:
   - keeping
   - theft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Heartlean Colorstone

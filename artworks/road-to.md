@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Long dune road monotony and temptation to shortcut
+time_era: present
+time_span: ongoing
 ---
 
 # Road To

@@ -16,6 +16,8 @@ themes:
   - fruit roads
   - subculture
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Wabet Orchard-Kid Subculture

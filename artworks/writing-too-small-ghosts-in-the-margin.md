@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Span Toll Book as a grease-thumbed register with ruled columns, writing too small to read, chalk in the margins, and ghost impressions that are not a designed stamp
+time_era: present
+time_span: ongoing
 ---
 
 # Writing Too Small, Ghosts in the Margin

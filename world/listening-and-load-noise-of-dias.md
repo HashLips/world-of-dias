@@ -16,6 +16,8 @@ themes:
   - Operator adjacency
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Listening and Load Noise of Dias

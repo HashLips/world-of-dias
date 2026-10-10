@@ -18,6 +18,8 @@ themes:
   - refusal
 status: canonical
 story_type: side journey
+time_era: present
+time_span: ongoing
 ---
 
 # The False Decoy Mark

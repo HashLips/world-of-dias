@@ -16,6 +16,8 @@ themes:
   - kindness market
   - new faction
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Exile Mutual Table

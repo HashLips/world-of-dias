@@ -13,6 +13,8 @@ themes:
   - memory double
   - quiet arrival
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # News

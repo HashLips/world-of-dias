@@ -16,6 +16,8 @@ themes:
   - social repair
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Sorel settlement and civic status
 ---
 

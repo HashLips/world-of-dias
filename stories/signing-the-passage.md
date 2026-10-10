@@ -21,6 +21,8 @@ themes:
   - sealed mystery
 status: canonical
 story_type: side story
+time_era: near
+time_span: point
 ---
 
 # Signing the Passage

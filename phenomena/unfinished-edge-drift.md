@@ -14,6 +14,9 @@ themes:
   - soft terrain shift
   - navigational skill
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Unfinished edge drift

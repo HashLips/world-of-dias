@@ -13,6 +13,9 @@ themes:
   - comedy
   - fruit-road
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Fruit-Road Handbill Wish-Hum

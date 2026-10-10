@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Blue-Host Grovewood as winter-bare woody trees over unsettled blue litter, handled as caution rather than a harvest
+time_era: present
+time_span: recurring
 ---
 
 # Winter-Bare Over Blue Litter

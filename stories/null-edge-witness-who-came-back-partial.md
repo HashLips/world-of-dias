@@ -15,6 +15,8 @@ themes:
   - soft limits
 status: rumor
 story_type: side journey
+time_era: present
+time_span: point
 ---
 
 # Null-Edge Witness Who Came Back Partial

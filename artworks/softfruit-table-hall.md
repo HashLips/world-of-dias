@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Softfruit Table Hall as a long hall with hanging citrus and soft fruit, clay bowls, and spice steam.
+time_era: present
+time_span: ongoing
 ---
 
 # Fruit and Steam at Softfruit Hall

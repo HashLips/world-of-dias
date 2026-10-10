@@ -14,6 +14,8 @@ themes:
   - Softfruit adjacent
   - joy
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Breakfast-Lid Seal

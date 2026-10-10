@@ -11,6 +11,9 @@ themes:
   - first stroke
   - uninterrupted hour
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # I See Color

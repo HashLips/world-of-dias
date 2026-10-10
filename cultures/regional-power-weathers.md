@@ -16,6 +16,8 @@ themes:
   - governance
   - authority styles
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Regional Power Weathers

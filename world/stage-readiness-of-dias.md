@@ -15,6 +15,8 @@ themes:
   - saga prep
   - expansion complete
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Stage Readiness of Dias

@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Wabet canopy homes built as low fork-nests in living trees, with dripping moss-and-leaf thatch roofs, lashed platforms, and a curving walkway loop that follows the branch grain between them.
+time_era: present
+time_span: ongoing
 ---
 
 # Fork-Nests in Living Wood

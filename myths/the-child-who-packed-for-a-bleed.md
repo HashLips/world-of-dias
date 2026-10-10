@@ -15,6 +15,8 @@ themes:
   - wrong nest
   - wonder kept kind
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Child Who Packed for a Bleed

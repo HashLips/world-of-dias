@@ -13,6 +13,8 @@ themes:
   - courtesy
   - publish manners
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Offshore Pass notes and guest writing on Averra
 ---
 

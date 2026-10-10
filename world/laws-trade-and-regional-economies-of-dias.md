@@ -25,6 +25,8 @@ themes:
   - tolls
   - banned goods
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Laws Trade and Regional Economies of Dias

@@ -14,6 +14,8 @@ themes:
   - taxonomy
   - archive
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Inhabitant Nature Vocabulary of Dias

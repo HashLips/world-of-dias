@@ -14,6 +14,8 @@ themes:
   - theater
   - performance
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Market Theater Customs

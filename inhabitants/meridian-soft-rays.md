@@ -13,6 +13,8 @@ themes:
   - gentle giants
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Meridian Soft-Rays

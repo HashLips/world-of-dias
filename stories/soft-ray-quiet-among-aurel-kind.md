@@ -15,6 +15,8 @@ themes:
   - serenity
 status: canonical
 story_type: side journey
+time_era: present
+time_span: point
 ---
 
 # Soft-Ray Quiet Among Aurel-kind

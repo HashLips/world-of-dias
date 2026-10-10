@@ -19,6 +19,8 @@ themes:
   - nonhuman cognition
 status: canonical
 nature: non-humanoid geometric race
+time_era: present
+time_span: ongoing
 ---
 
 # Axiomorphs

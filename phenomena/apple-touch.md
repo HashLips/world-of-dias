@@ -19,6 +19,9 @@ themes:
   - apples only
   - giftbroth outcome
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Apple Touch

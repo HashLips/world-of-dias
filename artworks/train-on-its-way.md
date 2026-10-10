@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A gray carriage slants across the frame, its bright windows showing seated silhouettes on red seats and its lower side painted with blue discs, while a dark figure on the platform watches it pass
+time_era: present
+time_span: ongoing
 ---
 
 # Train on Its Way

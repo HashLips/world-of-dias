@@ -16,6 +16,8 @@ themes:
   - warmth
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ashen Rest Relay

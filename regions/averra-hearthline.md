@@ -18,6 +18,8 @@ themes:
   - offshore observation
   - heat shimmer
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Averra Hearthline

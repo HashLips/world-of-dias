@@ -24,6 +24,8 @@ themes:
   - signs not doors
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # The Corner That Forgot Its Edges

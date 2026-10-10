@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Rest-Sheep grazing March berms near rest markers, providing wool scraps, calm company, and a reason to slow during still miles.
+time_era: present
+time_span: ongoing
 ---
 
 # Wool Beside the Rest Marker

@@ -22,6 +22,8 @@ themes:
   - material
   - scale
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Artifact Illustration Briefs of Dias

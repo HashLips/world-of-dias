@@ -20,6 +20,8 @@ themes:
   - advertisement
   - slow air
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Soft Mark

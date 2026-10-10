@@ -12,6 +12,9 @@ themes:
   - quiet awe
   - pale field
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Soft

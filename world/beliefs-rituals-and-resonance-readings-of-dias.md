@@ -20,6 +20,8 @@ themes:
   - resonance
   - pluralism
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Beliefs Rituals and Resonance Readings of Dias

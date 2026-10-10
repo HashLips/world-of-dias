@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Red Sky as a white seated profile figure with a dark eye-slit and a vertical blue stripe down the back, in a cyan room before a black-framed four-pane window filled with solid coral-red, over dark teal floor with a grass-green diagonal
+time_era: present
+time_span: ongoing
 ---
 
 # Red Sky

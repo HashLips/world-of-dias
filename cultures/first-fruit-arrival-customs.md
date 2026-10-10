@@ -16,6 +16,8 @@ themes:
   - celebrations
   - markets
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # First Fruit Arrival Customs

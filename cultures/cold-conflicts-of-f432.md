@@ -15,6 +15,8 @@ themes:
   - simmering
   - unfinished argument
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Cold Conflicts of F432

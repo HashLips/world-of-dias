@@ -19,6 +19,8 @@ themes:
   - witness partiality
   - dread
 status: rumor
+time_era: unknown
+time_span: ongoing
 ---
 
 # Null-Edge Watch Cairn

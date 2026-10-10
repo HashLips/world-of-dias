@@ -14,6 +14,8 @@ themes:
   - teal pane cue
   - shadow etiquette
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Living Room Chance

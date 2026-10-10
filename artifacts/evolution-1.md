@@ -12,6 +12,8 @@ themes:
   - white afterimage
   - boundary band
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Evolution

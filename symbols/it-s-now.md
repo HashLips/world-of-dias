@@ -11,6 +11,8 @@ themes:
   - strata vs drip
   - unpostponed care
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # It's Now

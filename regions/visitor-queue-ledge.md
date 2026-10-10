@@ -22,6 +22,8 @@ themes:
   - visitor manners
   - wrong ticks
 status: canonical
+time_era: near
+time_span: ongoing
 ---
 
 # Visitor Queue Ledge

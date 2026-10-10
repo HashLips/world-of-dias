@@ -23,6 +23,8 @@ themes:
   - Sorel
   - ecology
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sprout Vent Haze Habitat

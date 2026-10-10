@@ -19,6 +19,8 @@ themes:
   - judgment
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Resonance Feat Sorting Chapbook

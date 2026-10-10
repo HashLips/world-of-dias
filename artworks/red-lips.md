@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Red Lips as a pale greenish-white profile with a thin slanted black closed eye, small sharp red lips, vibrant red ribbon loops on the head, and a long slender black neck and torso on muted olive green
+time_era: present
+time_span: ongoing
 ---
 
 # Red Lips

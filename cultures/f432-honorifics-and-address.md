@@ -18,6 +18,8 @@ themes:
   - politeness
   - rank
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Honorifics and Address

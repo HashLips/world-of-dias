@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Driftfall mountain frequency sightings and Good Trade height lore
+time_era: near
+time_span: recurring
 ---
 
 # Storm at the Mountain

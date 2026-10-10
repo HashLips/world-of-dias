@@ -18,6 +18,8 @@ themes:
   - burnt craft
   - incomplete frame
 status: canonical
+time_era: present
+time_span: point
 ---
 
 # Veld Blackened Spool

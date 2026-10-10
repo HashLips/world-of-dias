@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Strongly non-human Draftkin waist-up with translucent drafting overlays, gold revision seams, mask-like pointed head, sketch-wing forms—not an Axiomorph lattice.
+time_era: present
+time_span: ongoing
 ---
 
 # Revision Seams of a Draftkin

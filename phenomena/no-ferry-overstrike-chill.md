@@ -14,6 +14,9 @@ themes:
   - ferry joke
   - publish ethics
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # No-Ferry Overstrike Chill

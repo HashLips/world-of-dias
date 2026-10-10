@@ -18,6 +18,8 @@ themes:
   - atlas
   - Glasswater
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tubehold Dam Walk Sketch

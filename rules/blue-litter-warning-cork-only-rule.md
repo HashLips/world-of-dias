@@ -13,6 +13,8 @@ themes:
   - ban manners
   - craft caution
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Wabet Blue Litter sample handling
 ---
 

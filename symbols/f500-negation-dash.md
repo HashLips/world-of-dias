@@ -14,6 +14,8 @@ themes:
   - F500
   - null caution
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F500 Negation Dash

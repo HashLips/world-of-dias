@@ -13,6 +13,9 @@ themes:
   - rim seas
   - listening
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Rim Thin Distress Call

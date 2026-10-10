@@ -19,6 +19,8 @@ themes:
   - classification
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Correcting country-model mistakes about frequency realms
 ---
 

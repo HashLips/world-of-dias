@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A coral-red whale with a closed, smiling eye floats tilted on teal, its white spout arcing up and around into a long clawed white arm, while a branchlike black arm with clawed fingers reaches down from above
+time_era: present
+time_span: ongoing
 ---
 
 # Whales Sleeping

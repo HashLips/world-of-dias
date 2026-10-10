@@ -22,6 +22,8 @@ themes:
   - craft manners
   - home band
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tea Slit Bench

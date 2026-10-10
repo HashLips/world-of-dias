@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Heartlean Colorstone at rest on Shelf-Quiet Cloth in a wooden case, with a Refusal Ribbon knotted on the hook
+time_era: present
+time_span: ongoing
 ---
 
 # River-Gray on Undyed Linen

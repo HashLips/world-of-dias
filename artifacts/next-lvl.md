@@ -13,6 +13,8 @@ themes:
   - eyed terminus
   - measure craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Next Lvl

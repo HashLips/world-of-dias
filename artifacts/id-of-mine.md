@@ -14,6 +14,8 @@ themes:
   - matching busts
   - named file care
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Id of Mine

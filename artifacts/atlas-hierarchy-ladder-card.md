@@ -18,6 +18,8 @@ themes:
   - hierarchy
   - geography
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Atlas Hierarchy Ladder Card

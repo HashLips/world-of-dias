@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Road Ahead as an electric-blue tree growing from a white dashed-center road toward a yellow semi-circular horizon, one long branch hanging a large yellow fruit with black tip, on dark green with navy hills and a salmon shape
+time_era: present
+time_span: ongoing
 ---
 
 # Road Ahead

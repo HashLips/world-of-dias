@@ -14,6 +14,8 @@ themes:
   - anti-stare
   - clerk craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Pocket load slates on Row and clerk desks
 ---
 

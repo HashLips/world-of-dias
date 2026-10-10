@@ -16,6 +16,8 @@ themes:
   - colossal
 status: canonical
 story_type: scene
+time_era: present
+time_span: point
 ---
 
 # Horn for the Night Breeze

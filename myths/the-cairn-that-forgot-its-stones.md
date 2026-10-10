@@ -14,6 +14,8 @@ themes:
   - memory
   - dread
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Cairn That Forgot Its Stones

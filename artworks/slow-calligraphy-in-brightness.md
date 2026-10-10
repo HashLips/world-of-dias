@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Ribbonlike warm-gold light-beings swimming F200 luminous fields as slow calligraphy, no true scales.
+time_era: present
+time_span: ongoing
 ---
 
 # Slow Calligraphy in Brightness

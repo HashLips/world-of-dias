@@ -16,6 +16,8 @@ themes:
   - taboo
   - listening
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # Thin-Room Ear

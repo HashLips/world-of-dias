@@ -16,6 +16,8 @@ themes:
   - safety
   - hope
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Three Thank-Yous of Brindle

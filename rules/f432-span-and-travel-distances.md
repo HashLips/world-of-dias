@@ -27,6 +27,8 @@ themes:
   - fruit-road pace
   - freight flight
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F432 overland freight, fruit-road wagons, and private freighter hire
 ---
 

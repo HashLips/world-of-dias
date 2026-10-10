@@ -15,6 +15,8 @@ themes:
   - unfinished
   - mystery
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Whale That Never Finished Its Shadow

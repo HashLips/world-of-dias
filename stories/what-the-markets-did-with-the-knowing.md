@@ -31,6 +31,8 @@ themes:
   - open
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # What the Markets Did with the Knowing

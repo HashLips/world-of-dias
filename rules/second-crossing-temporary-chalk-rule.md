@@ -14,6 +14,8 @@ themes:
   - manners
   - beauty
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Second Crossing Yard courtesy lanes
 ---
 

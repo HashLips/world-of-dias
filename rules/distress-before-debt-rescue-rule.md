@@ -14,6 +14,8 @@ themes:
   - reciprocity
   - rim seas
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Outer Rim distress listen and allied basin rescue
 ---
 

@@ -16,6 +16,8 @@ themes:
   - celebrations
   - civic joy
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Ring-Fair Lights Customs

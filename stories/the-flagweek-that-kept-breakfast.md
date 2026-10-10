@@ -14,6 +14,8 @@ themes:
   - contradiction
 status: canonical
 story_type: folklore vignette
+time_era: present
+time_span: recurring
 ---
 
 # The Flagweek that Kept Breakfast

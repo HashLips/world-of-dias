@@ -16,6 +16,8 @@ themes:
   - weather
   - open door
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bleed Source Mystery

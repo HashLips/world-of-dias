@@ -16,6 +16,8 @@ themes:
   - toll arguments
   - slowness
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ox-Patience

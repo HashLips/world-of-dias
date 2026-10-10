@@ -16,6 +16,8 @@ themes:
   - civic continuity
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Nauw overland movement and dispute routing
 ---
 

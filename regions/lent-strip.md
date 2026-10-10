@@ -26,6 +26,8 @@ themes:
   - grass
   - rural quiet
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Lent Strip

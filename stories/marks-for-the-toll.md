@@ -22,6 +22,8 @@ themes:
   - proper system denied
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Marks for the Toll

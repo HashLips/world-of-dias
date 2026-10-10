@@ -28,6 +28,8 @@ themes:
   - folklore of magic
   - outskirts everyday life
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Velorian Basin

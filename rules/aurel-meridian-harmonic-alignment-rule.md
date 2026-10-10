@@ -14,6 +14,8 @@ themes:
   - corridor stability
   - colossal
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Aurel Meridian traversal and settlement behavior
 ---
 

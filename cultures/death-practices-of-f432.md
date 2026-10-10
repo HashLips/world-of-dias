@@ -18,6 +18,8 @@ themes:
   - song
   - silence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Death Practices of F432

@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Skeletal Show as a tall medium-blue humanoid with thick black skeletal interior marks and a wide flat black bicorne-like hat, holding a thin black staff tipped with a light-blue globe marked in dark green, on salmon-pink ground with dark gray circle, yellow crescent, and small white disc
+time_era: present
+time_span: ongoing
 ---
 
 # Skeletal Show

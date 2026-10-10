@@ -16,6 +16,8 @@ themes:
   - few beds
   - reef ethics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Calareth Bay Kitchen Foodways

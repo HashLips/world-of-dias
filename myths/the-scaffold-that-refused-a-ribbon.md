@@ -14,6 +14,8 @@ themes:
   - craft caution
   - soft limits
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Scaffold That Refused a Ribbon

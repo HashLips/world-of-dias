@@ -13,6 +13,8 @@ themes:
   - hearttide
   - anti-coercion
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F380 holding cove emotional sharing
 ---
 

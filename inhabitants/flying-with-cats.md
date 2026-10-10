@@ -11,6 +11,8 @@ themes:
   - white wake courtesy
   - shared glide
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Flying with Cats

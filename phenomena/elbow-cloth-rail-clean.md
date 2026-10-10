@@ -13,6 +13,9 @@ themes:
   - magnificence manners
   - beauty
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Elbow-Cloth Rail Clean

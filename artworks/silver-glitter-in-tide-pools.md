@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Tide-Shrimp flashing silver glitter in Coral Strand tide pools by day, feeding Lantern-Fish by night.
+time_era: present
+time_span: ongoing
 ---
 
 # Silver Glitter in Tide Pools

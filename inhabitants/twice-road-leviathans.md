@@ -12,6 +12,8 @@ themes:
   - fear
 status: unknown
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Twice-Road Leviathans

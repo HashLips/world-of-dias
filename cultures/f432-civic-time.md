@@ -35,6 +35,8 @@ themes:
   - seasonal rhythm
   - lived time
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Civic Time

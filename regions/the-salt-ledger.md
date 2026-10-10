@@ -24,6 +24,8 @@ themes:
   - witness and rumor
   - improvised hospitality
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Salt Ledger

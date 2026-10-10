@@ -13,6 +13,9 @@ themes:
   - reciprocity
   - rim seas
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Gratitude-Hook Return Tug

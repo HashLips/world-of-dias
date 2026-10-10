@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Slim Camel as a vibrant sky-blue ultra-slender four-legger with long tapering neck, tiny black eye, flame-leaf tail, black neck and tail accents, on a white curved mound with a mint teardrop behind the belly under soft peach sky
+time_era: present
+time_span: ongoing
 ---
 
 # Slim Camel

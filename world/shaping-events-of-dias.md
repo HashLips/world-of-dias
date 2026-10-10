@@ -19,6 +19,8 @@ themes:
   - disasters
   - regional history
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Shaping Events of Dias

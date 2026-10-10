@@ -11,6 +11,9 @@ themes:
   - shared nectar
   - bird-and-crawler hour
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Flower Birds

@@ -22,6 +22,8 @@ themes:
   - brief contact
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: point
 ---
 
 # Luminance Line

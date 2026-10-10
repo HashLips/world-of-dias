@@ -14,6 +14,8 @@ themes:
   - aftermath honesty
 status: canonical
 story_type: side journey
+time_era: present
+time_span: point
 ---
 
 # Kindle Spur Overnight

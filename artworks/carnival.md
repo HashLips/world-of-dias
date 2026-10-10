@@ -12,6 +12,8 @@ themes:
   - smiling sun
   - shore festivity
 status: canonical
+time_era: present
+time_span: recurring
 medium: digital image
 edition:
 year:

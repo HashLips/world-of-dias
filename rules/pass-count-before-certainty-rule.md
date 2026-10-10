@@ -13,6 +13,8 @@ themes:
   - epistemic manners
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F120 wayfinding certainty claims
 ---
 

@@ -17,6 +17,8 @@ themes:
   - pattern drift
   - worldbuilding reference
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition: v2
 year:

@@ -16,6 +16,8 @@ themes:
   - festival
   - civic wonder
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Festival Sky-Whale Lantern

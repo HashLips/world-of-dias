@@ -16,6 +16,8 @@ themes:
   - civic care
   - moths
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Banner Soft-Brush

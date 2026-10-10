@@ -16,6 +16,8 @@ themes:
   - logistics
   - tone
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Festival vs Danger Movement

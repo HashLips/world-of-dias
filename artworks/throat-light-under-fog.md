@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Long luminous eels coiled under Outer Rim fog, wet-slate skin with pale ventral glow and pulsing throat-light.
+time_era: present
+time_span: ongoing
 ---
 
 # Throat Light Under Fog

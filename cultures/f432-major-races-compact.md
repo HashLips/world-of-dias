@@ -24,6 +24,8 @@ themes:
   - civic diversity
   - dominant populations
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Major Races Compact

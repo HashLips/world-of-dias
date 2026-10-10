@@ -32,6 +32,8 @@ themes:
   - ambiguous life
   - orientation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Life Kinds of Dias

@@ -15,6 +15,8 @@ themes:
   - unfinished forgiveness
   - tools
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Oilvine Apology Cloth

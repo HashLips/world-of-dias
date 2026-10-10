@@ -12,6 +12,8 @@ themes:
   - anti-grind cheer
   - shore rhythm
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Eat Sleep Rave Repeat

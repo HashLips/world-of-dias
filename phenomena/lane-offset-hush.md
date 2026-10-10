@@ -13,6 +13,9 @@ themes:
   - quiet unease
   - comparison
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Lane Offset Hush

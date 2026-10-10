@@ -15,6 +15,8 @@ themes:
   - ember keepers
   - hearth stewardship
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ember Keepers Faction Card

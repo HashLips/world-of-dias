@@ -18,6 +18,8 @@ themes:
   - anti-wish
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide ban on treating resonance as wish engine
 ---
 

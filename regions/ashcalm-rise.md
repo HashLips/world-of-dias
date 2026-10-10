@@ -23,6 +23,8 @@ themes:
   - canopy break
   - hidden threshold
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ashcalm Rise

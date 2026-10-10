@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Warm Current Holding Cove as a shallow rose-amber basin, reeds, rose and teal cloths, and a few low otters
+time_era: present
+time_span: ongoing
 ---
 
 # Rose-Amber Bank, Cloth, and Low Otters

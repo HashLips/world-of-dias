@@ -16,6 +16,8 @@ themes:
   - no subway
   - costly longing
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Rail That Sold the Same Platform

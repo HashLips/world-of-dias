@@ -15,6 +15,8 @@ themes:
   - soft limits
   - wonder
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Unfinished and Becoming of Dias

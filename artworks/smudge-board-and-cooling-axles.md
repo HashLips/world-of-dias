@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Brindle Thank-You Lean as an empty timber shelter, a smudged chalk board, ditch clover, and cooled cart axles at a fruit-road fork
+time_era: present
+time_span: ongoing
 ---
 
 # Smudge Board and Cooling Axles

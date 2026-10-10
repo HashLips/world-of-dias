@@ -24,6 +24,8 @@ themes:
   - extraction versus open hand
   - local horror
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # That Forest

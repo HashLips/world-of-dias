@@ -13,6 +13,8 @@ themes:
   - craft realm
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Sketchline Foxes

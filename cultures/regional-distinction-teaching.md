@@ -16,6 +16,8 @@ themes:
   - atlas
   - F432
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Regional Distinction Teaching

@@ -13,6 +13,9 @@ themes:
   - counted pick
   - jagged keep-shadow
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Lemon Tree

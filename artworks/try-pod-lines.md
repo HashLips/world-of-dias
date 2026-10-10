@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A cyan figure crouches to look through a huge gray telescope on a white tripod, its feet tied with taut yellow cords running off to the left, on a brown floor before an orange wall
+time_era: present
+time_span: ongoing
 ---
 
 # Try Pod Lines

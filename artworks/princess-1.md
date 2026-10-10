@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Princess as a dark brown one-legged dance silhouette with an orange vibration-shadow before seven orange finger-pillars tipped in magenta ovals with cyan borders, rising from a white semicircular mask-base with black eye-slits on pale pink ground
+time_era: present
+time_span: ongoing
 ---
 
 # Princess

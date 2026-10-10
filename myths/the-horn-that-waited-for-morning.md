@@ -14,6 +14,8 @@ themes:
   - patience
   - desert
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Horn That Waited for Morning

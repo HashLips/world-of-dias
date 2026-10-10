@@ -15,6 +15,8 @@ themes:
   - shared fruit
   - welcome before arrival
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # The Green Tea

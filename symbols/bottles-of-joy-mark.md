@@ -14,6 +14,8 @@ themes:
   - Softfruit
   - hospitality
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bottles-of-Joy Mark

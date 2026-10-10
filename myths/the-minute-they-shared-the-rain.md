@@ -14,6 +14,8 @@ themes:
   - weather
   - sharing
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Minute They Shared the Rain

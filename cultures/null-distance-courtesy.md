@@ -13,6 +13,8 @@ themes:
   - abyss caution
   - teaching manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Null-Distance Courtesy

@@ -11,6 +11,8 @@ themes:
   - memory drift
 status: rumor
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Drift-Phrase Birds

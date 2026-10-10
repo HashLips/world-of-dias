@@ -23,6 +23,9 @@ themes:
   - mix untaught
   - omen food
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Vitrin

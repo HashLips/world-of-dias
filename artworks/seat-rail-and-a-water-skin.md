@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Long Gate Rest Niche as a stone seat, a thin rail, and a water skin on a hook, on the span and not an inn
+time_era: present
+time_span: ongoing
 ---
 
 # Seat, Rail, and a Water Skin

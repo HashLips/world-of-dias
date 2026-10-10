@@ -22,6 +22,8 @@ themes:
   - field method
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Sera Quillmend

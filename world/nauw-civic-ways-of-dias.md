@@ -14,6 +14,8 @@ themes:
   - civic
   - corridor manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nauw Civic Ways of Dias

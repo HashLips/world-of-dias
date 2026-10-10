@@ -15,6 +15,8 @@ themes:
   - privacy mark
   - music for passage
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # This Is My Life

@@ -13,6 +13,8 @@ themes:
   - closed-eye hour
   - side-approach speech
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Lady with a Green Hat

@@ -16,6 +16,8 @@ themes:
   - distant power
 status: rumor
 nature: institution
+time_era: unknown
+time_span: ongoing
 ---
 
 # The Distant Companies

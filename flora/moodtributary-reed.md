@@ -13,6 +13,9 @@ themes:
   - confluence
   - hearttide
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Moodtributary Reed

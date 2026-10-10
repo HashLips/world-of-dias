@@ -19,6 +19,8 @@ themes:
   - belonging
   - ordinary life
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Family and Household

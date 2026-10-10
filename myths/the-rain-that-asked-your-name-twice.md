@@ -13,6 +13,8 @@ themes:
   - naming
   - vulnerability
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Rain That Asked Your Name Twice

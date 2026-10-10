@@ -17,6 +17,8 @@ themes:
   - not war canon
   - unsettled
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Slow Dark Initiatives

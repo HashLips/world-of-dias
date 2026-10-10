@@ -19,6 +19,8 @@ themes:
   - courtesy after haunt
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Dott Gildhour

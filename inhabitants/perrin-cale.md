@@ -19,6 +19,8 @@ themes:
   - almost enough
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Perrin Cale

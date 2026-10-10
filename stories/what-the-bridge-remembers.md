@@ -25,6 +25,8 @@ themes:
   - open cosmos
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: point
 ---
 
 # What the Bridge Remembers

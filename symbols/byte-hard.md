@@ -10,6 +10,8 @@ themes:
   - self-correction
   - anti-extractive mark
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Byte Hard

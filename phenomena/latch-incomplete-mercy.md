@@ -14,6 +14,9 @@ themes:
   - unfinished forgiveness
   - Calibration adjacency
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Latch Incomplete Mercy

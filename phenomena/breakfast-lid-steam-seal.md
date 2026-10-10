@@ -13,6 +13,9 @@ themes:
   - joy
   - festival
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Breakfast-Lid Steam Seal

@@ -22,6 +22,8 @@ themes:
   - disputed
   - unknown
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Major Relics and Artifacts of Dias

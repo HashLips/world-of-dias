@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Claimscar Secondfire Ring as two fires, scorched stones, tarps, wire, salvage, and pale vent mouths, not a war and with no caption text
+time_era: present
+time_span: ongoing
 ---
 
 # Two Fires, Not a War

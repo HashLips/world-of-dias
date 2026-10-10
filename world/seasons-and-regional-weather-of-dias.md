@@ -28,6 +28,8 @@ themes:
   - travel
   - F432
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Seasons and Regional Weather of Dias

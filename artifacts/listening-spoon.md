@@ -14,6 +14,8 @@ themes:
   - domestic resonance
   - limits
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Listening Spoon

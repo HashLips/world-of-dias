@@ -13,6 +13,9 @@ themes:
   - bird perches
   - seasonal custom
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Winter Comes

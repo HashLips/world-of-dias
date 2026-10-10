@@ -15,6 +15,8 @@ themes:
   - Flagweek
   - manners
 status: rumor
+time_era: formative
+time_span: point
 ---
 
 # Why Flagweek Breakfast Comes First

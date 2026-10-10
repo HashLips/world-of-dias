@@ -15,6 +15,8 @@ themes:
   - hospitality
   - everyday echo
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Airing Cloth for Sour Rooms

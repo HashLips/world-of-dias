@@ -11,6 +11,8 @@ themes:
   - scout meaning
   - resonance
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Inverted Scout

@@ -13,6 +13,9 @@ themes:
   - warning
   - Softfruit
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Melting Cheer Drip

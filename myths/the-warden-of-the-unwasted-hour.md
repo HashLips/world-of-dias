@@ -12,6 +12,8 @@ themes:
   - punctuality law
   - border discipline
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Warden of the Unwasted Hour

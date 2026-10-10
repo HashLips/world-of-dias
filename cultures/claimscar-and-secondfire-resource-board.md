@@ -16,6 +16,8 @@ themes:
   - salvage
   - kiln town
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Claimscar and Secondfire Resource Board

@@ -16,6 +16,8 @@ themes:
   - phase stamps
   - fleeting truth
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Veil Scribe Discipline

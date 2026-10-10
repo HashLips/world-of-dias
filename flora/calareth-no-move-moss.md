@@ -14,6 +14,9 @@ themes:
   - flora
   - cultural
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Calareth No-Move Moss

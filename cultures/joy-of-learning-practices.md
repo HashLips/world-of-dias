@@ -18,6 +18,8 @@ themes:
   - craft mistakes
   - style
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Joy of Learning Practices

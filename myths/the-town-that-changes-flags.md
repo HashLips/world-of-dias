@@ -13,6 +13,8 @@ themes:
   - rotating allegiance
   - breakfast continuity
 status: myth
+time_era: present
+time_span: recurring
 ---
 
 # The Town That Changes Flags

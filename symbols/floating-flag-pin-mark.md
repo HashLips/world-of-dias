@@ -14,6 +14,8 @@ themes:
   - offshore
   - civic manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Floating-Flag Pin Mark

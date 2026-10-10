@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Quiet Cloister as an Averra Isle archive-and-meeting space with stone arches, sparse shelves, salt air, and withheld access.
+time_era: present
+time_span: ongoing
 ---
 
 # Salt Light in Quiet Cloister

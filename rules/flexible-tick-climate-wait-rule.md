@@ -14,6 +14,8 @@ themes:
   - emotional climate
   - measurement
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Row benches and Bloomline-adjacent jotting in tight climate
 ---
 

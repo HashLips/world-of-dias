@@ -18,6 +18,8 @@ themes:
   - refusal of noise
   - world scale
 status: myth
+time_era: settling
+time_span: point
 ---
 
 # The West That Chose Calm

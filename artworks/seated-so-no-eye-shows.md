@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Glassfold Wall-Eye Cap as a smoked disc seated so no eye or face shows
+time_era: present
+time_span: ongoing
 ---
 
 # Seated So No Eye Shows

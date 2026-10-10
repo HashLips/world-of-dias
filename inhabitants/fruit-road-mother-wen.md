@@ -16,6 +16,8 @@ themes:
   - reciprocity
 status: legendary
 nature: historical figure
+time_era: formative
+time_span: point
 ---
 
 # Fruit-Road Mother Wen

@@ -16,6 +16,8 @@ themes:
   - joy
   - second beginning
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Kiln Laughter Firing Token

@@ -25,6 +25,8 @@ themes:
   - small fears
   - habit
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Daily Life of Dias

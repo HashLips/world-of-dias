@@ -18,6 +18,8 @@ themes:
   - proof of restoration
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Wired Bloom Markers

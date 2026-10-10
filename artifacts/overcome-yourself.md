@@ -13,6 +13,8 @@ themes:
   - red mitt
   - self drill
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Overcome Yourself

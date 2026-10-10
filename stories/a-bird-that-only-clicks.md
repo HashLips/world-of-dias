@@ -26,6 +26,8 @@ themes:
   - open question
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # A Bird That Only Clicks

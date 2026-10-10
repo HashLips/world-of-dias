@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Large bristled ash-dark boars whose charging gait sounds like distant thunder in Rise hollows.
+time_era: present
+time_span: ongoing
 ---
 
 # Thunder in the Hollows

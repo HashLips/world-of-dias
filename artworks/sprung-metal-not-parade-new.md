@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Vault Latch That Failed as a sprung, scratched metal latch, not parade-new
+time_era: present
+time_span: ongoing
 ---
 
 # Sprung Metal, Not Parade-New

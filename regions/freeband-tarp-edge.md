@@ -19,6 +19,8 @@ themes:
   - rumor
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Freeband Tarp Edge

@@ -15,6 +15,8 @@ themes:
   - conflict manners
   - cooling current
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Fight

@@ -19,6 +19,8 @@ themes:
   - omen geology
   - southeastern Driftfall
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sprout Vent

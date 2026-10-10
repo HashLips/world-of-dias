@@ -36,6 +36,8 @@ themes:
   - contested ownership
   - flight west
 status: canonical
+time_era: present
+time_span: point
 ---
 
 # Roadglow Shard

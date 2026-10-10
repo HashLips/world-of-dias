@@ -27,6 +27,8 @@ themes:
   - institutions
   - conflict engines
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Organizations of Dias

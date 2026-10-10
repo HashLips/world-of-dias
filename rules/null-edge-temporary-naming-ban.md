@@ -14,6 +14,8 @@ themes:
   - anti-taxonomy rush
   - abyss caution
 status: canonical
+time_era: present
+time_span: ongoing
 scope: public F500 approach naming in F432
 ---
 

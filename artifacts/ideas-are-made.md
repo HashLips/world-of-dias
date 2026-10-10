@@ -13,6 +13,8 @@ themes:
   - five-stem set
   - unplucked bells
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ideas Are Made

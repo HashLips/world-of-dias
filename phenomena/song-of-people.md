@@ -12,6 +12,9 @@ themes:
   - red solitary walker
   - mountain approach
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Song of People

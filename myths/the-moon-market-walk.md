@@ -12,6 +12,8 @@ themes:
   - social peace
   - informal authority
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Moon-Market Walk

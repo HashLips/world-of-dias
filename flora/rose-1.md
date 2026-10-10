@@ -12,6 +12,9 @@ themes:
   - vibration fringe
   - path mark
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Rose

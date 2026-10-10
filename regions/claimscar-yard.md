@@ -33,6 +33,8 @@ themes:
   - crew rivalry
   - beach versus inland grit
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Claimscar Yard

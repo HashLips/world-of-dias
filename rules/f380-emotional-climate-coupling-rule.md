@@ -15,6 +15,8 @@ themes:
   - gradient response
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F380 mood-environment dynamics
 ---
 

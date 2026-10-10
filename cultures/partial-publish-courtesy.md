@@ -14,6 +14,8 @@ themes:
   - soft limits
   - incomplete truth
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Partial Publish Courtesy

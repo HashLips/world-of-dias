@@ -18,6 +18,8 @@ themes:
   - partial classification
   - archive uncertainty
 status: unknown
+time_era: settling
+time_span: point
 ---
 
 # Supplemental Harmonic Ledger Leaf

@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Notched Pace as a forward-leaning orange horse-headed figure with purple-outlined golden-yellow torso, black forward limb and flesh bent rear limb, white wavy tail, five vertical black gauge blocks left, and a thin horizontal black bar on peach ground over deep purple base
+time_era: present
+time_span: ongoing
 ---
 
 # Notched Pace

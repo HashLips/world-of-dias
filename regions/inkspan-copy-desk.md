@@ -20,6 +20,8 @@ themes:
   - archive
   - disputed bands
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Inkspan Copy Desk

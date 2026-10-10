@@ -25,6 +25,8 @@ themes:
   - Outer Rim
   - ecology
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Outer Rim Salt Fog Habitat

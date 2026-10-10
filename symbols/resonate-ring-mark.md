@@ -14,6 +14,8 @@ themes:
   - teaching
   - hospitality
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Resonate Ring Mark

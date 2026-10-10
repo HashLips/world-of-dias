@@ -17,6 +17,8 @@ themes:
   - disputed bands
   - evidence economy
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Leaf with Five Ghosts

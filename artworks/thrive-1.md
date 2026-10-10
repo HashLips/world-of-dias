@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Two faces press cheek to cheek in close-up, a mint-green face with rust hair and a stitched-lash eye in front of a terracotta face with dark violet hair, rust and mint shapes spilling across a shared shawl below
+time_era: present
+time_span: ongoing
 ---
 
 # Thrive

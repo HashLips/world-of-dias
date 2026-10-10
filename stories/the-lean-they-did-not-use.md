@@ -23,6 +23,8 @@ themes:
   - hurry
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # The Lean They Did Not Use

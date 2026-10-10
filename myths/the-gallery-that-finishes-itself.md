@@ -13,6 +13,8 @@ themes:
   - long attention
   - silent collaboration
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Gallery That Finishes Itself

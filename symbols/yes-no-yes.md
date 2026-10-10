@@ -11,6 +11,8 @@ themes:
   - meaning
   - resonance
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Yes No Yes

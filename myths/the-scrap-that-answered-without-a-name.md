@@ -15,6 +15,8 @@ themes:
   - mystery
   - unsigned care
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Scrap That Answered Without a Name

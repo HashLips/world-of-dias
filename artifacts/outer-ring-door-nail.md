@@ -15,6 +15,8 @@ themes:
   - threshold
   - ordinary craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Outer-Ring Door Nail

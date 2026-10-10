@@ -22,6 +22,8 @@ themes:
   - folk data
   - joyful rigor
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Corner by the Row

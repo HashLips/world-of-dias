@@ -12,6 +12,9 @@ themes:
   - seven pink count
   - black crescent bowl
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Moon

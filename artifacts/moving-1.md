@@ -14,6 +14,8 @@ themes:
   - long-stride courtesy
   - open blue road
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Moving

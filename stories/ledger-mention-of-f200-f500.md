@@ -24,6 +24,8 @@ themes:
   - names without maps
 status: unknown
 story_type: archival fragment
+time_era: formative
+time_span: point
 ---
 
 # Ledger mention of F200 and F500

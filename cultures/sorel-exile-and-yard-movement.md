@@ -18,6 +18,8 @@ themes:
   - bridges
   - strip travel
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sorel Exile and Yard Movement

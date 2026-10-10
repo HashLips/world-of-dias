@@ -14,6 +14,8 @@ themes:
   - threshold authority
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Havren Pike

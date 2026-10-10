@@ -15,6 +15,8 @@ themes:
   - shared table
   - offering mark
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Things

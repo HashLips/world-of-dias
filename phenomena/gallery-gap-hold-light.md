@@ -13,6 +13,9 @@ themes:
   - Averra
   - craft
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Gallery Gap-Hold Light

@@ -22,6 +22,8 @@ themes:
   - luminous fragment
   - true blue scarcity
 status: canonical
+time_era: near
+time_span: point
 medium: digital image
 edition:
 year: 2026

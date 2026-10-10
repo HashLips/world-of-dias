@@ -16,6 +16,8 @@ themes:
   - urban ritual
 status: unknown
 story_type: social rumor fragment
+time_era: present
+time_span: ongoing
 ---
 
 # The Table Vase Warning

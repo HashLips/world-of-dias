@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: A red face outlined in white wears a navy three-pointed cap tipped with yellow and orange bells and holds a blue smoke-reed in its lips, a yellow wisp rising, on a deep maroon ground
+time_era: present
+time_span: ongoing
 ---
 
 # The Smoker

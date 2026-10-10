@@ -14,6 +14,8 @@ themes:
   - teaching
 status: canonical
 nature: people / stewards
+time_era: present
+time_span: ongoing
 ---
 
 # Outer Lane Keepers

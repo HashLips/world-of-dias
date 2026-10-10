@@ -17,6 +17,8 @@ themes:
   - wrong ticks
   - calibration weather
 status: rumor
+time_era: near
+time_span: point
 ---
 
 # The Number That Walked Away

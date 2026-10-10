@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: She Moves as a white featureless back-view figure in a vast magenta floor-length dress under a wavy yellow wide brim topped by a tall black cylindrical crown, low-angle on medium gray
+time_era: present
+time_span: ongoing
 ---
 
 # She Moves

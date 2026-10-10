@@ -14,6 +14,8 @@ themes:
   - discipline
 status: canonical
 nature: people / guild workers
+time_era: present
+time_span: ongoing
 ---
 
 # Window Shelf Timers

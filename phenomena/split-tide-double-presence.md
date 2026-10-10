@@ -13,6 +13,9 @@ themes:
   - mirrored encounters
   - fracture residue
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Split-Tide Double Presence

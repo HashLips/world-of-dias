@@ -15,6 +15,8 @@ themes:
   - damp patience
   - aftermath rest
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # We Are All Pink

@@ -11,6 +11,8 @@ themes:
   - plaza
   - fair-snow
 status: canonical
+time_era: present
+time_span: recurring
 medium: digital image
 edition:
 year:

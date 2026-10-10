@@ -14,6 +14,8 @@ themes:
   - borrowed chest-open
   - counted swings
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Heart Swing

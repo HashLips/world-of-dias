@@ -18,6 +18,8 @@ themes:
   - archives
   - messengers
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Information Systems of Dias

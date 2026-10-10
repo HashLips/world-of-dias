@@ -14,6 +14,9 @@ themes:
   - F960
   - craft warning
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Scaffold Plank Refusal

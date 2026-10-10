@@ -13,6 +13,8 @@ themes:
   - chaos
   - breakfast-holds
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Flagweek Chaos Entertainment

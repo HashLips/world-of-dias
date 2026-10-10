@@ -11,6 +11,8 @@ themes:
   - local presence
   - resonance
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Summer Birds

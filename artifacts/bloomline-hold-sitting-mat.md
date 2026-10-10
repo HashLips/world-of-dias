@@ -16,6 +16,8 @@ themes:
   - unfinished
   - manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bloomline Hold Sitting Mat

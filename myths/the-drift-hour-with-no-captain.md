@@ -14,6 +14,8 @@ themes:
   - frontier time
   - autonomy
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Drift Hour with No Captain

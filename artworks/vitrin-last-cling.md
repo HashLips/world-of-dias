@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Vitrin as the smaller fruit that clung to the young tree in the Mix Orchard, with clear rind and green-gold depth.
+time_era: present
+time_span: ongoing
 ---
 
 # Last Cling in Green-Gold Glass

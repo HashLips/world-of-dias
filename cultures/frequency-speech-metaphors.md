@@ -20,6 +20,8 @@ themes:
   - cross-band speech
   - partial knowledge
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Frequency Speech Metaphors

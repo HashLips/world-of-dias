@@ -16,6 +16,8 @@ themes:
   - joy
   - manners
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Flagweek Breakfast Bowl Lid

@@ -19,6 +19,8 @@ themes:
   - inheritance
   - echo
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Death and Legacy of Dias

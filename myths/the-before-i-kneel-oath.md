@@ -12,6 +12,8 @@ themes:
   - threshold ethics
   - authority restraint
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Before-I-Kneel Oath

@@ -11,6 +11,8 @@ themes:
   - after-window danger
 status: rumor
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Opacity Vein-Kraken

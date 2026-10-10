@@ -32,6 +32,8 @@ themes:
   - uneven safety
   - happiness infrastructure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Settlements of Dias

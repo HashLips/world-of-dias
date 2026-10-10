@@ -13,6 +13,8 @@ themes:
   - stillness irony
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Brindle March Gnats

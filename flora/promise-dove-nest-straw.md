@@ -13,6 +13,9 @@ themes:
   - nest
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Promise Dove Nest-Straw

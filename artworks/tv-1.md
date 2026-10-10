@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: White chalk-like strokes on black show a framed panel on a table holding a peak reflected in water and a crescent moon, beside a standing figure near taut diagonal strings and horizontal lines
+time_era: present
+time_span: ongoing
 ---
 
 # Tv

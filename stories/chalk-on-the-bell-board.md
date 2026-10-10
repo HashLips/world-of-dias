@@ -25,6 +25,8 @@ themes:
   - no speech
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Chalk on the Bell Board

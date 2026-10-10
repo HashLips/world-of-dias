@@ -14,6 +14,9 @@ themes:
   - tools
   - unfinished forgiveness
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Oilvine Soft Bite

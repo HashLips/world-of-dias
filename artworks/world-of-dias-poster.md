@@ -25,6 +25,8 @@ medium: digital poster image
 edition:
 year:
 based_on: Dias world lore and Nauw as a tiered crossroads megacity
+time_era: present
+time_span: ongoing
 ---
 
 # World of Dias Poster

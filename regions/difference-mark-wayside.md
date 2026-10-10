@@ -17,6 +17,8 @@ themes:
   - route memory
   - near-return
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Difference Mark Wayside

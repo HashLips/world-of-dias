@@ -17,6 +17,9 @@ themes:
   - interval
   - frequency
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # F610 Interval-Visible Grain

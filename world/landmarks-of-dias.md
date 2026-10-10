@@ -43,6 +43,8 @@ themes:
   - story staging
   - sacred useful feared disputed
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Landmarks of Dias

@@ -13,6 +13,8 @@ themes:
   - empty frame wall
   - shared commons
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Mall

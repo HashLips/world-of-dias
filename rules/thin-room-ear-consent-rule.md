@@ -14,6 +14,8 @@ themes:
   - consent
   - taboo tech
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Thin-Room Ear and cousin listening devices in F432
 ---
 

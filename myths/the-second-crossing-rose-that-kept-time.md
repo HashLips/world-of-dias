@@ -14,6 +14,8 @@ themes:
   - beauty
   - travel manners
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Second Crossing Rose That Kept Time

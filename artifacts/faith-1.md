@@ -12,6 +12,8 @@ themes:
   - visible cost
   - anti-romantic pain
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Faith

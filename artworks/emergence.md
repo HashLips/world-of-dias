@@ -11,6 +11,8 @@ themes:
   - shared consciousness
   - individuality and distance
 status: canonical
+time_era: present
+time_span: ongoing
 medium: acrylic on canvas
 edition:
 year: 2025

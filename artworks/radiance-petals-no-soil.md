@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Filament-Bloom as radiance petals with no soil, not a person
+time_era: present
+time_span: ongoing
 ---
 
 # Radiance Petals, No Soil

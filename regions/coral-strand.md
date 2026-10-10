@@ -17,6 +17,8 @@ themes:
   - permitted joy
   - loud shallow water
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Coral Strand

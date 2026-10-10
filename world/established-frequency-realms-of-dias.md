@@ -22,6 +22,8 @@ themes:
   - orientation
   - catalog
 status: canonical
+time_era: settling
+time_span: ongoing
 ---
 
 # Established Frequency Realms of Dias

@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Fruit-Road Waystation Seven as an empty rest stop with shade, a mended trough, returned seed, and illegible papers
+time_era: present
+time_span: ongoing
 ---
 
 # Shade, Trough, Seed, and Illegible Paper

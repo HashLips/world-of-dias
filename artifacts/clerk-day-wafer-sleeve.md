@@ -16,6 +16,8 @@ themes:
   - clerk craft
   - ring manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Clerk Day-Wafer Sleeve

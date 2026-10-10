@@ -15,6 +15,8 @@ themes:
   - awe
 status: unknown
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Wabet Root-Titans

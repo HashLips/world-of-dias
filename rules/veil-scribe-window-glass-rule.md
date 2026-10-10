@@ -14,6 +14,8 @@ themes:
   - timed truth
   - Veil Scribes
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Veil Scribe palm lenses and legal reveal glances
 ---
 

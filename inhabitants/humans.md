@@ -20,6 +20,8 @@ themes:
   - civic continuity
 status: canonical
 nature: humanoid race
+time_era: present
+time_span: ongoing
 ---
 
 # Humans

@@ -16,6 +16,8 @@ themes:
   - travel
   - evidence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tolls and Spans of Dias

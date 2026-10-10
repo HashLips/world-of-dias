@@ -14,6 +14,8 @@ themes:
   - civic tech
   - manners
 status: canonical
+time_era: present
+time_span: recurring
 scope: Veloria mid-ring pot-signal arrays after courtesy hour
 ---
 

@@ -16,6 +16,8 @@ themes:
   - manners
   - Veloria
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Core Approach Elbow Cloth

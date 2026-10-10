@@ -18,6 +18,8 @@ themes:
   - holiday pilgrimage
   - therapeutic walking
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Green Garden Border Lanes

@@ -16,6 +16,8 @@ themes:
   - echo
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide expectation that sealing hides access, not that remainder never existed
 ---
 

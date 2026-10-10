@@ -12,6 +12,8 @@ themes:
   - fleeting truth
   - witness burden
 status: myth
+time_era: present
+time_span: recurring
 ---
 
 # The Minute of True Faces

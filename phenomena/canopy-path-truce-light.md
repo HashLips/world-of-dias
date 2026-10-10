@@ -13,6 +13,9 @@ themes:
   - path manners
   - beauty
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Canopy Path-Truce Light

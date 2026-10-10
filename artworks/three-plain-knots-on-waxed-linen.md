@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: a Market-Loop String as thin waxed linen with three plain unlabeled knots and no map
+time_era: present
+time_span: ongoing
 ---
 
 # Three Plain Knots on Waxed Linen

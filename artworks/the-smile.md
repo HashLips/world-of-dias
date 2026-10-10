@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Secondfire warmth after heat
+time_era: present
+time_span: ongoing
 ---
 
 # The Smile

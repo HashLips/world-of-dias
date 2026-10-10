@@ -32,6 +32,8 @@ themes:
   - haunted stewardship
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Orrin Veld

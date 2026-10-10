@@ -18,6 +18,8 @@ themes:
   - calm disturbed
   - mountain visit
 status: rumor
+time_era: near
+time_span: point
 ---
 
 # The Boy Who Lit the Hollow

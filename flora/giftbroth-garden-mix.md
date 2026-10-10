@@ -15,6 +15,9 @@ themes:
   - flora
   - edible
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Giftbroth Garden Mix

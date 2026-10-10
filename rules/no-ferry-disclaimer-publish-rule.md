@@ -15,6 +15,8 @@ themes:
   - publish ethics
   - no subway
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Spectrum and band-education publishes in F432
 ---
 

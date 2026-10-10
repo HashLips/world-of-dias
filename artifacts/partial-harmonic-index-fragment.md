@@ -20,6 +20,8 @@ themes:
   - disputed provenance
   - frequency notation
 status: rumor
+time_era: settling
+time_span: point
 ---
 
 # Partial Harmonic Index fragment

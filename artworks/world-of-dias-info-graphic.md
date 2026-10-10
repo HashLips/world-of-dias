@@ -33,6 +33,8 @@ medium: digital infographic image
 edition:
 year:
 based_on: Dias world lore and documented frequency-realm framing
+time_era: present
+time_span: ongoing
 ---
 
 # World of Dias Infographic

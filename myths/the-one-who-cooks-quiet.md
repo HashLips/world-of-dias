@@ -18,6 +18,8 @@ themes:
   - gift and ruin
   - calm that hides pressure
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The One Who Cooks Quiet

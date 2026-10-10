@@ -17,6 +17,8 @@ themes:
   - resonance
 status: canonical
 story_type: teaching anecdote
+time_era: present
+time_span: ongoing
 ---
 
 # The Feat That Asked Too Much

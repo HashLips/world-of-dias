@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Multi-frequency echo imprint lore
+time_era: near
+time_span: recurring
 ---
 
 # Unseen

@@ -13,6 +13,8 @@ themes:
   - second beginning
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Kiln Laughter Yard shared firings
 ---
 

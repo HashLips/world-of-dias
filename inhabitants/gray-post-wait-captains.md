@@ -14,6 +14,8 @@ themes:
   - offshore courtesy
 status: canonical
 nature: people / mariners
+time_era: present
+time_span: ongoing
 ---
 
 # Gray Post Wait Captains

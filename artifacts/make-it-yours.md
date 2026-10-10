@@ -13,6 +13,8 @@ themes:
   - no-skip flight
   - shadow checks
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Make It Yours

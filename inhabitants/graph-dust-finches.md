@@ -17,6 +17,8 @@ themes:
   - eraser grit
 status: canonical
 nature: animal
+time_era: present
+time_span: ongoing
 ---
 
 # Graph-Dust Finches

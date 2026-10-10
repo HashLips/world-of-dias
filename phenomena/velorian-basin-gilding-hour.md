@@ -16,6 +16,9 @@ themes:
   - hope
   - natural wonder
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Velorian Basin gilding hour

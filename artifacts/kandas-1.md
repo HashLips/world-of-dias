@@ -14,6 +14,8 @@ themes:
   - cream open book
   - floor companion figure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Kandas

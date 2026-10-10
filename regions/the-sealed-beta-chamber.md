@@ -18,6 +18,8 @@ themes:
   - personal mystery
   - locks and barricade
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Sealed Beta Chamber

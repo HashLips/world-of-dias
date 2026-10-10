@@ -15,6 +15,8 @@ themes:
   - public adjudication
 status: unknown
 story_type: civic practice fragment
+time_era: present
+time_span: ongoing
 ---
 
 # The Load-Balance Trial

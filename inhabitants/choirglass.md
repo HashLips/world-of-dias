@@ -19,6 +19,8 @@ themes:
   - harmonic communication
 status: canonical
 nature: resonant faceted race
+time_era: present
+time_span: ongoing
 ---
 
 # Choirglass

@@ -12,6 +12,8 @@ themes:
   - maritime anomaly
   - fracture echo
 status: canonical
+time_era: present
+time_span: ongoing
 medium:
 edition:
 year:

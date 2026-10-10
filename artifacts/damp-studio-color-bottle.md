@@ -16,6 +16,8 @@ themes:
   - beauty
   - pigment
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Damp Studio Color Bottle

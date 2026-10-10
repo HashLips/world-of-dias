@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A single peach figure arches into a deep backbend on a flat bright blue ground, head tucked under, arms reaching back to the left and legs splayed wide
+time_era: present
+time_span: ongoing
 ---
 
 # Water Dancer

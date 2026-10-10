@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Bay-Ribbon Guest Hall as clapboard lodging with moss-green shutters, a blank slate by the door, an empty porch bench, and plain undyed cloth dividing the loft
+time_era: present
+time_span: ongoing
 ---
 
 # Shutters, a Blank Slate, and an Empty Bench

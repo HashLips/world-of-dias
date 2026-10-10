@@ -14,6 +14,8 @@ themes:
   - wrong maps
   - null
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Painter Who Gave Null a Harbor

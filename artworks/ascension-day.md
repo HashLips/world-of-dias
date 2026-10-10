@@ -14,6 +14,8 @@ themes:
   - crowd witness
   - elevation symbolism
 status: canonical
+time_era: present
+time_span: recurring
 medium:
 edition:
 year:

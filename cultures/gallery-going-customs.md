@@ -13,6 +13,8 @@ themes:
   - looking
   - uncanny
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Gallery Going Customs

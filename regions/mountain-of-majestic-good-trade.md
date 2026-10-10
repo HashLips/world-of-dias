@@ -25,6 +25,8 @@ themes:
   - ritual seat
   - hang-about hinterland
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Mountain of Majestic Good Trade

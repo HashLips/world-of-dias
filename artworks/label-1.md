@@ -12,6 +12,8 @@ themes:
   - green ground patch
   - blue-grey field
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

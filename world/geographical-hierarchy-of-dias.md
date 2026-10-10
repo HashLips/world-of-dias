@@ -39,6 +39,8 @@ themes:
   - place_type
   - orientation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Geographical Hierarchy of Dias

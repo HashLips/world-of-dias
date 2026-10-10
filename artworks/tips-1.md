@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Rows of red-orange chairs with blue legs fill a gray room under a framed abstract painting, a giant banana lying across one seat and a single pale figure sitting at the back
+time_era: present
+time_span: ongoing
 ---
 
 # Tips

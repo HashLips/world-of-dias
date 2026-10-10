@@ -17,6 +17,8 @@ themes:
   - regret
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Yarrow Bine

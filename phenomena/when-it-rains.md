@@ -14,6 +14,9 @@ themes:
   - deceptive calm
   - paired watch
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # When It Rains

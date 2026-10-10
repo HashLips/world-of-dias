@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: an Unsold Weather Marble as clear glass with a faint internal veil on a sunlit sill
+time_era: present
+time_span: ongoing
 ---
 
 # Sun on a Faint Veil

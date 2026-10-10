@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Recognition as a black foreground head-and-shoulders facing rows of translucent mint-green red-outlined seated figures in a charcoal hall, with one solid dark-blue figure raising an arm among white converging floor lines
+time_era: present
+time_span: ongoing
 ---
 
 # Recognition

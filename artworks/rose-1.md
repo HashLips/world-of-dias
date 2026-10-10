@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Rose as five staggered white-stemmed flowers with indigo thorn marks and bell heads split magenta-pink and deep red, edged in cyan and light-magenta vibration fringe on saturated royal blue
+time_era: present
+time_span: ongoing
 ---
 
 # Rose

@@ -14,6 +14,8 @@ themes:
   - visitor manners
   - caution
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Visitor-Wrong Tick

@@ -14,6 +14,8 @@ themes:
   - storm choir stakes
 status: canonical
 story_type: social thriller episode
+time_era: present
+time_span: point
 ---
 
 # Gangplank Before Dawn

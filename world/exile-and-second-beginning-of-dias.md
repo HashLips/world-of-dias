@@ -16,6 +16,8 @@ themes:
   - Sorel
   - dignity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Exile and Second Beginning of Dias

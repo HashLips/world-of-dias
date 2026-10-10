@@ -13,6 +13,9 @@ themes:
   - anti-stare
   - craft
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Wall-Eye Cap Heat

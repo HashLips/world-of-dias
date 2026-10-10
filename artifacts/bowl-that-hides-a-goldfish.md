@@ -14,6 +14,8 @@ themes:
   - mercy maps
   - beauty
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bowl That Hides a Goldfish

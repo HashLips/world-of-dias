@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Rolling as a stark white elongated figure in an extreme deep backbend with head low between pillar legs, one long arm arcing up with four splayed tapering fingers, casting lighter blue hard shadows on deep navy
+time_era: present
+time_span: ongoing
 ---
 
 # Rolling

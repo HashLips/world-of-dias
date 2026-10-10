@@ -49,6 +49,8 @@ themes:
   - renewal
   - soft instability
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F960 (frequency realm)

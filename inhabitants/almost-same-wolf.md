@@ -14,6 +14,8 @@ themes:
   - recurrence dread
 status: unknown
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Almost-Same Wolf

@@ -18,6 +18,8 @@ themes:
   - craft
   - beauty
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Kiln Laughter Yard

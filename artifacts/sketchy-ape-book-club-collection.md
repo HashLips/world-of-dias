@@ -11,6 +11,8 @@ themes:
   - panel craft
   - physical-digital bridge
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sketchy Ape Book Club Collection

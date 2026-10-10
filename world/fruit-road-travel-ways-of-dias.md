@@ -15,6 +15,8 @@ themes:
   - travel
   - reciprocity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Fruit-Road Travel Ways of Dias

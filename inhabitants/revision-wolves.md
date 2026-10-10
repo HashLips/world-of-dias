@@ -13,6 +13,8 @@ themes:
   - instability
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Revision Wolves

@@ -12,6 +12,8 @@ themes:
   - white wake ribbons
   - mint void flight
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

@@ -14,6 +14,8 @@ themes:
   - evidence discipline
 status: canonical
 story_type: witness log narrative
+time_era: near
+time_span: point
 ---
 
 # The Night of the Wall of Eyes

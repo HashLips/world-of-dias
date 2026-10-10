@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Ritual as overlapping white-outlined figures on black—central bright red dancer mid-stride with raised arms, a sky-blue partial figure reaching from the left, and orange figures behind with uplifted arms
+time_era: present
+time_span: ongoing
 ---
 
 # Ritual

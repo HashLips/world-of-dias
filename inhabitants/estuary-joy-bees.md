@@ -13,6 +13,8 @@ themes:
   - warmth
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Estuary Joy-Bees

@@ -17,6 +17,8 @@ themes:
   - craft
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Grid Handoff

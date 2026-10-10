@@ -18,6 +18,9 @@ themes:
   - ash
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F840 Ashwarm Workable Rest

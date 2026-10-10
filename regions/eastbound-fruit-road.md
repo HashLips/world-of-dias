@@ -29,6 +29,8 @@ themes:
   - sharing knife custom
   - border trade tension
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Eastbound Fruit Road

@@ -16,6 +16,8 @@ themes:
   - watch
   - loft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Orchard Watch and Loft Apprenticeship

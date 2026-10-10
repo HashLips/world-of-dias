@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A white-faced traveler in a black cap and gold bow tie kneels on a purple floor with a blue guitar slung across the chest and a blue case marked with a pale triangle and closed eye in hand, before a gray moon holding a gold boat
+time_era: present
+time_span: ongoing
 ---
 
 # This Is My Life

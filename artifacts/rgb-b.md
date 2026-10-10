@@ -13,6 +13,8 @@ themes:
   - three poses
   - cream ground
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Rgb B

@@ -13,6 +13,8 @@ themes:
   - wall brush plate
   - tan sit-block
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hello

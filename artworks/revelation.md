@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: Institutional echo filing and load-discipline culture
+time_era: present
+time_span: ongoing
 ---
 
 # Revelation

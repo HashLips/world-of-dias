@@ -13,6 +13,8 @@ themes:
   - unanswered questions
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Present Age

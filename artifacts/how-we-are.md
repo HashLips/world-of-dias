@@ -14,6 +14,8 @@ themes:
   - paired check
   - named condition
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # How We Are

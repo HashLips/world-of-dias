@@ -18,6 +18,8 @@ themes:
   - stewardship
   - exile pressure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nauw Concord

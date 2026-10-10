@@ -12,6 +12,8 @@ themes:
   - calm under threat
   - ritual watch
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Still Pool Vigil

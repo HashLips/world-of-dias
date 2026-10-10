@@ -13,6 +13,9 @@ themes:
   - civic
   - travel
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Corridor Priority Part

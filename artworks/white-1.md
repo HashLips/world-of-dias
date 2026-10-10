@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A bald figure with heavy-lidded eyes and a broad pleated collar is painted entirely in whites and pale grays against a dark green-black ground
+time_era: present
+time_span: ongoing
 ---
 
 # White

@@ -20,6 +20,8 @@ themes:
   - taboo
   - dangerous
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Restricted Rare and Taboo Inventions of Dias

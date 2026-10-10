@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Third Window Shelf's timed reveal, chime, and returning opacity
+time_era: present
+time_span: recurring
 ---
 
 # Third Window Minute

@@ -16,6 +16,8 @@ themes:
   - honesty
   - refusal to point onward
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Honest-Want Compass

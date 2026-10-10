@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Tollberm Scrub-Apple as tart scrub-apple trees with peels on the road as offering, not a staged rite
+time_era: present
+time_span: ongoing
 ---
 
 # Tart Fruit, Peels on the Road

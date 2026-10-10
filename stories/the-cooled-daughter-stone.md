@@ -17,6 +17,8 @@ themes:
   - yard argument
 status: rumor
 story_type: side journey
+time_era: present
+time_span: point
 ---
 
 # The Cooled Daughter-Stone

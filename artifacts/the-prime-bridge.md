@@ -22,6 +22,8 @@ themes:
   - reconstruction
   - existential risk
 status: canonical
+time_era: prime
+time_span: ongoing
 ---
 
 # The Prime Bridge

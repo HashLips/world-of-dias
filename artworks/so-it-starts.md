@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Opening Seat as a vibrant blue lounging figure in a bright yellow high-backed armchair holding a red bucket of white fluffy pieces, with a black angular bird-like creature dangling upside-down from the chair top, a black briefcase with green slip on pink floor under dark jagged foliage silhouettes
+time_era: present
+time_span: ongoing
 ---
 
 # Opening Seat

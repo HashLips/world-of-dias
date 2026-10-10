@@ -16,6 +16,8 @@ themes:
   - variation control
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Returning Span path selection and crossing
 ---
 

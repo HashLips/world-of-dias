@@ -13,6 +13,8 @@ themes:
   - timed care
   - Verdant Reach
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Green Garden lane tasks using minute sand
 ---
 

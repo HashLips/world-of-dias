@@ -13,6 +13,8 @@ themes:
   - contained intensity
   - unblinking mark
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Passion

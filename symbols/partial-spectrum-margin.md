@@ -14,6 +14,8 @@ themes:
   - soft limit
   - publish ethics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Partial-Spectrum Margin

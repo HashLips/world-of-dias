@@ -14,6 +14,8 @@ themes:
   - offshore courtesy
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Averra Offshore Ways of Dias

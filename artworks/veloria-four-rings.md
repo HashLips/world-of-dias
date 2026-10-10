@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Veloria City from above as a massive circle of concentric walled rings stepping inward to a small, intensely glowing core, an outer gate in the foreground ring wall, crowded roofs in every band, and dark drifting shapes in the sky.
+time_era: present
+time_span: ongoing
 ---
 
 # Four Rings around the Core

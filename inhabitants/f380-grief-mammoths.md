@@ -13,6 +13,8 @@ themes:
   - solemn
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # F380 Grief-Mammoths

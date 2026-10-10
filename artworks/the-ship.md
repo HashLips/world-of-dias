@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A huge white ship's bow faces the viewer at night under a full moon, rows of portholes, a tiny figure at the rail scattering pale fragments into the dark, white streaks on black water and a gray floating shape at lower left
+time_era: present
+time_span: ongoing
 ---
 
 # The Ship

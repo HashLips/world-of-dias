@@ -13,6 +13,8 @@ themes:
   - erasure
 status: rumor
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Abyss Gnaw-Roaches

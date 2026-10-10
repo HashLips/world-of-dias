@@ -16,6 +16,8 @@ themes:
   - Veloria
   - institutions
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Houses and Operators of Dias

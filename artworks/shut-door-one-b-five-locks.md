@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: The Sealed Beta Chamber as a shut door with a gold emblem bearing a single B, five different locks, and empty benches, with no interior shown
+time_era: present
+time_span: ongoing
 ---
 
 # Shut Door, One B, Five Locks

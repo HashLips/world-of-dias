@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A red dial-box sits on a black square table atop a bent black post in murky open country, while a tall blue limb rooted in the ground arches over and reaches toward it with a clawed hand, a clawed shadow on the ground
+time_era: present
+time_span: ongoing
 ---
 
 # Who You Gonna Call

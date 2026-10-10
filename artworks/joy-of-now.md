@@ -12,6 +12,8 @@ themes:
   - raised-arm signal
   - pink tiered ground
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

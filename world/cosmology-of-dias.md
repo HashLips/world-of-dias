@@ -42,6 +42,8 @@ themes:
   - open mystery
   - unsettled pressure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Cosmology of Dias

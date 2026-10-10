@@ -14,6 +14,8 @@ themes:
   - sacred wayfinding
   - traveler accountability
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Curious Arch Lane Token

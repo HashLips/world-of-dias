@@ -15,6 +15,8 @@ themes:
   - anti-rush
 status: canonical
 story_type: side journey
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Ladle Queue Morning

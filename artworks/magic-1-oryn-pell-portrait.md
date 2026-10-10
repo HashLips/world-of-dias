@@ -12,6 +12,8 @@ themes:
   - forest authority
   - restraint
 status: canonical
+time_era: present
+time_span: ongoing
 medium:
 edition:
 year:

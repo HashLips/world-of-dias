@@ -15,6 +15,8 @@ themes:
   - corridor guidance
 status: canonical
 nature: coherent-energy inhabitant
+time_era: present
+time_span: ongoing
 ---
 
 # Diva One

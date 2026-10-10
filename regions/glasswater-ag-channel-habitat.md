@@ -25,6 +25,8 @@ themes:
   - Glasswater
   - ecology
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Glasswater Ag Channel Habitat

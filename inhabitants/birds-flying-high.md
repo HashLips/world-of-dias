@@ -11,6 +11,8 @@ themes:
   - path-key carry
   - long-leg ground touch
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Birds Flying High

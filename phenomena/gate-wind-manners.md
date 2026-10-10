@@ -13,6 +13,9 @@ themes:
   - exile
   - posture
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Gate Wind Manners

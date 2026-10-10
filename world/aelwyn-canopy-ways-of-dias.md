@@ -13,6 +13,8 @@ themes:
   - canopy
   - path manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Aelwyn Canopy Ways of Dias

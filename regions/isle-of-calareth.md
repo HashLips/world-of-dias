@@ -30,6 +30,8 @@ themes:
   - cliffs and forests
   - uncertain resonance
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Isle of Calareth

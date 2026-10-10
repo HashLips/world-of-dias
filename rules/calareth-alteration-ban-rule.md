@@ -15,6 +15,8 @@ themes:
   - island defense
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Calareth entry and material intervention
 ---
 

@@ -13,6 +13,8 @@ themes:
   - heights
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Rim Rest Cliff-Eagles

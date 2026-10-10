@@ -12,6 +12,8 @@ themes:
   - pace dashes
   - anti-orb-pocketing
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # End Goal

@@ -16,6 +16,8 @@ themes:
   - decide to continue
   - weather listening
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tv

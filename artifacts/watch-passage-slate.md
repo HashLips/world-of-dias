@@ -18,6 +18,8 @@ themes:
   - public truth
   - evidence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Watch Passage Slate

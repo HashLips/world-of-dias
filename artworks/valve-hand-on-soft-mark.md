@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Windburned Cress Adel at The Soft Mark valve—short textured hair, neck scarves only, face visible; gloved valve hand.
+time_era: present
+time_span: ongoing
 ---
 
 # Valve Hand on Soft Mark

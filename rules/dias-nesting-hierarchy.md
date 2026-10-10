@@ -25,6 +25,8 @@ themes:
   - classification
   - teachable structure
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide scale nesting (world to local phenomenon)
 ---
 

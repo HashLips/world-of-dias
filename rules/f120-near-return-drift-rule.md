@@ -16,6 +16,8 @@ themes:
   - route memory
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F120 event repetition behavior
 ---
 

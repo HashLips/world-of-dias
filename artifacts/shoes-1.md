@@ -13,6 +13,8 @@ themes:
   - crest count
   - shared aim
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Shoes

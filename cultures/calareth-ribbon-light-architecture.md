@@ -20,6 +20,8 @@ themes:
   - sanctuary building
   - minimal footprint
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Calareth Ribbon-Light Architecture

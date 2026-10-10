@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: The Rope Tree as a grounded bay mooring, salt-silvered bark, iron rings, worn lines, and plain blue ribbons
+time_era: present
+time_span: ongoing
 ---
 
 # Rings, Worn Lines, and Plain Blue Ribbons

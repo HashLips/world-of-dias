@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: a Bread-Smoke Vial as stoppered thick glass, a faint warm brown film that is not pooled liquid, on a bare sill
+time_era: present
+time_span: ongoing
 ---
 
 # Waxed Cork and a Warm Brown Film

@@ -15,6 +15,8 @@ themes:
   - checked work
   - post-escape watchfulness
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Measure-Mark

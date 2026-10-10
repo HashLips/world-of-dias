@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Puzzled as a vibrant unmarked red flag on a thin white pole planted at a teal field split, casting a long dark gray shadow, with a tiny black gate glyph top-right
+time_era: present
+time_span: ongoing
 ---
 
 # Puzzled

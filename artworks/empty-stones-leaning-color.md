@@ -15,6 +15,8 @@ themes:
   - empty stones
   - no shrine
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

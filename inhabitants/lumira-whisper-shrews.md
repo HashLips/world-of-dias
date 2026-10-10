@@ -14,6 +14,8 @@ themes:
   - silence
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Lumira Whisper-Shrews

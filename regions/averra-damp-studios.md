@@ -18,6 +18,8 @@ themes:
   - ink
   - obscured art labor
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Averra damp studios

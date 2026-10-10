@@ -14,6 +14,8 @@ themes:
   - wall-eye reminder
   - queued entry
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Knock Soft

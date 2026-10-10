@@ -16,6 +16,8 @@ themes:
   - interpretive risk
 status: unknown
 nature: invisible or intermittently visible inhabitant
+time_era: present
+time_span: ongoing
 ---
 
 # The Window Walker

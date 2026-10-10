@@ -24,6 +24,8 @@ themes:
   - Driftfall
   - ecology
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Driftfall Salvage Tide Habitat

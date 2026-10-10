@@ -22,6 +22,8 @@ Companion Dias rules (this repo):
 | [`world-orientation.md`](world-orientation.md) | Hubs, primers, where to start reading before writing |
 | [`stage-readiness.md`](stage-readiness.md) | What is safe to write next on stage |
 | [`plan.md`](plan.md) | Active book-series canon plan (Volumes I–VI phases) |
+| [`timeline-metadata.md`](timeline-metadata.md) | Required `time_era` / `time_span` for every lore entry (dashboard Timeline) |
+| [`timeline-backfill-plan.md`](timeline-backfill-plan.md) | Active backfill of timeline fields across all existing entries |
 | [`../AGENTS.md`](../AGENTS.md) | Thin root index for all agent materials |
 
 ## First-session reading order (short)
@@ -61,6 +63,7 @@ Canon must support book writing without guessing. Lead with **plain operational 
 - [ ] Frontmatter + body match the category template
 - [ ] Entry hand-authored (no Python/shell bulk generation of lore files)
 - [ ] Plain definition present (not poetry-as-physics); claim grade clear where relevant
+- [ ] `time_era` + `time_span` set ([`timeline-metadata.md`](timeline-metadata.md); canon: [`../world/timeline-metadata-of-dias.md`](../world/timeline-metadata-of-dias.md))
 - [ ] `related:` names match other entries’ `name:` fields exactly (dashboard links by exact name)
 - [ ] Soft limits respected ([`canon-safety.md`](canon-safety.md))
 - [ ] If a place/inhabitant should appear on the Map tab: pin in [`../dashboard/map-registry.yaml`](../dashboard/map-registry.yaml), then `python3 scripts/build_story_dashboard.py`

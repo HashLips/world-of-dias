@@ -16,6 +16,9 @@ themes:
   - cleansing calm
   - beauty first
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Wabet Softfall

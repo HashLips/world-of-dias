@@ -14,6 +14,8 @@ themes:
   - yellow lane chalk
   - trail-watching night
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # In a Land of Crazy

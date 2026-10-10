@@ -11,6 +11,8 @@ themes:
   - contemplation
   - threshold marker
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bronze Umbrella Seated Figure

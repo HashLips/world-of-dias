@@ -15,6 +15,8 @@ themes:
   - tools
   - manners not magic
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Instrument Apology Rite

@@ -12,6 +12,8 @@ themes:
   - yellow beam
   - jagged wall marks
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

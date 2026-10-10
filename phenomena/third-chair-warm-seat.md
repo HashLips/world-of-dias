@@ -13,6 +13,9 @@ themes:
   - joy
   - Verdant Reach
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Third-Chair Warm Seat

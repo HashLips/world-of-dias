@@ -23,6 +23,8 @@ themes:
   - trust
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Gilding on the Basin Road

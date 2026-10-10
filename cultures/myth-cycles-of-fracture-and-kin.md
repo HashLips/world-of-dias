@@ -19,6 +19,8 @@ themes:
   - kinship
   - encoding
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Myth Cycles of Fracture and Kin

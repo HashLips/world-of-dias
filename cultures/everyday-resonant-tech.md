@@ -25,6 +25,8 @@ themes:
   - markets
   - civic tools
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Everyday Resonant Tech

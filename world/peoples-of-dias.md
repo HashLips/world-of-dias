@@ -28,6 +28,8 @@ themes:
   - citizenship
   - spectrum of being
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Peoples of Dias

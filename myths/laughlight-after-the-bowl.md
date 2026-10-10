@@ -14,6 +14,8 @@ themes:
   - joy
   - forced laughter
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # Laughlight after the Bowl

@@ -16,6 +16,8 @@ themes:
   - slate names
   - cooperative survival
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hearthvale Second-Beginning Craft

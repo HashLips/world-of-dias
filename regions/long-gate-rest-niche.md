@@ -19,6 +19,8 @@ themes:
   - moral infrastructure
   - second beginning
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Long Gate Rest Niche

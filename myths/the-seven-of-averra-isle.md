@@ -16,6 +16,8 @@ themes:
   - balance and judgment
   - lucky fruit influence
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Seven of Averra Isle

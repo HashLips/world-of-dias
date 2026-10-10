@@ -15,6 +15,8 @@ themes:
   - teaching object
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Null-Proximity Warning Tag

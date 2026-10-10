@@ -12,6 +12,9 @@ themes:
   - root shadow
   - held stillness
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Peace

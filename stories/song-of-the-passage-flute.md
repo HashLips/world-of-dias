@@ -15,6 +15,8 @@ themes:
   - overheard craft
 status: canonical
 story_type: side story
+time_era: near
+time_span: point
 ---
 
 # Song of the Passage Flute

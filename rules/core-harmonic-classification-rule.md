@@ -16,6 +16,8 @@ themes:
   - institutional burden
   - safety versus truth
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Veloria core monitoring
 ---
 

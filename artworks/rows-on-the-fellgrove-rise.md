@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Fellgrove as rows of apple trees on a gentle rise with a low house, a tool shed, and a lane.
+time_era: present
+time_span: ongoing
 ---
 
 # Rows on the Fellgrove Rise

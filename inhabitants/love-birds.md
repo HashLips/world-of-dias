@@ -12,6 +12,8 @@ themes:
   - blue branch perch
   - red grip claws
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Love Birds

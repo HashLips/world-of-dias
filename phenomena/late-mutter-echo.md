@@ -15,6 +15,9 @@ themes:
   - mimicry
   - load-noise
 status: rumor
+time_era: near
+time_span: ongoing
+
 ---
 
 # Late Mutter Echo

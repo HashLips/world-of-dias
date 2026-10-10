@@ -15,6 +15,8 @@ themes:
   - kettle
 status: canonical
 story_type: daily-life vignette
+time_era: present
+time_span: point
 ---
 
 # An Exile First Bowl in Sorel

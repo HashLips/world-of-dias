@@ -12,6 +12,9 @@ themes:
   - blue back stripe
   - indoor wait
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Red Sky

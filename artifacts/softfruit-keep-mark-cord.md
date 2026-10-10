@@ -17,6 +17,8 @@ themes:
   - market craft
   - reciprocity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Keep-Mark Cord

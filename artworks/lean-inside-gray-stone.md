@@ -13,6 +13,8 @@ themes:
   - gray stone ring
   - no building
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

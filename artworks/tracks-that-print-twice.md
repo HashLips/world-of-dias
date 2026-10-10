@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Large F120 elk whose tracks sometimes print twice—once firm, once faint—as if a prior walk still leans on the soil.
+time_era: present
+time_span: ongoing
 ---
 
 # Tracks That Print Twice

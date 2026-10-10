@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Shoes as a dense overlapping swarm of identical angular figures in cyan magenta yellow and royal blue on slate gray, each with beak tip black-dot, slender black-pointed leg, sharp tail, and three-line crest, all aimed bottom-left
+time_era: present
+time_span: ongoing
 ---
 
 # Shoes

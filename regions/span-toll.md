@@ -19,6 +19,8 @@ themes:
   - named span
   - road marshal presence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Span Toll

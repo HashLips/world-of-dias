@@ -14,6 +14,8 @@ themes:
   - route discipline
 status: unknown
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Brindle Still-Stags

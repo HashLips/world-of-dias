@@ -11,6 +11,8 @@ themes:
   - double path
   - echo fauna
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

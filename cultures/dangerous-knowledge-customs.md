@@ -17,6 +17,8 @@ themes:
   - taboo learning
   - care
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Dangerous Knowledge Customs

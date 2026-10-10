@@ -24,6 +24,8 @@ themes:
   - harold principle
   - emotional entry points
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Characters of Dias

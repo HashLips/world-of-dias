@@ -45,6 +45,8 @@ Always-on reminder: [`.cursor/rules/dias-contributor.mdc`](.cursor/rules/dias-co
 | [`agent/DIAS-REFERENCE-MAP.md`](agent/DIAS-REFERENCE-MAP.md) | External GUID bridge (IRL / Arweave / social / physical) |
 | [`agent/dias-map.yaml`](agent/dias-map.yaml) | Permanent `DIAS-{UUID}` → Markdown index |
 | [`agent/plan.md`](agent/plan.md) | **Active** book-series canon plan (Volumes I–VI; one question = one phase) |
+| [`agent/timeline-metadata.md`](agent/timeline-metadata.md) | Required soft timeline fields (`time_era` / `time_span`) for every lore entry |
+| [`agent/timeline-backfill-plan.md`](agent/timeline-backfill-plan.md) | **Active** plan to tag all existing lore (phases T.0–T.17) |
 | [`agent/secrets-pointer.md`](agent/secrets-pointer.md) | Author secret staging (saga-key vs texture; not a spoiler bible) |
 | [`.cursor/rules/dias-contributor.mdc`](.cursor/rules/dias-contributor.mdc) | Always-on: Story Architect + contributor docs |
 | [`.cursor/rules/dias-reference-map.mdc`](.cursor/rules/dias-reference-map.mdc) | Always-on permanence rule for Dias GUIDs |

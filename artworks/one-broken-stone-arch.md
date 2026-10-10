@@ -14,6 +14,8 @@ themes:
   - grounded remnant
   - not a crossing
 status: canonical
+time_era: prime
+time_span: ongoing
 medium: digital image
 edition:
 year:

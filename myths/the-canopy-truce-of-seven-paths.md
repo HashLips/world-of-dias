@@ -12,6 +12,8 @@ themes:
   - path law
   - tribal balance
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Canopy Truce of Seven Paths

@@ -14,6 +14,8 @@ themes:
   - dawn encounters
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Ashcalm Ember-Deer

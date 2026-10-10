@@ -13,6 +13,8 @@ themes:
   - steel-blue flecks
   - not a window
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

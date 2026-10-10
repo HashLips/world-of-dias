@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A white umbrella with a red tip stands planted on its shaft, its scalloped canopy just above a deep blue water surface that fills the lower half of the plate under a lavender sky
+time_era: present
+time_span: recurring
 ---
 
 # When It Rains

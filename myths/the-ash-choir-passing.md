@@ -13,6 +13,8 @@ themes:
   - recovery
   - hunting taboo
 status: myth
+time_era: present
+time_span: recurring
 ---
 
 # The Ash Choir Passing

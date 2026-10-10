@@ -24,6 +24,8 @@ themes:
   - breakfast continuity
   - comic dread
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Flagweek Strip

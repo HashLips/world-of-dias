@@ -18,6 +18,8 @@ themes:
   - tribal coalition
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Elyra Mossen

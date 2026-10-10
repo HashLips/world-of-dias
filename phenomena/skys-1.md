@@ -12,6 +12,9 @@ themes:
   - grey echo
   - strata weather
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Skies

@@ -18,6 +18,8 @@ themes:
   - craft
   - haunt texture
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Operator Scrap Listening Nook

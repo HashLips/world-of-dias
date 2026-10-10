@@ -14,6 +14,8 @@ themes:
   - Calibration adjacent
   - caution
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Helpful-Glass Curl

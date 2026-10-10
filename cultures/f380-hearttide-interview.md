@@ -14,6 +14,8 @@ themes:
   - hearttide
   - folk method
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F380 Hearttide Interview

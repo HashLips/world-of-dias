@@ -19,6 +19,9 @@ themes:
   - emotion
   - frequency
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # F380 Hearttide Color Shift

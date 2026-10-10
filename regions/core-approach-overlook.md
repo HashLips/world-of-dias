@@ -21,6 +21,8 @@ themes:
   - mystery
   - visitor omen
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Core Approach Overlook

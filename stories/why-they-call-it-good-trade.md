@@ -15,6 +15,8 @@ themes:
   - place identity
 status: canonical
 story_type: side story
+time_era: formative
+time_span: point
 ---
 
 # Why They Call It Good Trade

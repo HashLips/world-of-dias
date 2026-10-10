@@ -16,6 +16,8 @@ themes:
   - evidence
   - ledger
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Span Toll Book

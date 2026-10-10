@@ -12,6 +12,8 @@ themes:
   - creative pressure
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Wet-Paint Birds

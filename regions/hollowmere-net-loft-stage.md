@@ -19,6 +19,8 @@ themes:
   - loft culture
   - happiness infrastructure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hollowmere Net-Loft Stage

@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: An empty blue room holds exactly three red things: a door on the left wall, a pendant lamp hanging from the ceiling, and a low table casting long shadows on the right
+time_era: present
+time_span: ongoing
 ---
 
 # The Room

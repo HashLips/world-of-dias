@@ -13,6 +13,9 @@ themes:
   - hospitality
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Verdant Third-Chair Moss

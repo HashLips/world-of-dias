@@ -14,6 +14,8 @@ themes:
   - field denial
 status: canonical
 story_type: opening episode
+time_era: present
+time_span: point
 ---
 
 # The Child Who Inherited a Tube

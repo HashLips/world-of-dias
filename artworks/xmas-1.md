@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate xmas-1.jpg brought into assets for Xmas.
+time_era: present
+time_span: recurring
 ---
 
 # Xmas

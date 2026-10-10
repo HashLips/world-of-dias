@@ -12,6 +12,8 @@ themes:
   - heavy bloom truth
   - yard table craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Decorate

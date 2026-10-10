@@ -15,6 +15,8 @@ themes:
   - partial testimony
 status: rumor
 nature: contested / unknown
+time_era: unknown
+time_span: ongoing
 ---
 
 # Null-Margin Listeners

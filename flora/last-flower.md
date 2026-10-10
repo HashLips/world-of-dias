@@ -14,6 +14,9 @@ themes:
   - fallen petal witness
   - season end
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Last Flower

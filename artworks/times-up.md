@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A pale mask-faced figure with a red-and-white striped painted grin holds a black corded calling cup to its mouth, wearing a gold robe with green and white collar and a blue panel, its shadow on a slate wall
+time_era: present
+time_span: ongoing
 ---
 
 # Times Up

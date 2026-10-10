@@ -13,6 +13,8 @@ themes:
   - navy practice
   - clean shadows
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Rolling

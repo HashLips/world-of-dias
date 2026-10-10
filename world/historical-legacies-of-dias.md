@@ -22,6 +22,8 @@ themes:
   - verified
   - attributed
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Historical Legacies of Dias

@@ -13,6 +13,9 @@ themes:
   - economy feel
   - joy cousin
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Gilding-Hour Coin Soft

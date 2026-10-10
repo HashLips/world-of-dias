@@ -18,6 +18,8 @@ themes:
   - fruit talk
   - trade speech
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nauw Market Slang

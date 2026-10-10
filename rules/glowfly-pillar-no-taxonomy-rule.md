@@ -14,6 +14,8 @@ themes:
   - mystery
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Glowfly listening pillars and scrap nooks
 ---
 

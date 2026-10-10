@@ -20,6 +20,8 @@ themes:
   - salt wind speech
   - caravan pressure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Saltwhisper Road

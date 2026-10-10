@@ -15,6 +15,8 @@ themes:
   - power
   - open door
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Who Seals What Mystery

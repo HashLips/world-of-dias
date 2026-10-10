@@ -14,6 +14,8 @@ themes:
   - borders
   - double warning
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Beast that Guards Both Sides

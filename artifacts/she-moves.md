@@ -13,6 +13,8 @@ themes:
   - low-angle care
   - hidden face
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # She Moves

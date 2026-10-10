@@ -18,6 +18,9 @@ themes:
   - becoming
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F960 Draft-Timber Hold

@@ -13,6 +13,8 @@ themes:
   - wonder
   - soft colossal
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Cloud that Walked on Shells

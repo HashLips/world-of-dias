@@ -12,6 +12,8 @@ themes:
   - reveal ecology
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Glassfold Dust-Thrips

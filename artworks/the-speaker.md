@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A green spindle wrapped in a looping green and orange ribbon floats over a large yellow disc between a raised blue-and-black hand on the left and a blue listening profile on the right
+time_era: present
+time_span: ongoing
 ---
 
 # The Speaker

@@ -15,6 +15,8 @@ themes:
   - soft limits
   - unfinished
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Hold That Outlasted the Speech

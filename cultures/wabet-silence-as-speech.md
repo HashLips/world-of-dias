@@ -18,6 +18,8 @@ themes:
   - desert etiquette
   - canopy manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Wabet Silence-as-Speech

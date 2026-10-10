@@ -21,6 +21,8 @@ themes:
   - unnamed fear
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: point
 ---
 
 # Null on the Horizon

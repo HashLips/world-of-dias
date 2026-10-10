@@ -11,6 +11,9 @@ themes:
   - yellow crescent
   - harvest manners
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Banana

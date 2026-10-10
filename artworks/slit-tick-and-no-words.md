@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Ask-Again Stamp Pad as a pad face that is a narrow slit and a second tick, not words
+time_era: present
+time_span: ongoing
 ---
 
 # Slit, Tick, and No Words

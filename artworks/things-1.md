@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A translucent magenta sack bulges over blue and gray bands holding brown sticks, a dotted seed arc, a spiral, a black squiggling cord, a small flame at its neck, and a green tag marked with a pale check
+time_era: present
+time_span: ongoing
 ---
 
 # Things

@@ -28,6 +28,8 @@ themes:
   - foundational law
   - orientation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Resonance and Echo of Dias

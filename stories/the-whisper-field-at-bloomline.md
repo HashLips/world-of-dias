@@ -14,6 +14,8 @@ themes:
   - pre-decision tension
 status: canonical
 story_type: civic confluence vignette
+time_era: present
+time_span: point
 ---
 
 # The Whisper Field at Bloomline

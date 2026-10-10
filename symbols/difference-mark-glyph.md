@@ -13,6 +13,8 @@ themes:
   - comparison
   - writing
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Difference-Mark Glyph

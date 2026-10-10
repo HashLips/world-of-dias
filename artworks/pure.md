@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Pure as a tall blue four-legged pedestal table holding a wide glass bowl with one orange fish, while five flat orange fish silhouettes scatter on the sandy floor of a brown-over-beige room
+time_era: present
+time_span: ongoing
 ---
 
 # Pure

@@ -17,6 +17,8 @@ themes:
   - gentle magic
   - hope
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # Wabet's Unclaimed Breakfast

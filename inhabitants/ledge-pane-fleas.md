@@ -13,6 +13,8 @@ themes:
   - reveal
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Ledge Pane-Fleas

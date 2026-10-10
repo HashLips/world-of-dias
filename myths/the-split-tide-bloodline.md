@@ -12,6 +12,8 @@ themes:
   - fracture remnant
   - sea lineage
 status: myth
+time_era: fracture
+time_span: point
 ---
 
 # The Split Tide Bloodline

@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Stars as a cobalt-blue kinetic S-curve figure with cream outline, one white almond eye, oversized splayed hand, and about nine cream stalks tipped in red four-point stars bursting from the body on charcoal gray
+time_era: present
+time_span: ongoing
 ---
 
 # Stars

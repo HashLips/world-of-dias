@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A white sun with a black almond eye and flame-like rays hangs in a teal sky above purple hills, three black triangular sails on pale cyan water casting long shadows across a sand shore
+time_era: present
+time_span: ongoing
 ---
 
 # Wonder in Paradise

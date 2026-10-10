@@ -17,6 +17,8 @@ themes:
   - quiet recognition
 status: canonical
 story_type: scene
+time_era: present
+time_span: point
 ---
 
 # The Week He Handed It Back

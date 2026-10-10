@@ -14,6 +14,8 @@ themes:
   - tradeoffs
   - rumor
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Speed Truth Tradeoffs

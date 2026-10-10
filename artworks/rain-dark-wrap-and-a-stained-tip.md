@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Difference Mark Stylus as bone or darkwood, a rain-darkened soft wrap, and a tip stained with chalk, ash-ink, or Span damp
+time_era: present
+time_span: ongoing
 ---
 
 # Rain-Dark Wrap and a Stained Tip

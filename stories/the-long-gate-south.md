@@ -23,6 +23,8 @@ themes:
   - earned fear
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: point
 ---
 
 # The Long Gate South

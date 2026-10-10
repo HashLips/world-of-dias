@@ -16,6 +16,9 @@ themes:
   - load-noise
   - escaped nest
 status: rumor
+time_era: near
+time_span: ongoing
+
 ---
 
 # Post-Escape Static Drift

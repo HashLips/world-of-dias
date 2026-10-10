@@ -13,6 +13,9 @@ themes:
   - cold conflict
   - joy cousin
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Claimscar Cookfire Accord

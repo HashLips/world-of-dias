@@ -15,6 +15,8 @@ themes:
   - research
   - evidence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # House Sealed Beta Note

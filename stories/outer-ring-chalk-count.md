@@ -13,6 +13,8 @@ themes:
   - market rumor
 status: rumor
 story_type: side journey
+time_era: present
+time_span: ongoing
 ---
 
 # Outer-Ring Chalk Count

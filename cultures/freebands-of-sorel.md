@@ -19,6 +19,8 @@ themes:
   - crews
   - autonomy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Freebands of Sorel

@@ -14,6 +14,8 @@ themes:
   - rotating role
   - honest listening
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Smoker

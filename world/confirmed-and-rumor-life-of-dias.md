@@ -23,6 +23,8 @@ themes:
   - status
   - life
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Confirmed and Rumor Life of Dias

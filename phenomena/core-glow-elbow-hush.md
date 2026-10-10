@@ -13,6 +13,9 @@ themes:
   - Veloria
   - mystery
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Core-Glow Elbow Hush

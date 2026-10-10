@@ -23,6 +23,8 @@ themes:
   - soft power
   - slow dark
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Politics of Dias

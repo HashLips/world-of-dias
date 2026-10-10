@@ -12,6 +12,8 @@ themes:
   - central care-eye
   - hall meal manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Dining Hall Mark

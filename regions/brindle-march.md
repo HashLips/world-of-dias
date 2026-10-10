@@ -39,6 +39,8 @@ themes:
   - transit culture
   - folklore of magic
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Brindle March

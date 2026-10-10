@@ -19,6 +19,8 @@ themes:
   - markets
   - feasting
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nauw Fruit-Table Foodways

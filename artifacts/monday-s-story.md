@@ -14,6 +14,8 @@ themes:
   - paired red slippers
   - soft reach
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tide-Berth Rest

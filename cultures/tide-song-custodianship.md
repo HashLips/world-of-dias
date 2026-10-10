@@ -15,6 +15,8 @@ themes:
   - ritual memory
   - survival ethics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tide-Song Custodianship

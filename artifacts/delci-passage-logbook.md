@@ -17,6 +17,8 @@ themes:
   - daily journey
   - written intent
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Delci Passage Logbook

@@ -22,6 +22,8 @@ themes:
   - substance
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Frequency and Matter of Dias

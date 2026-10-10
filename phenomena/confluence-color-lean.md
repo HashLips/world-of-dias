@@ -14,6 +14,9 @@ themes:
   - emotional climate
   - beauty
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Confluence Color Lean

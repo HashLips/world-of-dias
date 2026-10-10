@@ -13,6 +13,9 @@ themes:
   - timed truth
   - anti-stare
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Reveal-Window Close Click

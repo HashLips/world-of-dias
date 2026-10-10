@@ -19,6 +19,8 @@ themes:
   - obscured present
   - last light
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Crown Ash

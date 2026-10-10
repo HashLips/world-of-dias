@@ -18,6 +18,8 @@ themes:
   - mystery
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Glasswater Mirror Pool

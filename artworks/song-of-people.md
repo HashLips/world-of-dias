@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Song of People as a bright red featureless walker on a black dashed road toward purple and yellow jagged mountains, a tilted red octagonal sign with white abstract glyphs, two semi-transparent golden-orange diagonal beams, cyan wispy clouds, and a white disc on medium gray
+time_era: present
+time_span: ongoing
 ---
 
 # Song of People

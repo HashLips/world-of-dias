@@ -14,6 +14,8 @@ themes:
   - hospitality
   - second beginning
 status: canonical
+time_era: formative
+time_span: ongoing
 ---
 
 # Exile-Mutual Table Mark

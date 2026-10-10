@@ -13,6 +13,8 @@ themes:
   - operators
   - load discipline
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Valorian Operators Faction Card

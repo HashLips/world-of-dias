@@ -35,6 +35,8 @@ themes:
   - geography of meaning
   - teachable structure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nesting and Scale of Dias

@@ -15,6 +15,8 @@ themes:
   - living craft
   - warning tale
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Last Line Never Drawn

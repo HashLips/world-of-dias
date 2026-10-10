@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: A dark silhouette figure squats wide-legged with long arms forming a bar across its shoulders and hands clasped between its knees, two small birds perched on its arms, on a white ground with gray shadows
+time_era: present
+time_span: recurring
 ---
 
 # Winter Comes

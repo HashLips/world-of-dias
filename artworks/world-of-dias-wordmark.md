@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year: 2026
 based_on: Official World of Dias lettering without isolated emblem plate
+time_era: present
+time_span: ongoing
 ---
 
 # World of Dias Wordmark

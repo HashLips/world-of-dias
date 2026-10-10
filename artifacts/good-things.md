@@ -12,6 +12,8 @@ themes:
   - afterimage care
   - wind scarf
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Good Things

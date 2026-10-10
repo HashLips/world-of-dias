@@ -19,6 +19,8 @@ themes:
   - definition
   - partial knowledge
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide definition of echo as residual imprint
 ---
 

@@ -16,6 +16,8 @@ themes:
   - clerical manners
   - hierarchy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Clerk Nesting Primer Card

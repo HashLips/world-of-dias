@@ -14,6 +14,8 @@ themes:
   - F380
   - emotional climate
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bloomline Climate Ways of Dias

@@ -13,6 +13,8 @@ themes:
   - night
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Sprout Vent Cap-Bats

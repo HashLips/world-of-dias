@@ -15,6 +15,8 @@ themes:
   - continuity
 status: rumor
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Hearthline Ash-Whales

@@ -14,6 +14,9 @@ themes:
   - fodder
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Eastbound Peel-Vine

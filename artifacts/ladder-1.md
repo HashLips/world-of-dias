@@ -14,6 +14,8 @@ themes:
   - rung count
   - lean angle check
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ladder

@@ -13,6 +13,8 @@ themes:
   - care labor
 status: canonical
 nature: affect-attuned persons
+time_era: present
+time_span: ongoing
 ---
 
 # Tidehearts

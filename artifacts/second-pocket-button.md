@@ -14,6 +14,8 @@ themes:
   - mending
   - ordinary wonder
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Second-Pocket Button

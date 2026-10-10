@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A dark tapering tower on a sandy shore throws a broad green beam out to the left across a bright blue sky banded with cream clouds and a darker blue sea
+time_era: present
+time_span: ongoing
 ---
 
 # Why Lights Are Green

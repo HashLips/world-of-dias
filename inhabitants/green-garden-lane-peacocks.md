@@ -13,6 +13,8 @@ themes:
   - civic beauty
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Green Garden Lane Peacocks

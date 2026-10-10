@@ -14,6 +14,8 @@ themes:
   - belonging
   - comfort echo
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Chair Left Warm

@@ -14,6 +14,8 @@ themes:
   - joy
   - warning craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Softfruit tables, festivals, and Row tea cited by Softfruit
 ---
 

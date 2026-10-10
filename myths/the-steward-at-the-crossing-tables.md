@@ -12,6 +12,8 @@ themes:
   - transit peace
   - written oath
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Steward at the Crossing Tables

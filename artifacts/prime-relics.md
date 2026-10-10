@@ -20,6 +20,8 @@ themes:
   - ruins
   - mystery
 status: canonical
+time_era: prime
+time_span: ongoing
 ---
 
 # Prime Relics

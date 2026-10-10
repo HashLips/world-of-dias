@@ -15,6 +15,8 @@ themes:
   - street commerce
   - ringwide continuity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Veloria Street Flower Pot

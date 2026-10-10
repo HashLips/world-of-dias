@@ -15,6 +15,8 @@ themes:
   - present tension
   - stage pressure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Active Conflicts of F432

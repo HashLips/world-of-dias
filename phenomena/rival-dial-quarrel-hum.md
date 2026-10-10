@@ -13,6 +13,9 @@ themes:
   - measurement
   - rivalry
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Rival-Dial Quarrel Hum

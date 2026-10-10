@@ -16,6 +16,8 @@ themes:
   - claim grades
   - filing
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Claim Grade Stamp Set

@@ -17,6 +17,8 @@ themes:
   - soft power
   - subculture
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Veloria Clerk Subculture

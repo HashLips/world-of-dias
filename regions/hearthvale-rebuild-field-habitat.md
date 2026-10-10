@@ -23,6 +23,8 @@ themes:
   - Hearthvale
   - ecology
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hearthvale Rebuild Field Habitat

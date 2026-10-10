@@ -13,6 +13,9 @@ themes:
   - tiny light
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Cinder Lantern Cap (fungus)

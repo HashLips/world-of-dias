@@ -19,6 +19,8 @@ themes:
   - hire
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Orders for the Late Bruise

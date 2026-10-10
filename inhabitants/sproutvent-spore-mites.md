@@ -13,6 +13,8 @@ themes:
   - ecological hazard
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Sproutvent Spore-Mites

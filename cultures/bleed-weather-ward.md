@@ -16,6 +16,8 @@ themes:
   - new faction
   - mixed morality
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bleed Weather Ward

@@ -12,6 +12,8 @@ themes:
   - fear discipline
   - nonverbal judgment
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Wall That Chooses Liars

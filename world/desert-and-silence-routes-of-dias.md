@@ -16,6 +16,8 @@ themes:
   - Lumira
   - travel
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Desert and Silence Routes of Dias

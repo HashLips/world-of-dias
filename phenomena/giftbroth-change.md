@@ -25,6 +25,9 @@ themes:
   - thrill versus dread
   - irreversible self-alteration
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Giftbroth Change

@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Rose-Thorn Thickets as wine-dark thorn thickets used as barrier, with no animals
+time_era: present
+time_span: ongoing
 ---
 
 # Wine-Dark Thorns, No Animals

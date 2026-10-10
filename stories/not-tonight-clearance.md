@@ -18,6 +18,8 @@ themes:
   - mystery
 status: canonical
 story_type: scene
+time_era: present
+time_span: point
 ---
 
 # Not Tonight Clearance

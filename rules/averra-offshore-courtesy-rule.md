@@ -15,6 +15,8 @@ themes:
   - symbolic alignment
   - mystery
 status: canonical
+time_era: present
+time_span: recurring
 scope: mainland interaction with Averra-facing rites
 ---
 

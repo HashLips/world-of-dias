@@ -17,6 +17,8 @@ themes:
   - basin science
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Veloria measurement ethics
 ---
 

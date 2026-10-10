@@ -16,6 +16,8 @@ themes:
   - mercy
 status: legendary
 nature: historical figure
+time_era: formative
+time_span: point
 ---
 
 # Vesh Wrong-Map

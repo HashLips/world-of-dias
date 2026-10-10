@@ -13,6 +13,8 @@ themes:
   - heat insects
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Pot-Signal Ember-Gnats

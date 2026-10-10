@@ -16,6 +16,8 @@ themes:
   - incomplete form
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F960 form stability and emergence
 ---
 

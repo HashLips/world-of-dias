@@ -16,6 +16,8 @@ themes:
   - anti-myth
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Jory Milt

@@ -14,6 +14,8 @@ themes:
   - Open Hand
   - place manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Craft-Bench Corner

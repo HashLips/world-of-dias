@@ -12,6 +12,8 @@ themes:
   - pink registration bar
   - face-to-face hold
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

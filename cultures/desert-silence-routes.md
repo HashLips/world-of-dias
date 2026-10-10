@@ -17,6 +17,8 @@ themes:
   - keepers
   - wrong maps
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Desert Silence Routes

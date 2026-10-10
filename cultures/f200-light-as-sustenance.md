@@ -15,6 +15,8 @@ themes:
   - coherence
   - cross-frequency food
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F200 Light-as-Sustenance

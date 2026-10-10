@@ -14,6 +14,8 @@ themes:
   - border manners
   - identity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Exile-Mask Kept

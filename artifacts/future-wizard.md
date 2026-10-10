@@ -12,6 +12,8 @@ themes:
   - honest empty
   - anti-skip cleverness
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Future Wizard

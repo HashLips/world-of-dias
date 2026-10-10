@@ -11,6 +11,8 @@ themes:
   - white heads
   - communal chatter
 status: unknown
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

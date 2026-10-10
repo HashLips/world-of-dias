@@ -13,6 +13,8 @@ themes:
   - fragile grace
 status: canonical
 nature: non-human
+time_era: present
+time_span: ongoing
 ---
 
 # Slim Camel

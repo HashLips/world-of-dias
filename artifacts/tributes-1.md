@@ -16,6 +16,8 @@ themes:
   - sharing-knife etiquette
   - verge planting
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Tributes

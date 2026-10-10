@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Three white standing figures with plain blue heads stand together on charcoal gray while a bold black swooping stroke curves beneath them and ends in a rounded bulb
+time_era: present
+time_span: ongoing
 ---
 
 # Why Not

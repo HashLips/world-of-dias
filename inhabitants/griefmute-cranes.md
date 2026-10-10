@@ -11,6 +11,8 @@ themes:
   - solemn beauty
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Griefmute Cranes

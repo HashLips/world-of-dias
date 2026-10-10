@@ -13,6 +13,8 @@ themes:
   - revision
   - anti-finality
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Courtyard That Redrew Itself

@@ -12,6 +12,8 @@ themes:
   - recognition
   - communal memory
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Day the Rain Learned Names

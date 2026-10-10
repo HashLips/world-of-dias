@@ -24,6 +24,8 @@ themes:
   - taboo
   - culture
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Plant Use Classes of Dias

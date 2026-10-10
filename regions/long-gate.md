@@ -39,6 +39,8 @@ themes:
   - crossing
   - moral threshold
 status: canonical
+time_era: formative
+time_span: ongoing
 ---
 
 # Long Gate

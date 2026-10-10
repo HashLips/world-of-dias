@@ -20,6 +20,8 @@ themes:
   - canopy to stone
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # The Climb to Ashcalm

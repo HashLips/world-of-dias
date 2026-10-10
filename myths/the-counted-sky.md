@@ -20,6 +20,8 @@ themes:
   - folk data
   - noticing before stamps
 status: rumor
+time_era: formative
+time_span: point
 ---
 
 # The Counted Sky

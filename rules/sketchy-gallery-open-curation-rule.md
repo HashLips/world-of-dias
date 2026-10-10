@@ -14,6 +14,8 @@ themes:
   - contested taste
   - beauty
 status: canonical
+time_era: present
+time_span: ongoing
 scope: gallery programming and exhibition rights
 ---
 

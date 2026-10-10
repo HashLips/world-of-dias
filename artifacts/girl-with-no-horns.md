@@ -12,6 +12,8 @@ themes:
   - hang equalization
   - crescent honesty
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Girl with No Horns

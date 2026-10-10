@@ -13,6 +13,9 @@ themes:
   - gratitude craft
   - travel bodies
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Three Thank-Yous Road Ease

@@ -23,6 +23,8 @@ themes:
   - travel rarity
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Inter-Frequency Interaction of Dias

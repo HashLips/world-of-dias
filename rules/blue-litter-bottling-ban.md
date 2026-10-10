@@ -16,6 +16,8 @@ themes:
   - mystery
   - hazard
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Verdant Reach / Wabet blue litter handling
 ---
 

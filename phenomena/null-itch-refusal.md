@@ -14,6 +14,9 @@ themes:
   - soft limits
   - craft caution
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Null-Itch Refusal

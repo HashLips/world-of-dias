@@ -15,6 +15,8 @@ themes:
   - travel
   - recovery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ashen Hearthline Ways of Dias

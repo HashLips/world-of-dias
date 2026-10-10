@@ -12,6 +12,8 @@ themes:
   - blue field watch
   - frequency looking
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

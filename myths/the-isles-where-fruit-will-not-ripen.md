@@ -12,6 +12,8 @@ themes:
   - song over harvest
   - unripe mercy
 status: myth
+time_era: settling
+time_span: ongoing
 ---
 
 # The Isles Where Fruit Will Not Ripen

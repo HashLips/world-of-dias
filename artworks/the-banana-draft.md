@@ -21,6 +21,8 @@ medium: digital image
 edition:
 year:
 based_on: The Banana Draft as a flat, beamy wooden barge in faded peel-yellow paint moored at a stone quay with an iron winch, stub mast wrapped in rope, sweep-oar, kettle on deck, and lined hold compartments, a hazy city waterfront behind.
+time_era: present
+time_span: ongoing
 ---
 
 # Peel-Yellow at the Quay Winch

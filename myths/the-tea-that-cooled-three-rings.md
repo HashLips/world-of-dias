@@ -14,6 +14,8 @@ themes:
   - joy
   - civic manners
 status: rumor
+time_era: formative
+time_span: point
 ---
 
 # The Tea That Cooled Three Rings

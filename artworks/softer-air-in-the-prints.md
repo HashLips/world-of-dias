@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Large shaggy mammoth forms of F380 muted zones that walk slowly and leave quieter air in their footprints.
+time_era: present
+time_span: ongoing
 ---
 
 # Softer Air in the Prints

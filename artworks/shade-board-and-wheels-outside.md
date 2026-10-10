@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Open Hand Way as an empty waystation under a tree, crates in the shade, a timber table, and cart wheels outside
+time_era: present
+time_span: ongoing
 ---
 
 # Shade, Board, and Wheels Outside

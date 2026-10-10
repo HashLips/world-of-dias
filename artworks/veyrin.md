@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A Veyrin courier with mirrored irises, vein-light on one forearm, and a soft halo around focused hands
+time_era: present
+time_span: ongoing
 ---
 
 # Mirrored Gaze of a Veyrin

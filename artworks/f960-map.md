@@ -22,6 +22,8 @@ themes:
   - layered drafting
   - worldbuilding reference
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition: v1
 year:

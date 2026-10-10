@@ -14,6 +14,8 @@ themes:
   - social resilience
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Verdant Reach domestic and mediation custom
 ---
 

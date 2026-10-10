@@ -15,6 +15,9 @@ themes:
   - flora
   - commercial
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Ringfair Dye-Marigold

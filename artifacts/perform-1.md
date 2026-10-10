@@ -13,6 +13,8 @@ themes:
   - upward study
   - rim display
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Perform

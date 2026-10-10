@@ -18,6 +18,9 @@ themes:
   - cost
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F610 Stare-Cost Strain

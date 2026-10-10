@@ -13,6 +13,8 @@ themes:
   - frame-in-frame
   - serenity
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Long Peace Frame

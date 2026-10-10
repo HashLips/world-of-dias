@@ -20,6 +20,8 @@ themes:
   - consequence
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide expectation that resonant work leaves billable remainder
 ---
 

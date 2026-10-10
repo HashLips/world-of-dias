@@ -15,6 +15,8 @@ themes:
   - second-ring survival
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Lira Pot

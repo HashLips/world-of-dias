@@ -14,6 +14,8 @@ themes:
   - joy
   - Open Hand adjacent
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Kiln-Laughter Token Mark

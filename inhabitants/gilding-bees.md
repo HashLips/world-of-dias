@@ -15,6 +15,8 @@ themes:
   - gentle industry
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Gilding Bees

@@ -20,6 +20,8 @@ themes:
   - grief
   - civic joy
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # F432 Mourning and Celebration

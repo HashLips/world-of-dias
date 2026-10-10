@@ -22,6 +22,8 @@ themes:
   - life
   - adaptation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Frequency Biology of Dias

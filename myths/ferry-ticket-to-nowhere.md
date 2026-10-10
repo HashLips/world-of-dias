@@ -21,6 +21,8 @@ themes:
   - no subway
   - costly longing
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # Ferry Ticket to Nowhere

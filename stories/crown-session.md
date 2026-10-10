@@ -20,6 +20,8 @@ themes:
   - awe without answers
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: point
 ---
 
 # Crown Session

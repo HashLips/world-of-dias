@@ -20,6 +20,8 @@ themes:
   - research toward crossing
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # The Fellgrove Hand

@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Reincarnation as a tall solemn red figure cradling a limp white smaller form, head bowed, with semi-transparent gray and red echo layers repeating downward on a charcoal reflective ground under sage green
+time_era: present
+time_span: ongoing
 ---
 
 # Reincarnation

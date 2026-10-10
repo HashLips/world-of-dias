@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate y.jpg brought into assets for Y.
+time_era: present
+time_span: ongoing
 ---
 
 # Y

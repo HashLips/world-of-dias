@@ -26,6 +26,8 @@ themes:
   - teaching
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Resonance Can and Cannot of Dias

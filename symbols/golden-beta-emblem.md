@@ -15,6 +15,8 @@ themes:
   - gold as occasion
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Golden Beta Emblem

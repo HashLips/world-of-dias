@@ -11,6 +11,8 @@ themes:
   - body horror soft
 status: rumor
 nature: creature
+time_era: unknown
+time_span: ongoing
 ---
 
 # Forget-Texture Worms

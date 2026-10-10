@@ -10,6 +10,9 @@ themes:
   - cable labor
   - dampening disc
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Free World

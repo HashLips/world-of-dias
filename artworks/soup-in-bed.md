@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Vorrith Kael sustaining himself on Still Pot broth
+time_era: present
+time_span: ongoing
 ---
 
 # Soup in Bed

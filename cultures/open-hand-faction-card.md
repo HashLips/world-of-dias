@@ -13,6 +13,8 @@ themes:
   - open hand
   - revision ethics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Open Hand Faction Card

@@ -10,6 +10,8 @@ themes:
   - stack honesty
   - anti-spiral care
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Eye Ception

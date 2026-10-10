@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: The Returning Span's three offset lanes and mismatched towers
+time_era: present
+time_span: ongoing
 ---
 
 # Returning Span Offset Lanes

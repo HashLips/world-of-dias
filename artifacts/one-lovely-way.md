@@ -13,6 +13,8 @@ themes:
   - blue measure
   - estuary care
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # One Lovely Way

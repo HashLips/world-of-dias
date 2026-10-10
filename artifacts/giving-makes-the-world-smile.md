@@ -12,6 +12,8 @@ themes:
   - light-path giving
   - soft exchange
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Giving Makes the World Smile

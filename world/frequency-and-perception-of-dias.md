@@ -21,6 +21,8 @@ themes:
   - senses
   - attention
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Frequency and Perception of Dias

@@ -13,6 +13,8 @@ themes:
   - gate craft
   - Veloria
 status: canonical
+time_era: present
+time_span: recurring
 scope: DEB Gate dawn threshold lines
 ---
 

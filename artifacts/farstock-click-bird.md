@@ -19,6 +19,8 @@ themes:
   - small gift
   - limit
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Farstock Click-Bird

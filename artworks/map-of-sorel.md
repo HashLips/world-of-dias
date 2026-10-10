@@ -15,6 +15,8 @@ themes:
   - close-up representation
   - frontier contrast
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

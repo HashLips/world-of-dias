@@ -13,6 +13,8 @@ themes:
   - honest shelter
   - anti-fee-trap
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Rest-Viability Hospitality

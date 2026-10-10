@@ -16,6 +16,8 @@ themes:
   - watch
 status: canonical
 story_type: daily-life vignette
+time_era: present
+time_span: point
 ---
 
 # A Watch Runner Shift on Calareth

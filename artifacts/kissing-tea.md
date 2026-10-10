@@ -14,6 +14,8 @@ themes:
   - plume-hat sip hour
   - upright return
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Kissing Tea

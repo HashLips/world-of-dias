@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Two orange hands share a colorful four-by-four turning-block on deep navy, one cradling it from below while the other grips and twists it from above
+time_era: present
+time_span: ongoing
 ---
 
 # When We Were Young

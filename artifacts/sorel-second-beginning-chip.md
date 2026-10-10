@@ -15,6 +15,8 @@ themes:
   - second beginning
   - dignity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sorel Second-Beginning Chip

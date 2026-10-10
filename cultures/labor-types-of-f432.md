@@ -19,6 +19,8 @@ themes:
   - jobs
   - livelihoods
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Labor Types of F432

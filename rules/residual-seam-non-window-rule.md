@@ -17,6 +17,8 @@ themes:
   - anti-stare
   - no endless reveal
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Veloria instruments
 ---
 

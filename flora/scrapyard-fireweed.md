@@ -12,6 +12,9 @@ themes:
   - colonizer
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Scrapyard Fireweed

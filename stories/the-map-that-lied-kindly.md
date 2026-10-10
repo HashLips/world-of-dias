@@ -18,6 +18,8 @@ themes:
   - craft
 status: canonical
 story_type: scene
+time_era: present
+time_span: point
 ---
 
 # The Map That Lied Kindly

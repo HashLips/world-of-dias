@@ -12,6 +12,9 @@ themes:
   - missed pour
   - room manners
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Take My Advice

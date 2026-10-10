@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Ringwash Baths as empty tiled baths, cedar benches, steam, and a shallow court, with no people and no notices
+time_era: present
+time_span: ongoing
 ---
 
 # Steam and an Empty Court

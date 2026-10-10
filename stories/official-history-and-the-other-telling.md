@@ -14,6 +14,8 @@ themes:
   - clerks
 status: canonical
 story_type: folklore vignette
+time_era: present
+time_span: point
 ---
 
 # Official History and the Other Telling

@@ -13,6 +13,8 @@ themes:
   - joy
   - manners
 status: canonical
+time_era: present
+time_span: recurring
 scope: Flagweek Strip shared breakfast before parade
 ---
 

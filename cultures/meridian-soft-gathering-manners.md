@@ -13,6 +13,8 @@ themes:
   - coherence
   - visitor care
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Meridian Soft Gathering Manners

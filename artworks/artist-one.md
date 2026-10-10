@@ -14,6 +14,8 @@ themes:
   - repetition
   - unmarketed craft
 status: canonical
+time_era: present
+time_span: ongoing
 medium:
 edition:
 year:

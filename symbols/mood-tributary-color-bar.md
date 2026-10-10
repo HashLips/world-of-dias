@@ -12,6 +12,8 @@ themes:
   - climate legend
   - consent
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Mood Tributary Color Bar

@@ -14,6 +14,8 @@ themes:
   - night watch
   - looking manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Mirror-Pool Lull Arc

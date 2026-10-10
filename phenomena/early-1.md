@@ -10,6 +10,9 @@ themes:
   - coral alertness
   - speak-late courtesy
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Early

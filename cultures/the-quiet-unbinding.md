@@ -17,6 +17,8 @@ themes:
   - stage prep
   - unnamed pressure
 status: rumor
+time_era: near
+time_span: ongoing
 ---
 
 # The Quiet Unbinding

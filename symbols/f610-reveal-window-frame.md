@@ -14,6 +14,8 @@ themes:
   - F610
   - looking manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F610 Reveal-Window Frame

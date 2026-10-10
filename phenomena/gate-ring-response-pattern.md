@@ -12,6 +12,9 @@ themes:
   - crowd dynamics
   - reactive formation
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Gate Ring Response Pattern

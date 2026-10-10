@@ -16,6 +16,8 @@ medium:
 edition:
 year:
 based_on: Iskar Lüm (inhabitant lore)
+time_era: present
+time_span: ongoing
 ---
 
 # Senses 1 (Iskar Lüm Portrait)

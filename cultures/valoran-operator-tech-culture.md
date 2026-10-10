@@ -17,6 +17,8 @@ themes:
   - load discipline
   - hypertech
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Valorian Operator Tech Culture

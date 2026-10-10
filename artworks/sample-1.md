@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Sample as a black lounging silhouette with a royal-blue square instead of a head, reclining in a bright red tall-back spindly-legged chair, long tan shadows on peach wall and tan floor
+time_era: present
+time_span: ongoing
 ---
 
 # Sample

@@ -21,6 +21,8 @@ themes:
   - frequency
   - unknowns
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Time Causality and Change of Dias

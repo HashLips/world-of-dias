@@ -14,6 +14,8 @@ themes:
   - beauty with teeth
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Rose-Thorn Wolves

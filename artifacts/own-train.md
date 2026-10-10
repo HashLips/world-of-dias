@@ -13,6 +13,8 @@ themes:
   - shared reach
   - black weather-arc
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Own Train

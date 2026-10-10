@@ -22,6 +22,8 @@ themes:
   - tools
   - relics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Object and Artifact Classes of Dias

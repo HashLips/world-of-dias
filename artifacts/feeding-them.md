@@ -12,6 +12,8 @@ themes:
   - neighbor birds
   - anti-spectacle share
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Feeding Them

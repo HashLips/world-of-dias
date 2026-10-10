@@ -16,6 +16,8 @@ themes:
   - gate craft
   - manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Deb-Gate Threshold Thread

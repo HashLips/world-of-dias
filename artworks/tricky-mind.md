@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A golden head shaped like a vase, with red lips and a narrow eye, sprouts a bouquet of spiky white star flowers with black centers, while a larger brown shadow head looms behind it on green
+time_era: present
+time_span: ongoing
 ---
 
 # Tricky Mind

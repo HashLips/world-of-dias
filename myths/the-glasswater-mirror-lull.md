@@ -19,6 +19,8 @@ themes:
   - mirror water
   - bigness of bread
 status: myth
+time_era: present
+time_span: recurring
 ---
 
 # The Glasswater Mirror Lull

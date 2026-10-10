@@ -17,6 +17,9 @@ themes:
   - frequency
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F200 Clarity-Without-Flood Recall

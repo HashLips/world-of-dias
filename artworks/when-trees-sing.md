@@ -21,6 +21,8 @@ medium: digital image
 edition:
 year:
 based_on: Verdant Reach listener customs and Wabet canopy lore
+time_era: present
+time_span: ongoing
 ---
 
 # When Trees Sing

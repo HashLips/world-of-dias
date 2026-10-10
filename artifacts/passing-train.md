@@ -13,6 +13,8 @@ themes:
   - alcove row
   - color measures
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Passing Train

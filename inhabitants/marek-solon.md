@@ -22,6 +22,8 @@ themes:
   - fracture legacy
 status: canonical
 nature: anomalous person
+time_era: present
+time_span: ongoing
 ---
 
 # Marek Solon

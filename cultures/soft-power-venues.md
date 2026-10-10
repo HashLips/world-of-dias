@@ -18,6 +18,8 @@ themes:
   - politics
   - culture power
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Soft Power Venues

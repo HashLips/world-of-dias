@@ -14,6 +14,9 @@ themes:
   - comfort
   - disputed
 status: disputed
+time_era: present
+time_span: ongoing
+
 ---
 
 # Afterglow Name-Light

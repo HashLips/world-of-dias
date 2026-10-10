@@ -27,6 +27,8 @@ themes:
   - refusal of filing codes
   - craft pride
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Calibration Row

@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Spaces as two identical white profile heads with black almond eyes facing a central blue hourglass with yellow-orange caps filled with chunky brown terrain-like matter, thin yellow lines from ears to the hourglass base on deep red over dark reddish-brown ground
+time_era: present
+time_span: ongoing
 ---
 
 # Spaces

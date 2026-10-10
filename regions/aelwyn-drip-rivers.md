@@ -20,6 +20,8 @@ themes:
   - Wabet
   - landform
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Aelwyn Drip Rivers

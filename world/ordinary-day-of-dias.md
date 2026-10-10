@@ -28,6 +28,8 @@ themes:
   - food
   - entertainment
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ordinary Day of Dias

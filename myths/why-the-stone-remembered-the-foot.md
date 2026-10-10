@@ -18,6 +18,8 @@ themes:
   - matter
   - memory
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # Why the Stone Remembered the Foot

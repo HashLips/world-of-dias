@@ -14,6 +14,8 @@ themes:
   - constructed wonder
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Veloria Festival Sky-Whales

@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Ash-Hardy Moss as low trace-heat green moss that traps grit, with no flower and no diagram
+time_era: present
+time_span: ongoing
 ---
 
 # Trace-Heat Green, Grit in the Mat

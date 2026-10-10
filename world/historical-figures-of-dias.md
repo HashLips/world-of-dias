@@ -22,6 +22,8 @@ themes:
   - toasts
   - scars
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Historical Figures of Dias

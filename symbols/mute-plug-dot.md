@@ -14,6 +14,8 @@ themes:
   - night manners
   - civic tech
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Mute-Plug Dot

@@ -14,6 +14,8 @@ themes:
   - tragedy
   - blame
 status: myth
+time_era: fracture
+time_span: point
 ---
 
 # The Fracture Was Betrayal

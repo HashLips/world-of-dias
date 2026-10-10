@@ -13,6 +13,8 @@ themes:
   - belief discipline
   - continuity marker
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Blue Rose Vow

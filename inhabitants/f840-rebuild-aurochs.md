@@ -12,6 +12,8 @@ themes:
   - rebuild muscle
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # F840 Rebuild Aurochs

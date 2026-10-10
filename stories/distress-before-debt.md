@@ -16,6 +16,8 @@ themes:
   - craft
 status: canonical
 story_type: scene
+time_era: present
+time_span: point
 ---
 
 # Distress Before Debt

@@ -10,6 +10,9 @@ themes:
   - yellow-eye attention
   - non-conscription
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Dream

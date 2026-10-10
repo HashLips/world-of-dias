@@ -11,6 +11,8 @@ themes:
   - shared root
   - counted speech
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Heads

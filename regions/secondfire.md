@@ -33,6 +33,8 @@ themes:
   - warm reconstruction
   - walkable
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Secondfire

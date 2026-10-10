@@ -12,6 +12,8 @@ themes:
   - black field release
   - single open eye
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

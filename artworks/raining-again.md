@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Raining Again as a stark white elongated figure arched backward gripping a thin rod to a large inverted geometric umbrella-sail with horizontal speed dashes on solid black
+time_era: present
+time_span: ongoing
 ---
 
 # Raining Again

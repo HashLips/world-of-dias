@@ -19,6 +19,8 @@ themes:
   - opinion without loyalty
 status: canonical
 nature: traveling conversational trio
+time_era: present
+time_span: ongoing
 ---
 
 # The Three Opinions

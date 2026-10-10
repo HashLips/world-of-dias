@@ -15,6 +15,8 @@ themes:
   - mystery
   - magnificence
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Core That Watches Without Eyes

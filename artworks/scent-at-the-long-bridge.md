@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Dark-coated hounds near long bridge entries into northern Sorel, noses down for fear, blood, and hidden cargo.
+time_era: present
+time_span: ongoing
 ---
 
 # Scent at the Long Bridge

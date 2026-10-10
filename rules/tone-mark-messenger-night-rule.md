@@ -14,6 +14,8 @@ themes:
   - messages
   - night manners
 status: canonical
+time_era: present
+time_span: recurring
 scope: Tone-mark messenger reeds in Veloria after courtesy hour
 ---
 

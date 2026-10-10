@@ -17,6 +17,8 @@ themes:
   - consent by touch
   - inward travel
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Delci Beta dream passage only
 ---
 

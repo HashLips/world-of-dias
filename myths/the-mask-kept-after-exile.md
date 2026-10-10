@@ -12,6 +12,8 @@ themes:
   - rebirth
   - exile authority
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Mask Kept After Exile

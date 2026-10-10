@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: A blue soft-bodied creature with a green-lined ear perches on an orange and brown striped blanket beside a sleeping silhouette in a lavender cap, against red and gray walls
+time_era: present
+time_span: ongoing
 ---
 
 # Teddy

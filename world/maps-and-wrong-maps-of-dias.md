@@ -20,6 +20,8 @@ themes:
   - evidence
   - Quiet Well
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Maps and Wrong Maps of Dias

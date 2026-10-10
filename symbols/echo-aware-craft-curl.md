@@ -14,6 +14,8 @@ themes:
   - echo
   - Open Hand
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Echo-Aware Craft Curl

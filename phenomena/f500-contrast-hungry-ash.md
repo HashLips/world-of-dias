@@ -17,6 +17,9 @@ themes:
   - erasure
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F500 Contrast-Hungry Ash

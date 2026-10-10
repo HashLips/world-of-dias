@@ -14,6 +14,8 @@ themes:
   - measurement manners
   - institutional humility
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ask-Again Slit

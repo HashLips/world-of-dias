@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Glassfold reflective-wall sightings and witness unease reports
+time_era: present
+time_span: ongoing
 ---
 
 # Wall of Eyes

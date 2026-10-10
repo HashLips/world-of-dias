@@ -23,6 +23,8 @@ themes:
   - mounts
   - logistics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Vehicles and Transport Systems of Dias

@@ -14,6 +14,8 @@ themes:
   - Bleed Weather
   - craft manners
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Row shutters and Softfruit stalls after task light
 ---
 

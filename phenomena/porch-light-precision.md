@@ -16,6 +16,9 @@ themes:
   - measurement ethics
   - folk warning
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Porch Light Precision

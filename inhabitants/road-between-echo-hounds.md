@@ -15,6 +15,8 @@ themes:
   - threshold fear
 status: unknown
 nature: echoform
+time_era: present
+time_span: ongoing
 ---
 
 # Road-Between Echo-Hounds

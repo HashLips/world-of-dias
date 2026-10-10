@@ -15,6 +15,8 @@ themes:
   - uncertain reality
   - wandering elder
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Fruit Walker at Your Door

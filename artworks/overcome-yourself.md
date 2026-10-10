@@ -12,6 +12,8 @@ themes:
   - red mitt
   - gray reflection
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

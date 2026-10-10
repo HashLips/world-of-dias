@@ -13,6 +13,8 @@ themes:
   - daylife
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Calibration Row Ink-Sparrows

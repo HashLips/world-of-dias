@@ -26,6 +26,8 @@ themes:
   - echo
   - recollection
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Frequency and Memory of Dias

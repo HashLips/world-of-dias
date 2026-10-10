@@ -13,6 +13,8 @@ themes:
   - domestic warmth
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Hearthvale Hearth-Crickets

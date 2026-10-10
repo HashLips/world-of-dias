@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Roses Are Red as a bright red irregular vase on a light gray shelf holding dark green vertical stalks with sparse lime teardrop leaves, casting a long dark gray shadow on white ground
+time_era: present
+time_span: ongoing
 ---
 
 # Roses Are Red

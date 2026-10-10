@@ -20,6 +20,8 @@ themes:
   - cautionary echoform
 status: canonical
 nature: echoform
+time_era: present
+time_span: ongoing
 ---
 
 # The Blue Litter Husk

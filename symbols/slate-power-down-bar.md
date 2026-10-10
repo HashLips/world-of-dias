@@ -14,6 +14,8 @@ themes:
   - personal tech
   - night manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Slate-Power-Down Bar

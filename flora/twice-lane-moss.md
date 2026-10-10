@@ -13,6 +13,9 @@ themes:
   - soft growth
   - path marking
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Twice-Lane Moss

@@ -11,6 +11,8 @@ themes:
   - named ends
   - load manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Heads or Tails

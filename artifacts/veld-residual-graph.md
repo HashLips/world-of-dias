@@ -19,6 +19,8 @@ themes:
   - half-digit wrong
   - sealed curiosity
 status: canonical
+time_era: present
+time_span: point
 ---
 
 # Veld Residual Graph

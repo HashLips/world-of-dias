@@ -16,6 +16,8 @@ themes:
   - storm check-ins
   - song as coordination
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Outer Rim Line Answer

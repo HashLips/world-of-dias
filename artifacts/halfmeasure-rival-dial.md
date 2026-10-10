@@ -17,6 +17,8 @@ themes:
   - over-precision
   - missed mischief
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Halfmeasure Rival Dial

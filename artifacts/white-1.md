@@ -15,6 +15,8 @@ themes:
   - colorless reference
   - workshop custom
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # White

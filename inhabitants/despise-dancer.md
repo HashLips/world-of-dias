@@ -15,6 +15,8 @@ themes:
   - morale ignition
 status: canonical
 nature: human performance inhabitant
+time_era: present
+time_span: ongoing
 ---
 
 # Despise Dancer

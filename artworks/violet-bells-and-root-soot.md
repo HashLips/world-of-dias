@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Ember-Spur Heather as low stems, muted violet bells, and soot at the roots, with no distant castle as canon
+time_era: present
+time_span: ongoing
 ---
 
 # Violet Bells and Root Soot

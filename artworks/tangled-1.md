@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: A pale figure in separated pieces—legs, torso, arm, and an upside-down head with closed eyes—drifting across a cream ground set with rows of blue dots
+time_era: present
+time_span: ongoing
 ---
 
 # Tangled

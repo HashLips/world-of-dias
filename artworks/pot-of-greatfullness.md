@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: The Still Pot as Vorrith Kael's working vessel
+time_era: present
+time_span: ongoing
 ---
 
 # Pot of Greatfullness

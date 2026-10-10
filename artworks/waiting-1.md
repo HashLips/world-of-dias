@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: A dark silhouette bather drapes over the rim of a huge white bowl of blue water where four dark fins circle, green sandals left on the red block below and a big yellow sun with pale rays above
+time_era: present
+time_span: ongoing
 ---
 
 # Waiting

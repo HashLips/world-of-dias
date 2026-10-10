@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Three side-by-side panels of the same collared, tied face in cyan, magenta, and deep blue, each with a smeared band across the eyes and nose
+time_era: present
+time_span: ongoing
 ---
 
 # Tri-Gate Scout

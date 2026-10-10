@@ -16,6 +16,8 @@ themes:
   - echo-aware craft
   - Operator adjacency
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Personal Resonant Tech of Dias

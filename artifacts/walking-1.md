@@ -15,6 +15,8 @@ themes:
   - walking soft
   - visible companionship
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Walking

@@ -11,6 +11,8 @@ themes:
   - almost-same
   - history with teeth
 status: unknown
+time_era: present
+time_span: recurring
 medium: digital image
 edition:
 year:

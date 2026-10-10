@@ -22,6 +22,8 @@ themes:
   - Wabet
   - ecology
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Verdant Choir Meadow Habitat

@@ -16,6 +16,9 @@ themes:
   - edible
   - cultural
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Hearth-Laughter Bean

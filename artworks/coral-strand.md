@@ -15,6 +15,8 @@ themes:
   - place as joy
   - unreadable mark
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

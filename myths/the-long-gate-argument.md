@@ -17,6 +17,8 @@ themes:
   - shared blame
   - crossing
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Long Gate Argument

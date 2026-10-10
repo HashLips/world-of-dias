@@ -14,6 +14,8 @@ themes:
   - unsigned care
   - listening
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Operator scrap listening nooks and Softfruit-cited scrap answers
 ---
 

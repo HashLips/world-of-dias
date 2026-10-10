@@ -14,6 +14,9 @@ themes:
   - desert
   - patience
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Horn-Tree True Breeze

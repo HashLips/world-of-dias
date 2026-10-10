@@ -11,6 +11,9 @@ themes:
   - table weight
   - scissors courtesy
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Flowers on Your Table

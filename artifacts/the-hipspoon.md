@@ -17,6 +17,8 @@ themes:
   - self-propelled
   - third ring in the outer ring
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Hipspoon

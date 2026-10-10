@@ -13,6 +13,8 @@ themes:
   - divided meaning
   - moral selection
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Two Pillars Witness

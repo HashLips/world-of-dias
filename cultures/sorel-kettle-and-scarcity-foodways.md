@@ -18,6 +18,8 @@ themes:
   - exile
   - kiln kitchens
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sorel Kettle and Scarcity Foodways

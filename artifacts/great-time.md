@@ -12,6 +12,8 @@ themes:
   - readable tally
   - anti-hype wipe
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Great Time

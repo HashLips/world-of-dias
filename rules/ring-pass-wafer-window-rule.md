@@ -14,6 +14,8 @@ themes:
   - ring manners
   - timed clearance
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Veloria ring crossings using resonant wafers
 ---
 

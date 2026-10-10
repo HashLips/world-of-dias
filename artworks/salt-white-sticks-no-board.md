@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Loft Hail Chalk as salt-white chalk in a net pouch, with no board
+time_era: present
+time_span: ongoing
 ---
 
 # Salt-White Sticks, No Board

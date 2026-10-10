@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Chalk That Waits as a few short white waxy sticks on wood, with no speaker and no mark
+time_era: present
+time_span: ongoing
 ---
 
 # Short White Sticks on Wood

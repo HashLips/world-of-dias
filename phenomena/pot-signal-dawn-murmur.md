@@ -14,6 +14,9 @@ themes:
   - civic tech
   - weather feel
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Pot-Signal Dawn Murmur

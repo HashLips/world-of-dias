@@ -17,6 +17,9 @@ themes:
   - sour
   - craft failure
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Over-Listened Room Sour

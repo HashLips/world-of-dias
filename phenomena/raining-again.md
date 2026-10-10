@@ -12,6 +12,9 @@ themes:
   - taut rod
   - returning weather
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Raining Again

@@ -21,6 +21,8 @@ themes:
   - evidence
   - atlas
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Objective and Unreliable Maps of Dias

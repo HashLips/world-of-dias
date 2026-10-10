@@ -14,6 +14,8 @@ themes:
   - calendar
   - evidence
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Outer Rim Song Calendar

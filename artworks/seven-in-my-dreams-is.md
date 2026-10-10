@@ -18,6 +18,8 @@ medium:
 edition:
 year:
 based_on: The Seven of Averra Isle (myth)
+time_era: present
+time_span: ongoing
 ---
 
 # Seven in My Dreams Is

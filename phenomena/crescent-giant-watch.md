@@ -13,6 +13,9 @@ themes:
   - shore custom
   - unexplained giant
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Crescent Giant Watch

@@ -17,6 +17,8 @@ themes:
   - unfinished tools
   - stewardship
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Open Hand Maker Tech

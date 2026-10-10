@@ -13,6 +13,8 @@ themes:
   - low-panic response
   - craft
 status: canonical
+time_era: present
+time_span: recurring
 scope: Glasswater agricultural protection cycles
 ---
 

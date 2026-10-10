@@ -22,6 +22,8 @@ themes:
   - atlas
   - F432
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Settlement Walks of Dias

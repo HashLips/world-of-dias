@@ -18,6 +18,8 @@ themes:
   - Softfruit
   - evidence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Quillmend Softfruit Field Notes

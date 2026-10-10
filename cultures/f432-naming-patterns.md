@@ -19,6 +19,8 @@ themes:
   - places
   - crews
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Naming Patterns

@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: An orange figure hangs horizontally in black cords inside a curved cyan-edged frame with a brown interior, while white clawed footprints cross the dark floor toward it
+time_era: present
+time_span: ongoing
 ---
 
 # That Space

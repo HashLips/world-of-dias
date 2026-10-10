@@ -16,6 +16,8 @@ themes:
   - reciprocity
   - Brindle
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Brindle Load-Share Strap

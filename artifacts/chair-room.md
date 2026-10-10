@@ -12,6 +12,8 @@ themes:
   - tall-back posture
   - empty readiness
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Chair Room

@@ -14,6 +14,8 @@ themes:
   - ledger craft
   - correction
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Scraped-Ledger Hash

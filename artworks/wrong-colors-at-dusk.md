@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Hand-span dusk moths whose wing colors briefly refuse local dyes on disputed bleed-cold nights.
+time_era: present
+time_span: recurring
 ---
 
 # Wrong Colors at Dusk

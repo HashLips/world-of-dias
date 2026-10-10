@@ -12,6 +12,8 @@ themes:
   - blue disc above
   - quiet resonance meet
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

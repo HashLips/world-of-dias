@@ -24,6 +24,8 @@ themes:
   - diaspora
   - manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Peoples Places and Contact of Dias

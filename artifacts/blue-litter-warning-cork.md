@@ -16,6 +16,8 @@ themes:
   - Wabet
   - ban manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Blue Litter Warning Cork

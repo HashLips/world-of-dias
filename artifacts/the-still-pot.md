@@ -27,6 +27,8 @@ themes:
   - costly gift
   - unstable becoming
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Still Pot

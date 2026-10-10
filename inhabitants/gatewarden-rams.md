@@ -14,6 +14,8 @@ themes:
   - civic animals
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Gatewarden Rams

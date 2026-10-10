@@ -13,6 +13,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate summer-birds.jpg brought into assets for Summer Birds.
+time_era: present
+time_span: recurring
 ---
 
 # Summer Birds

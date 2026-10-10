@@ -18,6 +18,8 @@ themes:
   - unfinished forgiveness
   - tools
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # Oil Apology at Midnight

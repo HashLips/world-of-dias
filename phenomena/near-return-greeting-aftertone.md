@@ -15,6 +15,9 @@ themes:
   - greeting
   - remainder
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Near-Return Greeting Aftertone

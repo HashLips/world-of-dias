@@ -14,6 +14,8 @@ themes:
   - hierarchy
   - chalk manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nest Mark of Dias

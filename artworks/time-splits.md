@@ -18,6 +18,8 @@ medium:
 edition:
 year:
 based_on: F120 recurrence logic and wayfinder timing records
+time_era: present
+time_span: recurring
 ---
 
 # Time Splits

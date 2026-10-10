@@ -14,6 +14,8 @@ themes:
   - F960
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Unfinished Scaffold Mile and F960 etiquette demos
 ---
 

@@ -14,6 +14,8 @@ themes:
   - grace
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Aurel Field-Gazelles

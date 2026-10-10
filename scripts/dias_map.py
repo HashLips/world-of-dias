@@ -139,17 +139,33 @@ def _walk_freq(
     return "f432"
 
 
+def _cell_key(x: float, y: float, min_sep: float = MIN_SEP) -> Tuple[int, int]:
+    return (int(math.floor(x / min_sep)), int(math.floor(y / min_sep)))
+
+
 def _find_slot(
     x: float,
     y: float,
     occupied: List[Tuple[float, float]],
+    cell_index: Optional[Dict[Tuple[int, int], List[Tuple[float, float]]]] = None,
     min_sep: float = MIN_SEP,
 ) -> Tuple[float, float]:
+    """Place near (x,y) with min separation. cell_index makes checks O(neighbors)."""
+    sep2 = min_sep * min_sep
+
     def free(px: float, py: float) -> bool:
         if not (1.5 <= px <= 98.5 and 1.5 <= py <= 98.5):
             return False
+        if cell_index is not None:
+            cx, cy = _cell_key(px, py, min_sep)
+            for dx in (-1, 0, 1):
+                for dy in (-1, 0, 1):
+                    for ox, oy in cell_index.get((cx + dx, cy + dy), ()):
+                        if (px - ox) ** 2 + (py - oy) ** 2 < sep2:
+                            return False
+            return True
         for ox, oy in occupied:
-            if (px - ox) ** 2 + (py - oy) ** 2 < min_sep * min_sep:
+            if (px - ox) ** 2 + (py - oy) ** 2 < sep2:
                 return False
         return True
 
@@ -165,8 +181,17 @@ def _find_slot(
             py = y + math.sin(ang) * radius
             if free(px, py):
                 return px, py
-    # Last resort: nudge randomly along ring
+    # Last resort: clamp
     return max(2.0, min(98.0, x)), max(2.0, min(98.0, y))
+
+
+def _index_point(
+    cell_index: Dict[Tuple[int, int], List[Tuple[float, float]]],
+    x: float,
+    y: float,
+    min_sep: float = MIN_SEP,
+) -> None:
+    cell_index.setdefault(_cell_key(x, y, min_sep), []).append((x, y))
 
 
 def compile_map_payload(
@@ -340,11 +365,15 @@ def compile_map_payload(
     # Auto-place every mappable entry onto a frequency layer
     placed_ids: Dict[str, str] = {}  # entry_id -> freq
     occupied: Dict[str, List[Tuple[float, float]]] = {fid: [] for fid in authored}
+    cell_indexes: Dict[str, Dict[Tuple[int, int], List[Tuple[float, float]]]] = {
+        fid: {} for fid in authored
+    }
 
     # Seed occupied with hand markers
     for fid, block in authored.items():
         for m in block["hand"]:
             occupied[fid].append((m["x"], m["y"]))
+            _index_point(cell_indexes[fid], m["x"], m["y"])
             if m.get("entry_id"):
                 placed_ids[m["entry_id"]] = fid
 
@@ -397,11 +426,13 @@ def compile_map_payload(
                 "anchors": {},
             }
             occupied[freq_id] = []
+            cell_indexes[freq_id] = {}
             auto_by_freq[freq_id] = []
 
         ax, ay = anchor_for(node, freq_id)
-        x, y = _find_slot(ax, ay, occupied[freq_id])
+        x, y = _find_slot(ax, ay, occupied[freq_id], cell_indexes[freq_id])
         occupied[freq_id].append((x, y))
+        _index_point(cell_indexes[freq_id], x, y)
         kind = _kind_for_entry(node["category"], node.get("place_type", ""))
         auto_by_freq[freq_id].append(
             {

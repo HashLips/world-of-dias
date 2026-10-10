@@ -15,6 +15,8 @@ themes:
   - logistics
   - road manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Travel Customs

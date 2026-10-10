@@ -14,6 +14,8 @@ themes:
   - anti-stare
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Glassfold ledge wall-eyes after one legal phase glance
 ---
 

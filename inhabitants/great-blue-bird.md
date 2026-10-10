@@ -15,6 +15,8 @@ themes:
   - route discipline
 status: unknown
 nature: giant avian predator
+time_era: present
+time_span: ongoing
 ---
 
 # Great Blue Bird

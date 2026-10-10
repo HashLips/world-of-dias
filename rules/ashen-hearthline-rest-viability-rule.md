@@ -14,6 +14,8 @@ themes:
   - recovery logistics
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Hearthline travel and shelter operations
 ---
 

@@ -23,6 +23,8 @@ themes:
   - wonder as noise
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: point
 ---
 
 # Nonactionable

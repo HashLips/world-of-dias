@@ -15,6 +15,8 @@ themes:
   - panic prevention
   - craft
 status: canonical
+time_era: present
+time_span: recurring
 scope: movement discipline during wall-eye events
 ---
 

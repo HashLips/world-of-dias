@@ -14,6 +14,9 @@ themes:
   - manners
   - soft limits
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Bleed-Shutter Urge

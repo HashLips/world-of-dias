@@ -13,6 +13,8 @@ themes:
   - continuity
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Afterglow Vultures

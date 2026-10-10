@@ -15,6 +15,8 @@ themes:
   - happiness
   - disputed science
 status: rumor
+time_era: present
+time_span: ongoing
 scope: F432 (reported experience; not universal)
 ---
 

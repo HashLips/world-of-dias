@@ -14,6 +14,9 @@ themes:
   - ring manners
   - timed clearance
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Wafer-Window Warmth

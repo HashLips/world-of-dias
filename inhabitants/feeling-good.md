@@ -11,6 +11,8 @@ themes:
   - serpentine watch
   - path back to work
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Feeling Good

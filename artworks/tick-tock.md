@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Fine vertical stripes of yellow and blue surround a large circle of red and blue stripes in which a darker crouching figure appears only when the eye moves
+time_era: present
+time_span: recurring
 ---
 
 # Tick Tock

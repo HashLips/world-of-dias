@@ -15,6 +15,8 @@ themes:
   - teaching
   - hierarchy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Four-Bowl Lesson Set

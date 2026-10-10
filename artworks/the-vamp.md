@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A black mask with a pink brow-and-nose bar, violet eyes, a wide grin of white teeth with two fangs, and a green round chin grins through horizontal orange slats over a red base
+time_era: present
+time_span: ongoing
 ---
 
 # The Vamp

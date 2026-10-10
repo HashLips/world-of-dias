@@ -22,6 +22,8 @@ themes:
   - consequence
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Latch After Market

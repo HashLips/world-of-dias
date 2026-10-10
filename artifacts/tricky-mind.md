@@ -15,6 +15,8 @@ themes:
   - shadow honesty
   - flower arranging
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tricky Mind

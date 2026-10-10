@@ -18,6 +18,9 @@ themes:
   - anti-omniscience
   - resonance
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Complete-Reading Stall Collapse

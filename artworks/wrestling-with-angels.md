@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate wrestling-with-angels.jpg brought into assets for Wrestling with Angels.
+time_era: present
+time_span: ongoing
 ---
 
 # Wrestling with Angels

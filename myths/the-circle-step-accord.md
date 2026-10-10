@@ -13,6 +13,8 @@ themes:
   - social trust
   - unity in difference
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Circle Step Accord

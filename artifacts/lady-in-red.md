@@ -13,6 +13,8 @@ themes:
   - neon green lead shoe
   - platform-edge leap
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Lady in Red

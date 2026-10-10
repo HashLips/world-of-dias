@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A black kettle silhouette held by a black arm pours a stream that breaks into blue shards above a bent blue form, while a white cup sits empty on a dark floor below
+time_era: present
+time_span: ongoing
 ---
 
 # Take My Advice

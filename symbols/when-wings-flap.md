@@ -13,6 +13,8 @@ themes:
   - banner sign
   - gust caution
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # When Wings Flap

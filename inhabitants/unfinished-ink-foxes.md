@@ -13,6 +13,8 @@ themes:
   - playful danger
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Unfinished Ink-Foxes

@@ -13,6 +13,8 @@ themes:
   - shared yes
   - cheerful assent
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Why Not

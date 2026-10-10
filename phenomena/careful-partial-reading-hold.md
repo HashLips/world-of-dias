@@ -17,6 +17,9 @@ themes:
   - partial knowledge
   - resonance
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Careful Partial Reading Hold

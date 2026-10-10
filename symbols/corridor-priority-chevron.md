@@ -14,6 +14,8 @@ themes:
   - civic
   - travel
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Corridor-Priority Chevron

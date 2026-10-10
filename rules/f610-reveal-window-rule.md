@@ -17,6 +17,8 @@ themes:
   - evidentiary limits
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F610 visibility and knowledge behavior
 ---
 

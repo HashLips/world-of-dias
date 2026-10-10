@@ -12,6 +12,8 @@ themes:
   - hard boundary law
   - command deterrence
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Warden Who Closed the Reefs

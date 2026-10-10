@@ -16,6 +16,8 @@ medium:
 edition:
 year:
 based_on: Vailor Quentin (inhabitant lore)
+time_era: present
+time_span: ongoing
 ---
 
 # Two Phase (Vailor Quentin Portrait)

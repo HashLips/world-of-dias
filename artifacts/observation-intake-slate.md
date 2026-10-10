@@ -15,6 +15,8 @@ themes:
   - filing
   - instruments
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Observation Intake Slate

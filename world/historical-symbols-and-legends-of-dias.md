@@ -18,6 +18,8 @@ themes:
   - beliefs
   - history
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Historical Symbols and Legends of Dias

@@ -23,6 +23,8 @@ themes:
   - real train
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Eight at a Price That Hurt

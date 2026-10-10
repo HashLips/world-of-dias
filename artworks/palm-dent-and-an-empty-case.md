@@ -13,6 +13,8 @@ themes:
   - ribbon still on the hook
   - not a sale
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

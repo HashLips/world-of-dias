@@ -16,6 +16,8 @@ themes:
   - apprentice training
   - hidden structure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tick Tock

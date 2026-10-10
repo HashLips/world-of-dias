@@ -14,6 +14,8 @@ themes:
   - rescue
   - reciprocity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Rim Seas Rescue Ways of Dias

@@ -14,6 +14,8 @@ themes:
   - travel
   - body manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Lane-Fit Boot Mark

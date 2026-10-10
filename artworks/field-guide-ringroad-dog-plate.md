@@ -13,6 +13,8 @@ themes:
   - Veloria
   - illustration brief
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Field Guide Ringroad Dog Plate

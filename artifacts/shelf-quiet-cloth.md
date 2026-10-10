@@ -19,6 +19,8 @@ themes:
   - pause
   - not a ritual of purchase
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Shelf-Quiet Cloth

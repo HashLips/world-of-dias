@@ -27,6 +27,8 @@ themes:
   - atlas
   - capital
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Veloria Walkable Atlas of Dias

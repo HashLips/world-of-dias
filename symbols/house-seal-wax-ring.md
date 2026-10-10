@@ -14,6 +14,8 @@ themes:
   - sealed knowledge
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # House-Seal Wax Ring

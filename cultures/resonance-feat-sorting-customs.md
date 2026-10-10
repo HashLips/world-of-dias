@@ -18,6 +18,8 @@ themes:
   - judgment
   - softfruit
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Resonance Feat Sorting Customs

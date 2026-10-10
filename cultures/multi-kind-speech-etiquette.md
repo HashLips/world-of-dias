@@ -22,6 +22,8 @@ themes:
   - translation
   - coexistence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Multi-Kind Speech Etiquette

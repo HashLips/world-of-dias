@@ -11,6 +11,8 @@ themes:
   - raised-arm mark
   - present joy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Joy of Now

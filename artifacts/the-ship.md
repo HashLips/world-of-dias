@@ -15,6 +15,8 @@ themes:
   - night crossing
   - bow scatter
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # The Ship

@@ -13,6 +13,8 @@ themes:
   - shared patience
   - second beginning
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # When We Were Young

@@ -45,6 +45,8 @@ themes:
   - observed flora
   - unsettled green
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Flora of Dias

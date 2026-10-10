@@ -14,6 +14,8 @@ themes:
   - partial knowledge
   - publish ethics
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F432 partial knowledge teaching and spectrum publish
 ---
 

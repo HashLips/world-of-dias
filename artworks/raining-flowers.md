@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Raining Flowers as dozens of white-petaled blossoms with bright red centers and trailing green stems drifting through cerulean sky above sage-olive dunes, one flower already settled with a dark shadow on the ground
+time_era: present
+time_span: recurring
 ---
 
 # Raining Flowers

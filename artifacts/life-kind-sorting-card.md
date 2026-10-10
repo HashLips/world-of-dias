@@ -16,6 +16,8 @@ themes:
   - Softfruit
   - taxonomy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Life Kind Sorting Card

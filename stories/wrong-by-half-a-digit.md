@@ -22,6 +22,8 @@ themes:
   - null pressure
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: point
 ---
 
 # Wrong by Half a Digit

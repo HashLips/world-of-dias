@@ -16,6 +16,8 @@ themes:
   - silence craft
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Keth Dunewalk

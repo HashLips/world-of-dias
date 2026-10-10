@@ -12,6 +12,8 @@ themes:
   - emotional climate
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Bloomline Mood-Fleas

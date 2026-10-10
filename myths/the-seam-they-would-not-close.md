@@ -14,6 +14,8 @@ themes:
   - inheritance
   - revision
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Seam They Would Not Close

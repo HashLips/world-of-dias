@@ -8,6 +8,8 @@ Dias is layered by **frequency**. Everything resonates; everything leaves an ech
 
 Deepen via [`../CORE-PILLARS.md`](../CORE-PILLARS.md) and [`../world/dias.md`](../world/dias.md).
 
+**Timeline fields:** every lore entry needs `time_era` + `time_span` — [`timeline-metadata.md`](timeline-metadata.md) and [`../world/timeline-metadata-of-dias.md`](../world/timeline-metadata-of-dias.md).
+
 ## Human paths (do not break)
 
 | Path | Use |

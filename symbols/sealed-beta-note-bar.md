@@ -14,6 +14,8 @@ themes:
   - House pressure
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sealed-Beta-Note Bar

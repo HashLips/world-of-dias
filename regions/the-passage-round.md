@@ -22,6 +22,8 @@ themes:
   - ritual descent
   - inward navigation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Passage Round

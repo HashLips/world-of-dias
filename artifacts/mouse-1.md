@@ -14,6 +14,8 @@ themes:
   - pre-brush taste
   - studio pause
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Mouse

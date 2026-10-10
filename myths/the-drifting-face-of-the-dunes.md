@@ -12,6 +12,8 @@ themes:
   - desert warning
   - sacred secrecy
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Drifting Face of the Dunes

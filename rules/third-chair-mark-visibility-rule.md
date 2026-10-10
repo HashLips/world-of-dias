@@ -13,6 +13,8 @@ themes:
   - Verdant Reach
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Verdant Reach third-chair hospitality
 ---
 

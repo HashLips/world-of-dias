@@ -16,6 +16,8 @@ themes:
   - craft instruments
   - timed truth
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Veil Scribe Window Glass

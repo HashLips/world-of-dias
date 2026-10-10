@@ -16,6 +16,8 @@ themes:
   - myth
   - unknown
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Evidence Grades of History of Dias

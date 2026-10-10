@@ -27,6 +27,8 @@ themes:
   - almost-agreement
 status: canonical
 nature: echoform
+time_era: present
+time_span: ongoing
 ---
 
 # The Caliburn

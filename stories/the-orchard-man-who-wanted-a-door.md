@@ -22,6 +22,8 @@ themes:
   - research years
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: point
 ---
 
 # The Orchard Man Who Wanted a Door

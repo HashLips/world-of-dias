@@ -13,6 +13,8 @@ themes:
   - fruit-road
   - body manners
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Fruit-road waystations issuing loaner boots
 ---
 

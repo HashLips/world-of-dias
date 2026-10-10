@@ -28,6 +28,8 @@ themes:
   - soft chronology
   - unfinished past
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # History of Dias

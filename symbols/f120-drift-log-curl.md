@@ -14,6 +14,8 @@ themes:
   - F120
   - soft limit
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F120 Drift-Log Curl

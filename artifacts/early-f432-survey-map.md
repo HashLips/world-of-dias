@@ -17,6 +17,8 @@ themes:
   - baseline geography
   - partial knowledge
 status: canonical
+time_era: formative
+time_span: ongoing
 ---
 
 # Early F432 Survey Map

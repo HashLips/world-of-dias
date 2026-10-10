@@ -14,6 +14,8 @@ themes:
   - fairness
   - evidence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nineteen-Balance Scale

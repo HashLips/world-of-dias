@@ -13,6 +13,8 @@ themes:
   - adaptive travel
 status: canonical
 nature: interval-native wayfinders
+time_era: present
+time_span: ongoing
 ---
 
 # Refrain Walkers

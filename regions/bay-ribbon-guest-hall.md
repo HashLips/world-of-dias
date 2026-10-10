@@ -19,6 +19,8 @@ themes:
   - sanctuary
   - happiness infrastructure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bay-Ribbon Guest Hall

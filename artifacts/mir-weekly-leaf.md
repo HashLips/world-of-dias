@@ -18,6 +18,8 @@ themes:
   - strip
   - evidence
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Mir Weekly Leaf

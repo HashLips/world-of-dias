@@ -15,6 +15,8 @@ themes:
   - flags
   - travel
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Driftfall Floating-Flag Pin

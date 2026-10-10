@@ -13,6 +13,9 @@ themes:
   - night manners
   - messages
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Reed Night-Quiet Bead

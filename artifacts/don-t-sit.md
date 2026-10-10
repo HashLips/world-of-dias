@@ -13,6 +13,8 @@ themes:
   - platform-only contact
   - permission before seat
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Don't Sit

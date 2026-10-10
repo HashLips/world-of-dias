@@ -15,6 +15,8 @@ themes:
   - orientation
 status: canonical
 story_type: teaching scene
+time_era: present
+time_span: ongoing
 ---
 
 # Poles Before Quiet Bands

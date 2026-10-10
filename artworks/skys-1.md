@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Skies as a pair of flat saturated red bent legs set in stacked horizontal wavy blue bands from near-black to icy pale, with a semi-transparent grey leg reflection cast left across the mid bands
+time_era: present
+time_span: ongoing
 ---
 
 # Skies

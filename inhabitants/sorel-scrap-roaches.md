@@ -13,6 +13,8 @@ themes:
   - frontier grit
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Sorel Scrap-Roaches

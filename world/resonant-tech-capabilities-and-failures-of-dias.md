@@ -21,6 +21,8 @@ themes:
   - failures
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Resonant Tech Capabilities and Failures of Dias

@@ -14,6 +14,8 @@ themes:
   - correction
   - ledger craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Margin-Scrape Pale

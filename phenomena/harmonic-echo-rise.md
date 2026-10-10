@@ -21,6 +21,8 @@ themes:
   - rising resonance
   - disputed evidence
 status: canonical
+time_era: near
+time_span: recurring
 ---
 
 # Harmonic Echo-Rise

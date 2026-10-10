@@ -15,6 +15,8 @@ themes:
   - benches
   - tools
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Craft Benches of Dias

@@ -15,6 +15,8 @@ themes:
   - rotation
   - noticing difference
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tranquility

@@ -14,6 +14,8 @@ themes:
   - second beginning
   - dignity
 status: canonical
+time_era: formative
+time_span: ongoing
 ---
 
 # Second-Beginning Right Mark

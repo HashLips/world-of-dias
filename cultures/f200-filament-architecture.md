@@ -13,6 +13,8 @@ themes:
   - light ecology
   - energy-kind form
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F200 Filament Architecture

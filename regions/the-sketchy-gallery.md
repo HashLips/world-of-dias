@@ -19,6 +19,8 @@ themes:
   - mystery
   - uncanny architecture
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Sketchy Gallery

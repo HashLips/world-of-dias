@@ -17,6 +17,8 @@ themes:
   - leaf access
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Bram Inkspan

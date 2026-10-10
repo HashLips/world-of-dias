@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Vorrith Kael as quiet compounder
+time_era: present
+time_span: ongoing
 ---
 
 # Silent Song

@@ -16,6 +16,8 @@ themes:
   - ferry joke
   - travel comedy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # No-Ferry Stub Press

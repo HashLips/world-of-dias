@@ -17,6 +17,8 @@ themes:
   - mystery
   - layered reality
 status: canonical
+time_era: fracture
+time_span: point
 ---
 
 # The Fracture

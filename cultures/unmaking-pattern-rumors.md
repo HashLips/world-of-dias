@@ -16,6 +16,8 @@ themes:
   - rumor
   - unfinished business
 status: rumor
+time_era: present
+time_span: recurring
 ---
 
 # Unmaking Pattern Rumors

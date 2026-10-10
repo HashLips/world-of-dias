@@ -13,6 +13,8 @@ themes:
   - favor economy
   - street literacy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Pot Signal Customs

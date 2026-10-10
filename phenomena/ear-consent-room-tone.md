@@ -13,6 +13,9 @@ themes:
   - consent
   - taboo tech
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Ear-Consent Room Tone

@@ -13,6 +13,8 @@ themes:
   - tucked glint
   - void practice
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Perfect Posture

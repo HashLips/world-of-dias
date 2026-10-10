@@ -16,6 +16,8 @@ themes:
   - everyday joy
 status: canonical
 nature: human-animal pair
+time_era: present
+time_span: ongoing
 ---
 
 # Andrew and Russell

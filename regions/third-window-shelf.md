@@ -19,6 +19,8 @@ themes:
   - anti-linger
   - precision
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Third Window Shelf

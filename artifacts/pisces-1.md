@@ -13,6 +13,8 @@ themes:
   - black stride
   - pier craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Pisces

@@ -12,6 +12,8 @@ themes:
   - acceptance
   - inevitability
 status: myth
+time_era: fracture
+time_span: point
 ---
 
 # The Fracture Was Natural

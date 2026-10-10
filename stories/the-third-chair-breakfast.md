@@ -14,6 +14,8 @@ themes:
   - community continuity
 status: unknown
 story_type: domestic custom fragment
+time_era: formative
+time_span: point
 ---
 
 # The Third-Chair Breakfast

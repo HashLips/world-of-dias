@@ -12,6 +12,8 @@ themes:
   - psychological authority
   - uncanny governance
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Orchard Warden Who Sees Inside Thought

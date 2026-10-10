@@ -13,6 +13,9 @@ themes:
   - memory instability
   - esoteric warning
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Golden Tear Event

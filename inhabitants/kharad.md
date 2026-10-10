@@ -19,6 +19,8 @@ themes:
   - structural memory
 status: canonical
 nature: dense-bodied material race
+time_era: present
+time_span: ongoing
 ---
 
 # Kharad

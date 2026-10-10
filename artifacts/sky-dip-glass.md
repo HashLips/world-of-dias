@@ -16,6 +16,8 @@ themes:
   - sky wonder
   - restraint
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sky-Dip Glass

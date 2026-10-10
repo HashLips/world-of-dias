@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate x-plan.jpg brought into assets for X Plan.
+time_era: present
+time_span: ongoing
 ---
 
 # X Plan

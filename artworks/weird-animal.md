@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A black creature silhouette arches its long tubular body into a high curve on a pale sand-pink ground, standing on two thin bird-like clawed legs at one end and planting its rounded other end on the ground
+time_era: present
+time_span: ongoing
 ---
 
 # Weird Animal

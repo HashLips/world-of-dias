@@ -14,6 +14,8 @@ themes:
   - truth under pressure
 status: unknown
 story_type: witness protocol fragment
+time_era: present
+time_span: ongoing
 ---
 
 # The Blind Eyes Vigil

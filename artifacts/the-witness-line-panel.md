@@ -14,6 +14,8 @@ themes:
   - minimal record
   - identity contour
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Witness-Line Panel

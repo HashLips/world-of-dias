@@ -12,6 +12,8 @@ themes:
   - watcher and bow roles
   - careful play
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Game of Life

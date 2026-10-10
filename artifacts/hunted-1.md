@@ -14,6 +14,8 @@ themes:
   - teal watcher tokens
   - yield before loose
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hunted

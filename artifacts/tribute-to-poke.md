@@ -15,6 +15,8 @@ themes:
   - performance tribute
   - do not catch
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Tribute to Poke

@@ -14,6 +14,8 @@ themes:
   - joy
   - reciprocity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Keep-Mark Cord Loop

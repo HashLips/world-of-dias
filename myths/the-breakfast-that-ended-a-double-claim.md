@@ -13,6 +13,8 @@ themes:
   - claim conflict
   - frontier manners
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Breakfast That Ended a Double Claim

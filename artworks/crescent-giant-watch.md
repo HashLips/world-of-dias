@@ -13,6 +13,8 @@ themes:
   - rib-like arcs
   - watchers on rocks
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

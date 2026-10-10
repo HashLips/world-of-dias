@@ -13,6 +13,8 @@ themes:
   - storm danger
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Wabet Sandstorm Aspics

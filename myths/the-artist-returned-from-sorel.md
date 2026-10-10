@@ -12,6 +12,8 @@ themes:
   - survival tale
   - witness uncertainty
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Artist Returned from Sorel

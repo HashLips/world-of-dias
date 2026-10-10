@@ -20,6 +20,8 @@ themes:
   - second beginning
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hearthvale First-Bowl Hall

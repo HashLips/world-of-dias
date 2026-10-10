@@ -14,6 +14,8 @@ themes:
   - noticing
 status: canonical
 nature: people / hosts
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Ladle Host

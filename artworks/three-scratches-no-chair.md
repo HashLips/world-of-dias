@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Third-Chair Token as palm-sized moss-stained wood or clay with a crude three scratches, with no chair and no coin
+time_era: present
+time_span: ongoing
 ---
 
 # Three Scratches, No Chair

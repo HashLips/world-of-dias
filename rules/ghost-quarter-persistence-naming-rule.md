@@ -13,6 +13,8 @@ themes:
   - naming ethics
   - anti-finality
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Unfinished place naming and ledgers
 ---
 

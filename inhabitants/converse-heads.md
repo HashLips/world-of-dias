@@ -15,6 +15,8 @@ themes:
   - tone contagion
 status: unknown
 nature: rooted conversational entities
+time_era: present
+time_span: ongoing
 ---
 
 # Converse Heads

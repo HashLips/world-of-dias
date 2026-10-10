@@ -12,6 +12,8 @@ themes:
   - anti-scenery
 status: unknown
 nature: creature
+time_era: unknown
+time_span: ongoing
 ---
 
 # Voidback Leviathan-Shades

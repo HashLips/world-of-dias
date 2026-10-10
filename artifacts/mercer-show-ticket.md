@@ -16,6 +16,8 @@ themes:
   - show
   - promise
 status: canonical
+time_era: present
+time_span: point
 ---
 
 # Mercer Show Ticket

@@ -14,6 +14,8 @@ themes:
   - revision
   - iterative form
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F960 Scaffold Architecture

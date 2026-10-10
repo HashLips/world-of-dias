@@ -13,6 +13,9 @@ themes:
   - sharp flavor
   - shared kettle
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Claimscar Cookfire Peppersage

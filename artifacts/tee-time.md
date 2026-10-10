@@ -15,6 +15,8 @@ themes:
   - recovery manners
   - distance as care
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tee Time

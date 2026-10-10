@@ -15,6 +15,8 @@ themes:
   - reciprocity test
 status: canonical
 story_type: cautionary road episode
+time_era: present
+time_span: point
 ---
 
 # The Perfect Fruit That Split a Convoy

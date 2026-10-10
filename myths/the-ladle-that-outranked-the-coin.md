@@ -16,6 +16,8 @@ themes:
   - Softfruit
   - market manners
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Ladle That Outranked the Coin

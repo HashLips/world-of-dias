@@ -15,6 +15,8 @@ themes:
   - debt manners
   - haste
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Loan

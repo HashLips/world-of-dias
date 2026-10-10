@@ -17,6 +17,8 @@ themes:
   - leeward bay
   - seasonal sleep over water
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Rim-Rest

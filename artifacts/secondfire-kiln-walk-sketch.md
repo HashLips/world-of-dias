@@ -18,6 +18,8 @@ themes:
   - atlas
   - Hearthvale
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Secondfire Kiln Walk Sketch

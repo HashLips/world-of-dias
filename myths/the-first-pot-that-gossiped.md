@@ -15,6 +15,8 @@ themes:
   - civic oddity
   - rumor craft
 status: rumor
+time_era: formative
+time_span: point
 ---
 
 # The First Pot That Gossiped

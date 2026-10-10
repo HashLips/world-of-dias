@@ -16,6 +16,8 @@ themes:
   - ordinary morning
 status: canonical
 story_type: daily-life vignette
+time_era: present
+time_span: point
 ---
 
 # A Clerk Morning in Veloria

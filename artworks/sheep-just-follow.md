@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Sheep Just Follow as nine magenta cloud-bodied white-faced stick-legged creatures led by a black herder with white hat and staff under a massive dark reddish-orange celestial disc on slate-blue sky and dark gray ground with a jagged black mid barrier
+time_era: present
+time_span: ongoing
 ---
 
 # Sheep Just Follow

@@ -13,6 +13,8 @@ themes:
   - containment
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Row and Operator-adjacent specimen glass
 ---
 

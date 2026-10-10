@@ -13,6 +13,9 @@ themes:
   - gate craft
   - Veloria
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Thread-Ankle Notice

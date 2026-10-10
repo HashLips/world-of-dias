@@ -18,6 +18,8 @@ themes:
   - paperwork
 status: canonical
 story_type: side story
+time_era: near
+time_span: point
 ---
 
 # Ask Again at the Ledge

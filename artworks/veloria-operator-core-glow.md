@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: A view across a dark, rail-edged approach toward Veloria's core: vast curving engineered walls of unnamed material converging on a single lens-shaped amber glow, with no readable facade.
+time_era: present
+time_span: ongoing
 ---
 
 # Glow More than Facade

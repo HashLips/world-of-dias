@@ -14,6 +14,8 @@ themes:
   - House pressure
   - evidence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ribbon-Flutter Tick

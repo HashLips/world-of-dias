@@ -13,6 +13,9 @@ themes:
   - unfinished
   - mystery
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Half-Shadow Whale Note

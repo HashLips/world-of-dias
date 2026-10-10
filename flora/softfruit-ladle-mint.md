@@ -12,6 +12,9 @@ themes:
   - table craft
   - noticing
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Softfruit Ladle Mint

@@ -15,6 +15,8 @@ themes:
   - fear
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Exile Road Wolves

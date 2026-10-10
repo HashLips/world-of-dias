@@ -12,6 +12,8 @@ themes:
   - blue rail boundary
   - night feed hour
 status: canonical
+time_era: present
+time_span: recurring
 medium: digital image
 edition:
 year:

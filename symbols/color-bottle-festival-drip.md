@@ -14,6 +14,8 @@ themes:
   - Averra
   - joy
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Color-Bottle Festival Drip

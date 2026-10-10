@@ -17,6 +17,8 @@ themes:
   - healing
   - hope
 status: myth
+time_era: present
+time_span: recurring
 ---
 
 # Hearth Laughter Week

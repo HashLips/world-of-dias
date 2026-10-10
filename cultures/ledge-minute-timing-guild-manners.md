@@ -13,6 +13,8 @@ themes:
   - craft guild
   - anti-linger
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ledge Minute Timing Guild Manners

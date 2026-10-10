@@ -15,6 +15,8 @@ themes:
   - ascent overlook
   - cross-band omen
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Lumen Stair

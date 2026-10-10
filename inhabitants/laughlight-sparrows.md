@@ -15,6 +15,8 @@ themes:
   - cross-regional
 status: rumor
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Laughlight Sparrows

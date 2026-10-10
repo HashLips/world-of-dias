@@ -16,6 +16,8 @@ themes:
   - maritime speech
   - coordination
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Outer Rim Song-Calendar Speech

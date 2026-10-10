@@ -13,6 +13,9 @@ themes:
   - quiet growth
   - aftermath
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Ember-Spur Heather

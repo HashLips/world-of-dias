@@ -19,6 +19,8 @@ themes:
   - frontier seam
   - beauty
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Second Crossing Yard

@@ -13,6 +13,8 @@ themes:
   - anti-linger
   - greed warning
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Minute That Would Not Stay

@@ -12,6 +12,8 @@ themes:
   - small white tile
   - cost of keeping
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

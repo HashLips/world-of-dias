@@ -15,6 +15,8 @@ themes:
   - maritime mystery
 status: canonical
 story_type: side journey
+time_era: present
+time_span: recurring
 ---
 
 # Gray Post Waiting Week

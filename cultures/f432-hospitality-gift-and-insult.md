@@ -17,6 +17,8 @@ themes:
   - manners
   - conflict without villains
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Hospitality Gift and Insult

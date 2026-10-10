@@ -21,6 +21,8 @@ themes:
   - climate
   - place
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide place-weather under frequency
 ---
 

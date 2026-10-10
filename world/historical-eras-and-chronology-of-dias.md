@@ -10,12 +10,16 @@ related:
   - The Fracture
   - Time Causality and Change of Dias
   - Known Disputed Forgotten
+  - Timeline Metadata of Dias
+  - Annotated Timeline of Dias
 themes:
   - eras
   - chronology
   - soft history
   - teaching
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Historical Eras and Chronology of Dias
@@ -36,15 +40,16 @@ Detail markers: [Known Eras and Markers](known-eras-and-markers.md). Lived rhyth
 
 ## Era sequence (teachable)
 
-| Order | Era | What it means | Certainty |
-| --- | --- | --- | --- |
-| 1 | **Prime Age** | Unified reality before Fracture | Known as concept; daily life forgotten |
-| 2 | **The Fracture** | Foundational break; cause unknown | Event known; cause disputed |
-| 3 | **Present Age** | Frequencies settled; most lived history | Known |
-| 3a | **F432 civic thickening** | Gates, rings, roads, Compacts form | Regional known |
-| 3b | **Long Gate era** | Nauw–Hearthvale crossing defines Sorel north | Regional; detail disputed |
-| 3c | **Ring expansion decades** | Veloria rings rebuilt outward | Civic approximate |
-| 3d | **Echo-rise / ledger-wave near-present** | Harmonic reports thicken; House schism weather | Observational; contested |
+| Order | Era | `time_era` value | What it means | Certainty |
+| --- | --- | --- | --- | --- |
+| 1 | **Prime Age** | `prime` | Unified reality before Fracture | Known as concept; daily life forgotten |
+| 2 | **The Fracture** | `fracture` | Foundational break; cause unknown | Event known; cause disputed |
+| 3 | **Settling Present** | `settling` | Early Present: frequencies/bands take shape | Soft; after Fracture, before thick civic memory |
+| 4 | **Formative Present** | `formative` | Civic thickening, Long Gate era, ring expansion, Compacts/Keeps crystallize | Regional known / detail disputed |
+| 5 | **Present (lived)** | `present` | Ordinary current world | Known default |
+| 6 | **Near-present** | `near` | Echo-rise / ledger-wave observational seasons | Contested / recent |
+
+Entry metadata contract: [Timeline Metadata of Dias](timeline-metadata-of-dias.md).
 
 Spine diagram cousin: [History of Dias](history-of-dias.md).
 

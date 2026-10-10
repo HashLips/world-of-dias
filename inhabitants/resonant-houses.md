@@ -26,6 +26,8 @@ themes:
   - order
 status: canonical
 nature: institution
+time_era: present
+time_span: ongoing
 ---
 
 # Resonant Houses

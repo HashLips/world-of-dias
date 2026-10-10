@@ -11,12 +11,15 @@ related:
   - Mystery Boundaries of Dias
   - F432 Civic Time
   - Known Eras and Markers
+  - Timeline Metadata of Dias
 themes:
   - timeline
   - annotated history
   - non-saga
   - teaching
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Annotated Timeline of Dias
@@ -62,7 +65,7 @@ Civic seasons (Flagweek, First Fruit, Hearth Laughter) sit *inside* Present Age 
 4. Leave Zero and mystery cards open (Mystery Boundaries).  
 5. Saga paths are optional overlays, not required keys.
 
-Hubs: [Historical Eras and Chronology of Dias](historical-eras-and-chronology-of-dias.md); [History of Dias](history-of-dias.md); [Shaping Events of Dias](shaping-events-of-dias.md).
+Hubs: [Historical Eras and Chronology of Dias](historical-eras-and-chronology-of-dias.md); [History of Dias](history-of-dias.md); [Shaping Events of Dias](shaping-events-of-dias.md). Entry fields: [Timeline Metadata of Dias](timeline-metadata-of-dias.md).
 
 ## Global Lore
 

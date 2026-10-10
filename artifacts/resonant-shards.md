@@ -25,6 +25,8 @@ themes:
   - recurring motif
   - true blue scarcity
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Resonant Shards

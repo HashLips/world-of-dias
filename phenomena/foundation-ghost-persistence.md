@@ -13,6 +13,9 @@ themes:
   - persistence
   - revision
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Foundation Ghost Persistence

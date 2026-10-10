@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Sharkbirdbug as a bright blue spindly creature with a large black-spotted orange-red mantle, open toothed beak, small white eye, blue wing nubs, standing on a gray elevated platform with long shadow under beige sky and pale yellow horizon disc above navy depth
+time_era: present
+time_span: ongoing
 ---
 
 # Sharkbirdbug

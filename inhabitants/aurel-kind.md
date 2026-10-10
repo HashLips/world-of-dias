@@ -20,6 +20,8 @@ themes:
   - harmonic form
 status: canonical
 nature: energy being
+time_era: present
+time_span: ongoing
 ---
 
 # Aurel-kind

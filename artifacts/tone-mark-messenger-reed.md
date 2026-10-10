@@ -15,6 +15,8 @@ themes:
   - messages
   - Operator adjacency
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tone-Mark Messenger Reed

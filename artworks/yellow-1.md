@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate yellow-1.jpg brought into assets for Yellow.
+time_era: present
+time_span: ongoing
 ---
 
 # Yellow

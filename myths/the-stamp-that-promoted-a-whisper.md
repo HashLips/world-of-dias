@@ -14,6 +14,8 @@ themes:
   - false certainty
   - taboo guess
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Stamp That Promoted a Whisper

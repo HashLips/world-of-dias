@@ -25,6 +25,8 @@ themes:
   - open ending
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: ongoing
 ---
 
 # Still Measuring

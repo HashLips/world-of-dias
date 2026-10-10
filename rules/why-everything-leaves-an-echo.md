@@ -16,6 +16,8 @@ themes:
   - causation
   - foundational law
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide explanation of echo remainder without solving Zero
 ---
 

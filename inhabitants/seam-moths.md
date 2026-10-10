@@ -18,6 +18,8 @@ themes:
   - glass hunger
 status: canonical
 nature: animal
+time_era: present
+time_span: ongoing
 ---
 
 # Seam-Moths

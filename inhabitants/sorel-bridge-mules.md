@@ -13,6 +13,8 @@ themes:
   - exile routes
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Sorel Bridge-Mules

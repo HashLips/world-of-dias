@@ -14,6 +14,8 @@ themes:
   - food and memory
   - ordinary tenderness
 status: canonical
+time_era: present
+time_span: ongoing
 medium:
 edition:
 year:

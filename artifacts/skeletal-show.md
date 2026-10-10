@@ -13,6 +13,8 @@ themes:
   - honest structure
   - wide hat
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Skeletal Show

@@ -14,6 +14,8 @@ themes:
   - artist isle
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Averra Cliff-Goats

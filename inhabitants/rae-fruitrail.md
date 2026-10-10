@@ -15,6 +15,8 @@ themes:
   - locale color
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Rae Fruitrail

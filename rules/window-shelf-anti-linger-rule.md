@@ -13,6 +13,8 @@ themes:
   - anti-greed
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Glassfold window work endings
 ---
 

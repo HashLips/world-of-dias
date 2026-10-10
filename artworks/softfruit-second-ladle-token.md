@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Softfruit Second-Ladle Token as a fruit-stained wood chip with a carved ladle
+time_era: present
+time_span: ongoing
 ---
 
 # Second-Ladle Chip

@@ -13,6 +13,9 @@ themes:
   - harbors
   - beauty
 status: rumor
+time_era: present
+time_span: recurring
+
 ---
 
 # Floating-Flag Drift Light

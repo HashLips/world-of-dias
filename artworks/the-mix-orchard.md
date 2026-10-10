@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: The Mix Orchard as a small planting with ordinary fruit trees, a flat stone path, and one younger tree bearing glass Vitrin fruit.
+time_era: present
+time_span: ongoing
 ---
 
 # Hoe-Kept Ground at The Mix Orchard

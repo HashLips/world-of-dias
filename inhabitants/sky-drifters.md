@@ -22,6 +22,8 @@ themes:
   - mystery
 status: canonical
 nature: unknown
+time_era: present
+time_span: ongoing
 ---
 
 # Sky Drifters

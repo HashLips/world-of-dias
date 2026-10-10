@@ -17,6 +17,8 @@ themes:
   - taboo
   - not dominant
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Null Curiosity Cell

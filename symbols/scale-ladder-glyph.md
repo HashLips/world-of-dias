@@ -13,6 +13,8 @@ themes:
   - hierarchy
   - ledger manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Scale Ladder Glyph

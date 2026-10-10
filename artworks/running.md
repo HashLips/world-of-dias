@@ -15,6 +15,8 @@ medium: digital animation (gif)
 edition:
 year:
 based_on: Harold (lore)
+time_era: present
+time_span: recurring
 ---
 
 # Running

@@ -19,6 +19,8 @@ themes:
   - desert manners
   - water ethics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Wabet Quiet Well Approach

@@ -14,6 +14,8 @@ themes:
   - unfinished
   - open door
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Unfinished Sky-Whales Mystery

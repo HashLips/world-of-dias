@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate succeed-1.jpg brought into assets for Succeed.
+time_era: present
+time_span: ongoing
 ---
 
 # Succeed

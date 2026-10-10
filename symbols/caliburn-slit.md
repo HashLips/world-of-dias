@@ -15,6 +15,8 @@ themes:
   - measurement that looks back
   - apprentice fear
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Caliburn Slit

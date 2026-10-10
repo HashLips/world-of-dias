@@ -15,6 +15,8 @@ themes:
   - clerical honesty
   - echo
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Partial Echo Slash

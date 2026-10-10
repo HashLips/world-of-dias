@@ -13,6 +13,8 @@ themes:
   - gallery belonging
 status: canonical
 nature: bodiless gallery-dwelling resident
+time_era: present
+time_span: ongoing
 ---
 
 # The Exhibition Resident

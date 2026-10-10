@@ -15,6 +15,8 @@ themes:
   - Softfruit
   - warning craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Melting Smile Pin

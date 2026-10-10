@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A teal room holds an orange chair with round holes draped with a blue striped tie, a yellow polka-dot vase of pink star flowers with a white mask hanging on it, a black shirt on a hanger, a lit screen-slate, scattered white masks and shoes, crows at a red-framed window, and a bare foot stepping in
+time_era: present
+time_span: ongoing
 ---
 
 # Void

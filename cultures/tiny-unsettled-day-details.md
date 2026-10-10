@@ -14,6 +14,8 @@ themes:
   - ordinary unease
   - omens soft
 status: canonical
+time_era: near
+time_span: ongoing
 ---
 
 # Tiny Unsettled Day Details

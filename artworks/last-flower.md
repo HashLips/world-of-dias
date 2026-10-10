@@ -13,6 +13,8 @@ themes:
   - grey collar
   - black void
 status: canonical
+time_era: present
+time_span: recurring
 medium: digital image
 edition:
 year:

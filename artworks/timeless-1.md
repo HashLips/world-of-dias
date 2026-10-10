@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: White figures on dark green-black: a tall stooping figure stretches one long arm over a curled figure and toward a seated figure cradling a round shape
+time_era: present
+time_span: ongoing
 ---
 
 # Timeless

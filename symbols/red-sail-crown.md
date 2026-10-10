@@ -16,6 +16,8 @@ themes:
   - colossal
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Red-Sail Crown

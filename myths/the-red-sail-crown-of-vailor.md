@@ -12,6 +12,8 @@ themes:
   - authority symbol
   - rise to power
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Red Sail Crown of Vailor

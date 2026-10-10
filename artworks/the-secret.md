@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A pale figure lunges with arms flung wide and spiky fingers while a shadow-black partner kneels behind and beneath, one arm wrapped across the pale figure's chest and one hand raised, on a red ground
+time_era: present
+time_span: ongoing
 ---
 
 # The Secret

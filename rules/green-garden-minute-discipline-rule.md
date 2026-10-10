@@ -13,6 +13,8 @@ themes:
   - behavioral order
   - craft
 status: canonical
+time_era: present
+time_span: recurring
 scope: lane rituals and visitor movement
 ---
 

@@ -13,6 +13,8 @@ themes:
   - continuity
 status: canonical
 nature: hearthline stewards
+time_era: present
+time_span: ongoing
 ---
 
 # Ember Keepers

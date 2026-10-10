@@ -21,6 +21,8 @@ themes:
   - soft limits
   - bands
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Frequency Bands Orientation of Dias

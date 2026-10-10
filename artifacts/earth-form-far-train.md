@@ -13,6 +13,8 @@ themes:
   - drip not flag
   - linked load
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Earth Form Far Train

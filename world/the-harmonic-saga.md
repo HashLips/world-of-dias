@@ -27,6 +27,8 @@ themes:
   - harmonic memory
   - open mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Harmonic Saga

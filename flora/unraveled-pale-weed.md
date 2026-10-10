@@ -13,6 +13,9 @@ themes:
   - rumor
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Unraveled Pale-Weed

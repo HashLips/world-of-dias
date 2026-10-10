@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Pale almond eyes hang in a black band above deep blue water, each dropping a white line ending in a hook, while a red-orange ribbon tangles through several hooks at lower left
+time_era: present
+time_span: ongoing
 ---
 
 # Untold Tail

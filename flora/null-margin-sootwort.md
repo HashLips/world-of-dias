@@ -12,6 +12,9 @@ themes:
   - sparse growth
   - warning ecology
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Null-Margin Sootwort

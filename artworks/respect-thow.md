@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Respect Thrown as two bright orange-yellow bells hanging from a thin horizontal blue thread above a row of black blade-spikes each tipped with a white round dot, before a dark teal-grey mound on light mint green
+time_era: present
+time_span: ongoing
 ---
 
 # Respect Thrown

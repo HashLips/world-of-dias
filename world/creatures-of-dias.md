@@ -34,6 +34,8 @@ themes:
   - existential dread
   - cultural touchstones
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Creatures of Dias

@@ -12,6 +12,8 @@ themes:
   - restraint
   - tribal law
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Oath of Uncut Water

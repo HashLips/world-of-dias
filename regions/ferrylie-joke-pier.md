@@ -26,6 +26,8 @@ themes:
   - no subway
   - costly longing
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ferrylie Joke Pier

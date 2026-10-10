@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Singing Bark Willow with ridged wind-tone bark in a real forest, not speech and not a face
+time_era: present
+time_span: ongoing
 ---
 
 # Ridged Willow in a Standing Forest

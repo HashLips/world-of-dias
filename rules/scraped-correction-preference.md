@@ -16,6 +16,8 @@ themes:
   - craft honesty
   - anti-erase
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Calibration Row craft
 ---
 

@@ -15,6 +15,8 @@ themes:
   - quiet vigilance
 status: canonical
 nature: people / witnesses
+time_era: present
+time_span: ongoing
 ---
 
 # Long Gate Niche Watcher

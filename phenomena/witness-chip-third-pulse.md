@@ -13,6 +13,9 @@ themes:
   - evidence
   - fairness
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Witness-Chip Third Pulse

@@ -22,6 +22,8 @@ medium: digital image
 edition:
 year:
 based_on: Fake Band Ferry Ticket comedy stub and soft-limit teaching
+time_era: present
+time_span: ongoing
 ---
 
 # Vintage Ferry Ticket Prop

@@ -17,6 +17,8 @@ themes:
   - freebands
   - frontier economy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Salvage and Claim Economy

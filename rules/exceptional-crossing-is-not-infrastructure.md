@@ -20,6 +20,8 @@ themes:
   - no ferry
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide ban on treating band-crossing as transit
 ---
 

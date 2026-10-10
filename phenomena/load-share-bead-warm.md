@@ -13,6 +13,9 @@ themes:
   - reciprocity
   - travel
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Load-Share Bead Warm

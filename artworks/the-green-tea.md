@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: A long green table set with dozens of white cups of pale green tea around a single brown bowl holding a large green fruit and two bananas, under a cyan strip window on a blue wall
+time_era: present
+time_span: ongoing
 ---
 
 # The Green Tea

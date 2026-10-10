@@ -13,6 +13,9 @@ themes:
   - Softfruit
   - reciprocity
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Keep-Mark Cord Warmth

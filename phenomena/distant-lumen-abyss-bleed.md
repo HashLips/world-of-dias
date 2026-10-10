@@ -26,6 +26,9 @@ themes:
   - sky and sea omens
   - threshold sensation
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Distant lumen-abyss bleed

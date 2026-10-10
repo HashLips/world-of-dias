@@ -14,6 +14,8 @@ themes:
   - promise site
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Isle Rope-Tree Beetles

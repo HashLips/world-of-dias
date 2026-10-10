@@ -20,6 +20,8 @@ themes:
   - geometric clarity
   - serenity pressure
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Soft-Ray Procession Hall

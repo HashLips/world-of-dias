@@ -20,6 +20,8 @@ themes:
   - approach to Veloria
 status: canonical
 story_type: saga bridge
+time_era: present
+time_span: point
 ---
 
 # Roadglow on the Approach

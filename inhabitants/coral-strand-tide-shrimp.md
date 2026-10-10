@@ -14,6 +14,8 @@ themes:
   - shore life
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Coral Strand Tide-Shrimp

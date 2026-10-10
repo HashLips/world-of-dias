@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Road Trip as a bubblegum-pink seated figure with a thin black eye-line on a yellow-frame blue-wheeled minimal cycle, long red scarf streaming, on a wide black road with broken white center line under gray hills and lighter gray sky
+time_era: present
+time_span: ongoing
 ---
 
 # Road Trip

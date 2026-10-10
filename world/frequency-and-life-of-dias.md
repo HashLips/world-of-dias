@@ -29,6 +29,8 @@ themes:
   - bodies
   - adaptation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Frequency and Life of Dias

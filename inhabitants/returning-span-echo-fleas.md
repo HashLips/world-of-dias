@@ -12,6 +12,8 @@ themes:
   - echo
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Returning Span Echo-Fleas

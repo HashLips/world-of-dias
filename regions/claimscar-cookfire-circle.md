@@ -19,6 +19,8 @@ themes:
   - shared kettle
   - uneven safety
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Claimscar Cookfire Circle

@@ -24,6 +24,8 @@ themes:
   - dread
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Rest That Refused to Be an Inn

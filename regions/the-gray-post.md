@@ -18,6 +18,8 @@ themes:
   - maritime mystery
   - permission weather
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # The Gray Post

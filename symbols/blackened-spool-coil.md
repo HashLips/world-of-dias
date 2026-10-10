@@ -14,6 +14,8 @@ themes:
   - craft
   - load noise
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Blackened-Spool Coil

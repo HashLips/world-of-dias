@@ -16,6 +16,8 @@ themes:
   - Softfruit
   - sharing
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # Bottles of Joy at the Shared Table

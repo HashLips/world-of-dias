@@ -23,6 +23,8 @@ themes:
   - wonder icon
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Mega Butterfly

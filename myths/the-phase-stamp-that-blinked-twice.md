@@ -15,6 +15,8 @@ themes:
   - Glassfold
   - timed truth
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Phase Stamp That Blinked Twice

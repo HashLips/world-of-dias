@@ -23,6 +23,8 @@ themes:
   - false wonder
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # The Long Gate's South Light

@@ -13,6 +13,8 @@ themes:
   - hospitality ethics
   - anti-fee-trap
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Warmth That Refused a Fee

@@ -25,6 +25,8 @@ themes:
   - hidden water
   - silence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Lumira Sands

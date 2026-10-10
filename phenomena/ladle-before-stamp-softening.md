@@ -13,6 +13,9 @@ themes:
   - anti-rush
   - noticing
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Ladle-Before-Stamp Softening

@@ -15,6 +15,8 @@ themes:
   - silent passage
   - rim song
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Whales Sleeping

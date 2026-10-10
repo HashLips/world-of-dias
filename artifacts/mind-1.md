@@ -13,6 +13,8 @@ themes:
   - blue beast pause
   - shadow wait
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Mind

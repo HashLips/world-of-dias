@@ -18,6 +18,8 @@ themes:
   - selective revelation
   - beauty and withholding
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Quiet Cloister

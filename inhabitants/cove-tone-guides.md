@@ -14,6 +14,8 @@ themes:
   - consent
 status: canonical
 nature: people / guides
+time_era: present
+time_span: ongoing
 ---
 
 # Cove Tone Guides

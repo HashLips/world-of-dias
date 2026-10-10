@@ -13,6 +13,8 @@ themes:
   - orientation
   - soft limits
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Folklore Teaching Myths of Dias

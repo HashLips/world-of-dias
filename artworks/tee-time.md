@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A white figure leaning far back pours from a blue jug at arm's length, the stream twisting into a black branching shape before it reaches a white cup on an ochre floor, with orange and oxblood tiered benches behind
+time_era: present
+time_span: ongoing
 ---
 
 # Tee Time

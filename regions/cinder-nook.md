@@ -17,6 +17,8 @@ themes:
   - winter weather writing
   - sheltered work
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Cinder Nook

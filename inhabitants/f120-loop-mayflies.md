@@ -12,6 +12,8 @@ themes:
   - recurrence
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # F120 Loop-Mayflies

@@ -18,6 +18,8 @@ themes:
   - resonance
   - tools ethics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Echo-Aware Craft

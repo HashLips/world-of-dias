@@ -13,6 +13,8 @@ themes:
   - bodily vow
   - disciplined refusal
 status: canonical
+time_era: present
+time_span: ongoing
 medium:
 edition:
 year:

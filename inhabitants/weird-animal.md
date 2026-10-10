@@ -15,6 +15,8 @@ themes:
   - path sign
   - do not dig
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Weird Animal

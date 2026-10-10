@@ -14,6 +14,8 @@ themes:
   - rescue
   - honesty
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Quiet Well beacon use after emergency wrongness
 ---
 

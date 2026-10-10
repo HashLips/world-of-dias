@@ -26,6 +26,8 @@ themes:
   - background cosmology
 status: unknown
 story_type: archival fragment
+time_era: near
+time_span: point
 ---
 
 # Ledger addendum of F120 F380 F610 and F840

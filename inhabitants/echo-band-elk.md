@@ -13,6 +13,8 @@ themes:
   - doubled tracks
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Echo-Band Elk

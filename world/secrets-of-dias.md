@@ -19,6 +19,8 @@ themes:
   - hidden knowledge
   - unsettled layer
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Secrets of Dias

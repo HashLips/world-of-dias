@@ -20,6 +20,9 @@ themes:
   - sketchline
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F960 Sketchline Terrain Drift

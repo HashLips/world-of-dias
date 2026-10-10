@@ -14,6 +14,8 @@ themes:
   - Operator adjacency
   - filing manners
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Load-Noise Bar

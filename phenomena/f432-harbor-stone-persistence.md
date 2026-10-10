@@ -16,6 +16,9 @@ themes:
   - harbor
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F432 Harbor-Stone Persistence

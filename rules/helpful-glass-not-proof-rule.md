@@ -14,6 +14,8 @@ themes:
   - publish ethics
   - Calibration adjacency
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Instrument reads showing helpful agreement in F432
 ---
 

@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Two long-eared white hares with red eyes leap upward out of a black top hat standing on a red runner against a mustard ground, a third pair of ears vanishing off the top edge
+time_era: present
+time_span: ongoing
 ---
 
 # Tribute to Poke

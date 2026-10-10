@@ -17,6 +17,8 @@ themes:
   - water ethics
   - deliberate misdirection
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Lumira Silence Law

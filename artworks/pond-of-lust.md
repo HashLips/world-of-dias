@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Pond of Lust as a slender shell-pink standing figure on a terracotta band holding other pink submerged shapes, under umber sky with pink window rectangles, melting into dark teal through long pink drips
+time_era: present
+time_span: ongoing
 ---
 
 # Pond of Lust

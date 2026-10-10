@@ -14,6 +14,9 @@ themes:
   - mystery
   - Operator adjacency
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Glowfly Unsigned Gather

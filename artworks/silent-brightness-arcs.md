@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Six golden gazelle-forms of denser light bounding in mid-leap across a parchment field, ribbed curved horns, long streaming trails of brightness.
+time_era: present
+time_span: ongoing
 ---
 
 # Silent Brightness Arcs

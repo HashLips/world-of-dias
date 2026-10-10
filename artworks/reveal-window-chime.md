@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Reveal Window Chime as thin glass-metal tubes on a slate bar, one shorter
+time_era: present
+time_span: recurring
 ---
 
 # Soft Close of the Reveal Chime

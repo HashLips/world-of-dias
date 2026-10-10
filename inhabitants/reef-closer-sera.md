@@ -15,6 +15,8 @@ themes:
   - reef
 status: legendary
 nature: historical figure
+time_era: formative
+time_span: point
 ---
 
 # Reef-Closer Sera

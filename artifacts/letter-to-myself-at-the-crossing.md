@@ -22,6 +22,8 @@ themes:
   - later reckoning
   - open ending
 status: canonical
+time_era: present
+time_span: point
 ---
 
 # Letter to Myself at the Crossing

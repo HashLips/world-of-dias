@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Red Case as a repeating line of identical black profile walkers each carrying a maroon rectangular handled case, single pale almond eye glowing, on light-teal ground with darker blue diagonal shadows under medium-blue sky
+time_era: present
+time_span: ongoing
 ---
 
 # Red Case

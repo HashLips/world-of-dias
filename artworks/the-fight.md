@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Two white figures mirror each other top and bottom, one lying back and one inverted, hands framing their own faces, with a teal and green band flowing between them on navy
+time_era: present
+time_span: ongoing
 ---
 
 # The Fight

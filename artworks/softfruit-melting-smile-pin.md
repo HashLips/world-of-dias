@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Melting yellow smile as Forced-Final cheer warning
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Melting Smile Pin

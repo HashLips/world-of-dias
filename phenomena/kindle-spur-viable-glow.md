@@ -13,6 +13,9 @@ themes:
   - rest viability
   - quiet hope
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Kindle Spur Viable Glow

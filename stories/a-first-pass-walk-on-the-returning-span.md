@@ -15,6 +15,8 @@ themes:
   - gentle unease
 status: canonical
 story_type: side journey
+time_era: present
+time_span: point
 ---
 
 # A First-Pass Walk on the Returning Span

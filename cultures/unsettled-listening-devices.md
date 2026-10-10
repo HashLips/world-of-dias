@@ -17,6 +17,8 @@ themes:
   - surveillance dread
   - soft horror
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Unsettled Listening Devices

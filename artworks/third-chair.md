@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: Verdant Reach third-chair mediation custom
+time_era: present
+time_span: recurring
 ---
 
 # Third Chair

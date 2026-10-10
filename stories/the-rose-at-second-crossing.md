@@ -17,6 +17,8 @@ themes:
   - beauty under pressure
 status: canonical
 story_type: scene
+time_era: present
+time_span: point
 ---
 
 # The Rose at Second Crossing

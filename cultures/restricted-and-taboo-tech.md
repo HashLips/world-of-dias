@@ -25,6 +25,8 @@ themes:
   - seals
   - clearance
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Restricted and Taboo Tech

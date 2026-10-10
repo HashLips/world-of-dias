@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A long white hand with red nails stirs a teal bowl of milky tea on a red table while a small black fin breaks the surface
+time_era: present
+time_span: ongoing
 ---
 
 # Tea Time

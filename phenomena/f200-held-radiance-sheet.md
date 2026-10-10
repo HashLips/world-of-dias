@@ -16,6 +16,9 @@ themes:
   - coherence
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F200 Held-Radiance Sheet

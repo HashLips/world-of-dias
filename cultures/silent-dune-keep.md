@@ -16,6 +16,8 @@ themes:
   - water ethics
   - stewardship
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Silent Dune Keep

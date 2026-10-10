@@ -15,6 +15,9 @@ themes:
   - almost-agreement
   - measurement
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Helpful Glass Agreement

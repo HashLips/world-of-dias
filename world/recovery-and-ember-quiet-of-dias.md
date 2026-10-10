@@ -16,6 +16,8 @@ themes:
   - ember quiet
   - shelter
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Recovery and Ember Quiet of Dias

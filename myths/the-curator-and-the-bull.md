@@ -12,6 +12,8 @@ themes:
   - beauty in danger
   - crowd magnetism
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Curator and the Bull

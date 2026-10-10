@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A black long-necked, long-legged animal silhouette with tall ears, a pointed snout, a small pink eye, and a forked tail stands before a hanging white sheet, a thin cyan cord at right, on a beige-and-gray room with pink foot shadows
+time_era: present
+time_span: ongoing
 ---
 
 # Why Snore

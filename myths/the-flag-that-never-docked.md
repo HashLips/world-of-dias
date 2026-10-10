@@ -12,6 +12,8 @@ themes:
   - anti-authority
   - perpetual motion
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Flag That Never Docked

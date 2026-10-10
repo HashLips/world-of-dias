@@ -14,6 +14,8 @@ themes:
   - warning
   - load noise
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nonactionable Grave Mark

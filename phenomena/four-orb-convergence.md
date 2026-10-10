@@ -14,6 +14,9 @@ themes:
   - confluence pressure
   - pre-decision omen
 status: unknown
+time_era: present
+time_span: recurring
+
 ---
 
 # Four-Orb Convergence

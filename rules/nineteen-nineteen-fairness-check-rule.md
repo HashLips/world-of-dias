@@ -14,6 +14,8 @@ themes:
   - Softfruit
   - evidence
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Softfruit interviews and toll/ledger disputes citing equal counts
 ---
 

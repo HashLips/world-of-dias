@@ -11,6 +11,8 @@ themes:
   - relation lines
   - beauty wound
 status: rumor
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Claimscar Cookfire Peppersage as a low un-gardened plant, fuzzy gray-green leaves with sooty undersides, on worn hot dirt
+time_era: present
+time_span: ongoing
 ---
 
 # Sooty Undersides on Worn Hot Dirt

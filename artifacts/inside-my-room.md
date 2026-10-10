@@ -14,6 +14,8 @@ themes:
   - cracked black pedestal
   - single bird focus
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Inside My Room

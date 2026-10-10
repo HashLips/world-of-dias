@@ -12,6 +12,8 @@ themes:
   - uncertain identity
   - public illusion
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Familiar Regent Who May Not Be One

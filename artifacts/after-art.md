@@ -13,6 +13,8 @@ themes:
   - tall chair
   - framed revisit
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # After Art

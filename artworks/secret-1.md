@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Secret as an orange grommeted plate with a red circular bird seal, orange ribbon strands from a top slot, yellow suspension lines, a black left-facing profile below, and a thick blue diagonal on medium gray
+time_era: present
+time_span: ongoing
 ---
 
 # Secret

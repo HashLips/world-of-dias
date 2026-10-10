@@ -17,6 +17,8 @@ themes:
   - delight
   - tradition
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Veloria ring-fair token

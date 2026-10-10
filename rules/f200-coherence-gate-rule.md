@@ -15,6 +15,8 @@ themes:
   - entry discipline
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F200 boundary and travel behavior
 ---
 

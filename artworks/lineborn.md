@@ -14,6 +14,8 @@ themes:
   - crosshatched frontal plane
   - flip motion
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

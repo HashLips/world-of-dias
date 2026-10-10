@@ -21,6 +21,8 @@ medium: digital image
 edition:
 year: 2026
 based_on: World of Dias repository identity and frequency-map motif
+time_era: present
+time_span: ongoing
 ---
 
 # World of Dias Banner

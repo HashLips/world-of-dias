@@ -16,6 +16,8 @@ themes:
   - fear of eating
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Hess Calder

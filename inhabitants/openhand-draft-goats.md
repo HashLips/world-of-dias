@@ -13,6 +13,8 @@ themes:
   - steady company
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Openhand Draft-Goats

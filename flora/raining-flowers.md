@@ -12,6 +12,9 @@ themes:
   - settling shadow
   - canopy fall
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Raining Flowers

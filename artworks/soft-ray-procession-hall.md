@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Soft-Ray Procession Hall as a long rectangle of brighter quiet, with pale filament columns flanking a reflective silk-like floor that runs toward a bright vanishing point.
+time_era: present
+time_span: ongoing
 ---
 
 # Filament Aisles in Soft-Ray Procession Hall

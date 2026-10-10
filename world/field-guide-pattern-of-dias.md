@@ -20,6 +20,8 @@ themes:
   - book pattern
   - atlas
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Field Guide Pattern of Dias

@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Folding Chalk Rule of Mio as three hinged wood-and-brass segments, chalk wear, and irregular ticks that are not numerals
+time_era: present
+time_span: ongoing
 ---
 
 # Three Hinges and Crooked Ticks

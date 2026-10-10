@@ -24,6 +24,8 @@ themes:
   - threshold before passage
 status: canonical
 story_type: side story
+time_era: near
+time_span: point
 ---
 
 # The Still Hours on Good Trade

@@ -19,6 +19,8 @@ themes:
   - documents
   - traditions
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # History Preservation of Dias

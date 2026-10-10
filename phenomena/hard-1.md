@@ -10,6 +10,9 @@ themes:
   - registered look
   - shared ground
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Hard

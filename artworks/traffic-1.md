@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A street canyon of dark half-built towers and a leaning slab under a pale sky is packed with dark humped shapes, each showing paired red slit lamps, crawling toward the viewer over brown ground
+time_era: present
+time_span: ongoing
 ---
 
 # Traffic

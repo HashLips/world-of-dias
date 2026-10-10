@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Herd of pale quadruped light-forms with warm glowing spines, heads lowered to a luminous field, leaving streaked bright wakes.
+time_era: present
+time_span: ongoing
 ---
 
 # Soft Bright Wakes

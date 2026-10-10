@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: An orange frontal face with a blue bird forming its hair, blue lips, and a pink bow tie is crossed out by a large green X, while a white card on the chest shows a black profile silhouette
+time_era: present
+time_span: ongoing
 ---
 
 # The Only Side

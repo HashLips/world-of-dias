@@ -20,6 +20,8 @@ themes:
   - physical evidence
   - oaths
 status: canonical
+time_era: formative
+time_span: ongoing
 ---
 
 # Second-Beginning Slate fragment

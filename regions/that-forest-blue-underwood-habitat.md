@@ -24,6 +24,8 @@ themes:
   - Wabet
   - ecology
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # That Forest Blue Underwood Habitat

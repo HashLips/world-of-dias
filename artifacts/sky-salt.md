@@ -15,6 +15,8 @@ themes:
   - salt
   - no hailing
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sky-Salt

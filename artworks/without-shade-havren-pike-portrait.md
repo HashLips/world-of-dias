@@ -16,6 +16,8 @@ medium:
 edition:
 year:
 based_on: Havren Pike (inhabitant lore)
+time_era: present
+time_span: ongoing
 ---
 
 # Without Shade (Havren Pike Portrait)

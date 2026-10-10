@@ -42,6 +42,8 @@ themes:
   - second chances
   - walkable
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hearthvale

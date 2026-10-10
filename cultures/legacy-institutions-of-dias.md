@@ -15,6 +15,8 @@ themes:
   - inheritance
   - institutions
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Legacy Institutions of Dias

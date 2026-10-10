@@ -15,6 +15,8 @@ themes:
   - performance and record
   - partial courtesy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Only Side

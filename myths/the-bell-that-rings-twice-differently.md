@@ -12,6 +12,8 @@ themes:
   - difference
   - humility
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Bell That Rings Twice Differently

@@ -13,6 +13,8 @@ themes:
   - F380
   - unfinished
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Bloomline Holding Terrace during confluence holds
 ---
 

@@ -14,6 +14,8 @@ themes:
   - certainty
   - memory politics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Known Disputed Forgotten

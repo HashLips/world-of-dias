@@ -20,6 +20,8 @@ themes:
   - triumph begins
 status: canonical
 story_type: saga chapter
+time_era: near
+time_span: point
 ---
 
 # Building the Spectrum Frame

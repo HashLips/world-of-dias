@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A huge white foot with black-painted toenails fills a teal ground, an orange cord coiled around the big toe and looped over its nail, a dark blue boot shape standing behind
+time_era: present
+time_span: ongoing
 ---
 
 # Toes

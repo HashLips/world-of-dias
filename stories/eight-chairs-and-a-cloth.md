@@ -22,6 +22,8 @@ themes:
   - market still moving
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Eight Chairs and a Cloth

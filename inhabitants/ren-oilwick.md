@@ -19,6 +19,8 @@ themes:
   - night texture
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Ren Oilwick

@@ -16,6 +16,8 @@ themes:
   - relay
   - shelter
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ember Keeper Hearth Tech

@@ -17,6 +17,8 @@ themes:
   - aperture ticks
   - daily prop
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Folding Chalk Rule of Mio

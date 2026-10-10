@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Three black winged silhouettes perch and hang among jagged bare trees before a huge blue disc on a pale yellow sky, above a dark hill
+time_era: present
+time_span: ongoing
 ---
 
 # Tree Fairy

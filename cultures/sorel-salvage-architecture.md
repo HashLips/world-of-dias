@@ -22,6 +22,8 @@ themes:
   - kiln brick
   - provisional yards
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sorel Salvage Architecture

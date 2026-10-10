@@ -13,6 +13,8 @@ themes:
   - capacity honesty
   - anti-vanity
 status: canonical
+time_era: present
+time_span: recurring
 scope: F840 spur shelter openings
 ---
 

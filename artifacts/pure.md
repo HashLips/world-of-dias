@@ -13,6 +13,8 @@ themes:
   - blue stand
   - clear bowl
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Pure

@@ -23,6 +23,8 @@ themes:
   - interest sparked
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # What the Bag Attracts

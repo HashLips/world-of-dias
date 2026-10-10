@@ -17,6 +17,8 @@ themes:
   - living agreement as noise
   - warning tale
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Clerk Who Filed a Smile

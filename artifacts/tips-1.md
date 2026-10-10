@@ -15,6 +15,8 @@ themes:
   - artist talks
   - third-ring habit
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Tips

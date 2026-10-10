@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Rate as a two-layer dusty-pink cylinder with crimson dripping top on a white round base, nine yellow armless candle-figures with orange flames, lime-green semicircle halo, and dark-olive shadow on deep teal
+time_era: present
+time_span: ongoing
 ---
 
 # Rate

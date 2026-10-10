@@ -17,6 +17,8 @@ themes:
   - cross-frequency
 status: canonical
 story_type: teaching anecdote
+time_era: present
+time_span: ongoing
 ---
 
 # Why the Bruise Was Not a Ticket

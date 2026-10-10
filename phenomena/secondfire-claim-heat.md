@@ -13,6 +13,9 @@ themes:
   - evening grit
   - salvage
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Secondfire Claim Heat

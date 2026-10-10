@@ -19,6 +19,8 @@ medium: digital image
 edition:
 year:
 based_on: Blue Litter Underwood phenomenon and Wabet deep-grove rumor
+time_era: present
+time_span: ongoing
 ---
 
 # That Forest

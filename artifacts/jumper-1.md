@@ -14,6 +14,8 @@ themes:
   - readable arc
   - soft landing cue
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Jumper

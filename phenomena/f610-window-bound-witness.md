@@ -18,6 +18,9 @@ themes:
   - window
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F610 Window-Bound Witness

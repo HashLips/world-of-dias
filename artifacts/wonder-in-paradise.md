@@ -15,6 +15,8 @@ themes:
   - black sails
   - unasked wonder
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Wonder in Paradise

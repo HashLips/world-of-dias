@@ -13,6 +13,9 @@ themes:
   - cold conflict
   - weather feel
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Negation-Notch Breath

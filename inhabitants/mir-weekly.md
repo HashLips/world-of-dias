@@ -16,6 +16,8 @@ themes:
   - border mediation
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Mir Weekly

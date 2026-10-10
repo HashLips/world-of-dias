@@ -13,6 +13,8 @@ themes:
   - three spark stems
   - caught melt
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Melting Beauty

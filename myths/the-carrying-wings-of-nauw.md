@@ -15,6 +15,8 @@ themes:
   - seasonal fear
   - rumor and warning
 status: rumor
+time_era: present
+time_span: recurring
 ---
 
 # The Carrying Wings of Nauw

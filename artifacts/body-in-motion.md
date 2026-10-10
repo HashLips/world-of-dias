@@ -12,6 +12,8 @@ themes:
   - spiked memory disc
   - bird witness
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Body in Motion

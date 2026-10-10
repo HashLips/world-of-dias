@@ -14,6 +14,8 @@ themes:
   - art devotion
   - gallery life
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

@@ -12,6 +12,8 @@ themes:
   - insect omen
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Reveal-Pane Moths

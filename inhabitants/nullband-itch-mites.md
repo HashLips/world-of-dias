@@ -12,6 +12,8 @@ themes:
   - dread
 status: rumor
 nature: creature
+time_era: unknown
+time_span: ongoing
 ---
 
 # Nullband Itch-Mites

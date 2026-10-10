@@ -17,6 +17,8 @@ themes:
   - marks
   - orientation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Symbols and Marks Orientation of Dias

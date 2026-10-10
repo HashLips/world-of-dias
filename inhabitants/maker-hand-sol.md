@@ -15,6 +15,8 @@ themes:
   - revision
 status: legendary
 nature: historical figure
+time_era: formative
+time_span: point
 ---
 
 # Maker-Hand Sol

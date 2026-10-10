@@ -14,6 +14,8 @@ themes:
   - home
   - warning
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Night-Latch Thread

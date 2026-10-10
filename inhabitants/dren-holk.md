@@ -19,6 +19,8 @@ themes:
   - shore greed
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Dren Holk

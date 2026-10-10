@@ -13,6 +13,8 @@ themes:
   - shed mask tray
   - rooted stance
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Love

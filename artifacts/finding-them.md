@@ -12,6 +12,8 @@ themes:
   - bird response
   - anti-chase seeking
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Finding Them

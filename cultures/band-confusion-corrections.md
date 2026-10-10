@@ -14,6 +14,8 @@ themes:
   - frequency
   - correction
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Band Confusion Corrections

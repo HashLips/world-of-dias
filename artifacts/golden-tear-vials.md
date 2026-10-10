@@ -14,6 +14,8 @@ themes:
   - sacred custody
   - memory warning
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Golden Tear Vials

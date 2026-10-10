@@ -12,6 +12,9 @@ themes:
   - red four-points
   - cream conduits
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Stars

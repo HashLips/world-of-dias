@@ -16,6 +16,9 @@ themes:
   - anti-repeal
   - resonance
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Local-Repeal Attempt Chill

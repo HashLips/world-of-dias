@@ -15,6 +15,8 @@ themes:
   - sealed doors
   - buildings that keep
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Uncanny Keeping Architecture

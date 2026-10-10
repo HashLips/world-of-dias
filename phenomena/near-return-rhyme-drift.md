@@ -13,6 +13,9 @@ themes:
   - drift
   - quiet practice
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Near-Return Rhyme Drift

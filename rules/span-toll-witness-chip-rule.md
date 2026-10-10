@@ -14,6 +14,8 @@ themes:
   - evidence
   - fairness
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Span Toll talk-token disputes
 ---
 

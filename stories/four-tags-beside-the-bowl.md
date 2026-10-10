@@ -15,6 +15,8 @@ themes:
   - teaching
 status: canonical
 story_type: teaching scene
+time_era: present
+time_span: ongoing
 ---
 
 # Four Tags Beside the Bowl

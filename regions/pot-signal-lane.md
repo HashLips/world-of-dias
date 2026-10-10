@@ -20,6 +20,8 @@ themes:
   - debt and favors
   - street signals
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Pot Signal Lane

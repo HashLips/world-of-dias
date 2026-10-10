@@ -14,6 +14,8 @@ themes:
   - frontier hospitality
 status: canonical
 nature: people / yard roles
+time_era: present
+time_span: ongoing
 ---
 
 # Claimscar Breakfast Caller

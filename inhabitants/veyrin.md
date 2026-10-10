@@ -19,6 +19,8 @@ themes:
   - social negotiation
 status: canonical
 nature: humanoid race with individual signature abilities
+time_era: present
+time_span: ongoing
 ---
 
 # Veyrin

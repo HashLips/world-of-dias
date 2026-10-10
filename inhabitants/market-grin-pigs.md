@@ -15,6 +15,8 @@ themes:
   - abundance
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Market Grin-Pigs

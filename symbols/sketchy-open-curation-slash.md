@@ -14,6 +14,8 @@ themes:
   - Averra
   - curation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Sketchy-Open Curation Slash

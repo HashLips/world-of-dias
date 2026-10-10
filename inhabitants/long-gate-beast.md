@@ -19,6 +19,8 @@ themes:
   - political myth
 status: unknown
 nature: creature
+time_era: unknown
+time_span: ongoing
 ---
 
 # Long-Gate Beast

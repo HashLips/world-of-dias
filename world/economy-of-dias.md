@@ -25,6 +25,8 @@ themes:
   - gifts
   - VEL
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Economy of Dias

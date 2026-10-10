@@ -14,6 +14,9 @@ themes:
   - path mark
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Rim Rest Glow-Lichen

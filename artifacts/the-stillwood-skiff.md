@@ -19,6 +19,8 @@ themes:
   - wood
   - not a ferry
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Stillwood Skiff

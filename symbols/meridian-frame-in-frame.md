@@ -12,6 +12,8 @@ themes:
   - geometry
   - peace
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Meridian Frame-in-Frame

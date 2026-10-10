@@ -15,6 +15,8 @@ themes:
   - Softfruit teaching
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nineteen-Nineteen Fairness Cards

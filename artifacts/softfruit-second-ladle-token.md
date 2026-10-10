@@ -16,6 +16,8 @@ themes:
   - fairness
   - noticing hunger
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Second-Ladle Token

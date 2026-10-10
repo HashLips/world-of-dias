@@ -14,6 +14,9 @@ themes:
   - city balconies
   - fallen-leaf grammar
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # White Lily

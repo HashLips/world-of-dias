@@ -20,6 +20,8 @@ themes:
   - persistence naming
   - revision without collapse
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ghost Quarter Foundation Court

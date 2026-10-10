@@ -12,6 +12,8 @@ themes:
   - performance intensity
   - beauty and risk
 status: canonical
+time_era: present
+time_span: ongoing
 medium:
 edition:
 year:

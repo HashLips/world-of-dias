@@ -18,6 +18,8 @@ themes:
   - dependence and trade
   - lucky fruit folklore
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nauw Fruit Reverence

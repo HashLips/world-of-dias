@@ -19,6 +19,9 @@ themes:
   - remainder
   - kitchen craft
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Kneaded Dough Memory

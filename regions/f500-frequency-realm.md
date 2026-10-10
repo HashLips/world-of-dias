@@ -45,6 +45,8 @@ themes:
   - dread
   - uncertainty
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F500 (frequency realm)

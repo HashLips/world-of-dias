@@ -13,6 +13,8 @@ themes:
   - feast caution
   - middle-gap courtesy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Stilt-Horn Stack

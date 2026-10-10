@@ -21,6 +21,8 @@ themes:
   - rumor
 status: rumor
 nature: unknown
+time_era: unknown
+time_span: ongoing
 ---
 
 # The Unraveled

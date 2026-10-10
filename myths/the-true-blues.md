@@ -18,6 +18,8 @@ themes:
   - road omen
   - hungry folklore
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The True Blues

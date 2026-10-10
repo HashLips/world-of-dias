@@ -13,6 +13,9 @@ themes:
   - construct decor
   - flora
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Sky-Whale Festival Paperflower

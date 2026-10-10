@@ -14,6 +14,8 @@ themes:
   - reciprocity
   - share tempo
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Keep-Mark Bead

@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: Wabet restoration harvest markers and everyday resonant tech
+time_era: present
+time_span: ongoing
 ---
 
 # Wired Blooms

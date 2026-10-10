@@ -28,6 +28,8 @@ themes:
   - hunting and friendship
   - frontier waters
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Nauw Outer Rim Seas

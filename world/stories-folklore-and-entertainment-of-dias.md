@@ -21,6 +21,8 @@ themes:
   - myth
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Stories Folklore and Entertainment of Dias

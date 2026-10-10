@@ -14,6 +14,8 @@ themes:
   - civic manners
   - offshore
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # No-Captain-Hour Circle

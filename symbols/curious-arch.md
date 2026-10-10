@@ -14,6 +14,8 @@ themes:
   - crossing commitment
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Curious Arch

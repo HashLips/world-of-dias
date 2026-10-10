@@ -13,6 +13,9 @@ themes:
   - craft
   - second beginning
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Kiln Crack-Glaze Glow

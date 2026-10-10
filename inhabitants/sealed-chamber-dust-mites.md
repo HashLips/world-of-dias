@@ -12,6 +12,8 @@ themes:
   - sealed places
 status: rumor
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Sealed Chamber Dust-Mites

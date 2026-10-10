@@ -13,6 +13,9 @@ themes:
   - night manners
   - haunt cousin
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Night-Mute Residual Hum

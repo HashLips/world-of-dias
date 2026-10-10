@@ -15,6 +15,8 @@ themes:
   - walking
 status: canonical
 story_type: daily-life vignette
+time_era: present
+time_span: point
 ---
 
 # A Walker Day in Wabet

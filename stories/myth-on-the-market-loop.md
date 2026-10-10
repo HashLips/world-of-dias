@@ -21,6 +21,8 @@ themes:
   - plan
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Myth on the Market Loop

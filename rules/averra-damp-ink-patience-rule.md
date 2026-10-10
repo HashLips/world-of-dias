@@ -14,6 +14,8 @@ themes:
   - craft
   - patience
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Averra damp studios and offshore pass writing
 ---
 

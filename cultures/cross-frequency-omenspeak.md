@@ -15,6 +15,8 @@ themes:
   - communication
   - myth
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # Cross-Frequency Omenspeak

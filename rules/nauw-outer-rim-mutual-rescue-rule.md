@@ -14,6 +14,8 @@ themes:
   - tide ethics
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 scope: outer-rim sea operations
 ---
 

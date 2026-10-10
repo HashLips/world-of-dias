@@ -13,6 +13,9 @@ themes:
   - timed reveal
   - precision
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Shelf-Minute Clarity

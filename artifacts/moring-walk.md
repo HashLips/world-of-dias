@@ -13,6 +13,8 @@ themes:
   - orb-hour walk
   - path courtesy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Echo Stride

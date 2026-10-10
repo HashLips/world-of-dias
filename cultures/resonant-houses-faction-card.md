@@ -14,6 +14,8 @@ themes:
   - resonant houses
   - governance
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Resonant Houses Faction Card

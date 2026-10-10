@@ -16,6 +16,8 @@ themes:
   - festival
   - travel
 status: rumor
+time_era: present
+time_span: recurring
 ---
 
 # Big Times Walked the Fruit Road

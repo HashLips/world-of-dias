@@ -15,6 +15,8 @@ themes:
   - finding the way back
   - scale
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Market-Loop String

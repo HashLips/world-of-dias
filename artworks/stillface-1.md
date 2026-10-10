@@ -14,6 +14,8 @@ medium: digital image
 edition:
 year:
 based_on: Ref plate stillface-1.jpg brought into assets for Stillface.
+time_era: present
+time_span: ongoing
 ---
 
 # Stillface

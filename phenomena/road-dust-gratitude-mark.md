@@ -15,6 +15,9 @@ themes:
   - lived resonance
   - remainder
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Road Dust Gratitude Mark

@@ -13,6 +13,8 @@ themes:
   - pier manners
   - exception
 status: canonical
+time_era: present
+time_span: recurring
 scope: No-Captain Hour when distress is honest
 ---
 

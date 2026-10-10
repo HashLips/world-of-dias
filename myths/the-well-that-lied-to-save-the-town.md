@@ -15,6 +15,8 @@ themes:
   - soft limits
   - mercy maps
 status: rumor
+time_era: formative
+time_span: point
 ---
 
 # The Well That Lied to Save the Town

@@ -31,6 +31,8 @@ themes:
   - culture
   - atlas
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Place Webs of Dias

@@ -15,6 +15,8 @@ themes:
   - horror
   - grief
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Echoes of the Dead

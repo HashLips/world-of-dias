@@ -12,6 +12,8 @@ themes:
   - starburst mark
   - anti-vague looking
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Gaze

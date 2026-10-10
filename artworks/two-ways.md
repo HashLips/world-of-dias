@@ -19,6 +19,8 @@ medium:
 edition:
 year:
 based_on: Wabet fruit-form phenomenon and Lucky Fruits rumor (lore)
+time_era: present
+time_span: ongoing
 ---
 
 # Two Ways

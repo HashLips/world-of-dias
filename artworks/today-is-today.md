@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A golden figure crouches low along a ledge with head bowed and arms swept back, a long pale-yellow pole extending behind its shoulder and a white slash before its face, over a row of dark brown arches
+time_era: present
+time_span: recurring
 ---
 
 # Today Is Today

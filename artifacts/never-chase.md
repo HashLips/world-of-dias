@@ -13,6 +13,8 @@ themes:
   - shed drill
   - resonance gap
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Never Chase

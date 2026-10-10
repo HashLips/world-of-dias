@@ -13,6 +13,8 @@ themes:
   - Hearthvale
   - joy
 status: canonical
+time_era: present
+time_span: recurring
 scope: Hearthvale First-Bowl Hall on storm nights
 ---
 

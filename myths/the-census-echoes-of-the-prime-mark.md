@@ -22,6 +22,8 @@ themes:
   - numbering reality
   - world bigness
 status: myth
+time_era: prime
+time_span: point
 ---
 
 # The Census Echoes of the Prime Mark

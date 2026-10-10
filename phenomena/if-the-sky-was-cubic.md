@@ -11,6 +11,9 @@ themes:
   - path still walks
   - single bird witness
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # If the Sky Was Cubic

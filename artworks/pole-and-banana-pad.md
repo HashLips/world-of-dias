@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: The Reedpol on a calm river with ash pole, crates of fruit, and a banana-leaf pad; empty of people.
+time_era: present
+time_span: ongoing
 ---
 
 # Pole and Banana Pad

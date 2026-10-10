@@ -44,6 +44,8 @@ themes:
   - truth windows
   - precision
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F610 (frequency realm)

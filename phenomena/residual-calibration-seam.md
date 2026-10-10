@@ -20,6 +20,9 @@ themes:
   - measurement crack
   - invitation
 status: canonical
+time_era: near
+time_span: ongoing
+
 ---
 
 # Residual Calibration Seam

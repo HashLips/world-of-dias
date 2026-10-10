@@ -12,6 +12,9 @@ themes:
   - gold skyline
   - sealed crouch
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # New Horizon

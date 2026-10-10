@@ -14,6 +14,8 @@ themes:
   - dignity of no
 status: canonical
 story_type: character episode
+time_era: formative
+time_span: point
 ---
 
 # The Exile Who Refused Second Beginning

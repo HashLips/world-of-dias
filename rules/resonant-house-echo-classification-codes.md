@@ -14,6 +14,8 @@ themes:
   - echo-rise policy
   - classification
 status: canonical
+time_era: near
+time_span: ongoing
 scope: realm-wide echo-rise policy debate
 ---
 

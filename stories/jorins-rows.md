@@ -20,6 +20,8 @@ themes:
   - off-season fruit
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Jorin’s Rows

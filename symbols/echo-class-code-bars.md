@@ -14,6 +14,8 @@ themes:
   - echo
   - classification
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Echo-Class Code Bars

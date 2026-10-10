@@ -14,6 +14,8 @@ themes:
   - joy
   - rumor
 status: canonical
+time_era: present
+time_span: recurring
 scope: Flagweek Strip municipal custom
 ---
 

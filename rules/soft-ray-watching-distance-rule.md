@@ -13,6 +13,8 @@ themes:
   - visitor safety
   - coherence
 status: canonical
+time_era: present
+time_span: ongoing
 scope: F200 procession observation
 ---
 

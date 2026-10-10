@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Farstock's iron-strapped door, older than its stone frame, with no guild sign and a step worn lower on the left
+time_era: present
+time_span: ongoing
 ---
 
 # The Door Older Than Its Frame

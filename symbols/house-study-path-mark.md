@@ -14,6 +14,8 @@ themes:
   - clerk craft
   - study
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # House-Study Path Mark

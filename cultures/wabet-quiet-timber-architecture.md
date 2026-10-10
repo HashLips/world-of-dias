@@ -22,6 +22,8 @@ themes:
   - silence
   - soft-step floors
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Wabet Quiet Timber Architecture

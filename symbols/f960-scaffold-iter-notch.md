@@ -14,6 +14,8 @@ themes:
   - F960
   - unfinished
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F960 Scaffold-Iter Notch

@@ -19,6 +19,8 @@ themes:
   - rumor
   - joy
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # No-Captain Hour Pier

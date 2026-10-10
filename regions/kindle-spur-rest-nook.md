@@ -19,6 +19,8 @@ themes:
   - ember quiet
   - aftermath honesty
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Kindle Spur Rest Nook

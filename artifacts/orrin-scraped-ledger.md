@@ -16,6 +16,8 @@ themes:
   - daily method
   - anti-erase
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Orrin Scraped Ledger

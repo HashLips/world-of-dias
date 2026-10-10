@@ -14,6 +14,8 @@ themes:
   - travel
 status: canonical
 story_type: side journey
+time_era: present
+time_span: point
 ---
 
 # Brindle Three Thank-Yous at the Lean

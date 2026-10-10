@@ -14,6 +14,9 @@ themes:
   - F840
   - unfinished
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Cold-Gap Named Quiet

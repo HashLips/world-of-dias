@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year: 2026
 based_on: Official World of Dias word-and-emblem logo lockup
+time_era: present
+time_span: ongoing
 ---
 
 # World of Dias Logo

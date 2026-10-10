@@ -14,6 +14,8 @@ themes:
   - music
   - echo
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Song That Would Not Finish Leaving

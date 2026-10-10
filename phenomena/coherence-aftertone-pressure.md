@@ -14,6 +14,9 @@ themes:
   - echo
   - pressure
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Coherence Aftertone Pressure

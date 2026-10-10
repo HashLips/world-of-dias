@@ -21,6 +21,8 @@ themes:
   - frequency
   - five domains
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Five-Domain Effect Chapbook

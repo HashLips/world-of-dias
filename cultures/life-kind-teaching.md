@@ -17,6 +17,8 @@ themes:
   - taxonomy
   - Softfruit
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Life Kind Teaching

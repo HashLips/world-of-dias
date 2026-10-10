@@ -14,6 +14,8 @@ themes:
   - timed clearance
   - mythic personal tech
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ring-Window Tick

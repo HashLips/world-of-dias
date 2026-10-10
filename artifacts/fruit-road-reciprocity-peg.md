@@ -16,6 +16,8 @@ themes:
   - reciprocity
   - market craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Fruit-Road Reciprocity Peg

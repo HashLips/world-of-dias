@@ -14,6 +14,8 @@ themes:
   - reciprocity
   - travel
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Eastbound Fruit Road waystation shared pots
 ---
 

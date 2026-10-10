@@ -12,6 +12,8 @@ themes:
   - named rest
   - anti-cruel watch
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Gordon

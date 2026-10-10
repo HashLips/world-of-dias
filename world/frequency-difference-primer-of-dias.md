@@ -20,6 +20,8 @@ themes:
   - frequency
   - teaching
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Frequency Difference Primer of Dias

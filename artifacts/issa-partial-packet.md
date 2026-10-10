@@ -19,6 +19,8 @@ themes:
   - partial truth
   - publish ethics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Issa Partial Packet

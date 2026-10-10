@@ -12,6 +12,8 @@ themes:
   - majesty
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # F960 Scaffold-Elk

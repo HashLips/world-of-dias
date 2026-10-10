@@ -20,6 +20,8 @@ themes:
   - certainty grades
   - orientation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Law Theory Observation of Dias

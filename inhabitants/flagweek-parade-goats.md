@@ -13,6 +13,8 @@ themes:
   - frontier celebration
 status: canonical
 nature: creature
+time_era: present
+time_span: recurring
 ---
 
 # Flagweek Parade-Goats

@@ -13,6 +13,8 @@ themes:
   - second beginning
   - dignity
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Sorel yard second-beginning claims
 ---
 

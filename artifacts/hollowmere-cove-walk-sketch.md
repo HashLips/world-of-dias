@@ -19,6 +19,8 @@ themes:
   - atlas
   - Outer Rim
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hollowmere Cove Walk Sketch

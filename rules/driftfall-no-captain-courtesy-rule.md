@@ -13,6 +13,8 @@ themes:
   - pier manners
   - courtesy
 status: canonical
+time_era: present
+time_span: recurring
 scope: No-Captain Hour Pier and floating-flag windows
 ---
 

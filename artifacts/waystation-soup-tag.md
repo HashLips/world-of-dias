@@ -15,6 +15,8 @@ themes:
   - travel
   - joy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Waystation Soup Tag

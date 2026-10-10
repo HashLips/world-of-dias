@@ -12,6 +12,8 @@ themes:
   - luminous majesty
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # F200 Pillar-Stags

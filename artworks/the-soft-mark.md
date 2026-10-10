@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: The Soft Mark blimp hanging over basin water at gilding hour, its bag painted as a bright textured peel with a bite taken from the tail, small gondola and side engines below, timber quay sheds to the right.
+time_era: present
+time_span: ongoing
 ---
 
 # Peel Bite over the Basin

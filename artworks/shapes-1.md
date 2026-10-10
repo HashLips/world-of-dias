@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Shapes as a mint-green floating sphere, a thick red ribbon curving down from the left with a pinkish edge stroke, a sharp yellow open V, and a cyan diagonal line on dark reddish-brown ground
+time_era: present
+time_span: ongoing
 ---
 
 # Shapes

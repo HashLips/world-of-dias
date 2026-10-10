@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Running Over Nails as a pale-pink crouching figure with a magenta oval halo crossing a dense field of thin black vertical spikes on mustard ground, dark triangular pierce marks at hand knee and feet, on pale yellow
+time_era: present
+time_span: ongoing
 ---
 
 # Running Over Nails

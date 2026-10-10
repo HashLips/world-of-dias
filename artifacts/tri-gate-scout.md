@@ -15,6 +15,8 @@ themes:
   - repetition
   - eye-line courtesy
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Tri-Gate Scout

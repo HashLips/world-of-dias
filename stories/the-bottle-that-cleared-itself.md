@@ -15,6 +15,8 @@ themes:
   - underbelly consequence
 status: canonical
 story_type: cautionary grove episode
+time_era: present
+time_span: point
 ---
 
 # The Bottle That Cleared Itself

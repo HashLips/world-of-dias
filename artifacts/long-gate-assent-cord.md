@@ -16,6 +16,8 @@ themes:
   - assent
   - moral threshold
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Long Gate Assent Cord

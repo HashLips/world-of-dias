@@ -18,6 +18,8 @@ themes:
   - atlas
   - teaching
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Veloria Ring Walk Sketch

@@ -13,6 +13,9 @@ themes:
   - dignity
   - travel
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Long-Gate Courtesy Ease

@@ -16,6 +16,8 @@ themes:
   - listening craft
   - colossal rumor
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Glowfly Listening Pillar

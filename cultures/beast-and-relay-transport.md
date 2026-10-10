@@ -19,6 +19,8 @@ themes:
   - draft beasts
   - care ethics
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Beast and Relay Transport

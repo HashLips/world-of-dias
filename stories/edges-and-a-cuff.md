@@ -19,6 +19,8 @@ themes:
   - not erased
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Edges and a Cuff

@@ -17,6 +17,8 @@ themes:
   - outlaw discipline
 status: canonical
 nature: person
+time_era: present
+time_span: ongoing
 ---
 
 # Garen Scar

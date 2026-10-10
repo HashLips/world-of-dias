@@ -12,6 +12,9 @@ themes:
   - stillness
   - craft warning
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Calareth Stone Refusal

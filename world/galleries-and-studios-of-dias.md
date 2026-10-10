@@ -16,6 +16,8 @@ themes:
   - craft
   - beauty
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Galleries and Studios of Dias

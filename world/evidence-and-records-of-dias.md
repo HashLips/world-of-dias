@@ -25,6 +25,8 @@ themes:
   - documents
   - investigation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Evidence and Records of Dias

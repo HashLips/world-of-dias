@@ -12,6 +12,9 @@ themes:
   - omen
   - flora
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Frequency-Bleed Mothwort

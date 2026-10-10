@@ -13,6 +13,8 @@ themes:
   - song ecology
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Songripe Hum-Ticks

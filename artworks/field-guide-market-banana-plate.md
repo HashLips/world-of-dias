@@ -14,6 +14,8 @@ themes:
   - banana
   - illustration brief
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Field Guide Market Banana Plate

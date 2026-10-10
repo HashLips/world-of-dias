@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A white figure with a round yellow grinning head runs across a blue floor trailing an orange ribbon past a white curved abstract sculpture on a block, against black
+time_era: present
+time_span: ongoing
 ---
 
 # Walk on Water

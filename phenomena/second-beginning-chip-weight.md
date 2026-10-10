@@ -13,6 +13,9 @@ themes:
   - second beginning
   - dignity
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Second-Beginning Chip Weight

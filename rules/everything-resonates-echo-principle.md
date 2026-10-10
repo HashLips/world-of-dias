@@ -32,6 +32,8 @@ themes:
   - foundational law
   - world identity
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide foundational principle
 ---
 

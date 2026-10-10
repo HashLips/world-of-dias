@@ -11,6 +11,8 @@ themes:
   - not a hinge
   - not a key
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

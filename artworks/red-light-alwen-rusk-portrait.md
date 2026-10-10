@@ -16,6 +16,8 @@ medium:
 edition:
 year:
 based_on: Alwen Rusk (inhabitant lore)
+time_era: present
+time_span: ongoing
 ---
 
 # Red Light (Alwen Rusk Portrait)

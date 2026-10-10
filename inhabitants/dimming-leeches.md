@@ -14,6 +14,8 @@ themes:
   - fear
 status: unknown
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Dimming Leeches

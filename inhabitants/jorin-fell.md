@@ -21,6 +21,8 @@ themes:
   - market rivalry
 status: canonical
 nature: person
+time_era: present
+time_span: point
 ---
 
 # Jorin Fell

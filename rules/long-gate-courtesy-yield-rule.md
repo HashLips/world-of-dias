@@ -14,6 +14,8 @@ themes:
   - dignity
   - travel
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Long Gate crossings and exile packs
 ---
 

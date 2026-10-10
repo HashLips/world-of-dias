@@ -13,6 +13,8 @@ themes:
   - threshold mercy
   - moral infrastructure
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Niche That Kept Exile Quiet

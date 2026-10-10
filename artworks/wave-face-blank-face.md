@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: Averra Offshore Courtesy Token as one pale stone or glazed-clay disc, wave mark on one face and blank on the other, pocket-polished, with no pier
+time_era: present
+time_span: ongoing
 ---
 
 # Wave Face, Blank Face

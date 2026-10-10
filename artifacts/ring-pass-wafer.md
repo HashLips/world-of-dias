@@ -15,6 +15,8 @@ themes:
   - ring manners
   - Operator adjacency
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Ring-Pass Wafer

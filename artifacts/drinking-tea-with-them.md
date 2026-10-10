@@ -12,6 +12,8 @@ themes:
   - tall light table
   - quiet guest craft
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Drinking Tea with Them

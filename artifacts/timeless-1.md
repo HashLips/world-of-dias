@@ -15,6 +15,8 @@ themes:
   - carried-in objects
   - no-building ring
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Timeless

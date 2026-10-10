@@ -13,6 +13,9 @@ themes:
   - unfinished
   - beauty
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Becoming-Draft Shimmer

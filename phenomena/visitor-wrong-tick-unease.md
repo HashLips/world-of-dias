@@ -17,6 +17,9 @@ themes:
   - almost-agreement
   - visitor omen
 status: rumor
+time_era: near
+time_span: ongoing
+
 ---
 
 # Visitor Wrong-Tick Unease

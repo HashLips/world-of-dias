@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Lumira reminder against hurry near water
+time_era: present
+time_span: ongoing
 ---
 
 # Take It Easy

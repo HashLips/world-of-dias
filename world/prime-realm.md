@@ -15,6 +15,8 @@ themes:
   - layered reality
   - resonance
 status: canonical
+time_era: prime
+time_span: ongoing
 ---
 
 # The Prime Realm

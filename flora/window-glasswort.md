@@ -16,6 +16,9 @@ themes:
   - glance
   - frequency
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Window-Glasswort

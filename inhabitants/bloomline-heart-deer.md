@@ -14,6 +14,8 @@ themes:
   - estuary life
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Bloomline Heart-Deer

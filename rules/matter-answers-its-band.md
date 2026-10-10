@@ -21,6 +21,8 @@ themes:
   - craft
   - consistent physics
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide substance behavior under frequency
 ---
 

@@ -23,6 +23,8 @@ themes:
   - sealed study
   - hearsay
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Knowledge of Dias

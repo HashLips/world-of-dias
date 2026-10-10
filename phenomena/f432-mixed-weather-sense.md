@@ -19,6 +19,9 @@ themes:
   - everyday
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F432 Mixed-Weather Sense

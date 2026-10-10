@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Socks as a pale sock densely patterned with vibrant red circles and a thick red zigzag cuff on a solid bright cyan limb, dark gray contour shadow on medium slate gray
+time_era: present
+time_span: ongoing
 ---
 
 # Socks

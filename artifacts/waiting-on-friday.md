@@ -15,6 +15,8 @@ themes:
   - tide timing
   - patience
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Waiting on Friday

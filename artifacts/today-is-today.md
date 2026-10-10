@@ -15,6 +15,8 @@ themes:
   - morning bow
   - canopy travel
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Today Is Today

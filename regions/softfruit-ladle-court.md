@@ -22,6 +22,8 @@ themes:
   - folk data
   - beauty
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Ladle Court

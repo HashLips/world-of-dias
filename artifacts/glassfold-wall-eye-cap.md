@@ -16,6 +16,8 @@ themes:
   - craft
   - anti-stare
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Glassfold Wall-Eye Cap

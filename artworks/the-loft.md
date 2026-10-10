@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Hollowmere net-loft life and First Line Answer culture
+time_era: present
+time_span: ongoing
 ---
 
 # The Loft

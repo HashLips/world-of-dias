@@ -14,6 +14,8 @@ themes:
   - anti-forced-final
   - claim grades
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Softfruit Certainty Manners

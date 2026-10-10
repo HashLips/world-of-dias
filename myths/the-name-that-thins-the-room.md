@@ -16,6 +16,8 @@ themes:
   - tavern discipline
   - existential dread
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Name That Thins the Room

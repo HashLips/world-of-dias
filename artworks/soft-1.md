@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Soft as a saturated magenta profile from the chest up with head tilted back, white highlight shapes on eye nose lips and ear, deeper purple shadow under jaw and neck, on very pale cool light blue
+time_era: present
+time_span: ongoing
 ---
 
 # Soft

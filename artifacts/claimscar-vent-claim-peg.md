@@ -16,6 +16,8 @@ themes:
   - crew marks
   - frontier lawfeel
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Claimscar Vent-Claim Peg

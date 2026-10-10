@@ -14,6 +14,9 @@ themes:
   - child crown
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Ringroad Ditch-Daisy

@@ -17,6 +17,8 @@ medium: digital image
 edition:
 year:
 based_on: Sixteen-year-old Hob Orrow (nephew)—young man, wrist and boot, hand on crates of ordinary red and yellow apples in The Mix Orchard; not Vitrin.
+time_era: present
+time_span: ongoing
 ---
 
 # Wrist and Boot at Orrow House

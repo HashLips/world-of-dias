@@ -23,6 +23,8 @@ themes:
   - market trust
   - plural economies
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # VEL Mark Trade Standard

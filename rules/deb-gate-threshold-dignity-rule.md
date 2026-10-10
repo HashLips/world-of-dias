@@ -16,6 +16,8 @@ themes:
   - controlled force
   - civic dignity
 status: canonical
+time_era: present
+time_span: ongoing
 scope: DEB gate screening and enforcement
 ---
 

@@ -82,6 +82,8 @@ themes:
   - origin
   - lost history
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Dias

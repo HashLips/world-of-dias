@@ -18,6 +18,8 @@ themes:
   - failed containment
   - escape evidence
 status: canonical
+time_era: present
+time_span: point
 ---
 
 # Vault Latch That Failed

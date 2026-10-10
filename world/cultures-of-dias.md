@@ -30,6 +30,8 @@ themes:
   - kindness
   - hard edges
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Cultures of Dias

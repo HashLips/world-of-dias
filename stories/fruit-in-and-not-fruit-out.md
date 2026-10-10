@@ -21,6 +21,8 @@ themes:
   - distribution
 status: canonical
 story_type: saga chapter
+time_era: present
+time_span: point
 ---
 
 # Fruit In, and Not Fruit Out

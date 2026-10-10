@@ -18,6 +18,9 @@ themes:
   - contagion
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F380 Shared Affect Contagion

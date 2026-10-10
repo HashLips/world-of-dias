@@ -13,6 +13,8 @@ themes:
   - fear
 status: unknown
 nature: creature
+time_era: unknown
+time_span: ongoing
 ---
 
 # Unraveled Pale-Hounds

@@ -16,6 +16,8 @@ medium: digital poster image
 edition:
 year:
 based_on: Veloria City (region lore)
+time_era: present
+time_span: ongoing
 ---
 
 # Poster of Veloria City

@@ -21,6 +21,8 @@ medium: digital image
 edition:
 year:
 based_on: Well-Beacon Shard as wrong-bright glass-sand on dunes, showing neither a path nor a well
+time_era: present
+time_span: ongoing
 ---
 
 # Wrong-Bright Glass on Open Dunes

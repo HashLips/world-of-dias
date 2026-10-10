@@ -13,6 +13,8 @@ themes:
   - labor oath
   - communal restoration
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Kiln Fires of Second Beginning

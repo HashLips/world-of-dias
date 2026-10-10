@@ -14,6 +14,8 @@ themes:
   - reciprocity
   - soft limits
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Distress Note That Paid Itself

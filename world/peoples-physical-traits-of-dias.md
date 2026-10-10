@@ -26,6 +26,8 @@ themes:
   - limits
   - orientation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Peoples Physical Traits of Dias

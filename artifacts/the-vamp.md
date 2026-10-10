@@ -15,6 +15,8 @@ themes:
   - screen rule
   - flag-week chaos
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # The Vamp

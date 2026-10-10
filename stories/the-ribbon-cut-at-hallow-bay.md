@@ -14,6 +14,8 @@ themes:
   - threshold judgment
 status: canonical
 story_type: threshold episode
+time_era: present
+time_span: point
 ---
 
 # The Ribbon Cut at Hallow Bay

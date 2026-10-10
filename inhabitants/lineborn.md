@@ -19,6 +19,8 @@ themes:
   - edge perception
 status: canonical
 nature: near-2D race
+time_era: present
+time_span: ongoing
 ---
 
 # Lineborn

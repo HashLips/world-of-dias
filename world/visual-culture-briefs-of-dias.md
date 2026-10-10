@@ -21,6 +21,8 @@ themes:
   - symbols
   - illustration briefs
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Visual Culture Briefs of Dias

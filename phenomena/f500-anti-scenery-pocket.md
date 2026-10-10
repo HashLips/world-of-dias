@@ -19,6 +19,9 @@ themes:
   - anti-scenery
   - frequency
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # F500 Anti-Scenery Pocket

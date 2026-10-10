@@ -19,6 +19,9 @@ themes:
   - glassfold
   - frequency
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # F610 Glassfold Brief Open

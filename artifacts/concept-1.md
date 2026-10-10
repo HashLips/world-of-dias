@@ -12,6 +12,8 @@ themes:
   - visible scar
   - perched idea
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Concept

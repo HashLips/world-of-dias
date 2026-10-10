@@ -16,6 +16,8 @@ themes:
   - reveal governance
   - craft
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Glassfold observations and records
 ---
 

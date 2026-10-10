@@ -15,6 +15,8 @@ themes:
   - teaching myth
   - soft limits
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # The Map That Drew a Frequency as an Island

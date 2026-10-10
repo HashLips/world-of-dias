@@ -20,6 +20,8 @@ medium: digital image
 edition:
 year:
 based_on: The Caliburn standing as a tall, thin, semi-translucent glass biped with a smooth ovoid head split by a vertical measure-slit, internal tick marks down the torso, long fingers, and sketched instrument glassware on both sides.
+time_era: present
+time_span: ongoing
 ---
 
 # Measure-Slit of the Caliburn

@@ -16,6 +16,8 @@ themes:
   - celebrations
   - second beginning
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Hearth Laughter Week Customs

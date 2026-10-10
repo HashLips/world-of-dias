@@ -16,6 +16,8 @@ themes:
   - calibration
   - filing
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Clerk and House Study Paths

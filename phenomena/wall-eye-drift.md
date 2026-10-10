@@ -13,6 +13,9 @@ themes:
   - reflective instability
   - witness discomfort
 status: unknown
+time_era: present
+time_span: recurring
+
 ---
 
 # Wall-Eye Drift

@@ -13,6 +13,8 @@ themes:
   - approach footprints
   - anti-stage wash
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Golden Bath

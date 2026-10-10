@@ -13,6 +13,8 @@ themes:
   - hearttide
   - communal care
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Holding Cove Tone-Share Custom

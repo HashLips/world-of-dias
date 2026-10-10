@@ -16,6 +16,8 @@ themes:
   - managed continuity
   - social expectations
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Velorian Ring Protocol

@@ -14,6 +14,8 @@ themes:
   - sudden violence
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Ashcalm Rise Thunder-Boars

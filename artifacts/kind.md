@@ -13,6 +13,8 @@ themes:
   - open-arm posture
   - shared shadow
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Kind

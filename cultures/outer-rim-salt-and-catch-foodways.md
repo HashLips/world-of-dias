@@ -19,6 +19,8 @@ themes:
   - whale ethics
   - hush weeks
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Outer Rim Salt and Catch Foodways

@@ -17,6 +17,8 @@ themes:
   - regional rivalry
 status: canonical
 nature: human
+time_era: present
+time_span: ongoing
 ---
 
 # Lucky Farmers

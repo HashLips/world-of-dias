@@ -16,6 +16,8 @@ themes:
   - timed care
   - Verdant Reach
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Green Garden Minute Sand

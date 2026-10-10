@@ -13,6 +13,8 @@ themes:
   - banner count
   - steered load
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Driving the Train

@@ -15,6 +15,8 @@ themes:
   - joy
   - venues
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Entertainment of F432

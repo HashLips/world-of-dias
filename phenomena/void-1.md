@@ -13,6 +13,9 @@ themes:
   - city manners
   - do not pick up
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Void

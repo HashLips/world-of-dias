@@ -12,6 +12,8 @@ themes:
   - balance after cut
   - ochre over navy
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

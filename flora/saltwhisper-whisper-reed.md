@@ -14,6 +14,9 @@ themes:
   - path
   - flora
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Saltwhisper Whisper-Reed

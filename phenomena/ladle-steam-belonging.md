@@ -14,6 +14,9 @@ themes:
   - Softfruit
   - market atmosphere
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Ladle Steam Belonging

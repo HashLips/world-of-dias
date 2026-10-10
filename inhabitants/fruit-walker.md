@@ -18,6 +18,8 @@ themes:
   - omen at the doorstep
 status: rumor
 nature: human
+time_era: present
+time_span: ongoing
 ---
 
 # Fruit Walker

@@ -19,6 +19,8 @@ themes:
   - visual culture
   - illustration
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # F432 Dress and Visible Culture

@@ -22,6 +22,8 @@ themes:
   - gradient terrain
   - communal regulation
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # The Bloomline Estuary

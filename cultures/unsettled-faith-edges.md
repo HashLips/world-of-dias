@@ -18,6 +18,8 @@ themes:
   - purity extremes
   - minority cults
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Unsettled Faith Edges

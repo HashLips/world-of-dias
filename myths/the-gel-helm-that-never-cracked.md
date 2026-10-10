@@ -12,6 +12,8 @@ themes:
   - flood season
   - impossible resilience
 status: myth
+time_era: formative
+time_span: point
 ---
 
 # The Gel Helm That Never Cracked

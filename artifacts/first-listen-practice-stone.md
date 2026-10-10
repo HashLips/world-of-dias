@@ -16,6 +16,8 @@ themes:
   - partial knowledge
   - echo-reading
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # First-Listen Practice Stone

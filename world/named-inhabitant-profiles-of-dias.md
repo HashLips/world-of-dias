@@ -25,6 +25,8 @@ themes:
   - relationships
   - encyclopedia
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Named Inhabitant Profiles of Dias

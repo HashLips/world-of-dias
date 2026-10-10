@@ -13,6 +13,8 @@ themes:
   - heat
 status: canonical
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Pot Lane Steam-Cats

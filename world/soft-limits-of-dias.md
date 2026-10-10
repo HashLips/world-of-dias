@@ -26,6 +26,8 @@ themes:
   - frequency manners
   - wonder
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Soft Limits of Dias

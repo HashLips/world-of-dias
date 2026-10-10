@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A white figure with a jagged crest of points clings to a vertical pole at the right edge while an enormous white wing sweeps out to the left, edged in red and green, on a vermilion ground
+time_era: present
+time_span: ongoing
 ---
 
 # When Wings Flap

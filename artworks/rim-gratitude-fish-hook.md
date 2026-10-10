@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Rescue gratitude returned as fish on a line
+time_era: present
+time_span: ongoing
 ---
 
 # Rim Gratitude Fish-Hook

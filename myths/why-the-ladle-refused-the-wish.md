@@ -16,6 +16,8 @@ themes:
   - softfruit
   - resonance
 status: myth
+time_era: present
+time_span: ongoing
 ---
 
 # Why the Ladle Refused the Wish

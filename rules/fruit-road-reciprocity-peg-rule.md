@@ -13,6 +13,8 @@ themes:
   - reciprocity
   - stewardship
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Fruit-road crates and orchard crews using reciprocity pegs
 ---
 

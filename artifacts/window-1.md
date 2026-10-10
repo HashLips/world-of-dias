@@ -15,6 +15,8 @@ themes:
   - household memory
   - isle habit
 status: canonical
+time_era: present
+time_span: recurring
 ---
 
 # Window

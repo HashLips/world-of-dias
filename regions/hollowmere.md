@@ -34,6 +34,8 @@ themes:
   - coastal apprenticeship
   - walkable
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Hollowmere

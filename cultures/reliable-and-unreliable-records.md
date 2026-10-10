@@ -14,6 +14,8 @@ themes:
   - forgery
   - evidence
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Reliable and Unreliable Records

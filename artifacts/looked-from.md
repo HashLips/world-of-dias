@@ -13,6 +13,8 @@ themes:
   - blue strand sash
   - crouch hour
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Looked from

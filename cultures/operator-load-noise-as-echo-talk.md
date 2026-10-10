@@ -15,6 +15,8 @@ themes:
   - load-noise
   - echo vocabulary
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Operator Load-Noise as Echo Talk

@@ -16,6 +16,8 @@ themes:
   - clerk craft
   - Calibration adjacency
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Measurement and Publish Ethics of Dias

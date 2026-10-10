@@ -14,6 +14,8 @@ themes:
   - joy warning
   - anti-forced-cheer
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Melting-Smile Drip

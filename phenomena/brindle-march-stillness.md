@@ -18,6 +18,9 @@ themes:
   - road as living thing
   - bigness of routine
 status: canonical
+time_era: present
+time_span: recurring
+
 ---
 
 # Brindle March stillness

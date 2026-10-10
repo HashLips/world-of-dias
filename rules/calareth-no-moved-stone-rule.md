@@ -17,6 +17,8 @@ themes:
   - joy
   - mystery
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Isle of Calareth visitor conduct
 ---
 

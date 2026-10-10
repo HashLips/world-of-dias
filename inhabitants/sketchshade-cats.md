@@ -16,6 +16,8 @@ themes:
   - urban mystery
 status: rumor
 nature: creature
+time_era: present
+time_span: ongoing
 ---
 
 # Sketchshade Cats

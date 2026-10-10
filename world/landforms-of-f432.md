@@ -42,6 +42,8 @@ themes:
   - atlas
   - F432
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Landforms of F432

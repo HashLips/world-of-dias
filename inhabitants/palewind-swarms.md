@@ -19,6 +19,8 @@ themes:
   - adaptive coordination
 status: canonical
 nature: colony-intelligence race
+time_era: present
+time_span: ongoing
 ---
 
 # Palewind Swarms

@@ -14,6 +14,9 @@ themes:
   - Wabet
   - joy cousin
 status: rumor
+time_era: present
+time_span: ongoing
+
 ---
 
 # Wired-Bloom Thread Taut

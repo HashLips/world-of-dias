@@ -15,6 +15,8 @@ medium: digital image
 edition:
 year:
 based_on: Studio-Pigeons loafing on cliff ledges and studio roofs, stealing crusts and posing as if they know they are being drawn.
+time_era: present
+time_span: ongoing
 ---
 
 # Posing for the Sketch

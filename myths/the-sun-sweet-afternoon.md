@@ -17,6 +17,8 @@ themes:
   - collective kindness
   - warmth
 status: myth
+time_era: present
+time_span: recurring
 ---
 
 # The Sun-Sweet Afternoon

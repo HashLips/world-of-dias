@@ -14,6 +14,8 @@ themes:
   - toll
 status: legendary
 nature: historical figure
+time_era: formative
+time_span: point
 ---
 
 # Tollwright Ansa

@@ -18,6 +18,8 @@ themes:
   - partial knowledge
   - anti-omniscience
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Dias-wide expectations for echo-reading as skilled work
 ---
 

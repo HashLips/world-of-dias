@@ -16,6 +16,8 @@ themes:
   - systems safety
   - craft of governance
 status: canonical
+time_era: present
+time_span: ongoing
 scope: Veloria inter-ring movement
 ---
 

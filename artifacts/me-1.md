@@ -13,6 +13,8 @@ themes:
   - reflection courtesy
   - solitary first word
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Me

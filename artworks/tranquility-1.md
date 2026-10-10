@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Four dark silhouettes squat in the identical pose with hands behind their backs on an orange-red ground, each wearing different headgear: a tall brimmed hat, a cone, a floating hoop, and a brimmed cap
+time_era: present
+time_span: ongoing
 ---
 
 # Tranquility

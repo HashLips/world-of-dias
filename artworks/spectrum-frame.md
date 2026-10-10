@@ -21,6 +21,8 @@ medium: digital image
 edition:
 year:
 based_on: The Spectrum Frame standing upright in a sketched workshop: a rectangular framed pane of thin instrument glass etched with measure-marks and crossed by cracks, waxed cord braided down the sides, four calibration spools at the corners with one darkened, and a climbing vine at the edge.
+time_era: present
+time_span: ongoing
 ---
 
 # Cracked Upright, Incomplete Aperture

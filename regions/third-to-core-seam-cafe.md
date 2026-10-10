@@ -20,6 +20,8 @@ themes:
   - conduit culture
   - noise with shape
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Third-to-Core Seam Cafe

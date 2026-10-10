@@ -13,6 +13,9 @@ themes:
   - self-disclosure
   - timed cognition shift
 status: unknown
+time_era: present
+time_span: recurring
+
 ---
 
 # Mirror-Wake Inversion

@@ -12,6 +12,8 @@ themes:
   - shed crescents
   - blue knee caps
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

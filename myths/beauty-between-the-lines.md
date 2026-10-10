@@ -15,6 +15,8 @@ themes:
   - craft
   - mystery
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # Beauty Between the Lines

@@ -18,6 +18,8 @@ themes:
   - manufacturing
   - currency
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Goods Markets and Distribution of Dias

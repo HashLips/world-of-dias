@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: Four dark silhouette dancers leap, hunch, and arch backward before a salmon-pink triangle on a violet ground with lavender shadow pools at their feet
+time_era: present
+time_span: recurring
 ---
 
 # Time Never Fails

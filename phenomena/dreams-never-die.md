@@ -10,6 +10,9 @@ themes:
   - living pink growth
   - anti-privatization
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Dreams Never Die

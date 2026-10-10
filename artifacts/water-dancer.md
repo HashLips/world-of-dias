@@ -15,6 +15,8 @@ themes:
   - teaching by copying
   - trust in water
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Water Dancer

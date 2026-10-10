@@ -17,6 +17,8 @@ themes:
   - null adjacent
 status: rumor
 nature: historical figure
+time_era: formative
+time_span: point
 ---
 
 # Null-Seal Archivist Ren

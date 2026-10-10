@@ -16,6 +16,8 @@ medium: digital image
 edition:
 year:
 based_on: Rainbow as a four-color arc of red blue yellow green rising from behind dark charcoal hills under gray sky, splitting into wavy ribbons, with a pale mint river and faint matching vertical color bands on the foreground ground
+time_era: present
+time_span: ongoing
 ---
 
 # Rainbow

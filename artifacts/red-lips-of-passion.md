@@ -13,6 +13,8 @@ themes:
   - orange presence
   - contained heat
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Red Lips of Passion

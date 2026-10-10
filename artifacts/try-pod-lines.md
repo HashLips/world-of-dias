@@ -16,6 +16,8 @@ themes:
   - instrument honesty
   - leaving on time
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Try Pod Lines

@@ -11,6 +11,8 @@ themes:
   - fallen-flight care
   - red-spot first approach
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Bird Flew

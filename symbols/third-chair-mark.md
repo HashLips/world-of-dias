@@ -14,6 +14,8 @@ themes:
   - joy
   - Softfruit adjacent
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Third-Chair Mark

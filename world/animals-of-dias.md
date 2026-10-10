@@ -38,6 +38,8 @@ themes:
   - work beasts
   - beloved fauna
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Animals of Dias

@@ -15,6 +15,9 @@ themes:
   - flora
   - medicinal
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Cinder Nook Tar-Herb

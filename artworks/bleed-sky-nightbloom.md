@@ -14,6 +14,8 @@ themes:
   - undyeable sky
   - not a crop
 status: canonical
+time_era: present
+time_span: recurring
 medium: digital image
 edition:
 year:

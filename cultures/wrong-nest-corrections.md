@@ -15,6 +15,8 @@ themes:
   - cartography manners
   - rumor hygiene
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Wrong Nest Corrections

@@ -12,6 +12,8 @@ themes:
   - cream-orange split
   - quiet composure
 status: canonical
+time_era: present
+time_span: ongoing
 medium: digital image
 edition:
 year:

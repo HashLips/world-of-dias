@@ -18,6 +18,8 @@ medium: digital image
 edition:
 year:
 based_on: A pale mint head in profile on bright blue, the ground filled with repeating orange BLEND and the head lettered HELLO, BACK, and Story, with another BACK and HELLO below
+time_era: present
+time_span: ongoing
 ---
 
 # Text

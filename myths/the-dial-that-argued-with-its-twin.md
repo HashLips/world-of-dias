@@ -15,6 +15,8 @@ themes:
   - rivalry
   - measurement
 status: rumor
+time_era: present
+time_span: ongoing
 ---
 
 # The Dial That Argued with Its Twin

@@ -18,6 +18,9 @@ themes:
   - edible
   - commercial
 status: canonical
+time_era: present
+time_span: ongoing
+
 ---
 
 # Freeband Camp-Nettle

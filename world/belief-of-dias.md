@@ -21,6 +21,8 @@ themes:
   - pluralism
   - unsettled faith
 status: canonical
+time_era: present
+time_span: ongoing
 ---
 
 # Belief of Dias
