@@ -937,7 +937,7 @@ TEMPLATE = r"""<!doctype html>
   #map-wrap {
     position: relative;
     min-height: 0;
-    background: #06080e;
+    background: #0c2438;
     overflow: hidden;
   }
   #world-map {
@@ -996,16 +996,16 @@ TEMPLATE = r"""<!doctype html>
   }
 
   /* ---------- timeline tab ---------- */
-  #tab-timeline { display: none; grid-template-columns: 240px minmax(0, 1fr); height: 100%; overflow: hidden; }
+  #tab-timeline { display: none; grid-template-columns: 208px minmax(0, 1fr); height: 100%; overflow: hidden; }
   #tab-timeline.active { display: grid; }
   #tl-rail {
     border-right: 1px solid var(--line-soft);
     background: rgba(13, 14, 20, 0.65);
-    padding: 14px;
+    padding: 12px;
     overflow: auto;
     display: flex;
     flex-direction: column;
-    gap: 14px;
+    gap: 12px;
     scrollbar-width: none;
     -ms-overflow-style: none;
   }
@@ -1018,22 +1018,34 @@ TEMPLATE = r"""<!doctype html>
     height: 100%;
     overflow: hidden;
   }
+  #tl-rail .cat-row { font-size: 0.74rem; padding: 2px 4px; gap: 6px; }
+  #tl-rail .cat-row .count { font-size: 0.66rem; }
+  #tl-rail .ghost-btn { font-size: 0.7rem; padding: 4px 8px; }
+  #tl-rail .rail-group { gap: 6px; }
+  #tl-rail h3 {
+    margin: 0;
+    font-size: 0.62rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--faint);
+    font-weight: 600;
+  }
   #tl-toolbar {
     display: flex;
     align-items: center;
-    gap: 12px;
-    padding: 12px 16px;
+    gap: 10px;
+    padding: 8px 12px;
     border-bottom: 1px solid var(--line-soft);
     flex-wrap: wrap;
   }
   #tl-toolbar input[type="text"] {
-    width: min(280px, 40vw);
+    width: min(240px, 36vw);
     background: var(--panel);
     border: 1px solid var(--line);
-    border-radius: 10px;
+    border-radius: 9px;
     color: var(--ink);
-    padding: 8px 12px;
-    font-size: 0.85rem;
+    padding: 6px 10px;
+    font-size: 0.78rem;
     outline: none;
   }
   #tl-toolbar input[type="text"]:focus { border-color: rgba(143,169,255,0.5); }
@@ -1043,8 +1055,8 @@ TEMPLATE = r"""<!doctype html>
     background: var(--panel);
     color: var(--muted);
     border-radius: 999px;
-    padding: 4px 10px;
-    font-size: 0.72rem;
+    padding: 3px 8px;
+    font-size: 0.66rem;
     letter-spacing: 0.04em;
     text-transform: uppercase;
     cursor: pointer;
@@ -1054,7 +1066,7 @@ TEMPLATE = r"""<!doctype html>
     border-color: rgba(143,169,255,0.55);
     background: rgba(143,169,255,0.12);
   }
-  #tl-coverage { margin-left: auto; color: var(--faint); font-size: 0.74rem; }
+  #tl-coverage { margin-left: auto; color: var(--faint); font-size: 0.68rem; }
   #tl-coverage b { color: var(--muted); font-weight: 600; }
   #tl-scroll {
     flex: 1;
@@ -1062,7 +1074,7 @@ TEMPLATE = r"""<!doctype html>
     min-height: 0;
     overflow-x: auto;
     overflow-y: hidden;
-    padding: 16px 18px 12px;
+    padding: 10px 12px 8px;
     cursor: grab;
     scrollbar-width: none;
     -ms-overflow-style: none;
@@ -1087,7 +1099,7 @@ TEMPLATE = r"""<!doctype html>
     content: '';
     position: absolute;
     left: 0; right: 0;
-    top: 54px;
+    top: 48px;
     height: 2px;
     background: linear-gradient(90deg, rgba(143,169,255,0.15), rgba(143,169,255,0.45), rgba(143,169,255,0.15));
     pointer-events: none;
@@ -1097,83 +1109,129 @@ TEMPLATE = r"""<!doctype html>
     display: flex;
     flex-direction: column;
     gap: 0;
-    width: 252px;
-    min-width: 252px;
-    max-width: 252px;
+    width: 234px;
+    min-width: 234px;
+    max-width: 234px;
     height: 100%;
     min-height: 0;
-    padding: 0 10px;
+    padding: 0 8px;
     border-right: 1px solid rgba(255,255,255,0.04);
-    flex: 0 0 252px;
+    flex: 0 0 234px;
   }
   .tl-era:last-child { border-right: none; }
   .tl-era-head {
     position: relative;
     flex: 0 0 auto;
     z-index: 3;
-    padding-top: 4px;
-    padding-bottom: 22px;
+    padding-top: 2px;
+    padding-bottom: 16px;
     background: linear-gradient(180deg, rgba(7,7,11,0.98) 70%, rgba(7,7,11,0));
   }
   .tl-era-head .tl-dot {
     position: absolute;
     left: 0;
-    top: 46px;
-    width: 12px; height: 12px;
+    top: 40px;
+    width: 10px; height: 10px;
     border-radius: 99px;
     background: var(--era, var(--accent));
     box-shadow: 0 0 0 3px rgba(10,11,16,0.9), 0 0 12px color-mix(in srgb, var(--era, #8fa9ff) 45%, transparent);
     z-index: 1;
   }
   .tl-era-label {
-    font-size: 0.72rem;
+    font-size: 0.66rem;
     letter-spacing: 0.14em;
     text-transform: uppercase;
     color: var(--era, var(--muted));
     font-weight: 600;
   }
   .tl-era-sub {
-    margin-top: 4px;
-    font-size: 0.78rem;
+    margin-top: 2px;
+    font-size: 0.7rem;
     color: var(--faint);
   }
   .tl-era-body {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 6px;
     flex: 1 1 auto;
     min-height: 0;
     overflow-x: hidden;
     overflow-y: auto;
-    padding: 4px 4px 16px 0;
+    padding: 22px 4px 16px 0;
     scrollbar-width: none;
     -ms-overflow-style: none;
     overscroll-behavior-y: contain;
     mask-image: linear-gradient(180deg, transparent 0, #000 12px, #000 calc(100% - 16px), transparent 100%);
     -webkit-mask-image: linear-gradient(180deg, transparent 0, #000 12px, #000 calc(100% - 16px), transparent 100%);
   }
+  .tl-era-list {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-left: 18px;
+  }
+  .tl-era-list::before {
+    content: '';
+    position: absolute;
+    left: 4.5px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--era, var(--accent));
+    pointer-events: none;
+  }
   .tl-era-body::-webkit-scrollbar { display: none; width: 0; height: 0; }
   .tl-card {
     width: 100%;
-    height: 84px;
-    min-height: 84px;
-    max-height: 84px;
-    flex: 0 0 84px;
+    height: 68px;
+    min-height: 68px;
+    max-height: 68px;
+    flex: 0 0 68px;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     border: 1px solid var(--line);
     background: color-mix(in srgb, var(--era, #8fa9ff) 6%, var(--panel));
-    border-radius: 12px;
-    padding: 12px;
+    border-radius: 10px;
+    padding: 8px 9px;
     cursor: pointer;
-    overflow: hidden;
+    overflow: visible;
+    position: relative;
     transition: border-color 0.15s ease, background 0.15s ease;
+  }
+  .tl-card::before {
+    content: '';
+    position: absolute;
+    left: -13.5px;
+    top: 50%;
+    width: 13.5px;
+    height: 1px;
+    background: var(--era, var(--accent));
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+  .tl-card::after {
+    content: '';
+    position: absolute;
+    left: -13px;
+    top: 50%;
+    width: 7px;
+    height: 7px;
+    border-radius: 99px;
+    background: var(--era, var(--accent));
+    box-shadow: 0 0 0 2px #0b0c12;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
   }
   .tl-card:hover {
     border-color: color-mix(in srgb, var(--era, #8fa9ff) 55%, transparent);
     background: color-mix(in srgb, var(--era, #8fa9ff) 12%, var(--panel));
+  }
+  .tl-card.on {
+    border-color: color-mix(in srgb, var(--era, #8fa9ff) 75%, white);
+    background: color-mix(in srgb, var(--era, #8fa9ff) 18%, var(--panel));
   }
   .tl-card-top {
     display: flex;
@@ -1184,7 +1242,7 @@ TEMPLATE = r"""<!doctype html>
   .tl-card-title {
     flex: 1;
     min-width: 0;
-    font-size: 0.88rem;
+    font-size: 0.78rem;
     color: var(--ink);
     line-height: 1.25;
     white-space: nowrap;
@@ -1199,8 +1257,8 @@ TEMPLATE = r"""<!doctype html>
     overflow: hidden;
   }
   .tl-card-meta .chip {
-    font-size: 0.65rem;
-    padding: 2px 7px;
+    font-size: 0.6rem;
+    padding: 1px 6px;
     max-width: 55%;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -1211,9 +1269,9 @@ TEMPLATE = r"""<!doctype html>
     padding: 8px 2px;
   }
   .tl-hint {
-    padding: 0 16px 12px;
+    padding: 0 12px 8px;
     color: var(--faint);
-    font-size: 0.72rem;
+    font-size: 0.66rem;
   }
 </style>
 </head>
@@ -1688,6 +1746,7 @@ function openEntry(id, opts = {}) {
   drawerScroll.innerHTML = html;
   drawerScroll.scrollTop = 0;
   drawer.classList.add('open');
+  syncTlSelection();
 
   if (!opts.skipGraphSelect) graphSelect(id, { center: false });
 }
@@ -1695,6 +1754,7 @@ function openEntry(id, opts = {}) {
 function closeDrawer() {
   drawer.classList.remove('open');
   currentEntryId = null;
+  syncTlSelection();
   graphSelect(null);
 }
 
@@ -2556,7 +2616,7 @@ function renderTimeline() {
   tlTrackEl.innerHTML = TL_ERAS.filter(e => tlEraOn.has(e.id)).map(e => {
     const list = byEra.get(e.id) || [];
     const cards = list.length
-      ? list.map(n =>
+      ? `<div class="tl-era-list">` + list.map(n =>
           `<div class="tl-card" data-open="${esc(n.id)}" style="--era:${TL_ERA_COLORS[e.id]}">` +
           `<div class="tl-card-top"><span class="dot" style="background:${catColor(n.category)}"></span>` +
           `<span class="tl-card-title" title="${esc(n.label)}">${esc(n.label)}</span></div>` +
@@ -2564,7 +2624,7 @@ function renderTimeline() {
           `<span class="chip cat" style="--c:${catColor(n.category)}">${esc(n.category)}</span>` +
           `<span class="chip">${esc(tlSpanOf(n))}</span>` +
           `</div></div>`
-        ).join('')
+        ).join('') + `</div>`
       : `<div class="tl-empty">No tagged entries</div>`;
     return `<div class="tl-era" style="--era:${TL_ERA_COLORS[e.id]}">` +
       `<div class="tl-era-head"><div class="tl-era-label">${esc(e.label)}</div>` +
@@ -2574,6 +2634,14 @@ function renderTimeline() {
   }).join('');
   tlCoverageEl.innerHTML =
     `<b>${visible.length}</b> shown · <b>${tagged.length}</b> tagged · <b>${nodes.length - tagged.length}</b> untagged`;
+  syncTlSelection();
+}
+
+function syncTlSelection() {
+  if (!tlTrackEl) return;
+  for (const el of tlTrackEl.querySelectorAll('.tl-card')) {
+    el.classList.toggle('on', !!currentEntryId && el.dataset.open === currentEntryId);
+  }
 }
 
 tlEraFiltersEl.addEventListener('change', (e) => {
@@ -2631,34 +2699,49 @@ tlScrollEl.addEventListener('pointerdown', (e) => {
     left: tlScrollEl.scrollLeft,
     top: body ? body.scrollTop : 0,
     body,
+    card: e.target.closest('.tl-card'),
     axis: null,
     moved: false,
   };
-  tlScrollEl.setPointerCapture(e.pointerId);
-  tlScrollEl.classList.add('dragging');
 });
 tlScrollEl.addEventListener('pointermove', (e) => {
   if (!tlDrag || e.pointerId !== tlDrag.pointerId) return;
-  const dx = e.clientX - tlDrag.x;
-  const dy = e.clientY - tlDrag.y;
-  if (!tlDrag.axis && (Math.abs(dx) > 4 || Math.abs(dy) > 4)) {
-    tlDrag.axis = (tlDrag.body && Math.abs(dy) > Math.abs(dx)) ? 'y' : 'x';
+  const rawDx = e.clientX - tlDrag.x;
+  const rawDy = e.clientY - tlDrag.y;
+  if (!tlDrag.axis && (Math.abs(rawDx) > 4 || Math.abs(rawDy) > 4)) {
+    tlDrag.axis = (tlDrag.body && Math.abs(rawDy) > Math.abs(rawDx)) ? 'y' : 'x';
     tlDrag.moved = true;
+    tlScrollEl.classList.add('dragging');
+    try { tlScrollEl.setPointerCapture(e.pointerId); } catch (err) {}
   }
+  if (!tlDrag.moved) return;
   if (tlDrag.axis === 'y' && tlDrag.body) {
-    tlDrag.body.scrollTop = tlDrag.top - dy;
+    tlDrag.body.scrollTop = tlDrag.top - rawDy;
   } else if (tlDrag.axis === 'x') {
-    tlScrollEl.scrollLeft = tlDrag.left - dx;
+    tlScrollEl.scrollLeft = tlDrag.left - rawDx;
   }
 });
-function endTlDrag(e) {
+function endTlDrag(e, cancelled) {
   if (!tlDrag || (e && e.pointerId !== tlDrag.pointerId)) return;
-  if (tlDrag.moved) tlSuppressClick = true;
+  const card = tlDrag.card;
+  const moved = tlDrag.moved;
   tlDrag = null;
   tlScrollEl.classList.remove('dragging');
+  if (moved || cancelled || !card || !card.dataset.open) {
+    if (moved) {
+      tlSuppressClick = true;
+      setTimeout(() => { tlSuppressClick = false; }, 0);
+    }
+    return;
+  }
+  tlSuppressClick = true;
+  setTimeout(() => { tlSuppressClick = false; }, 0);
+  openEntry(card.dataset.open);
 }
-tlScrollEl.addEventListener('pointerup', endTlDrag);
-tlScrollEl.addEventListener('pointercancel', endTlDrag);
+tlScrollEl.addEventListener('pointerup', (e) => endTlDrag(e, false));
+tlScrollEl.addEventListener('pointercancel', (e) => endTlDrag(e, true));
+window.addEventListener('pointerup', (e) => endTlDrag(e, false));
+window.addEventListener('pointercancel', (e) => endTlDrag(e, true));
 tlScrollEl.addEventListener('wheel', (e) => {
   // Wheel = vertical list scroll only. Horizontal pan is click-drag (and native deltaX).
   if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) return;
@@ -2896,6 +2979,14 @@ window.DiasMap = (function initWorldMap() {
     world: document.getElementById('map-layer-world')
   };
 
+  const BASE_W = 1200;
+  const BASE_H = 900;
+  const OPEN_SCALE = 0.92;
+  let mapW = BASE_W;
+  let mapH = BASE_H;
+  let paneW = BASE_W;
+  let paneH = BASE_H;
+  let fitted = false;
   let freqId = mapData.default_frequency || Object.keys(freqs)[0] || null;
   let view = { scale: 1, ox: 0, oy: 0 };
   let hoverHit = null;
@@ -2934,17 +3025,26 @@ window.DiasMap = (function initWorldMap() {
     return el ? el.checked : true;
   }
 
-  function worldToScreen(x, y, w, h) {
+  function mapOrigin() {
     return {
-      x: view.ox + (x / 100) * w * view.scale,
-      y: view.oy + (y / 100) * h * view.scale
+      x: (paneW - mapW) / 2,
+      y: (paneH - mapH) / 2
+    };
+  }
+
+  function worldToScreen(x, y, w, h) {
+    const o = mapOrigin();
+    return {
+      x: o.x + view.ox + (x / 100) * w * view.scale,
+      y: o.y + view.oy + (y / 100) * h * view.scale
     };
   }
 
   function screenToWorld(sx, sy, w, h) {
+    const o = mapOrigin();
     return {
-      x: ((sx - view.ox) / (w * view.scale)) * 100,
-      y: ((sy - view.oy) / (h * view.scale)) * 100
+      x: ((sx - o.x - view.ox) / (w * view.scale)) * 100,
+      y: ((sy - o.y - view.oy) / (h * view.scale)) * 100
     };
   }
 
@@ -3054,25 +3154,58 @@ window.DiasMap = (function initWorldMap() {
     ctx.fillRect(x - s, y + s - 1, s * 2, 1);
   }
 
+  function openingView() {
+    view.scale = OPEN_SCALE;
+    view.ox = (mapW - mapW * OPEN_SCALE) / 2;
+    view.oy = (mapH - mapH * OPEN_SCALE) / 2;
+  }
+
+  function syncPane() {
+    const pane = wrap.getBoundingClientRect();
+    if (pane.width < 80 || pane.height < 80) return false;
+    paneW = pane.width;
+    paneH = pane.height;
+    return true;
+  }
+
+  function fitOpeningSize() {
+    if (fitted) return;
+    if (!syncPane()) return;
+    const pad = 36;
+    const availW = Math.max(320, paneW - pad);
+    const availH = Math.max(240, paneH - pad);
+    const aspect = BASE_W / BASE_H;
+    let cssW = availW;
+    let cssH = cssW / aspect;
+    if (cssH > availH) {
+      cssH = availH;
+      cssW = cssH * aspect;
+    }
+    mapW = Math.round(cssW);
+    mapH = Math.round(cssH);
+    fitted = true;
+    openingView();
+  }
+
   function draw() {
     const freq = currentFreq();
-    const rect = wrap.getBoundingClientRect();
+    syncPane();
     const dpr = window.devicePixelRatio || 1;
-    const cssW = Math.max(320, rect.width);
-    const cssH = Math.max(280, rect.height);
-    canvas.width = Math.floor(cssW * dpr);
-    canvas.height = Math.floor(cssH * dpr);
-    canvas.style.width = cssW + 'px';
-    canvas.style.height = cssH + 'px';
+    const w = mapW;
+    const h = mapH;
+    canvas.width = Math.floor(paneW * dpr);
+    canvas.height = Math.floor(paneH * dpr);
+    canvas.style.width = paneW + 'px';
+    canvas.style.height = paneH + 'px';
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     ctx.imageSmoothingEnabled = false;
 
-    const w = cssW;
-    const h = cssH;
     hitList = [];
 
-    ctx.fillStyle = (freq && freq.water) || '#0c2438';
-    ctx.fillRect(0, 0, w, h);
+    const water = (freq && freq.water) || '#0c2438';
+    wrap.style.background = water;
+    ctx.fillStyle = water;
+    ctx.fillRect(0, 0, paneW, paneH);
 
     if (!freq) {
       noteEl.textContent = 'No map registry loaded.';
@@ -3132,8 +3265,7 @@ window.DiasMap = (function initWorldMap() {
   }
 
   function pick(sx, sy) {
-    const rect = wrap.getBoundingClientRect();
-    const w = rect.width, h = rect.height;
+    const w = mapW, h = mapH;
     let best = null, bestD = 1e9;
     // Prefer markers over region labels when both are near the cursor.
     const ordered = hitList.slice().sort((a, b) => {
@@ -3167,7 +3299,7 @@ window.DiasMap = (function initWorldMap() {
   }
 
   function resetView() {
-    view = { scale: 1, ox: 0, oy: 0 };
+    openingView();
     draw();
   }
 
@@ -3221,10 +3353,10 @@ window.DiasMap = (function initWorldMap() {
     const rect = canvas.getBoundingClientRect();
     const sx = e.clientX - rect.left;
     const sy = e.clientY - rect.top;
-    const before = screenToWorld(sx, sy, rect.width, rect.height);
+    const before = screenToWorld(sx, sy, mapW, mapH);
     const factor = e.deltaY < 0 ? 1.1 : 0.9;
     view.scale = Math.max(0.6, Math.min(4.5, view.scale * factor));
-    const after = worldToScreen(before.x, before.y, rect.width, rect.height);
+    const after = worldToScreen(before.x, before.y, mapW, mapH);
     view.ox += sx - after.x;
     view.oy += sy - after.y;
     draw();
@@ -3234,9 +3366,13 @@ window.DiasMap = (function initWorldMap() {
     if (activeTab === 'map') draw();
   });
 
+  openingView();
   draw();
   return {
-    resize() { draw(); },
+    resize() {
+      fitOpeningSize();
+      draw();
+    },
     redraw: draw,
     warnings: mapData.warnings || []
   };
