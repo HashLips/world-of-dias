@@ -3,6 +3,8 @@ category: culture
 name: Silent Dune Keep
 region: Lumira Sands
 related:
+  - Glasswake Rock
+  - Glasswake Lantern
   - Organizations of Dias
   - Authorities and Factions of Dias
   - Lumira Silence Law

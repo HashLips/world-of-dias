@@ -14,6 +14,8 @@ related:
   - Resonant Artifacts
   - Resonant Shards
   - Everything resonates echo principle
+  - Glasswake Lantern
+  - Glasswake Rock
 themes:
   - transfrequency
   - lost technology

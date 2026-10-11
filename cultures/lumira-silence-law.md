@@ -12,6 +12,9 @@ related:
   - The Map That Must Stay Wrong
   - Cultures Customs and Expectations of Dias
   - Wabet Silence-as-Speech
+  - Glasswake Rock
+  - Glasswake Lantern
+  - The Captain Who Reaches
 themes:
   - silence as survival
   - water ethics

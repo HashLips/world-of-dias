@@ -20,6 +20,12 @@ related:
   - Place Safety Classes of Dias
   - Seasons and Regional Weather of Dias
   - Lumira Listening Heat
+  - Glasswake Rock
+  - Glasswake Lantern
+  - Glasswake Pulse
+  - The Captain Who Reaches
+  - Disappearance of the Glasswake
+  - Lantern in the Stone
 themes:
   - desert calm
   - hidden water
@@ -47,7 +53,7 @@ Its domain covers the lower portion of Wabet, anchoring the south beneath Verdan
 
 The guiding law of Lumira Sands is: "The land provides for those who respect its silence."
 
-Named pressure points now include **Quiet Well** (a protected oasis that public maps keep wrong on purpose) and **Saltwhisper Road** (the restricted dune route under Keep assent). Culture detail lives in **Lumira Silence Law**; apprentice craft often runs through **Keth Dunewalk** under Iskar Lüm.
+Named pressure points now include **Quiet Well** (a protected oasis that public maps keep wrong on purpose), **Saltwhisper Road** (the restricted dune route under Keep assent), and **Glasswake Rock** on the southern coastal edge (the fused **Glasswake Lantern**, locally the Lantern in the Stone). Culture detail lives in **Lumira Silence Law**; apprentice craft often runs through **Keth Dunewalk** under Iskar Lüm.
 
 ### Leadership Structure
 
@@ -57,7 +63,7 @@ Named pressure points now include **Quiet Well** (a protected oasis that public 
 
 ## Stories or Depictions
 
-*The Map That Must Stay Wrong* is the desert’s standing warning-myth. Route and oasis landmarks are Quiet Well and Saltwhisper Road.
+*The Map That Must Stay Wrong* is the desert’s standing warning-myth. Route and oasis landmarks are Quiet Well and Saltwhisper Road. Coastal scar landmark: Glasswake Rock and the Lantern in the Stone folklore (*The Captain Who Reaches*).
 
 ## Notes
 

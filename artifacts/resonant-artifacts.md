@@ -18,6 +18,7 @@ related:
   - Harmonic Echo-Rise
   - Echoforms
   - The Still Pot
+  - Glasswake Lantern
 themes:
   - retained echo
   - historical weight

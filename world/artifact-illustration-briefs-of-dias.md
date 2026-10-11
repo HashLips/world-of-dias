@@ -14,6 +14,7 @@ related:
   - The Stillwood Skiff
   - The Brindle Crawler
   - Ring-Pass Wafer
+  - Glasswake Lantern
 themes:
   - illustration
   - artifacts
@@ -60,6 +61,7 @@ Peoples/dress/architecture: [Visual Culture Briefs of Dias](visual-culture-brief
 | **Brindle Crawler** | Slow real train | Soot metal/wood | Depot scale | Timetable; real depot arrival |
 | **Banana Draft** | Market barge | River wood | Cargo barge | Fruit distribution by water |
 | **Hipspoon** | Split-spoon ground courier | Odd self-propelled craft | Cart-ish | Steered courier—not myth rail |
+| **Glasswake Lantern** | Paraffin-style ship lamp in dark rock | Weathered brass/copper, thick glass, ribs, verdigris, salt crust | Lantern-scale fused to coastal boulder | Stone through housing; GLASSWAKE engraving; dormant more often than lit |
 
 ---
 

@@ -23,6 +23,7 @@ related:
   - Major Relics and Artifacts of Dias
   - Artifact Illustration Briefs of Dias
   - Domestic Tools and Instruments of Dias
+  - Glasswake Lantern
 themes:
   - artifacts
   - objects
@@ -83,7 +84,7 @@ Class umbrella: [`Resonant Artifacts`](../artifacts/resonant-artifacts.md). Ever
 
 ### True relic / ledger class (existing)
 
-Prime Relics, Resonant Shards, Prime Bridge, Golden Tear Vials, Exile Mask, census/ledger fragments, Witness-Line Panel, Delci Passage Logbook—see Resonant Artifacts class page.
+Prime Relics, Resonant Shards, Prime Bridge, Glasswake Lantern, Golden Tear Vials, Exile Mask, census/ledger fragments, Witness-Line Panel, Delci Passage Logbook—see Resonant Artifacts class page.
 
 ### Documents / evidence (Section 34)
 

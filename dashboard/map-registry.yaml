@@ -191,6 +191,10 @@ frequencies:
         x: 24
         y: 72
         kind: place
+      - entry: Glasswake Rock
+        x: 20
+        y: 78
+        kind: landmark
       - entry: Hallow Bay
         x: 40
         y: 56

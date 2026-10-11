@@ -15,6 +15,7 @@ related:
   - Golden Tear Vials
   - Exile Mask of Carrow Vale
   - Softfruit Ladle
+  - Glasswake Lantern
 themes:
   - relics
   - major artifacts
@@ -58,6 +59,7 @@ Umbrella: [Resonant Artifacts](../artifacts/resonant-artifacts.md).
 | **Forced-Final Clamp** | Erases undo mid-repair | Who first built the pattern | Open Hand enmity; taboo-adjacent |
 | **Thin-Room Ear** | Listens too well | Sport vs House seizure | Thin rooms; third naming |
 | **Well-Beacon Shard** | Advertises water | “Safety” excuses | Silence Law wound |
+| **Glasswake Lantern** | Prime Age ship lamp fused into coastal rock at Glasswake Rock; rare pale pulse | Heading alignment to lost *Glasswake*; captain-figure tales | Vessel fate unsolved; not a wish or ferry |
 
 Everyday joy anchors (ladle, ribbon, chalk) are **not** Prime Relics—file everyday unless a saga explicitly elevates one.
 
