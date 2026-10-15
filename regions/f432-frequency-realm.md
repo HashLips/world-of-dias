@@ -7,6 +7,7 @@ parent_region: Dias
 region: Dias
 culture:
 related:
+  - Frequency Contact and Discovery Progression of Dias
   - Dias
   - F200 (frequency realm)
   - F500 (frequency realm)
@@ -123,6 +124,10 @@ F432 is one of the known frequency realms within Dias.
 
 ## Description
 
+F432 is a diverse **high-contact hub**, not a public portal network. Its seven major peoples have established communities; this does not assign them all cross-frequency origins. Genuine exceptional visitors include **F200 Aurel-kind** and **F960 Draftkin**. **Vorrith Kael** arrived from another frequency condition through Nauw before settling in Wabet; his home-band and the explanation of his arrival remain disputed. Contact is uneven: a host may know a visitor personally while a distant community knows only stories.
+
+Meeting a visitor establishes contact, not a reproducible crossing method, a mapped home realm, or a reliable return. Present inter-regional roads and trade routes stay within F432. See [Frequency Contact and Discovery Progression of Dias](../world/frequency-contact-and-discovery-progression-of-dias.md).
+
 Like all frequencies, it represents a layer of reality defined by its unique resonance. The landscapes and inhabitants of F432 appear relatively stable compared to some other recorded frequencies, allowing settlements, travel routes, and trade networks to develop across its regions. Many different forms of life can be found here, including humans, animals, and other beings whose origins may lie in distant parts of Dias.
 
 While F432 is well explored compared to many other frequencies, **its everyday institutions only partly understand** how it sits beside other bands. **F200**, **F500**, and **F960** are now accompanied in records by quieter background bands (**F120**, **F380**, **F610**, **F840**) mostly via supplemental ledgers and story circulation. In all cases, neighboring frequencies are treated as partial intelligence and narrative context rather than stable policy terrain.
@@ -183,7 +188,7 @@ F432’s fundamental difference is **material-like stability that still resonate
 | Life | High-contact peoples, animals, markets, Houses, Softfruit |
 | Contrast | Not F200’s pure held light; not F500’s anti-scenery; not F960’s perpetual draft; not F120’s near-return as default road law |
 
-Other bands arrive here as omen, bleed, ledger leaf, and story—rarely as commute.
+Other bands are encountered through exceptional visitors as well as omen, bleed, ledger leaf, and story. Cross-frequency public transport is not currently available.
 
 ## Notes
 

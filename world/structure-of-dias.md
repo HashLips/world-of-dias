@@ -2,6 +2,7 @@
 category: world
 name: Structure of Dias
 related:
+  - Frequency Contact and Discovery Progression of Dias
   - Dias
   - Cosmology of Dias
   - Frequency as fundamental law
@@ -128,9 +129,13 @@ Internal icons (not separate realms): **Aurel Meridian** (F200 spine), **Returni
 
 ### Travel rarity (between realms)
 
+F432's high-contact character includes genuine Aurel-kind and Draftkin visitors, not only weather and rumor. Vorrith Kael's other-realm arrival is real but not general public knowledge. The channel table describes uneven awareness, not a denial of these encounters. Orrin's later reproducible graphs establish a method of measurement rather than the first existence of other realms.
+
 - **Inside F432:** ordinary—carts, ferries, bridges, desert silence routes, exile roads.
 - **Between frequencies:** exceptional. Not a subway. When passage is claimed, cultures reach for omen, sealed craft, accident, or lie.
 - Soft limit: realm character holds; bleed can bruise a sky without relocating a city into another band.
+
+This is the present transport baseline. [Frequency Contact and Discovery Progression of Dias](frequency-contact-and-discovery-progression-of-dias.md) separates existing encounters, Calibration measurement, and possible later crossings without adding historical eras or choosing a mechanism.
 
 ### Structural anomalies (features, not dump lore)
 

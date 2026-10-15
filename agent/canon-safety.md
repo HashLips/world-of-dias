@@ -16,7 +16,7 @@ These stay open or constrained unless the human gives a deliberate plan:
 | Topic | Rule of thumb |
 | --- | --- |
 | **Frequency Zero** | Clues and pressure only—do not close or explain it away |
-| **Band ferries / subways** | Understanding a band ≠ a ticket there. Keep No-Ferry ethics; no safe ferry between bands |
+| **Band ferries / subways** | Understanding a band ≠ a ticket there. Keep No-Ferry ethics; no present public ferry. Exceptional visitors are real contact, not proof of transit infrastructure. Do not invent unearned passage solutions; later controlled crossings need a deliberate discovery path |
 | **Frederick Lumens–class crossings** | Do not invent easy passage solutions |
 | **Distant Companies / Horizon-Nulls / Unraveled** | Do not promote to confirmed taxonomy without a plan |
 | **Caliburn haunt signs** | Do not spam new slit variants; thicken carefully |

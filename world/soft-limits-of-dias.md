@@ -19,6 +19,7 @@ related:
   - Complete-Reading Stall Collapse
   - Inter-Frequency Interaction of Dias
   - Exceptional crossing is not infrastructure
+  - Frequency Contact and Discovery Progression of Dias
   - Known Unknowns of Dias
 themes:
   - soft limits
@@ -58,7 +59,7 @@ Indexes alone are not enough; the table points into living rules, myths, and sym
 | Limit (plain) | What it blocks | Where to read |
 | --- | --- | --- |
 | Partial echoes only | Total knowledge on demand | Resonance behavior soft limits; Complete-Reading Stall Collapse; Reading echoes is craft |
-| No ferry / no subway between bands | Casual band-hopping as transit | No-Ferry Mark; Ferry Ticket to Nowhere; No-Ferry Disclaimer Custom |
+| No ferry / no subway between bands | Casual band-hopping as transit | No-Ferry Mark; Ferry Ticket to Nowhere; No-Ferry Disclaimer Custom; Frequency Contact and Discovery Progression of Dias |
 | No local repeal | Convenience mute of resonance | Local-Repeal Attempt Chill; Everything resonates echo principle |
 | No Forced-Final as virtue | Declaring “done” to erase unfinished care | Forced-Final Clamp; The Clamp That Called Itself Mercy; F840 recovery continuity rule |
 | Anti-stare / timed truth | Endless reveal windows | F610 Anti-Stare Manners; The Window That Would Not Blink |
@@ -71,9 +72,11 @@ Indexes alone are not enough; the table points into living rules, myths, and sym
 ## How to use this sheet
 
 - Saga writers: cite these limits; do not invent subway exceptions without a deliberate path.
-- Enrichment batches: new tech and travel must fail mythically inside these bounds.
+- Enrichment batches: present tech cannot acquire an unearned crossing capability. Later stories may establish new capabilities through a deliberate discovery path; see [Frequency Contact and Discovery Progression of Dias](frequency-contact-and-discovery-progression-of-dias.md).
 - Readers: wanting a door is allowed; selling a door is comedy or danger.
 
 ## Notes
+
+No-Ferry distinguishes present capability and honest publishing from promises. It preserves genuine exceptional contact and does not decree that future controlled crossings or journeys are physically impossible. Resonance laws, costs, and realm differences still apply.
 
 Companion to Stage Readiness. Does not replace cosmology; does not answer Zero.

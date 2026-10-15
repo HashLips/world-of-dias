@@ -2,6 +2,7 @@
 category: world
 name: The Calibration Saga
 related:
+  - Frequency Contact and Discovery Progression of Dias
   - Dias
   - Orrin Veld
   - The Caliburn
@@ -45,6 +46,10 @@ The Calibration Saga follows **Orrin Veld** from Calibration Row craft and Softf
 It does not replace **The Harmonic Saga** or **The Lumen Saga**. It teaches frequency as **method** beside gift and hunger.
 
 ## Core Premise
+
+**Discovery scope:** Orrin establishes reproducible measurements of band signatures from F432, not the initial existence of other realms or their inhabitants. Aurel-kind and Draftkin encounters already belong to the lived world. Knowing a guest, hearing testimony, classifying a signal, reproducing a measurement, and controlling a crossing are different achievements. His graphs advance the fourth; the Spectrum Frame is not a crossing device.
+
+**Relative chronology:** Frederick's remembered consultation remains before the saga's measurement and publish work, within Frederick's research years. Existing saga events and overlaps remain in place. A later story that derives controlled passage from this research must explicitly occur after the experimentation and partial publish, with its additional breakthrough established on-page. Neither that possibility nor Orrin's work resolves Frederick's fate. See [Frequency Contact and Discovery Progression of Dias](frequency-contact-and-discovery-progression-of-dias.md).
 
 **If you can finally graph the stack, what were you inviting by looking that carefully?**
 

@@ -8,6 +8,7 @@ related:
   - Cross-Frequency Travel
   - Cross-Frequency Omenspeak
   - Exceptional crossing is not infrastructure
+  - Frequency Contact and Discovery Progression of Dias
   - No-Ferry Mark
   - Distant lumen-abyss bleed
   - Bleed-Sky Weather
@@ -46,6 +47,8 @@ time_span: ongoing
 
 ### What interaction can look like (without ferry)
 
+**Contact is not universally hypothetical.** F200 Aurel-kind and F960 Draftkin can visit F432; Vorrith Kael's exceptional arrival precedes his life in Wabet. Their existence is distinct from public understanding of their home conditions or how passage occurs. A city host, a remote resident, and a sealed researcher need not possess the same knowledge. The categories below describe channels of interaction, not grounds for downgrading every visitor to rumor.
+
 1. **Bleed / wrong-sky weather** — another band’s pressure visits a place as event weather (Bleed-Sky Weather; Distant lumen-abyss bleed)
 2. **Residual measurement** — instruments and Houses file partial harmonics; catalogs stay incomplete (F432 partial knowledge protocol)
 3. **Metaphor and omen speech** — Frequency Speech Metaphors; Cross-Frequency Omenspeak
@@ -74,5 +77,7 @@ time_span: ongoing
 Cross-Frequency Travel is the lived culture sheet. Exceptional crossing is not infrastructure is the binding rule. Soft Limits of Dias and No-Ferry Mark carry the refusal. Bleed Weather Manners of Dias keep visiting weather from becoming country.
 
 ## Notes
+
+The absence of ordinary transport describes the present capability baseline. For later, conditional development without selecting a crossing mechanism, see [Frequency Contact and Discovery Progression of Dias](frequency-contact-and-discovery-progression-of-dias.md).
 
 Does not invent a subway. Does not solve why crossings sometimes happen—only that they are not ordinary logistics.

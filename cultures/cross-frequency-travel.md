@@ -15,6 +15,7 @@ related:
   - Distant lumen-abyss bleed
   - Inter-Frequency Interaction of Dias
   - Exceptional crossing is not infrastructure
+  - Frequency Contact and Discovery Progression of Dias
   - Cross-Frequency Manners
   - No-Ferry Mark
 themes:
@@ -31,7 +32,7 @@ time_span: ongoing
 
 ## Overview
 
-**Cross-Frequency Travel** is rare, disputed, and omenized—not a subway between bands. F432 lives mostly at home; other frequencies arrive as metaphor, sealed testimony, bleed weather, and exceptional passages.
+**Cross-Frequency Travel** is exceptional movement between realms, surrounded by uneven knowledge and omenized accounts. Genuine visitors coexist with disputed travel claims. Most F432 residents never leave their home band, even where they share tables with people from elsewhere; cross-frequency public transport is not currently available.
 
 ## Beliefs and Values
 
@@ -67,6 +68,10 @@ Translate band travel talk into local plain speech for children; refuse dare cul
 Punish expeditions sold as grocery tours; House cold-speech that refuses to warn about real absence weather.
 
 ## Lore
+
+Aurel-kind and Draftkin visits are real contact, not merely metaphors. Vorrith Kael's arrival is established while his origin label and crossing explanation remain unresolved. Hospitality need not wait for a transport theory: ask a guest's name before demanding a route home. Nor does a guest's testimony automatically become independently reproducible measurement.
+
+These are present practices. Later stories may develop controlled crossings and journeys after the Calibration experimentation period, as described in [Frequency Contact and Discovery Progression of Dias](../world/frequency-contact-and-discovery-progression-of-dias.md); they do not supply an earlier traveler with those capabilities.
 
 Structure-of-Dias travel rarity stands: most people never leave F432’s lived geography, and that is not a failure of wonder.
 

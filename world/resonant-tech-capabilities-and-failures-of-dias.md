@@ -4,6 +4,7 @@ name: Resonant Tech Capabilities and Failures of Dias
 related:
   - Resonance Can and Cannot of Dias
   - Soft Limits of Dias
+  - Frequency Contact and Discovery Progression of Dias
   - Everyday Resonant Tech
   - Restricted and Taboo Tech
   - Unsettled Listening Devices
@@ -61,7 +62,7 @@ Doctrine hub: [Resonance Can and Cannot of Dias](resonance-can-and-cannot-of-dia
 | Claim | Reality |
 | --- | --- |
 | Grant wishes | Ladle/tool refuses; feat fails |
-| Safe band ferry | No-Ferry ethics; understanding ≠ ticket |
+| Safe band ferry | No demonstrated present public service; No-Ferry ethics; understanding ≠ ticket |
 | Complete reading | Partial craft; stall collapse if forced |
 | Destroy echoes casually | Seal/filter/refuse—destruction disputed and costly |
 | Civilian core terminal | Operator floors stay sealed |
@@ -96,6 +97,8 @@ Listening edge: [Unsettled Listening Devices](../cultures/unsettled-listening-de
 | Taboo | Social freeze | Thin rooms; well violence |
 
 ## Global Lore
+
+The ferry row is a present capability limit, not a timeless impossibility theorem. Other rows retain their own law, practice, or access scope. Controlled crossing experiments and eventual journeys remain possible subjects for later stories, requiring additional discoveries after Calibration; multi-realm knowledge or materials in a device do not establish a passenger route. See [Frequency Contact and Discovery Progression of Dias](frequency-contact-and-discovery-progression-of-dias.md).
 
 Soft Limits of Dias. Technology of Dias. Object classes: Object and Artifact Classes of Dias.
 

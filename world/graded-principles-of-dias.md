@@ -28,9 +28,11 @@ related:
   - Resonance does not grant wishes
   - Resonance feats have costs
   - Exceptional crossing is not infrastructure
+  - Frequency Contact and Discovery Progression of Dias
   - Inter-Frequency Interaction of Dias
   - Prime and Fracture Knowledge of Dias
   - Known Unknowns of Dias
+  - No-Ferry Mark
 themes:
   - index
   - claim grades
@@ -71,7 +73,7 @@ Readers should be able to sort: what must be treated as world behavior, what rem
 | Environments are frequency weather | Environments are frequency weather |
 | Resonance does not grant wishes | Resonance does not grant wishes |
 | Resonant feats always carry costs | Resonance feats have costs |
-| Exceptional band-crossing is not infrastructure | Exceptional crossing is not infrastructure |
+| Honest publishing: do not sell undemonstrated band transit as ordinary logistics | No-Ferry Mark; Exceptional crossing is not infrastructure |
 | Fracture separation is historical fact; cause unsettled | The Fracture; Prime and Fracture Knowledge of Dias |
 
 ### Theory-grade (useful, revisable)
@@ -83,6 +85,7 @@ Readers should be able to sort: what must be treated as world behavior, what rem
 | Governance of echo-reading | Stance wars (Echo interpretation stances) |
 | Relation of F500 pressure to Frequency Zero | Contested; do not promote to law |
 | How many races / bands remain unindexed | Open discovery |
+| Present absence of public cross-frequency infrastructure | Historically situated capability baseline, not an eternal physics ban; see Frequency Contact and Discovery Progression of Dias; Exceptional crossing is not infrastructure |
 
 ### Observation-grade (seen/reported; cause not closed)
 
