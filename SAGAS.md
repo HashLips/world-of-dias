@@ -63,6 +63,17 @@ Fifth long narrative journey. Follows **Lark Venn** and **Dain Mercer** from a l
 
 ---
 
+### The Island Saga
+
+Sixth long narrative journey. A Saltjaw surveyor, **Ansel Kestry**, is lost off the Sorel shelf and writes his wife **Maren** a letter from a shore that refuses to be found. The letter travels to a Wabet letter house, the roads paint it into a door, and the Houses classify it. A brief, costly clash ends with the island withdrawing. Maren keeps the original.
+
+- Path: [`ISLAND-SAGA-PATH.md`](ISLAND-SAGA-PATH.md)
+- Spine: [`world/the-island-saga.md`](world/the-island-saga.md)
+
+**Complete** (30 chapters). Where Aumere went, why the current counts, Ansel's home band, and who answered at Low Bell Cove stay open. Frequency Zero, band ferries, and Frederick Lumens's crossing stay untouched.
+
+---
+
 ## Adding a saga
 
 When a new saga journey is ready:

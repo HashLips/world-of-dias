@@ -513,6 +513,72 @@ frequencies:
         x: 29.2
         y: 41.3
         kind: inhabitant
+      # --- Island saga ---
+      # Aumere is deliberately not pinned; The Stillmouth pin is approximate open sea.
+      - entry: Saltjaw
+        x: 73.5
+        y: 79.5
+        kind: place
+      - entry: Saltjaw Mine
+        x: 74.5
+        y: 79.0
+        kind: landmark
+      - entry: Saltjaw Shelf Survey Line
+        x: 71.0
+        y: 84.0
+        kind: landmark
+      - entry: The Stillmouth
+        x: 60.0
+        y: 90.0
+        kind: landmark
+      - entry: Sallow Strand
+        x: 33.0
+        y: 78.5
+        kind: place
+      - entry: The Letter House of Sallow Strand
+        x: 33.3
+        y: 78.0
+        kind: place
+      - entry: Low Bell Cove
+        x: 24.0
+        y: 76.5
+        kind: landmark
+      - entry: Maren Kestry
+        x: 32.7
+        y: 78.2
+        kind: inhabitant
+      - entry: Odile Brask
+        x: 33.6
+        y: 78.3
+        kind: inhabitant
+      - entry: Wick Hollen
+        x: 25.0
+        y: 76.8
+        kind: inhabitant
+      - entry: Bastien Crale
+        x: 74.0
+        y: 78.6
+        kind: inhabitant
+      - entry: Tamsy Kell
+        x: 73.0
+        y: 79.2
+        kind: inhabitant
+      - entry: Brann Oake
+        x: 73.2
+        y: 80.0
+        kind: inhabitant
+      - entry: Severin Ault
+        x: 58.4
+        y: 24.6
+        kind: inhabitant
+      - entry: A Shift in Sorel
+        x: 74.2
+        y: 80.2
+        kind: story
+      - entry: The Answering Signal
+        x: 23.6
+        y: 77.0
+        kind: story
 
   f500:
     label: F500
