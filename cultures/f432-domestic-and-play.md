@@ -10,6 +10,8 @@ related:
   - Languages of Dias
   - Animals of Dias
   - F432 Mourning and Celebration
+  - Valhop rules
+  - Valhop Board
 themes:
   - domestic life
   - greetings
@@ -93,3 +95,5 @@ Using bedtime fears as Null recruitment; turning share games into theft practice
 ## Notes
 
 Hub: [`Daily Life of Dias`](../world/daily-life-of-dias.md).
+
+See also: grown-ups and children alike play **Valhop** (*the Hare*), a gentle two-player street game on a folding board, in Nauw, Wabet, and Sorel. See [`Valhop rules`](../rules/valhop-rules.md) and [`Valhop Board`](../artifacts/valhop-board.md).

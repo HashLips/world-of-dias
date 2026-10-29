@@ -59,6 +59,7 @@ related:
   - Place Webs of Dias
   - Place Safety Classes of Dias
   - Atlas Map Levels of Dias
+  - Mirel Fairproof
 themes:
   - capital
   - concentric city
@@ -111,6 +112,8 @@ A lived week: market morning, baths midday, table supper, Sky Drifter watch at d
 Walkable atlas: [`Veloria Walkable Atlas of Dias`](../world/veloria-walkable-atlas-of-dias.md). Settlement plate: [`Veloria Ring Walk Sketch`](../artifacts/veloria-ring-walk-sketch.md). Ring glance: [`Rings of Veloria Primer`](../world/rings-of-veloria-primer.md).
 
 Full building dialect: [`Nauw Layered Civic Architecture`](../cultures/nauw-layered-civic-architecture.md). Uncanny corner: [`The Sketchy Gallery`](the-sketchy-gallery.md).
+
+Outer-ring craft: the standard Valhop Board is cut and printed by [`Mirel Fairproof`](../inhabitants/mirel-fairproof.md) in a guild-door workshop behind the outer-market sheds, near Softfruit Table Hall.
 
 ## Lore
 

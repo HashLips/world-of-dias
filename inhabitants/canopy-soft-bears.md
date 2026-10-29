@@ -16,6 +16,8 @@ related:
   - Aelwyn Softfall Canopy Habitat
   - Ecosystems and Habitats of Dias
   - Field Guide Pattern of Dias
+  - Valhop Board
+  - Valhop rules
 themes:
   - forest gentleness
   - arboreal life
@@ -61,3 +63,5 @@ Habitat: Aelwyn Softfall Canopy Habitat.
 Embodies Wabet's gentler wilderness—magnificent without menace. Classed as **wonder** in [Creatures of Dias](../world/creatures-of-dias.md).
 
 ## Notes
+
+Valhop: the small walking bear over the Valhop Board's 20x block, the smallest block, is read as a Soft-Bear. Its saying is "leave it a fruit." See [`Valhop rules`](../rules/valhop-rules.md).

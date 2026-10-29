@@ -8,6 +8,8 @@ related:
   - Softfruit Second-Ladle Shelf
   - Softfruit Ladle
   - Sera Quillmend
+  - Valhop rules
+  - Table Hall Valhop Benchers
 themes:
   - hospitality
   - fairness
@@ -37,6 +39,12 @@ Hands stay busy. A token returned to a hook. A ladle rinsed with mint. A childâ€
 ## Beliefs About Them
 
 Children think the Host owns joy, which the Hosts encourage only until the child is old enough to see the rotation. Houses think the Host wastes time that could have been a seal. Streets know the Host prevents worse seals: the stamp that lands before anyone has been fed, the line that becomes a hierarchy with fruit on it. Pride, Softfruit says, is the only poverty worth mocking, and the Host is allowed to mock it lightly and in public.
+
+## Valhop and the Ladle
+
+When a **Valhop** game ends near the court, the loser's custom of pouring the first bowl meets the Host's queue (see [`Valhop rules`](../rules/valhop-rules.md)). The Host keeps the two apart without fuss. The loser pours from their own turn in the line, never by stepping ahead of it. A win at Valhop is not a claim on the second-ladle shelf. Anyone who waves a Valhop win around like a token of extra hunger gets the same light public mockery as someone flashing second helpings. Boards are never unfolded on the shelf itself, because the shelf is for food and fairness, not for a game.
+
+Off duty, Hosts play like anyone else, usually at the back benches of Softfruit Table Hall. They are known for losing with spectacular grace and asking "Bowl?" before anyone else can, a habit they picked up from Sorel visitors. A Host who lands a bear twenty is expected to give the first fruit away anyway. On the court, generosity still outranks the score.
 
 ## Narrative Role
 

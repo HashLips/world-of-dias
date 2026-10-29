@@ -11,6 +11,8 @@ related:
   - Creatures of Dias
   - Veloria Lap-Cats
   - Pennants That Learned Flight
+  - Valhop Board
+  - Valhop rules
 themes:
   - festival fauna
   - daylight spectacle
@@ -45,3 +47,5 @@ Veloria’s cheerful wonder: proof F432 can be loud with color without needing a
 Useful for scenes of Veloria's public joy and for showing that F432 wonder can be cheerful and ordinary at once. Classed as **wonder** in [Creatures of Dias](../world/creatures-of-dias.md).
 
 ## Notes
+
+Valhop: the moth on the Valhop Board's 3x block is read as a Banner Moth. A real one landing on a board is lifted off with a soft brush, and the throw is taken again. See [`Valhop rules`](../rules/valhop-rules.md).

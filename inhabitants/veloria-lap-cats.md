@@ -9,6 +9,8 @@ related:
   - Ringroad Dogs
   - Market Grin-Pigs
   - Animals of Dias
+  - Valhop Board
+  - Valhop rules
 themes:
   - beloved pet
   - companion
@@ -39,3 +41,4 @@ Gives Veloria children a normal animal love life that still feels local.
 
 ## Notes
 
+Valhop: the cat on the Valhop Board's 5x block is read as a Lap-Cat. A Lap-Cat asleep on a real board pauses the game until it leaves. See [`Valhop rules`](../rules/valhop-rules.md).

@@ -12,6 +12,8 @@ related:
   - Driftfall
   - Carrow Vale
   - Vexra Coil
+  - Valhop rules
+  - Kiln Yard Valhop Players
 themes:
   - unaligned gossip
   - rumor contagion
@@ -59,6 +61,12 @@ They are not treated as criminals in most places. They are treated as **weather*
 Some say they are independent persons. Others claim they are a social curse formed wherever exile shame and frontier boredom meet.
 
 A common Sorel saying: **"Lock your door if you must—but close your ears if they sit down nearby."**
+
+## Valhop
+
+The Three Opinions do not play **Valhop**. The game has two sides and they are three, and the one time they tried, they spent a whole afternoon deciding which of them was Team Sun. A game near them is a different matter. The street [`Valhop rules`](../rules/valhop-rules.md) say that when two players cannot agree whether a die is more than 80% inside a block, the thrower throws again. With the trio sitting close by, every close call gets three verdicts. Brask Kel says it is plainly out. Miren Holt repeats that everyone could see it was out. Tav Renn remembers the die landing in a different block altogether. Players start doubting their own eyes, the rethrows pile up, and a ten-minute game can stall until the kettle goes cold.
+
+Kiln Yard Valhop Players in Sorel have a habit for this: when the trio sits down, players finish the round they are in, fold the board once across the gap, and go back to watching the kiln. Nobody makes a scene. They are weather, after all. The common saying gets a Valhop variant: **"Fold your board if you must—but close your ears if they sit down nearby."** Lineborn players add, with some exasperation, that three Lineborn sighting one die edge from three angles is not judging. It is a committee.
 
 ## Narrative Role
 

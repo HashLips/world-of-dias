@@ -14,6 +14,8 @@ related:
   - Field Guide Pattern of Dias
   - Redmile Striders
   - Frequency and Life of Dias
+  - Valhop Board
+  - Valhop rules
 themes:
   - ordinary fauna
   - roadside life
@@ -53,3 +55,4 @@ They give Nauw's busy trade world a gentle, everyday animal presence that feels 
 
 ## Notes
 
+Valhop: the street game Valhop is nicknamed *the Hare*. Its hatched hare block takes away your number but hands you the swap pebble, a nod to the hare that yields the road. See [`Valhop rules`](../rules/valhop-rules.md).

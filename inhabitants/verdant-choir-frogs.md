@@ -11,6 +11,8 @@ related:
   - Creatures of Dias
   - Choir-Frog Reed
   - Wabet Softfall
+  - Valhop Board
+  - Valhop rules
 themes:
   - chorus ecology
   - joy
@@ -45,3 +47,5 @@ Wabet evening made audible: land that rehearses itself. Travellers who learn to 
 Happy sonic texture for Verdant Reach scenes and Wabet's living calm. Classed as **wonder** in [Creatures of Dias](../world/creatures-of-dias.md).
 
 ## Notes
+
+Valhop: the seated frog on the Valhop Board's 2x block is commonly read as a choir-frog, and Wabet's quiet Valhop games stop when the choir hushes. See [`Valhop rules`](../rules/valhop-rules.md).

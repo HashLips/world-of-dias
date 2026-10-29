@@ -8,6 +8,7 @@ related:
   - Sorel
   - Animals of Dias
   - Hearthvale Doorstep-Hens
+  - Kiln Yard Valhop Players
 themes:
   - hearth companions
   - domestic warmth
@@ -38,3 +39,4 @@ Humanizes Sorel's hard reputation with domestic animal love.
 
 ## Notes
 
+Valhop: at Kiln Laughter Yard, Ember-Cats claim the warm stones where Valhop boards are laid, and players move the board, not the cat. See [`Kiln Yard Valhop Players`](kiln-yard-valhop-players.md).
